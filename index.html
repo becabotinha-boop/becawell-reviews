@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>BecaWell Reviews</title>
   <meta name="description" content="BecaWell product reviews and disclosures." />
+  <meta name="theme-color" content="#c0392b" />
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJE69FHJCQ"></script>
   <script>
@@ -13,35 +15,317 @@
     gtag('js', new Date());
     gtag('config', 'G-KJE69FHJCQ');
   </script>
+
   <style>
-    :root { --accent: #e74c3c; --ink: #222; --muted: #5b5b5b; --bg: #fff; }
-    body { font-family: Georgia, serif; color: var(--ink); background: var(--bg); max-width: 780px; margin: 0 auto; padding: 24px; line-height: 1.7; }
-    h1 { margin: 0 0 6px; color: #c0392b; font-size: 2.1em; }
-    p { margin: 10px 0; }
-    .sub { color: var(--muted); margin-top: 0; }
-    .list { margin: 18px 0 0; padding: 0; list-style: none; }
-    .list li { margin: 10px 0; }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .card { background: #fdf3f3; border-left: 4px solid var(--accent); padding: 14px 16px; margin: 18px 0; }
-    .small { font-size: 0.92em; color: var(--muted); }
+    :root {
+      --accent: #c0392b;
+      --accent-2: #a93226;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --bg: #ffffff;
+      --panel: #fff7f7;
+      --card: #ffffff;
+      --border: #e5e7eb;
+      --shadow: 0 10px 30px rgba(17, 24, 39, 0.08);
+      --good: #27ae60;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 400px at 10% -10%, rgba(192, 57, 43, 0.12), transparent 55%),
+        radial-gradient(900px 350px at 90% 0%, rgba(39, 174, 96, 0.10), transparent 50%),
+        var(--bg);
+      line-height: 1.6;
+    }
+
+    .skip-link {
+      position: absolute;
+      left: -9999px;
+      top: 10px;
+      background: #000;
+      color: #fff;
+      padding: 10px 12px;
+      border-radius: 10px;
+      z-index: 9999;
+      text-decoration: none;
+    }
+    .skip-link:focus { left: 12px; }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 22px 18px 36px;
+    }
+
+    header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 18px 18px;
+      background: linear-gradient(135deg, rgba(192, 57, 43, 0.14), transparent 55%);
+      border: 1px solid rgba(192, 57, 43, 0.18);
+      border-radius: 18px;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: clamp(1.35rem, 2.4vw, 2rem);
+      color: var(--accent);
+      letter-spacing: 0.2px;
+    }
+    .brand p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    nav a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+    }
+    nav a:hover { text-decoration: underline; }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.3fr 0.7fr;
+      gap: 14px;
+      margin-top: 16px;
+    }
+
+    @media (max-width: 760px) {
+      .hero { grid-template-columns: 1fr; }
+      header { flex-direction: column; }
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 16px 16px;
+      box-shadow: 0 2px 12px rgba(17, 24, 39, 0.04);
+    }
+
+    .panel h2 {
+      margin: 0 0 10px;
+      font-size: 1.05rem;
+      color: var(--ink);
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .badge {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 8px 10px;
+      font-size: 0.92rem;
+      color: var(--ink);
+      white-space: nowrap;
+    }
+
+    .disclaimer {
+      margin-top: 14px;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 12px 14px;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .disclaimer strong { color: var(--ink); }
+
+    .grid-title {
+      margin: 22px 2px 10px;
+      font-size: 1.1rem;
+      color: var(--ink);
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    @media (max-width: 980px) {
+      .cards { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 620px) {
+      .cards { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 16px 16px;
+      box-shadow: 0 2px 12px rgba(17, 24, 39, 0.04);
+      transition: transform 180ms ease, box-shadow 180ms ease;
+      display: flex;
+      flex-direction: column;
+      min-height: 190px;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow);
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 1.05rem;
+      color: var(--ink);
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      height: 26px;
+      padding: 0 10px;
+      border-radius: 999px;
+      background: rgba(39, 174, 96, 0.12);
+      border: 1px solid rgba(39, 174, 96, 0.26);
+      color: #1f7a3c;
+      font-weight: 800;
+      font-size: 0.85rem;
+      width: fit-content;
+    }
+
+    .summary {
+      color: var(--muted);
+      margin: 10px 0 0;
+      font-size: 0.95rem;
+    }
+
+    .actions {
+      margin-top: auto;
+      padding-top: 14px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      border-radius: 14px;
+      padding: 12px 12px;
+      text-decoration: none;
+      font-weight: 800;
+      border: 1px solid transparent;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn-primary:hover { background: var(--accent-2); }
+
+    footer {
+      margin-top: 24px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    footer a { color: var(--accent); text-decoration: none; font-weight: 800; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .card { transition: none; }
+      .card:hover { transform: none; box-shadow: 0 2px 12px rgba(17, 24, 39, 0.04); }
+    }
   </style>
 </head>
+
 <body>
-  <h1>BecaWell Reviews</h1>
-  <p class="sub">Independent reviews. Affiliate disclosure included on pages.</p>
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <div class="card">
-    <strong>Reviews</strong>
-    <ul class="list">
-      <li><a href="./resurge.html">Resurge Review (2026)</a></li>
-      <li><a href="./teaburn.html">TeaBurn Review (2026)</a></li>
-      <li><a href="./citrusburn.html">CitrusBurn Review (2026)</a></li>
-    </ul>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <h1>BecaWell Reviews</h1>
+        <p>Independent reviews. Affiliate disclosure included on pages.</p>
+      </div>
+      <nav aria-label="Primary">
+        <a href="./privacy-policy.html">Privacy policy</a>
+      </nav>
+    </header>
+
+    <main id="main" class="hero">
+      <section class="panel" aria-labelledby="featured">
+        <h2 id="featured">Featured Review Picks</h2>
+        <div>
+          <p style="margin:0; color: var(--muted);">
+            Start here for quick links to each full review page.
+          </p>
+          <div class="badges" role="list" aria-label="Site highlights">
+            <div class="badge" role="listitem">Straightforward summaries</div>
+            <div class="badge" role="listitem">Affiliate disclosure included</div>
+            <div class="badge" role="listitem">Mobile-friendly layout</div>
+          </div>
+        </div>
+        <div class="disclaimer">
+          <strong>Affiliate disclosure:</strong> This site includes affiliate links. We may earn a commission at no extra cost to you.
+        </div>
+      </section>
+
+      <aside class="panel">
+        <h2>Quick navigation</h2>
+        <p style="margin:0; color: var(--muted); font-size: 0.95rem;">
+          Choose the review you want, then read the full page for the details.
+        </p>
+      </aside>
+    </main>
+
+    <div class="grid-title">Reviews</div>
+
+    <section class="cards" aria-label="Review links">
+      <article class="card">
+        <h3>Resurge Review (2026)</h3>
+        <div class="pill">Sleep Weight</div>
+        <p class="summary">Targets the sleep/weight connection with a deep-sleep focused approach.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="./resurge.html">Read Resurge →</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <h3>TeaBurn Review (2026)</h3>
+        <div class="pill">Morning Energy</div>
+        <p class="summary">A tea-focused approach aimed at supporting metabolism and daily energy.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="./teaburn.html">Read TeaBurn →</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <h3>CitrusBurn Review (2026)</h3>
+        <div class="pill">Metabolic Support</div>
+        <p class="summary">A citrus-focused supplement review centered on metabolic function.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="./citrusburn.html">Read CitrusBurn →</a>
+        </div>
+      </article>
+    </section>
+
+    <footer>
+      <div>
+        <a href="./privacy-policy.html">Privacy policy</a>
+      </div>
+      <div style="margin-top: 6px;">© 2026 BecaWell Reviews</div>
+    </footer>
   </div>
-
-  <p class="small">
-    <a href="./privacy-policy.html">Privacy policy</a>
-  </p>
 </body>
 </html>
