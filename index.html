@@ -3,9 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BecaWell Reviews</title>
-  <meta name="description" content="BecaWell product reviews and disclosures." />
+  <title>BecaWell Reviews | Independent Supplement Reviews</title>
+  <meta name="description" content="Independent reviews of popular health & wellness supplements. Quick summaries for Resurge, TeaBurn, and CitrusBurn + affiliate disclosure." />
+  <link rel="canonical" href="https://becabotinha-boop.github.io/becawell-reviews/" />
   <meta name="theme-color" content="#c0392b" />
+
+  <meta property="og:title" content="BecaWell Reviews | Independent Supplement Reviews" />
+  <meta property="og:description" content="Quick, research-informed supplement review summaries with affiliate disclosure." />
+  <meta property="og:url" content="https://becabotinha-boop.github.io/becawell-reviews/" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJE69FHJCQ"></script>
@@ -14,6 +21,57 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-KJE69FHJCQ');
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "BecaWell Reviews",
+        "url": "https://becabotinha-boop.github.io/becawell-reviews/"
+      },
+      {
+        "@type": "ItemList",
+        "name": "BecaWell Reviews - Featured Review Picks",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Resurge Review (2026)", "url": "https://becabotinha-boop.github.io/becawell-reviews/resurge.html" },
+          { "@type": "ListItem", "position": 2, "name": "TeaBurn Review (2026)", "url": "https://becabotinha-boop.github.io/becawell-reviews/teaburn.html" },
+          { "@type": "ListItem", "position": 3, "name": "CitrusBurn Review (2026)", "url": "https://becabotinha-boop.github.io/becawell-reviews/citrusburn.html" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are these supplement reviews independent?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "These pages provide independent-style summaries and include affiliate disclosures when relevant. The goal is transparency and clarity before you decide."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you summarize guarantee or refund details?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Where the information is available on the offer side, the review pages summarize typical guarantee/refund details so readers know what to expect."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is this medical advice?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. This site is not medical advice. If you are considering a supplement routine, talk to a qualified healthcare professional first."
+            }
+          }
+        ]
+      }
+    ]
+  }
   </script>
 
   <style>
@@ -232,6 +290,40 @@
     }
     .btn-primary:hover { background: var(--accent-2); }
 
+    .faq {
+      margin-top: 22px;
+      padding: 18px 16px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: #fff;
+    }
+
+    .faq h2 {
+      margin: 0 0 10px;
+      font-size: 1.1rem;
+      color: var(--ink);
+    }
+
+    .faq details {
+      border-top: 1px solid #eef2f7;
+      padding: 14px 0;
+    }
+    .faq details:first-of-type { border-top: none; }
+
+    .faq summary {
+      cursor: pointer;
+      font-weight: 900;
+      color: #111827;
+      outline: none;
+    }
+
+    .faq p {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 0.96rem;
+      line-height: 1.6;
+    }
+
     footer {
       margin-top: 24px;
       text-align: center;
@@ -268,7 +360,7 @@
         <h2 id="featured">Featured Review Picks</h2>
         <div>
           <p style="margin:0; color: var(--muted);">
-            Start here for quick links to each full review page.
+            If you are searching for independent supplement reviews, you are in the right place. Choose the product that matches your goal (sleep/weight, morning energy, or metabolic support) and read the full page for a quick, disclosure-first summary.
           </p>
           <div class="badges" role="list" aria-label="Site highlights">
             <div class="badge" role="listitem">Straightforward summaries</div>
@@ -295,7 +387,7 @@
       <article class="card">
         <h3>Resurge Review (2026)</h3>
         <div class="pill">Sleep Weight</div>
-        <p class="summary">Targets the sleep/weight connection with a deep-sleep focused approach.</p>
+        <p class="summary">A sleep-focused review discussing ingredients, what to expect, and common guarantee details.</p>
         <div class="actions">
           <a class="btn btn-primary" href="./resurge.html">Read Resurge →</a>
         </div>
@@ -304,7 +396,7 @@
       <article class="card">
         <h3>TeaBurn Review (2026)</h3>
         <div class="pill">Morning Energy</div>
-        <p class="summary">A tea-focused approach aimed at supporting metabolism and daily energy.</p>
+        <p class="summary">A tea-focused review explaining ingredient focus, routine fit, and where it is typically sold.</p>
         <div class="actions">
           <a class="btn btn-primary" href="./teaburn.html">Read TeaBurn →</a>
         </div>
@@ -313,11 +405,30 @@
       <article class="card">
         <h3>CitrusBurn Review (2026)</h3>
         <div class="pill">Metabolic Support</div>
-        <p class="summary">A citrus-focused supplement review centered on metabolic function.</p>
+        <p class="summary">A metabolic-support review centered on ingredient discussion and guarantee/refund information (when provided).</p>
         <div class="actions">
           <a class="btn btn-primary" href="./citrusburn.html">Read CitrusBurn →</a>
         </div>
       </article>
+    </section>
+
+    <section class="faq" aria-label="Frequently Asked Questions">
+      <h2>Frequently Asked Questions</h2>
+
+      <details>
+        <summary>Are these supplement reviews independent?</summary>
+        <p>These pages provide independent-style summaries and include affiliate disclosures when relevant. The goal is transparency and clarity before you decide.</p>
+      </details>
+
+      <details>
+        <summary>Do you summarize guarantee or refund details?</summary>
+        <p>Where the information is available on the offer side, the review pages summarize typical guarantee/refund details so readers know what to expect.</p>
+      </details>
+
+      <details>
+        <summary>Is this medical advice?</summary>
+        <p>No. This site is not medical advice. If you are considering a supplement routine, talk to a qualified healthcare professional first.</p>
+      </details>
     </section>
 
     <footer>
