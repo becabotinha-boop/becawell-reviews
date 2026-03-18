@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://becabotinha-boop.github.io/becawell-reviews/sitemap.xml
