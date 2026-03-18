@@ -272,6 +272,58 @@
       padding-top: 14px;
     }
 
+    .goal-picker {
+      margin-top: 14px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .goal-row {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media (max-width: 760px) {
+      .goal-row { grid-template-columns: 1fr; }
+    }
+
+    .goal-btn {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: #fff;
+      border-radius: 14px;
+      padding: 10px 12px;
+      font-weight: 900;
+      color: var(--ink);
+      cursor: pointer;
+      transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    .goal-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(17, 24, 39, 0.06);
+    }
+
+    .goal-btn[aria-pressed="true"] {
+      border-color: rgba(192, 57, 43, 0.55);
+      box-shadow: 0 10px 30px rgba(192, 57, 43, 0.12);
+      outline: 3px solid rgba(192, 57, 43, 0.12);
+    }
+
+    .goal-note {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    .card--active {
+      border-color: rgba(192, 57, 43, 0.65);
+      box-shadow: var(--shadow);
+      transform: translateY(-6px);
+    }
+
     .btn {
       display: inline-flex;
       align-items: center;
@@ -337,6 +389,7 @@
     @media (prefers-reduced-motion: reduce) {
       .card { transition: none; }
       .card:hover { transform: none; box-shadow: 0 2px 12px rgba(17, 24, 39, 0.04); }
+      .card--active { transform: none; }
     }
   </style>
 </head>
@@ -378,13 +431,30 @@
         <p style="margin:0; color: var(--muted); font-size: 0.95rem;">
           Choose the review you want, then read the full page for the details.
         </p>
+
+        <div class="goal-picker" role="group" aria-label="Choose your goal">
+          <div class="goal-row">
+            <button type="button" class="goal-btn" data-goal="sleep" aria-pressed="false">
+              Sleep / Weight
+            </button>
+            <button type="button" class="goal-btn" data-goal="energy" aria-pressed="false">
+              Morning Energy
+            </button>
+            <button type="button" class="goal-btn" data-goal="metabolic" aria-pressed="false">
+              Metabolic Support
+            </button>
+          </div>
+          <div class="goal-note" id="goalNote">
+            Pick a goal to highlight the matching review.
+          </div>
+        </div>
       </aside>
     </main>
 
     <div class="grid-title">Reviews</div>
 
     <section class="cards" aria-label="Review links">
-      <article class="card">
+      <article class="card" data-goal="sleep" id="card-sleep">
         <h3>Resurge Review (2026)</h3>
         <div class="pill">Sleep Weight</div>
         <p class="summary">A sleep-focused review discussing ingredients, what to expect, and common guarantee details.</p>
@@ -393,7 +463,7 @@
         </div>
       </article>
 
-      <article class="card">
+      <article class="card" data-goal="energy" id="card-energy">
         <h3>TeaBurn Review (2026)</h3>
         <div class="pill">Morning Energy</div>
         <p class="summary">A tea-focused review explaining ingredient focus, routine fit, and where it is typically sold.</p>
@@ -402,7 +472,7 @@
         </div>
       </article>
 
-      <article class="card">
+      <article class="card" data-goal="metabolic" id="card-metabolic">
         <h3>CitrusBurn Review (2026)</h3>
         <div class="pill">Metabolic Support</div>
         <p class="summary">A metabolic-support review centered on ingredient discussion and guarantee/refund information (when provided).</p>
@@ -438,5 +508,116 @@
       <div style="margin-top: 6px;">© 2026 BecaWell Reviews</div>
     </footer>
   </div>
+
+  <script>
+    (function () {
+      var goalButtons = Array.prototype.slice.call(document.querySelectorAll('.goal-btn'));
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.card[data-goal]'));
+      var goalNote = document.getElementById('goalNote');
+
+      if (!goalButtons.length || !cards.length || !goalNote) return;
+
+      var goalFromUrl = (function () {
+        try {
+          var params = new URLSearchParams(window.location.search);
+          return (params.get('goal') || '').toLowerCase();
+        } catch (e) {
+          return '';
+        }
+      })();
+
+      var goalFromStorage = '';
+      try {
+        goalFromStorage = (localStorage.getItem('becawell_goal') || '').toLowerCase();
+      } catch (e2) {}
+
+      function normalizeGoal(v) {
+        if (v === 'sleep' || v === 'weight') return 'sleep';
+        if (v === 'energy' || v === 'morning') return 'energy';
+        if (v === 'metabolic' || v === 'metabolism' || v === 'metabolic-support') return 'metabolic';
+        return '';
+      }
+
+      function highlightGoal(goal) {
+        var normalized = normalizeGoal(goal);
+        if (!normalized) return;
+
+        // Update button state
+        goalButtons.forEach(function (btn) {
+          var isActive = btn.getAttribute('data-goal') === normalized;
+          btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
+
+        // Remove previous highlights
+        cards.forEach(function (c) { c.classList.remove('card--active'); });
+
+        var selected = cards.filter(function (c) {
+          return c.getAttribute('data-goal') === normalized;
+        })[0];
+
+        if (!selected) return;
+
+        selected.classList.add('card--active');
+
+        // Reorder cards so the selected one is first (unique, personalized feel)
+        var container = selected.parentElement;
+        if (container && container.classList && container.classList.contains('cards')) {
+          container.prepend(selected);
+        }
+
+        // Microcopy update
+        var copy = {
+          sleep: 'Sleep / weight focus selected. Scroll stays the same—your card is highlighted.',
+          energy: 'Morning energy focus selected. We highlighted the most relevant review.',
+          metabolic: 'Metabolic support focus selected. We highlighted the most relevant review.'
+        };
+        goalNote.textContent = copy[normalized] || 'Pick a goal to highlight the matching review.';
+
+        // Smooth scroll (respect reduced motion)
+        try {
+          var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          selected.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'center' });
+        } catch (e3) {}
+
+        // Optional GA event (only if gtag exists)
+        try {
+          if (typeof gtag === 'function') {
+            gtag('event', 'goal_select', { event_category: 'landing', event_label: normalized });
+          }
+        } catch (e4) {}
+
+        // Persist for next visit
+        try { localStorage.setItem('becawell_goal', normalized); } catch (e5) {}
+      }
+
+      // Bind interactions
+      goalButtons.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          highlightGoal(btn.getAttribute('data-goal') || '');
+        });
+      });
+
+      // Initial personalized selection
+      var initialApplied = false;
+      var initial = normalizeGoal(goalFromUrl) || normalizeGoal(goalFromStorage);
+      if (initial) {
+        highlightGoal(initial);
+        initialApplied = true;
+      }
+
+      // Daily "unique" twist: add a tiny rotating message (no impact on SEO)
+      if (!initialApplied) try {
+        var now = new Date();
+        var dayKey = (now.getFullYear() * 10000) + ((now.getMonth() + 1) * 100) + now.getDate();
+        var variants = [
+          'Disclosure-first summaries. Choose a review and decide with clarity.',
+          'Fast links + transparent disclosures—built for busy readers.',
+          'Intent-based picks. Read the full review before you buy.'
+        ];
+        var idx = dayKey % variants.length;
+        goalNote.textContent = variants[idx];
+      } catch (e6) {}
+    })();
+  </script>
 </body>
 </html>
