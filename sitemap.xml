@@ -1,29 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
-  <!-- Weight Loss Reviews -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/citrusburn-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/alpilean-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/teaburn-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <!-- Sleep + Weight -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/resurge-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <!-- Blood Sugar -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/glucotrust-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <!-- Keto Diet -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/custom-keto-diet-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <!-- SEO long-tail articles -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/best-weight-loss-supplement-women-over-35.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/why-cant-i-lose-weight-women.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/citrusburn-vs-teaburn.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <!-- Legal -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/privacy-policy.html</loc><priority>0.3</priority></url>
-  <!-- High-traffic long-tail articles (new) -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/does-alpilean-work.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/how-to-lower-blood-sugar-naturally.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/keto-diet-beginners-guide.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <!-- New pages 2026-03-18 batch 2 -->
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/javaburn-review.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/alpilean-vs-citrusburn.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/best-supplements-women-over-40.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/alpilean-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/alpilean-vs-citrusburn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/alpilean.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/best-supplements-women-over-40.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/best-weight-loss-supplement-women-over-35.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/citrusburn-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/citrusburn-vs-teaburn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/citrusburn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/custom-keto-diet-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/does-alpilean-work.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/glucocare/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/glucocare/prediabetes-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/glucotrust-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/glucotrust.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/how-to-lower-blood-sugar-naturally.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/javaburn-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/keto-diet-beginners-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/ketolift/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/privacy-policy.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/resurge-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/resurge.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/sleeplab/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/sleeplab/sleep-weight-connection.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/teaburn-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/teaburn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://becabotinha-boop.github.io/becawell-reviews/why-cant-i-lose-weight-women.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
-
