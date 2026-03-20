@@ -282,5 +282,117 @@
   <p class="footer-bottom">© 2026 BecaWell Reviews. All rights reserved. Photos: <a href="https://pexels.com" style="color:rgba(255,255,255,.4)">Pexels</a></p>
 </footer>
 
+
+<!-- CONVERSION UPGRADES: exit-intent + sticky bar — injected by inject_conversion_upgrades.py -->
+<style>
+/* ── EXIT INTENT OVERLAY ─────────────────────────────────────── */
+#cw-exit-overlay{display:none;opacity:0;position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:9999;align-items:center;justify-content:center;padding:20px;transition:opacity .3s;pointer-events:none}
+#cw-exit-overlay.active{display:flex;pointer-events:auto}
+#cw-exit-overlay.visible{opacity:1}
+.cw-exit-box{background:#fff;border-radius:20px;padding:36px 32px;max-width:460px;width:100%;text-align:center;position:relative;transform:translateY(20px);transition:transform .3s}
+#cw-exit-overlay.visible .cw-exit-box{transform:translateY(0)}
+.cw-exit-close{position:absolute;top:14px;right:18px;font-size:1.4rem;cursor:pointer;color:#999;line-height:1}
+.cw-exit-badge{display:inline-block;background:#f0faf5;color:#2d6a4f;font-size:.72rem;font-weight:700;padding:4px 12px;border-radius:20px;margin-bottom:14px;text-transform:uppercase;letter-spacing:.5px}
+.cw-exit-box h3{font-size:1.4rem;font-weight:900;margin-bottom:10px;line-height:1.25;color:#1d1d1f}
+.cw-exit-box p{color:#6e6e73;font-size:.9rem;margin-bottom:22px;line-height:1.5}
+.cw-exit-optin{display:flex;flex-direction:column;gap:10px;max-width:340px;margin:0 auto}
+.cw-exit-optin input[type=email]{padding:12px 18px;border:2px solid #e0e0e0;border-radius:50px;font-size:.95rem;outline:none;width:100%;transition:border .2s}
+.cw-exit-optin input[type=email]:focus{border-color:#2d6a4f}
+.cw-exit-btn{background:#2d6a4f;color:#fff;font-weight:800;font-size:.95rem;padding:13px 28px;border-radius:50px;border:none;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.cw-exit-btn:hover{transform:translateY(-1px);box-shadow:0 6px 20px rgba(0,0,0,.2)}
+.cw-exit-skip{font-size:.78rem;color:#999;cursor:pointer;text-decoration:underline;margin-top:6px}
+.cw-exit-direct{font-size:.82rem;margin-top:12px}
+.cw-exit-direct a{color:#2d6a4f;font-weight:600}
+
+/* ── STICKY BOTTOM BAR ───────────────────────────────────────── */
+#cw-sticky{position:fixed;bottom:0;left:0;right:0;background:#2d6a4f;color:#fff;padding:12px 20px;z-index:9998;display:flex;align-items:center;justify-content:space-between;gap:12px;transform:translateY(100%);transition:transform .4s;box-shadow:0 -4px 20px rgba(0,0,0,.2)}
+#cw-sticky.show{transform:translateY(0)}
+.cw-sticky-text{font-size:.88rem;font-weight:600;flex:1}
+.cw-sticky-text span{display:block;font-size:.75rem;opacity:.85;font-weight:400}
+.cw-sticky-cta{background:#fff;color:#2d6a4f;font-weight:800;font-size:.82rem;padding:8px 18px;border-radius:50px;white-space:nowrap;text-decoration:none;flex-shrink:0}
+.cw-sticky-cta:hover{text-decoration:none;opacity:.92}
+.cw-sticky-close{cursor:pointer;opacity:.7;font-size:1.1rem;flex-shrink:0}
+
+/* ── BRIDGE BACK LINK ────────────────────────────────────────── */
+.cw-bridge-back{background:#f5f5f7;border-radius:12px;padding:14px 18px;margin:24px 0;display:flex;align-items:center;gap:12px;font-size:.88rem}
+.cw-bridge-back-icon{font-size:1.3rem;flex-shrink:0}
+.cw-bridge-back a{color:#2d6a4f;font-weight:700}
+</style>
+
+<!-- EXIT INTENT OVERLAY -->
+<div id="cw-exit-overlay">
+  <div class="cw-exit-box">
+    <span class="cw-exit-close" onclick="cwCloseExit()">✕</span>
+    <div class="cw-exit-badge">Free Resource</div>
+    <h3>Still not sure? Get the free guide first</h3>
+    <p>The 3-Day Metabolism Reset explains exactly why this works and who it's for.</p>
+    <form class="cw-exit-optin" action="https://formspree.io/f/REPLACE_ME" method="POST" id="cw-exit-form">
+      <input type="hidden" name="niche" value="weight_loss">
+      <input type="hidden" name="source" value="exit_intent_smoothdiet">
+      <input type="hidden" name="_next" value="https://becabotinha-boop.github.io/becawell-reviews/weight-loss-bridge.html">
+      <input type="email" name="email" placeholder="Your best email address" required>
+      <button type="submit" class="cw-exit-btn">Send Me the Free Guide →</button>
+    </form>
+    <p class="cw-exit-direct"><a href="https://becabotinha-boop.github.io/becawell-reviews/weight-loss-bridge.html">Or read the free guide without signing up →</a></p>
+    <p class="cw-exit-skip" onclick="cwCloseExit()">No thanks, I'll pass on the free guide</p>
+  </div>
+</div>
+
+<!-- STICKY BOTTOM BAR -->
+<div id="cw-sticky">
+  <div class="cw-sticky-text">
+    📋 Free: 3-Day Metabolism Reset Guide
+    <span>Free — takes 2 minutes to read</span>
+  </div>
+  <a href="https://becabotinha-boop.github.io/becawell-reviews/weight-loss-bridge.html" class="cw-sticky-cta">Get Free Guide</a>
+  <span class="cw-sticky-close" onclick="document.getElementById('cw-sticky').remove()">✕</span>
+</div>
+
+<script>
+(function(){
+  /* EXIT INTENT */
+  var _shown = sessionStorage.getItem('cw_exit_smoothdiet');
+  function cwShowExit(){
+    if(_shown) return;
+    _shown = '1';
+    sessionStorage.setItem('cw_exit_smoothdiet','1');
+    var o = document.getElementById('cw-exit-overlay');
+    o.classList.add('active');
+    setTimeout(function(){ o.classList.add('visible'); }, 20);
+  }
+  window.cwCloseExit = function(){
+    var o = document.getElementById('cw-exit-overlay');
+    o.classList.remove('visible');
+    setTimeout(function(){ o.classList.remove('active'); }, 300);
+  };
+  // Desktop: mouse leaves viewport top
+  document.addEventListener('mouseleave', function(e){ if(e.clientY < 5) cwShowExit(); });
+  // Mobile: back button / visibility change after 45s
+  var _timer = setTimeout(function(){ cwShowExit(); }, 45000);
+  document.addEventListener('visibilitychange', function(){
+    if(document.visibilityState === 'hidden'){ clearTimeout(_timer); cwShowExit(); }
+  });
+  // ESC key closes
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') window.cwCloseExit(); });
+
+  /* EXIT FORM — redirect client-side immediately */
+  var ef = document.getElementById('cw-exit-form');
+  if(ef) ef.addEventListener('submit', function(){
+    setTimeout(function(){ window.location.href = 'https://becabotinha-boop.github.io/becawell-reviews/weight-loss-bridge.html'; }, 600);
+  });
+
+  /* STICKY BAR — show after 30% scroll */
+  var _sbar = document.getElementById('cw-sticky');
+  var _sbarShown = false;
+  window.addEventListener('scroll', function(){
+    if(_sbar && !_sbarShown && window.scrollY > document.body.scrollHeight * 0.30){
+      _sbarShown = true;
+      _sbar.classList.add('show');
+    }
+  });
+})();
+</script>
+<!-- END CONVERSION UPGRADES -->
+
 </body>
 </html>
