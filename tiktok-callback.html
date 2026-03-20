@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TikTok Authorization — BecaWell</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; background: #0f0f0f; color: #fff; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+    .card { background: #1a1a1a; border-radius: 12px; padding: 40px; max-width: 480px; width: 90%; text-align: center; }
+    h2 { color: #69c9d0; margin: 0 0 16px; }
+    .code-box { background: #0f0f0f; border: 1px solid #333; border-radius: 8px; padding: 16px; font-family: monospace; font-size: 13px; word-break: break-all; margin: 20px 0; color: #f0f0f0; }
+    .copy-btn { background: #69c9d0; color: #000; border: none; border-radius: 8px; padding: 12px 24px; font-size: 14px; font-weight: 600; cursor: pointer; }
+    .copy-btn:hover { background: #5bb8bf; }
+    .status { margin-top: 12px; font-size: 13px; color: #888; }
+    .error { color: #ff6b6b; }
+    .success { color: #69c9d0; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div id="content"></div>
+  </div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const code  = params.get('code');
+    const err   = params.get('error');
+    const errDesc = params.get('error_description');
+    const el    = document.getElementById('content');
+
+    if (code) {
+      el.innerHTML = `
+        <h2>✓ Authorization Successful</h2>
+        <p style="color:#aaa;font-size:14px;">Copy this code and paste it into your terminal:</p>
+        <div class="code-box" id="code-display">${code}</div>
+        <button class="copy-btn" onclick="copyCode()">Copy Code</button>
+        <p class="status" id="copy-status">Then press Enter in your terminal to complete authorization.</p>
+      `;
+    } else if (err) {
+      el.innerHTML = `
+        <h2 class="error">✗ Authorization Failed</h2>
+        <p style="color:#aaa;">${errDesc || err}</p>
+        <p style="color:#666;font-size:13px;">Close this tab and try again.</p>
+      `;
+    } else {
+      el.innerHTML = `
+        <h2 style="color:#888;">Waiting...</h2>
+        <p style="color:#666;font-size:13px;">This page is used for TikTok OAuth callbacks.</p>
+      `;
+    }
+
+    function copyCode() {
+      const code = document.getElementById('code-display').innerText;
+      navigator.clipboard.writeText(code).then(() => {
+        document.getElementById('copy-status').innerHTML = '<span class="success">✓ Copied to clipboard!</span>';
+      });
+    }
+  </script>
+</body>
+</html>
