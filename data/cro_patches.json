@@ -1,0 +1,557 @@
+{
+  "patches": [
+    {
+      "product_id": "ae_1005006332093484",
+      "slug": "ae-1005006332093484",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005007341990710",
+      "slug": "ae-1005007341990710",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005006926453576",
+      "slug": "ae-1005006926453576",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005007527811142",
+      "slug": "ae-1005007527811142",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_anniversary_sale_2025",
+      "slug": "ae-anniversary-sale-2025",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005009762835151",
+      "slug": "ae-1005009762835151",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005007156281263",
+      "slug": "ae-1005007156281263",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005007484673961",
+      "slug": "ae-1005007484673961",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005007573820052",
+      "slug": "ae-1005007573820052",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005007568176613",
+      "slug": "ae-1005007568176613",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005006930863642",
+      "slug": "ae-1005006930863642",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005006479918994",
+      "slug": "ae-1005006479918994",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005007273995598",
+      "slug": "ae-1005007273995598",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "hair_curler_auto",
+      "slug": "hair-curler-auto",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "wireless_earbuds",
+      "slug": "wireless-earbuds",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "facial_cleansing_brush",
+      "slug": "facial-cleansing-brush",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "adjustable_dumbbells",
+      "slug": "adjustable-dumbbells",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "jump_rope_pro",
+      "slug": "jump-rope-pro",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "car_phone_mount",
+      "slug": "car-phone-mount",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "vegetable_chopper",
+      "slug": "vegetable-chopper",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "packing_cubes",
+      "slug": "packing-cubes",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "phone_tripod",
+      "slug": "phone-tripod",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "dog_training_collar",
+      "slug": "dog-training-collar",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "blue_light_glasses",
+      "slug": "blue-light-glasses",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "soccer_training_cones",
+      "slug": "soccer-training-cones",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "resistance_bands",
+      "slug": "resistance-bands",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "auto_pet_feeder",
+      "slug": "auto-pet-feeder",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "closet_organizer",
+      "slug": "closet-organizer",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "led_face_mask",
+      "slug": "led-face-mask",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "portable_car_vacuum",
+      "slug": "portable-car-vacuum",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "air_fryer",
+      "slug": "air-fryer",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "travel_backpack",
+      "slug": "travel-backpack",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ring_light",
+      "slug": "ring-light",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "under_sink_organizer",
+      "slug": "under-sink-organizer",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "agility_ladder",
+      "slug": "agility-ladder",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "storage_box_system",
+      "slug": "storage-box-system",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "standing_desk_converter",
+      "slug": "standing-desk-converter",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005006995789811",
+      "slug": "ae-1005006995789811",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005008334857246",
+      "slug": "ae-1005008334857246",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005007205112799",
+      "slug": "ae-1005007205112799",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005005928117831",
+      "slug": "ae-1005005928117831",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005005856471552",
+      "slug": "ae-1005005856471552",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008987706323",
+      "slug": "ae-1005008987706323",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005009014580579",
+      "slug": "ae-1005009014580579",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005006736492092",
+      "slug": "ae-1005006736492092",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005009195449913",
+      "slug": "ae-1005009195449913",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005007316134477",
+      "slug": "ae-1005007316134477",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005008438225768",
+      "slug": "ae-1005008438225768",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005010251027274",
+      "slug": "ae-1005010251027274",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005005694176122",
+      "slug": "ae-1005005694176122",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005009325887249",
+      "slug": "ae-1005009325887249",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005008635835302",
+      "slug": "ae-1005008635835302",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008635845307",
+      "slug": "ae-1005008635845307",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008635689563",
+      "slug": "ae-1005008635689563",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005009205623449",
+      "slug": "ae-1005009205623449",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005004205221279",
+      "slug": "ae-1005004205221279",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005009382186355",
+      "slug": "ae-1005009382186355",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008635834286",
+      "slug": "ae-1005008635834286",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005007266454048",
+      "slug": "ae-1005007266454048",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "amazon_theragun_mini",
+      "slug": "amazon-theragun-mini",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_32835895809",
+      "slug": "ae-32835895809",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005008443064194",
+      "slug": "ae-1005008443064194",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005008798177162",
+      "slug": "ae-1005008798177162",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005009717134661",
+      "slug": "ae-1005009717134661",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005006216058777",
+      "slug": "ae-1005006216058777",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005008442965540",
+      "slug": "ae-1005008442965540",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "amazon_nuface_mini",
+      "slug": "amazon-nuface-mini",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005008391982804",
+      "slug": "ae-1005008391982804",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005004720895061",
+      "slug": "ae-1005004720895061",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "amazon_laneige_lip_mask",
+      "slug": "amazon-laneige-lip-mask",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005010562174593",
+      "slug": "ae-1005010562174593",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008897453336",
+      "slug": "ae-1005008897453336",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005006046732740",
+      "slug": "ae-1005006046732740",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "amazon_owala_freesip",
+      "slug": "amazon-owala-freesip",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "amazon_solawave_wand",
+      "slug": "amazon-solawave-wand",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "amazon_revlon_volumizer",
+      "slug": "amazon-revlon-volumizer",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "amazon_hatch_restore",
+      "slug": "amazon-hatch-restore",
+      "cta": "Claim Your Discount →",
+      "headline": "Does It Actually Work? I Tested It"
+    },
+    {
+      "product_id": "ae_1005005260648961",
+      "slug": "ae-1005005260648961",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008453643216",
+      "slug": "ae-1005008453643216",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_4000081470399",
+      "slug": "ae-4000081470399",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008006229286",
+      "slug": "ae-1005008006229286",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005009965055372",
+      "slug": "ae-1005009965055372",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "ae_1005009715939885",
+      "slug": "ae-1005009715939885",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "amazon_truskin_vitamin_c",
+      "slug": "amazon-truskin-vitamin-c",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "amazon_mighty_patch",
+      "slug": "amazon-mighty-patch",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008616015631",
+      "slug": "ae-1005008616015631",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    },
+    {
+      "product_id": "amazon_fullstar_chopper",
+      "slug": "amazon-fullstar-chopper",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005006423791000",
+      "slug": "ae-1005006423791000",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005001952399668",
+      "slug": "ae-1005001952399668",
+      "cta": "Claim Your Discount →",
+      "headline": "The Truth Nobody Tells You"
+    },
+    {
+      "product_id": "ae_1005008852560175",
+      "slug": "ae-1005008852560175",
+      "cta": "Claim Your Discount →",
+      "headline": "My Honest Review After 90 Days"
+    }
+  ],
+  "updated_at": "2026-03-23T14:14:17.576820+00:00"
+}
