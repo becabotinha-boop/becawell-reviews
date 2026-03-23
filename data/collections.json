@@ -101,23 +101,6 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-blood-sugar.html"
     },
     {
-      "id": "make_money_online",
-      "slug": "make-money-online",
-      "label": "Make Money Online",
-      "keyword": "affiliate marketing",
-      "board": "Online Income Tips",
-      "product_count": 6,
-      "top_products": [
-        "legendary_marketer",
-        "commission_hero",
-        "systeme_io",
-        "super_affiliate_system",
-        "wealthy_affiliate",
-        "clickbank_university"
-      ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-make-money-online.html"
-    },
-    {
       "id": "keto_diet",
       "slug": "keto-diet",
       "label": "Keto Diet",
@@ -150,6 +133,22 @@
         "mocca_slim"
       ],
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-coffee-weight.html"
+    },
+    {
+      "id": "make_money_online",
+      "slug": "make-money-online",
+      "label": "Make Money Online",
+      "keyword": "affiliate marketing",
+      "board": "Online Income Tips",
+      "product_count": 5,
+      "top_products": [
+        "commission_hero",
+        "systeme_io",
+        "super_affiliate_system",
+        "wealthy_affiliate",
+        "clickbank_university"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-make-money-online.html"
     },
     {
       "id": "mens_health",
