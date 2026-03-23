@@ -23,254 +23,12 @@
       }
     },
     {
-      "product_id": "ae_1005009762835151",
-      "slug": "ae-1005009762835151",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Winter Warm Gloves Touch Screen Windproof Cold-proof Cycling Gloves Men's Women'",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007341990710",
-      "slug": "ae-1005007341990710",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Men's Waterproof Large Capacity Fanny Pack Adjustable Strap For Outdoor Activiti",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_anniversary_sale_2025",
-      "slug": "ae-anniversary-sale-2025",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "AliExpress Anniversary Sale Up to 80 Pct Off 03/16-03/25",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007484673961",
-      "slug": "ae-1005007484673961",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "High Strong Power Led Flashlights 2000LM Tactical Torch with Display Light USB C",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005006332093484",
-      "slug": "ae-1005006332093484",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Magnetic Car Phone Holder Universal Car Phone Stand for iPhone Xiaomi Huawei Sam",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007527811142",
-      "slug": "ae-1005007527811142",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aro",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007156281263",
-      "slug": "ae-1005007156281263",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "2025 2000X25 HD Monocular Telescope Compact Portable for Travel Hiking Fishing C",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005006926453576",
-      "slug": "ae-1005006926453576",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ultra-strong Double Sided Adhesive Monster Tape Home Appliance Waterproof Wall S",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
       "product_id": "meal_prep_containers",
       "slug": "meal-prep-containers",
       "schema": {
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Meal Prep Containers 20-Pack",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007573820052",
-      "slug": "ae-1005007573820052",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "LED Starry Sky Night Lights USB Projector Lamp Magic Ball Moon Star Christmas Li",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007568176613",
-      "slug": "ae-1005007568176613",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "E6S Wireless Bluetooth Earphones TWS Bluetooth Headset Wireless Earbuds Noise Ca",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005006930863642",
-      "slug": "ae-1005006930863642",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Retro T9 Original Haircutting Machine Set Trimmer Men's Electric Shaver Male Len",
         "description": "",
         "review": {
           "@type": "Review",
@@ -315,6 +73,248 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wireless Earbuds ANC",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007568176613",
+      "slug": "ae-1005007568176613",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "E6S Wireless Bluetooth Earphones TWS Bluetooth Headset Wireless Earbuds Noise Ca",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005006926453576",
+      "slug": "ae-1005006926453576",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Ultra-strong Double Sided Adhesive Monster Tape Home Appliance Waterproof Wall S",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005006332093484",
+      "slug": "ae-1005006332093484",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Magnetic Car Phone Holder Universal Car Phone Stand for iPhone Xiaomi Huawei Sam",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007484673961",
+      "slug": "ae-1005007484673961",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "High Strong Power Led Flashlights 2000LM Tactical Torch with Display Light USB C",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007527811142",
+      "slug": "ae-1005007527811142",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aro",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007341990710",
+      "slug": "ae-1005007341990710",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Men's Waterproof Large Capacity Fanny Pack Adjustable Strap For Outdoor Activiti",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007573820052",
+      "slug": "ae-1005007573820052",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "LED Starry Sky Night Lights USB Projector Lamp Magic Ball Moon Star Christmas Li",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_anniversary_sale_2025",
+      "slug": "ae-anniversary-sale-2025",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "AliExpress Anniversary Sale Up to 80 Pct Off 03/16-03/25",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005009762835151",
+      "slug": "ae-1005009762835151",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Winter Warm Gloves Touch Screen Windproof Cold-proof Cycling Gloves Men's Women'",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007156281263",
+      "slug": "ae-1005007156281263",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "2025 2000X25 HD Monocular Telescope Compact Portable for Travel Hiking Fishing C",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005006930863642",
+      "slug": "ae-1005006930863642",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Retro T9 Original Haircutting Machine Set Trimmer Men's Electric Shaver Male Len",
         "description": "",
         "review": {
           "@type": "Review",
@@ -2025,5 +2025,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-23T19:47:05.929558+00:00"
+  "updated_at": "2026-03-23T19:50:29.248333+00:00"
 }
