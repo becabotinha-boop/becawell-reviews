@@ -1,6 +1,27 @@
 {
   "collections": [
     {
+      "id": "weight_loss",
+      "slug": "weight-loss",
+      "label": "Weight Loss",
+      "keyword": "weight loss supplement",
+      "board": "Weight Loss Tips",
+      "product_count": 12,
+      "top_products": [
+        "citrusburn",
+        "alpilean",
+        "leanbiome",
+        "ikaria_lean_belly",
+        "exipure",
+        "java_burn",
+        "ignite_drops",
+        "sumatra_slim",
+        "protetox",
+        "okinawa_flat_belly"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-weight-loss.html"
+    },
+    {
       "id": "anime_collectibles",
       "slug": "anime-collectibles",
       "label": "Anime Collectibles",
@@ -42,40 +63,173 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-jewelry.html"
     },
     {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "label": "Beauty & Skincare",
-      "keyword": "beauty amazon",
-      "board": "Amazon Beauty Finds",
-      "product_count": 9,
+      "id": "pain_relief",
+      "slug": "pain-relief",
+      "label": "Pain Relief",
+      "keyword": "pain relief supplement",
+      "board": "Natural Pain Relief",
+      "product_count": 8,
       "top_products": [
-        "hair_curler_auto",
-        "facial_cleansing_brush",
-        "led_face_mask",
-        "amazon_nuface_mini",
-        "amazon_laneige_lip_mask",
-        "amazon_solawave_wand",
-        "amazon_revlon_volumizer",
-        "amazon_truskin_vitamin_c",
-        "amazon_mighty_patch"
+        "flexafen",
+        "joint_genesis",
+        "cortexi",
+        "prostadine",
+        "nerve_regen",
+        "protoflow",
+        "neuropathy_support",
+        "nervefresh"
       ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-beauty.html"
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-pain-relief.html"
     },
     {
-      "id": "amazon_fitness",
-      "slug": "amazon-fitness",
-      "label": "Fitness Equipment",
-      "keyword": "fitness amazon",
-      "board": "Home Fitness Finds",
+      "id": "blood_sugar",
+      "slug": "blood-sugar",
+      "label": "Blood Sugar",
+      "keyword": "blood sugar supplement",
+      "board": "Blood Sugar Control",
+      "product_count": 8,
+      "top_products": [
+        "glucotrust",
+        "sugar_defender",
+        "glucoberry",
+        "amiclear",
+        "glucofort",
+        "gluco_shield_pro",
+        "altai_balance",
+        "glucolean"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-blood-sugar.html"
+    },
+    {
+      "id": "make_money_online",
+      "slug": "make-money-online",
+      "label": "Make Money Online",
+      "keyword": "affiliate marketing",
+      "board": "Online Income Tips",
+      "product_count": 6,
+      "top_products": [
+        "legendary_marketer",
+        "commission_hero",
+        "systeme_io",
+        "super_affiliate_system",
+        "wealthy_affiliate",
+        "clickbank_university"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-make-money-online.html"
+    },
+    {
+      "id": "keto_diet",
+      "slug": "keto-diet",
+      "label": "Keto Diet",
+      "keyword": "keto supplement",
+      "board": "Keto Diet Tips",
+      "product_count": 6,
+      "top_products": [
+        "customketo",
+        "keto_cycle",
+        "trim_keto",
+        "keto_elevate",
+        "keto_breads",
+        "kiss_my_keto"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-keto-diet.html"
+    },
+    {
+      "id": "coffee_weight",
+      "slug": "coffee-weight",
+      "label": "Coffee Weight Loss",
+      "keyword": "coffee weight loss",
+      "board": "Coffee & Weight Loss",
+      "product_count": 6,
+      "top_products": [
+        "teaburn",
+        "javaburn",
+        "primal_coffee",
+        "lean_coffee",
+        "javita",
+        "mocca_slim"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-coffee-weight.html"
+    },
+    {
+      "id": "mens_health",
+      "slug": "mens-health",
+      "label": "Men's Health",
+      "keyword": "mens health supplement",
+      "board": "Men's Health Tips",
       "product_count": 5,
       "top_products": [
-        "adjustable_dumbbells",
-        "jump_rope_pro",
-        "resistance_bands",
-        "amazon_theragun_mini",
-        "amazon_owala_freesip"
+        "testosil",
+        "prime_male",
+        "max_performer",
+        "male_extra",
+        "testonine"
       ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-fitness.html"
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-mens-health.html"
+    },
+    {
+      "id": "nootropics",
+      "slug": "nootropics",
+      "label": "Nootropics",
+      "keyword": "nootropics",
+      "board": "Nootropics Finds",
+      "product_count": 5,
+      "top_products": [
+        "qualia_mind",
+        "nooceptin",
+        "mind_lab_pro",
+        "alpha_brain",
+        "neuro_ignite"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-nootropics.html"
+    },
+    {
+      "id": "gut_health",
+      "slug": "gut-health",
+      "label": "Gut Health",
+      "keyword": "gut health",
+      "board": "Gut Health Finds",
+      "product_count": 5,
+      "top_products": [
+        "prodentim",
+        "bioptimizers_mag",
+        "synogut",
+        "gut_vita",
+        "biome_breakthrough"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-gut-health.html"
+    },
+    {
+      "id": "sleep_weight",
+      "slug": "sleep-weight",
+      "label": "Sleep & Weight",
+      "keyword": "sleep weight loss",
+      "board": "Sleep & Weight Loss",
+      "product_count": 5,
+      "top_products": [
+        "resurge",
+        "revive_daily",
+        "sleep_slim_tea",
+        "dream_hero",
+        "lunar_sleep"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-sleep-weight.html"
+    },
+    {
+      "id": "anti_aging",
+      "slug": "anti-aging",
+      "label": "Anti Aging",
+      "keyword": "anti aging",
+      "board": "Anti Aging Finds",
+      "product_count": 5,
+      "top_products": [
+        "skin_cell_pro",
+        "genie_script",
+        "youthful_brain",
+        "derma_prime",
+        "ageless_body"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-anti-aging.html"
     },
     {
       "id": "electronics_audio",
@@ -93,19 +247,49 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-electronics-audio.html"
     },
     {
-      "id": "amazon_kitchen",
-      "slug": "amazon-kitchen",
-      "label": "Kitchen Gadgets",
-      "keyword": "kitchen gadgets amazon",
-      "board": "Kitchen Finds",
+      "id": "fitness_muscle",
+      "slug": "fitness-muscle",
+      "label": "Fitness Muscle",
+      "keyword": "fitness muscle",
+      "board": "Fitness Muscle Finds",
       "product_count": 4,
       "top_products": [
-        "meal_prep_containers",
-        "vegetable_chopper",
-        "air_fryer",
-        "amazon_fullstar_chopper"
+        "crazy_bulk_d_bal",
+        "testo_prime",
+        "anvarol",
+        "creatine_hcl_pro"
       ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-kitchen.html"
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-fitness-muscle.html"
+    },
+    {
+      "id": "immune_health",
+      "slug": "immune-health",
+      "label": "Immune Health",
+      "keyword": "immune health",
+      "board": "Immune Health Finds",
+      "product_count": 4,
+      "top_products": [
+        "bio_complete_3",
+        "mycosyn_pro",
+        "nano_defense",
+        "immunity_911"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-immune-health.html"
+    },
+    {
+      "id": "hair_beauty",
+      "slug": "hair-beauty",
+      "label": "Hair Beauty",
+      "keyword": "hair beauty",
+      "board": "Hair Beauty Finds",
+      "product_count": 4,
+      "top_products": [
+        "brilliance_sf",
+        "folifort",
+        "restolin",
+        "hair_revital_x"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-hair-beauty.html"
     },
     {
       "id": "outdoor_gear",
@@ -150,20 +334,6 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-beauty-skincare.html"
     },
     {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
-      "product_count": 3,
-      "top_products": [
-        "soccer_rebounder",
-        "soccer_training_cones",
-        "agility_ladder"
-      ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-soccer.html"
-    },
-    {
       "id": "amazon_home",
       "slug": "amazon-home",
       "label": "Amazon Home",
@@ -178,6 +348,132 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-home.html"
     },
     {
+      "id": "amazon_kitchen",
+      "slug": "amazon-kitchen",
+      "label": "Kitchen Gadgets",
+      "keyword": "kitchen gadgets amazon",
+      "board": "Kitchen Finds",
+      "product_count": 3,
+      "top_products": [
+        "air_fryer",
+        "vegetable_chopper",
+        "meal_prep_containers"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-kitchen.html"
+    },
+    {
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "label": "Fitness Equipment",
+      "keyword": "fitness amazon",
+      "board": "Home Fitness Finds",
+      "product_count": 3,
+      "top_products": [
+        "resistance_bands",
+        "adjustable_dumbbells",
+        "jump_rope_pro"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-fitness.html"
+    },
+    {
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty amazon",
+      "board": "Amazon Beauty Finds",
+      "product_count": 3,
+      "top_products": [
+        "facial_cleansing_brush",
+        "led_face_mask",
+        "hair_curler_auto"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-beauty.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "soccer_training_cones",
+        "agility_ladder",
+        "soccer_rebounder"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-soccer.html"
+    },
+    {
+      "id": "vision_health",
+      "slug": "vision-health",
+      "label": "Vision Health",
+      "keyword": "vision supplement",
+      "board": "Eye Health Tips",
+      "product_count": 3,
+      "top_products": [
+        "sight_care",
+        "visisharp",
+        "vision_20"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-vision-health.html"
+    },
+    {
+      "id": "manifestation",
+      "slug": "manifestation",
+      "label": "Manifestation",
+      "keyword": "manifestation program",
+      "board": "Law of Attraction",
+      "product_count": 3,
+      "top_products": [
+        "manifestation_magic",
+        "15_minute_manifestation",
+        "numerology_reading"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-manifestation.html"
+    },
+    {
+      "id": "stress_anxiety",
+      "slug": "stress-anxiety",
+      "label": "Stress Anxiety",
+      "keyword": "stress anxiety",
+      "board": "Stress Anxiety Finds",
+      "product_count": 3,
+      "top_products": [
+        "mood_boost",
+        "stress_guard",
+        "serenol"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-stress-anxiety.html"
+    },
+    {
+      "id": "diabetes",
+      "slug": "diabetes",
+      "label": "Diabetes",
+      "keyword": "diabetes",
+      "board": "Diabetes Finds",
+      "product_count": 3,
+      "top_products": [
+        "diabetes_freedom",
+        "halki_diabetes",
+        "blood_sugar_premier"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-diabetes.html"
+    },
+    {
+      "id": "womens_health",
+      "slug": "womens-health",
+      "label": "Women's Health",
+      "keyword": "womens health supplement",
+      "board": "Women's Health Tips",
+      "product_count": 3,
+      "top_products": [
+        "balanced_slim",
+        "her_secret",
+        "nurturive_her"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-womens-health.html"
+    },
+    {
       "id": "aliexpress_deals",
       "slug": "aliexpress-deals",
       "label": "AliExpress Deals",
@@ -189,6 +485,32 @@
         "ae_1005006046732740"
       ],
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-aliexpress-deals.html"
+    },
+    {
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "label": "Amazon Pets",
+      "keyword": "amazon pets",
+      "board": "Amazon Pets Finds",
+      "product_count": 2,
+      "top_products": [
+        "dog_training_collar",
+        "auto_pet_feeder"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-pets.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "label": "Amazon Creator",
+      "keyword": "amazon creator",
+      "board": "Amazon Creator Finds",
+      "product_count": 2,
+      "top_products": [
+        "phone_tripod",
+        "ring_light"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-creator.html"
     },
     {
       "id": "amazon_car",
@@ -217,32 +539,6 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-travel.html"
     },
     {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "label": "Amazon Creator",
-      "keyword": "amazon creator",
-      "board": "Amazon Creator Finds",
-      "product_count": 2,
-      "top_products": [
-        "phone_tripod",
-        "ring_light"
-      ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-creator.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "label": "Amazon Pets",
-      "keyword": "amazon pets",
-      "board": "Amazon Pets Finds",
-      "product_count": 2,
-      "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
-      ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-pets.html"
-    },
-    {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
       "label": "Amazon Productivity",
@@ -250,10 +546,23 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-productivity.html"
+    },
+    {
+      "id": "crypto_finance",
+      "slug": "crypto-finance",
+      "label": "Crypto Finance",
+      "keyword": "crypto finance",
+      "board": "Crypto Finance Finds",
+      "product_count": 2,
+      "top_products": [
+        "crypto_ultimatum",
+        "7_figure_wealth"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-crypto-finance.html"
     },
     {
       "id": "fragrance",
@@ -269,6 +578,19 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-fragrance.html"
     },
     {
+      "id": "relationship",
+      "slug": "relationship",
+      "label": "Relationship",
+      "keyword": "relationship",
+      "board": "Relationship Finds",
+      "product_count": 2,
+      "top_products": [
+        "ex_factor_guide",
+        "mend_the_bond"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-relationship.html"
+    },
+    {
       "id": "home_electronics",
       "slug": "home-electronics",
       "label": "Home Electronics",
@@ -282,6 +604,32 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-home-electronics.html"
     },
     {
+      "id": "survival",
+      "slug": "survival",
+      "label": "Survival",
+      "keyword": "survival",
+      "board": "Survival Finds",
+      "product_count": 2,
+      "top_products": [
+        "alive_after_fall",
+        "medical_kit_guide"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-survival.html"
+    },
+    {
+      "id": "thyroid_health",
+      "slug": "thyroid-health",
+      "label": "Thyroid Health",
+      "keyword": "thyroid health",
+      "board": "Thyroid Health Finds",
+      "product_count": 2,
+      "top_products": [
+        "thyroid_support",
+        "thyromine"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-thyroid-health.html"
+    },
+    {
       "id": "family_fashion",
       "slug": "family-fashion",
       "label": "Family Fashion",
@@ -293,6 +641,19 @@
         "ae_1005009715939885"
       ],
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-family-fashion.html"
+    },
+    {
+      "id": "parenting",
+      "slug": "parenting",
+      "label": "Parenting",
+      "keyword": "parenting",
+      "board": "Parenting Finds",
+      "product_count": 2,
+      "top_products": [
+        "total_parenting",
+        "child_mind"
+      ],
+      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-parenting.html"
     },
     {
       "id": "retro_gaming",
@@ -464,18 +825,6 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-sports-cycling.html"
     },
     {
-      "id": "amazon_sleep",
-      "slug": "amazon-sleep",
-      "label": "Sleep Products",
-      "keyword": "sleep amazon",
-      "board": "Sleep Essentials",
-      "product_count": 1,
-      "top_products": [
-        "amazon_hatch_restore"
-      ],
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-amazon-sleep.html"
-    },
-    {
       "id": "sports_shoes",
       "slug": "sports-shoes",
       "label": "Sports Shoes",
@@ -500,5 +849,5 @@
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/collection-beauty-wigs.html"
     }
   ],
-  "total": 37
+  "total": 60
 }
