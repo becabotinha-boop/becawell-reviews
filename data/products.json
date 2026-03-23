@@ -1,6 +1,36 @@
 {
   "products": [
     {
+      "id": "ae_1005006926453576",
+      "slug": "ae-1005006926453576",
+      "name": "Ultra-strong Double Sided Adhesive Monster Tape",
+      "network": "aliexpress",
+      "niche": "home_improvement",
+      "niche_label": "Home Improvement",
+      "board": "Home Improvement Finds",
+      "keyword": "home improvement tools",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "gravity": 0,
+      "epc": 0.002,
+      "payout": 0,
+      "hoplink": "https://s.click.aliexpress.com/e/_c3DDscsT",
+      "cvr": 0.03,
+      "status": "active",
+      "is_amazon": false,
+      "is_aliexpress": true,
+      "asin": "",
+      "price": "USD 0.73",
+      "amazon_rating": "",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006926453576-review.html",
+      "page_exists": true
+    },
+    {
       "id": "ae_anniversary_sale_2025",
       "slug": "ae-anniversary-sale-2025",
       "name": "AliExpress Anniversary Sale Up to 80 Pct Off 03/16-03/25",
@@ -27,7 +57,67 @@
       "asin": "",
       "price": "Up to 80% OFF",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-anniversary-sale-2025-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-anniversary-sale-2025-review.html",
+      "page_exists": true
+    },
+    {
+      "id": "ae_1005006332093484",
+      "slug": "ae-1005006332093484",
+      "name": "Magnetic Car Phone Holder Universal Car Phone Stand",
+      "network": "aliexpress",
+      "niche": "car_accessories",
+      "niche_label": "Car Accessories",
+      "board": "Car Accessories Finds",
+      "keyword": "car accessories aliexpress",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "gravity": 0,
+      "epc": 0.002,
+      "payout": 0,
+      "hoplink": "https://s.click.aliexpress.com/e/_c3c7wfNp",
+      "cvr": 0.03,
+      "status": "active",
+      "is_amazon": false,
+      "is_aliexpress": true,
+      "asin": "",
+      "price": "USD 0.99",
+      "amazon_rating": "",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006332093484-review.html",
+      "page_exists": true
+    },
+    {
+      "id": "ae_1005007341990710",
+      "slug": "ae-1005007341990710",
+      "name": "Men's Waterproof Large Capacity Fanny Pack",
+      "network": "aliexpress",
+      "niche": "outdoor_gear",
+      "niche_label": "Outdoor Gear",
+      "board": "Outdoor Gear Finds",
+      "keyword": "outdoor gear deals",
+      "score": 94.8,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "gravity": 0,
+      "epc": 0.002,
+      "payout": 0,
+      "hoplink": "https://s.click.aliexpress.com/e/_c4o5pGQr",
+      "cvr": 0.03,
+      "status": "active",
+      "is_amazon": false,
+      "is_aliexpress": true,
+      "asin": "",
+      "price": "USD 0.99",
+      "amazon_rating": "",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007341990710-review.html",
       "page_exists": true
     },
     {
@@ -57,97 +147,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007527811142-review.html",
-      "page_exists": true
-    },
-    {
-      "id": "ae_1005006926453576",
-      "slug": "ae-1005006926453576",
-      "name": "Ultra-strong Double Sided Adhesive Monster Tape",
-      "network": "aliexpress",
-      "niche": "home_improvement",
-      "niche_label": "Home Improvement",
-      "board": "Home Improvement Finds",
-      "keyword": "home improvement tools",
-      "score": 94.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "gravity": 0,
-      "epc": 0.002,
-      "payout": 0,
-      "hoplink": "https://s.click.aliexpress.com/e/_c3DDscsT",
-      "cvr": 0.03,
-      "status": "active",
-      "is_amazon": false,
-      "is_aliexpress": true,
-      "asin": "",
-      "price": "USD 0.73",
-      "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006926453576-review.html",
-      "page_exists": true
-    },
-    {
-      "id": "ae_1005006332093484",
-      "slug": "ae-1005006332093484",
-      "name": "Magnetic Car Phone Holder Universal Car Phone Stand",
-      "network": "aliexpress",
-      "niche": "car_accessories",
-      "niche_label": "Car Accessories",
-      "board": "Car Accessories Finds",
-      "keyword": "car accessories aliexpress",
-      "score": 93.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "gravity": 0,
-      "epc": 0.002,
-      "payout": 0,
-      "hoplink": "https://s.click.aliexpress.com/e/_c3c7wfNp",
-      "cvr": 0.03,
-      "status": "active",
-      "is_amazon": false,
-      "is_aliexpress": true,
-      "asin": "",
-      "price": "USD 0.99",
-      "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006332093484-review.html",
-      "page_exists": true
-    },
-    {
-      "id": "ae_1005007341990710",
-      "slug": "ae-1005007341990710",
-      "name": "Men's Waterproof Large Capacity Fanny Pack",
-      "network": "aliexpress",
-      "niche": "outdoor_gear",
-      "niche_label": "Outdoor Gear",
-      "board": "Outdoor Gear Finds",
-      "keyword": "outdoor gear deals",
-      "score": 90.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "gravity": 0,
-      "epc": 0.002,
-      "payout": 0,
-      "hoplink": "https://s.click.aliexpress.com/e/_c4o5pGQr",
-      "cvr": 0.03,
-      "status": "active",
-      "is_amazon": false,
-      "is_aliexpress": true,
-      "asin": "",
-      "price": "USD 0.99",
-      "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007341990710-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007527811142-review.html",
       "page_exists": true
     },
     {
@@ -159,7 +159,7 @@
       "niche_label": "Outdoor Gear",
       "board": "Outdoor Gear Finds",
       "keyword": "outdoor gear deals",
-      "score": 87.3,
+      "score": 94.3,
       "tier": "A",
       "rating": {
         "display": "4.9/5",
@@ -177,7 +177,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009762835151-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009762835151-review.html",
       "page_exists": true
     },
     {
@@ -189,7 +189,7 @@
       "niche_label": "Outdoor Gear",
       "board": "Outdoor Gear Finds",
       "keyword": "outdoor gear deals",
-      "score": 86.7,
+      "score": 93.6,
       "tier": "A",
       "rating": {
         "display": "4.9/5",
@@ -207,7 +207,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007484673961-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007484673961-review.html",
       "page_exists": true
     },
     {
@@ -219,7 +219,7 @@
       "niche_label": "Jewelry",
       "board": "Jewelry Finds",
       "keyword": "jewelry aliexpress",
-      "score": 85.8,
+      "score": 92.7,
       "tier": "A",
       "rating": {
         "display": "4.9/5",
@@ -237,7 +237,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007156281263-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007156281263-review.html",
       "page_exists": true
     },
     {
@@ -249,11 +249,11 @@
       "niche_label": "Home Decor",
       "board": "Home Decor Finds",
       "keyword": "home decor aliexpress",
-      "score": 78.9,
-      "tier": "B",
+      "score": 85.2,
+      "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "gravity": 0,
@@ -267,7 +267,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007573820052-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007573820052-review.html",
       "page_exists": true
     },
     {
@@ -279,8 +279,8 @@
       "niche_label": "Electronics & Audio",
       "board": "Electronics Finds",
       "keyword": "electronics aliexpress deals",
-      "score": 78.6,
-      "tier": "B",
+      "score": 84.9,
+      "tier": "A",
       "rating": {
         "display": "4.7/5",
         "value": 4.7,
@@ -297,7 +297,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007568176613-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007568176613-review.html",
       "page_exists": true
     },
     {
@@ -309,12 +309,12 @@
       "niche_label": "Grooming Tools",
       "board": "Grooming Finds",
       "keyword": "grooming tools aliexpress",
-      "score": 77.0,
-      "tier": "B",
+      "score": 83.1,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "gravity": 0,
       "epc": 0.002,
@@ -327,7 +327,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006930863642-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006930863642-review.html",
       "page_exists": true
     },
     {
@@ -339,12 +339,12 @@
       "niche_label": "Beauty & Skincare",
       "board": "Beauty Skincare Finds",
       "keyword": "beauty skincare aliexpress",
-      "score": 73.0,
+      "score": 78.8,
       "tier": "B",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "gravity": 0,
       "epc": 0.002,
@@ -357,7 +357,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006479918994-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006479918994-review.html",
       "page_exists": true
     },
     {
@@ -369,12 +369,12 @@
       "niche_label": "Home Decor",
       "board": "Home Decor Finds",
       "keyword": "home decor aliexpress",
-      "score": 72.8,
+      "score": 78.6,
       "tier": "B",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "gravity": 0,
       "epc": 0.002,
@@ -387,7 +387,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007273995598-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007273995598-review.html",
       "page_exists": true
     },
     {
@@ -399,7 +399,7 @@
       "niche_label": "Fitness Equipment",
       "board": "Home Fitness Finds",
       "keyword": "fitness amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -417,7 +417,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/jump-rope-pro-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/jump-rope-pro-review.html",
       "page_exists": true
     },
     {
@@ -429,7 +429,7 @@
       "niche_label": "Amazon Car",
       "board": "Amazon Car Finds",
       "keyword": "amazon car",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -447,7 +447,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/car-phone-mount-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/car-phone-mount-review.html",
       "page_exists": true
     },
     {
@@ -459,7 +459,7 @@
       "niche_label": "Fitness Equipment",
       "board": "Home Fitness Finds",
       "keyword": "fitness amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -477,7 +477,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/adjustable-dumbbells-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/adjustable-dumbbells-review.html",
       "page_exists": true
     },
     {
@@ -489,7 +489,7 @@
       "niche_label": "Beauty & Skincare",
       "board": "Amazon Beauty Finds",
       "keyword": "beauty amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -507,7 +507,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/facial-cleansing-brush-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/facial-cleansing-brush-review.html",
       "page_exists": true
     },
     {
@@ -519,7 +519,7 @@
       "niche_label": "Amazon Tech",
       "board": "Amazon Tech Finds",
       "keyword": "amazon tech",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -537,7 +537,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/wireless-earbuds-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/wireless-earbuds-review.html",
       "page_exists": true
     },
     {
@@ -549,7 +549,7 @@
       "niche_label": "Beauty & Skincare",
       "board": "Amazon Beauty Finds",
       "keyword": "beauty amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -567,7 +567,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/hair-curler-auto-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/hair-curler-auto-review.html",
       "page_exists": true
     },
     {
@@ -579,7 +579,7 @@
       "niche_label": "Kitchen Gadgets",
       "board": "Kitchen Finds",
       "keyword": "kitchen gadgets amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -597,7 +597,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/meal-prep-containers-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/meal-prep-containers-review.html",
       "page_exists": true
     },
     {
@@ -609,7 +609,7 @@
       "niche_label": "Beauty & Skincare",
       "board": "Amazon Beauty Finds",
       "keyword": "beauty amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -627,7 +627,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/led-face-mask-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/led-face-mask-review.html",
       "page_exists": true
     },
     {
@@ -639,7 +639,7 @@
       "niche_label": "Amazon Home",
       "board": "Amazon Home Finds",
       "keyword": "amazon home",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -657,7 +657,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/closet-organizer-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/closet-organizer-review.html",
       "page_exists": true
     },
     {
@@ -669,7 +669,7 @@
       "niche_label": "Amazon Pets",
       "board": "Amazon Pets Finds",
       "keyword": "amazon pets",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -687,7 +687,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/auto-pet-feeder-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/auto-pet-feeder-review.html",
       "page_exists": true
     },
     {
@@ -699,7 +699,7 @@
       "niche_label": "Fitness Equipment",
       "board": "Home Fitness Finds",
       "keyword": "fitness amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -717,7 +717,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/resistance-bands-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/resistance-bands-review.html",
       "page_exists": true
     },
     {
@@ -729,7 +729,7 @@
       "niche_label": "Amazon Soccer",
       "board": "Amazon Soccer Finds",
       "keyword": "amazon soccer",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -747,7 +747,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/soccer-training-cones-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/soccer-training-cones-review.html",
       "page_exists": true
     },
     {
@@ -759,7 +759,7 @@
       "niche_label": "Amazon Productivity",
       "board": "Amazon Productivity Finds",
       "keyword": "amazon productivity",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -777,7 +777,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/blue-light-glasses-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/blue-light-glasses-review.html",
       "page_exists": true
     },
     {
@@ -789,7 +789,7 @@
       "niche_label": "Amazon Pets",
       "board": "Amazon Pets Finds",
       "keyword": "amazon pets",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -807,7 +807,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/dog-training-collar-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/dog-training-collar-review.html",
       "page_exists": true
     },
     {
@@ -819,7 +819,7 @@
       "niche_label": "Amazon Creator",
       "board": "Amazon Creator Finds",
       "keyword": "amazon creator",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -837,7 +837,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/phone-tripod-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/phone-tripod-review.html",
       "page_exists": true
     },
     {
@@ -849,7 +849,7 @@
       "niche_label": "Amazon Soccer",
       "board": "Amazon Soccer Finds",
       "keyword": "amazon soccer",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -867,7 +867,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/soccer-rebounder-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/soccer-rebounder-review.html",
       "page_exists": true
     },
     {
@@ -879,7 +879,7 @@
       "niche_label": "Amazon Travel",
       "board": "Amazon Travel Finds",
       "keyword": "amazon travel",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -897,7 +897,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/packing-cubes-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/packing-cubes-review.html",
       "page_exists": true
     },
     {
@@ -909,7 +909,7 @@
       "niche_label": "Amazon Car",
       "board": "Amazon Car Finds",
       "keyword": "amazon car",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -927,7 +927,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/portable-car-vacuum-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/portable-car-vacuum-review.html",
       "page_exists": true
     },
     {
@@ -939,7 +939,7 @@
       "niche_label": "Kitchen Gadgets",
       "board": "Kitchen Finds",
       "keyword": "kitchen gadgets amazon",
-      "score": 71.6,
+      "score": 77.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -957,7 +957,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/vegetable-chopper-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/vegetable-chopper-review.html",
       "page_exists": true
     },
     {
@@ -969,11 +969,11 @@
       "niche_label": "Kitchen Gadgets",
       "board": "Kitchen Finds",
       "keyword": "kitchen gadgets amazon",
-      "score": 69.8,
+      "score": 73.4,
       "tier": "B",
       "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
+        "display": "4.4/5",
+        "value": 4.4,
         "stars": 4
       },
       "gravity": 80,
@@ -987,7 +987,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/air-fryer-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/air-fryer-review.html",
       "page_exists": true
     },
     {
@@ -999,11 +999,11 @@
       "niche_label": "Amazon Travel",
       "board": "Amazon Travel Finds",
       "keyword": "amazon travel",
-      "score": 69.8,
+      "score": 73.4,
       "tier": "B",
       "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
+        "display": "4.4/5",
+        "value": 4.4,
         "stars": 4
       },
       "gravity": 80,
@@ -1017,7 +1017,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/travel-backpack-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/travel-backpack-review.html",
       "page_exists": true
     },
     {
@@ -1029,11 +1029,11 @@
       "niche_label": "Amazon Creator",
       "board": "Amazon Creator Finds",
       "keyword": "amazon creator",
-      "score": 69.8,
+      "score": 73.4,
       "tier": "B",
       "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
+        "display": "4.4/5",
+        "value": 4.4,
         "stars": 4
       },
       "gravity": 80,
@@ -1047,7 +1047,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ring-light-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ring-light-review.html",
       "page_exists": true
     },
     {
@@ -1059,11 +1059,11 @@
       "niche_label": "Amazon Home",
       "board": "Amazon Home Finds",
       "keyword": "amazon home",
-      "score": 68.0,
+      "score": 71.6,
       "tier": "B",
       "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
+        "display": "4.4/5",
+        "value": 4.4,
         "stars": 4
       },
       "gravity": 80,
@@ -1077,7 +1077,67 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/under-sink-organizer-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/under-sink-organizer-review.html",
+      "page_exists": true
+    },
+    {
+      "id": "storage_box_system",
+      "slug": "storage-box-system",
+      "name": "Stackable Storage Boxes",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "niche_label": "Amazon Home",
+      "board": "Amazon Home Finds",
+      "keyword": "amazon home",
+      "score": 71.6,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "gravity": 80,
+      "epc": 0.06,
+      "payout": 0,
+      "hoplink": "https://www.amazon.com/s?k=stackable+storage+boxes+clear+lid&tag=becawell05-20",
+      "cvr": 0.03,
+      "status": "active",
+      "is_amazon": true,
+      "is_aliexpress": false,
+      "asin": "",
+      "price": "",
+      "amazon_rating": "",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/storage-box-system-review.html",
+      "page_exists": true
+    },
+    {
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "niche_label": "Amazon Soccer",
+      "board": "Amazon Soccer Finds",
+      "keyword": "amazon soccer",
+      "score": 71.6,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "gravity": 80,
+      "epc": 0.06,
+      "payout": 0,
+      "hoplink": "https://www.amazon.com/s?k=agility+ladder+speed+training+20+rungs&tag=becawell05-20",
+      "cvr": 0.03,
+      "status": "active",
+      "is_amazon": true,
+      "is_aliexpress": false,
+      "asin": "",
+      "price": "",
+      "amazon_rating": "",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/agility-ladder-review.html",
       "page_exists": true
     },
     {
@@ -1089,7 +1149,7 @@
       "niche_label": "Amazon Productivity",
       "board": "Amazon Productivity Finds",
       "keyword": "amazon productivity",
-      "score": 68.0,
+      "score": 69.8,
       "tier": "B",
       "rating": {
         "display": "4.1/5",
@@ -1107,67 +1167,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/standing-desk-converter-review.html",
-      "page_exists": true
-    },
-    {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "niche_label": "Amazon Soccer",
-      "board": "Amazon Soccer Finds",
-      "keyword": "amazon soccer",
-      "score": 68.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 0,
-      "hoplink": "https://www.amazon.com/s?k=agility+ladder+speed+training+20+rungs&tag=becawell05-20",
-      "cvr": 0.03,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
-      "price": "",
-      "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/agility-ladder-review.html",
-      "page_exists": true
-    },
-    {
-      "id": "storage_box_system",
-      "slug": "storage-box-system",
-      "name": "Stackable Storage Boxes",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "niche_label": "Amazon Home",
-      "board": "Amazon Home Finds",
-      "keyword": "amazon home",
-      "score": 68.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 0,
-      "hoplink": "https://www.amazon.com/s?k=stackable+storage+boxes+clear+lid&tag=becawell05-20",
-      "cvr": 0.03,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
-      "price": "",
-      "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/storage-box-system-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/standing-desk-converter-review.html",
       "page_exists": true
     },
     {
@@ -1179,7 +1179,7 @@
       "niche_label": "Jewelry",
       "board": "Jewelry Finds",
       "keyword": "jewelry aliexpress",
-      "score": 67.7,
+      "score": 69.5,
       "tier": "B",
       "rating": {
         "display": "4.1/5",
@@ -1197,7 +1197,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006995789811-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006995789811-review.html",
       "page_exists": true
     },
     {
@@ -1209,7 +1209,7 @@
       "niche_label": "Jewelry",
       "board": "Jewelry Finds",
       "keyword": "jewelry aliexpress",
-      "score": 66.8,
+      "score": 68.5,
       "tier": "B",
       "rating": {
         "display": "4.1/5",
@@ -1227,7 +1227,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008334857246-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008334857246-review.html",
       "page_exists": true
     },
     {
@@ -1239,7 +1239,7 @@
       "niche_label": "Beauty & Grooming",
       "board": "Beauty Grooming Finds",
       "keyword": "beauty grooming aliexpress",
-      "score": 62.9,
+      "score": 64.5,
       "tier": "C",
       "rating": {
         "display": "4.1/5",
@@ -1257,7 +1257,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007205112799-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007205112799-review.html",
       "page_exists": true
     },
     {
@@ -1269,11 +1269,11 @@
       "niche_label": "Toys & Gadgets",
       "board": "Toy & Gadget Finds",
       "keyword": "toys gadgets aliexpress",
-      "score": 61.0,
+      "score": 62.5,
       "tier": "C",
       "rating": {
-        "display": "3.8/5",
-        "value": 3.8,
+        "display": "4.1/5",
+        "value": 4.1,
         "stars": 4
       },
       "gravity": 0,
@@ -1287,7 +1287,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005005928117831-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005005928117831-review.html",
       "page_exists": true
     },
     {
@@ -1317,7 +1317,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005005856471552-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005005856471552-review.html",
       "page_exists": true
     },
     {
@@ -1347,7 +1347,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008987706323-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008987706323-review.html",
       "page_exists": true
     },
     {
@@ -1377,7 +1377,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009014580579-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009014580579-review.html",
       "page_exists": true
     },
     {
@@ -1407,7 +1407,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006736492092-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006736492092-review.html",
       "page_exists": true
     },
     {
@@ -1437,7 +1437,7 @@
       "asin": "",
       "price": "USD 5.70",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009195449913-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009195449913-review.html",
       "page_exists": true
     },
     {
@@ -1467,7 +1467,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007316134477-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007316134477-review.html",
       "page_exists": true
     },
     {
@@ -1497,7 +1497,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008438225768-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008438225768-review.html",
       "page_exists": true
     },
     {
@@ -1527,7 +1527,7 @@
       "asin": "",
       "price": "USD 1.66",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005010251027274-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005010251027274-review.html",
       "page_exists": true
     },
     {
@@ -1557,7 +1557,7 @@
       "asin": "",
       "price": "USD 9.36",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005005694176122-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005005694176122-review.html",
       "page_exists": true
     },
     {
@@ -1587,7 +1587,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009325887249-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009325887249-review.html",
       "page_exists": true
     },
     {
@@ -1617,7 +1617,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008635835302-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008635835302-review.html",
       "page_exists": true
     },
     {
@@ -1647,7 +1647,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008635845307-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008635845307-review.html",
       "page_exists": true
     },
     {
@@ -1677,7 +1677,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008635689563-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008635689563-review.html",
       "page_exists": true
     },
     {
@@ -1707,7 +1707,7 @@
       "asin": "",
       "price": "USD 2.70",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009205623449-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009205623449-review.html",
       "page_exists": true
     },
     {
@@ -1737,7 +1737,7 @@
       "asin": "",
       "price": "USD 10.51",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005004205221279-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005004205221279-review.html",
       "page_exists": true
     },
     {
@@ -1767,7 +1767,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009382186355-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009382186355-review.html",
       "page_exists": true
     },
     {
@@ -1797,7 +1797,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008635834286-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008635834286-review.html",
       "page_exists": true
     },
     {
@@ -1827,7 +1827,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005007266454048-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005007266454048-review.html",
       "page_exists": true
     },
     {
@@ -1857,7 +1857,7 @@
       "asin": "",
       "price": "USD 5.08",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-32835895809-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-32835895809-review.html",
       "page_exists": true
     },
     {
@@ -1887,7 +1887,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-theragun-mini-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-theragun-mini-review.html",
       "page_exists": true
     },
     {
@@ -1917,7 +1917,7 @@
       "asin": "",
       "price": "USD 0.99",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008443064194-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008443064194-review.html",
       "page_exists": true
     },
     {
@@ -1947,7 +1947,7 @@
       "asin": "",
       "price": "USD 5.35",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008798177162-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008798177162-review.html",
       "page_exists": true
     },
     {
@@ -1977,7 +1977,7 @@
       "asin": "",
       "price": "USD 5.00",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009717134661-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009717134661-review.html",
       "page_exists": true
     },
     {
@@ -2007,7 +2007,7 @@
       "asin": "",
       "price": "USD 17.49",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006216058777-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006216058777-review.html",
       "page_exists": true
     },
     {
@@ -2037,7 +2037,7 @@
       "asin": "",
       "price": "USD 6.14",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008442965540-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008442965540-review.html",
       "page_exists": true
     },
     {
@@ -2067,7 +2067,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-nuface-mini-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-nuface-mini-review.html",
       "page_exists": true
     },
     {
@@ -2097,7 +2097,7 @@
       "asin": "",
       "price": "USD 7.49",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008391982804-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008391982804-review.html",
       "page_exists": true
     },
     {
@@ -2127,7 +2127,7 @@
       "asin": "",
       "price": "USD 62.67",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005004720895061-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005004720895061-review.html",
       "page_exists": true
     },
     {
@@ -2157,7 +2157,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-laneige-lip-mask-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-laneige-lip-mask-review.html",
       "page_exists": true
     },
     {
@@ -2187,7 +2187,7 @@
       "asin": "",
       "price": "USD 17.98",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005010562174593-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005010562174593-review.html",
       "page_exists": true
     },
     {
@@ -2217,7 +2217,7 @@
       "asin": "",
       "price": "USD 12.23",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008897453336-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008897453336-review.html",
       "page_exists": true
     },
     {
@@ -2247,7 +2247,7 @@
       "asin": "",
       "price": "USD 4.41",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006046732740-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006046732740-review.html",
       "page_exists": true
     },
     {
@@ -2277,7 +2277,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-solawave-wand-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-solawave-wand-review.html",
       "page_exists": true
     },
     {
@@ -2307,7 +2307,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-owala-freesip-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-owala-freesip-review.html",
       "page_exists": true
     },
     {
@@ -2337,7 +2337,7 @@
       "asin": "",
       "price": "USD 51.07",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005005260648961-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005005260648961-review.html",
       "page_exists": true
     },
     {
@@ -2367,7 +2367,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-hatch-restore-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-hatch-restore-review.html",
       "page_exists": true
     },
     {
@@ -2397,7 +2397,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-revlon-volumizer-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-revlon-volumizer-review.html",
       "page_exists": true
     },
     {
@@ -2427,7 +2427,7 @@
       "asin": "",
       "price": "USD 121.68",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008453643216-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008453643216-review.html",
       "page_exists": true
     },
     {
@@ -2457,7 +2457,7 @@
       "asin": "",
       "price": "USD 13.73",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-4000081470399-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-4000081470399-review.html",
       "page_exists": true
     },
     {
@@ -2487,7 +2487,7 @@
       "asin": "",
       "price": "USD 9.61",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008006229286-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008006229286-review.html",
       "page_exists": true
     },
     {
@@ -2517,7 +2517,7 @@
       "asin": "",
       "price": "USD 37.42",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009965055372-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009965055372-review.html",
       "page_exists": true
     },
     {
@@ -2547,7 +2547,7 @@
       "asin": "",
       "price": "USD 15.50",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005009715939885-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005009715939885-review.html",
       "page_exists": true
     },
     {
@@ -2577,7 +2577,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-truskin-vitamin-c-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-truskin-vitamin-c-review.html",
       "page_exists": true
     },
     {
@@ -2607,7 +2607,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-mighty-patch-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-mighty-patch-review.html",
       "page_exists": true
     },
     {
@@ -2637,7 +2637,7 @@
       "asin": "",
       "price": "USD 17.93",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008616015631-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008616015631-review.html",
       "page_exists": true
     },
     {
@@ -2667,7 +2667,7 @@
       "asin": "",
       "price": "USD 61.56",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005006423791000-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005006423791000-review.html",
       "page_exists": true
     },
     {
@@ -2697,7 +2697,7 @@
       "asin": "",
       "price": "",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/amazon-fullstar-chopper-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/amazon-fullstar-chopper-review.html",
       "page_exists": true
     },
     {
@@ -2727,7 +2727,7 @@
       "asin": "",
       "price": "USD 46.34",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005001952399668-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005001952399668-review.html",
       "page_exists": true
     },
     {
@@ -2757,10 +2757,10 @@
       "asin": "",
       "price": "USD 41.91",
       "amazon_rating": "",
-      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/ae-1005008852560175-review.html",
+      "url": "https://07c3bc13f692495b-45-165-22-94.serveousercontent.com/ae-1005008852560175-review.html",
       "page_exists": true
     }
   ],
   "total": 92,
-  "generated_at": "2026-03-23T11:15:06.633671+00:00"
+  "generated_at": "2026-03-23T12:19:12.413984+00:00"
 }
