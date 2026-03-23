@@ -828,7 +828,8 @@ hr, .divider {
   padding: var(--space-16);
   text-align: center;
 }
-.stat-value {
+.stat-value,
+.stat-val {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--color-accent);
@@ -839,7 +840,7 @@ hr, .divider {
   font-size: var(--font-size-caption);
   text-transform: uppercase;
   letter-spacing: .06em;
-  color: var(--color-text-muted);
+  color: #3a3a3c;
   font-weight: 600;
   margin-top: var(--space-4);
 }
@@ -1646,6 +1647,15 @@ footer a:hover {
 }
 .hero--amz .hero-eyebrow { color: var(--color-amz-orange); }
 .hero--amz .hero-headline { color: #fff; }
+/* ensure all text in dark hero is legible */
+.hero--amz h1,
+.hero--amz .tagline { color: #fff; }
+.hero--amz p:not(.cta-sub) { color: rgba(255,255,255,.88); }
+/* stat cards inside dark hero — keep white bg, sharpen text contrast */
+.hero--amz .stat-item { background: rgba(255,255,255,.97); }
+.hero--amz .stat-val,
+.hero--amz .stat-value { color: var(--color-navy); }
+.hero--amz .stat-label { color: #3a3a3c; }
 
 /* --- Gold CTA (AliExpress primary action) --- */
 .cta-ae,
