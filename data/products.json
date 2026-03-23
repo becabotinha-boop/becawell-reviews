@@ -342,37 +342,6 @@
       "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S0139488e654848fbbacc85039f31e20b1.jpg"
     },
     {
-      "id": "legendary_marketer",
-      "slug": "legendary-marketer",
-      "name": "Legendary Marketer",
-      "network": "",
-      "niche": "make_money_online",
-      "niche_label": "Make Money Online",
-      "board": "Online Income Tips",
-      "keyword": "affiliate marketing",
-      "score": 85.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "gravity": 108,
-      "epc": 3.8,
-      "payout": 120,
-      "hoplink": "https://hop.clickbank.net/?affiliate=becabotin&vendor=legendarymarketer",
-      "cvr": 0.057999999999999996,
-      "status": "active",
-      "is_amazon": false,
-      "is_aliexpress": false,
-      "asin": "",
-      "price": "",
-      "amazon_rating": "",
-      "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/legendary-marketer-review.html",
-      "page_exists": false,
-      "image_url": ""
-    },
-    {
       "id": "ae_1005006479918994",
       "slug": "ae-1005006479918994",
       "name": "Lip Balm Healing Moisturizing All-natural Lip Mask",
@@ -462,7 +431,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/commission-hero-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -493,7 +462,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/systeme-io-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -524,7 +493,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/super-affiliate-system-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -555,7 +524,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/flexafen-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -586,7 +555,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/wealthy-affiliate-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -617,7 +586,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/citrusburn-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -648,7 +617,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/glucotrust-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -679,7 +648,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/joint-genesis-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -710,7 +679,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/testosil-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -741,7 +710,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/sugar-defender-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -834,7 +803,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/alpilean-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -865,7 +834,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/cortexi-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -896,7 +865,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/crazy-bulk-d-bal-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -927,7 +896,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/glucoberry-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -958,7 +927,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/prime-male-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -989,7 +958,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/leanbiome-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1020,7 +989,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/prostadine-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1051,7 +1020,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/qualia-mind-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1082,7 +1051,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/prodentim-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1113,7 +1082,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/amiclear-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1144,7 +1113,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/ikaria-lean-belly-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1175,7 +1144,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/resurge-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -1206,7 +1175,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/testo-prime-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2074,7 +2043,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/exipure-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2105,7 +2074,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/nooceptin-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2136,7 +2105,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/sight-care-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2198,7 +2167,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/java-burn-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2229,7 +2198,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/skin-cell-pro-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2260,7 +2229,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/bioptimizers-mag-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2291,7 +2260,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/anvarol-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2322,7 +2291,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/revive-daily-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2353,7 +2322,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/mind-lab-pro-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2384,7 +2353,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/manifestation-magic-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2415,7 +2384,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/crypto-ultimatum-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2446,7 +2415,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/alpha-brain-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2477,7 +2446,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/bio-complete-3-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2508,7 +2477,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/7-figure-wealth-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2539,7 +2508,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/customketo-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2570,7 +2539,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/mood-boost-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2601,7 +2570,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/glucofort-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2632,7 +2601,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/max-performer-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2663,7 +2632,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/diabetes-freedom-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2694,7 +2663,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/keto-cycle-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2849,7 +2818,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/ignite-drops-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2880,7 +2849,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/nerve-regen-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2911,7 +2880,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/male-extra-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2942,7 +2911,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/halki-diabetes-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -2973,7 +2942,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/clickbank-university-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3004,7 +2973,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/ex-factor-guide-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3035,7 +3004,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/teaburn-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3221,7 +3190,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/sumatra-slim-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3252,7 +3221,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/protoflow-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3283,7 +3252,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/testonine-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3314,7 +3283,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/visisharp-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3345,7 +3314,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/alive-after-fall-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3407,7 +3376,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/gluco-shield-pro-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3438,7 +3407,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/blood-sugar-premier-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3562,7 +3531,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/protetox-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3593,7 +3562,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/neuropathy-support-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3624,7 +3593,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/brilliance-sf-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3655,7 +3624,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/synogut-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3686,7 +3655,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/vision-20-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3717,7 +3686,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/mend-the-bond-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3748,7 +3717,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/javaburn-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3779,7 +3748,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/altai-balance-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3810,7 +3779,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/gut-vita-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3841,7 +3810,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/okinawa-flat-belly-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3872,7 +3841,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/genie-script-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3903,7 +3872,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/folifort-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3934,7 +3903,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/balanced-slim-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3965,7 +3934,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/mycosyn-pro-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -3996,7 +3965,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/15-minute-manifestation-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4027,7 +3996,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/nervefresh-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4182,7 +4151,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/metabo-flex-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4213,7 +4182,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/sleep-slim-tea-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4244,7 +4213,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/youthful-brain-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4275,7 +4244,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/biome-breakthrough-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4306,7 +4275,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/nano-defense-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4337,7 +4306,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/thyroid-support-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4399,7 +4368,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/glucolean-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4430,7 +4399,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/derma-prime-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4461,7 +4430,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/restolin-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4492,7 +4461,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/her-secret-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4523,7 +4492,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/thyromine-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4554,7 +4523,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/medical-kit-guide-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4709,7 +4678,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/ageless-body-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4740,7 +4709,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/immunity-911-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4802,7 +4771,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/trim-keto-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4833,7 +4802,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/dream-hero-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4864,7 +4833,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/primal-coffee-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4895,7 +4864,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/hair-revital-x-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4926,7 +4895,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/nurturive-her-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4957,7 +4926,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/stress-guard-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -4988,7 +4957,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/numerology-reading-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5050,7 +5019,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/keto-elevate-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5081,7 +5050,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/lunar-sleep-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5112,7 +5081,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/lean-coffee-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5143,7 +5112,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/neuro-ignite-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5174,7 +5143,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/serenol-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5205,7 +5174,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/javita-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5236,7 +5205,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/creatine-hcl-pro-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5267,7 +5236,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/total-parenting-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5329,7 +5298,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/mocca-slim-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5484,7 +5453,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/keto-breads-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5515,7 +5484,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/child-mind-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5639,7 +5608,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/kiss-my-keto-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -5763,7 +5732,7 @@
       "price": "",
       "amazon_rating": "",
       "url": "https://blind-accountability-strengthen-expectations.trycloudflare.com/smoothdiet-review.html",
-      "page_exists": false,
+      "page_exists": true,
       "image_url": ""
     },
     {
@@ -6232,6 +6201,6 @@
       "image_url": ""
     }
   ],
-  "total": 201,
-  "generated_at": "2026-03-23T17:23:07.243971+00:00"
+  "total": 200,
+  "generated_at": "2026-03-23T17:44:37.720154+00:00"
 }
