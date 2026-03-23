@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BecaWell Reviews — Real Research. Honest Reviews. Smart Amazon Picks.</title>
+<meta name="description" content="We research and rank the best Amazon products so you don't have to. Prime-eligible picks across Beauty, Fitness, Kitchen, Home, Sleep, Pets, and Travel. Updated 2026.">
+<link rel="canonical" href="https://becabotinha-boop.github.io/becawell-reviews/">
+<meta property="og:title" content="BecaWell Reviews — Smart Amazon Picks 2026">
+<meta property="og:description" content="Real Research. Honest Reviews. Smart Amazon Picks.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://becabotinha-boop.github.io/becawell-reviews/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="pinterest-rich-pin" content="true">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "BecaWell Reviews",
+  "url": "https://becabotinha-boop.github.io/becawell-reviews/",
+  "description": "Real Research. Honest Reviews. Smart Amazon Picks.",
+  "author": {"@type": "Organization", "name": "BecaWell Research Team"}
+}
+</script>
+<link rel="stylesheet" href="https://becabotinha-boop.github.io/becawell-reviews/assets/style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a class="nav-logo" href="https://becabotinha-boop.github.io/becawell-reviews/">BecaWell Reviews</a>
+    <div class="nav-links">
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/">Home</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html">Beauty</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html">Fitness</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html">Kitchen</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html">Home &amp; Garden</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-sleep.html">Sleep</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html">Pets</a>
+      <a href="https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html">Travel</a>
+    </div>
+  </div>
+</nav>
+
+<!-- FTC DISCLOSURE -->
+<div class="ftc" style="max-width:var(--max-w-wide);margin:0 auto var(--space-8);padding:var(--space-12) var(--space-24)">
+  <strong>Disclosure:</strong> This site participates in the Amazon Associates Program. I earn a small commission on qualifying purchases at no extra cost to you. All reviews are based on independent research. <a href="disclaimer.html">Full Disclaimer</a>
+</div>
+
+<!-- HERO -->
+<div class="hero index-hero">
+  <div class="hero-inner">
+    <div class="hero-badge">Amazon Associate &middot; Verified Research</div>
+    <h1>The Products Worth<br>Your Money</h1>
+    <p class="hero-tagline">Honest research. Amazon verified. Prime eligible.</p>
+    <a class="cta-btn" href="#reviews">Browse All Picks &darr;</a>
+  </div>
+</div>
+
+<!-- FILTER + GRIDS -->
+<div class="page-wrap page-wrap--wide" style="padding-top:0">
+<div class="filter-tabs-wrap" id="reviews">
+  <div class="filter-tabs">
+    <button class="filter-tab active" data-niche="all">All ({{ total }})</button>
+    {% for niche, label in niches %}
+    <button class="filter-tab" data-niche="{{ niche }}">{{ label }}</button>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- TOP PICKS -->
+{% set top_picks = products | selectattr("tier", "equalto", "A") | list %}
+{% if top_picks %}
+<section id="top-picks">
+  <h2 class="section-title">Top Picks &mdash; Editor's Choice</h2>
+  <div class="product-grid">
+    {% for p in top_picks[:6] %}
+    <a class="product-card" href="{{ p.slug }}-review.html" data-niche="{{ p.niche }}">
+      <div class="card-header">
+        <span class="badge badge--a">Top Pick</span>
+        <span class="niche-label">{{ p.niche_label | default(p.niche) }}</span>
+      </div>
+      {% if p.is_amazon %}
+      <div class="prime-badge">Prime &middot; Fast &amp; Free Shipping</div>
+      {% endif %}
+      <div class="card-title">{{ p.name }}</div>
+      <div class="card-score">
+        {% if p.amazon_rating %}
+        <span class="stars">{{ p.amazon_rating }}</span>
+        {% else %}
+        <span class="stars">
+          {% set stars = p.rating.stars | default(5) %}
+          {% for i in range(stars) %}&#9733;{% endfor %}
+          {% for i in range(5 - stars) %}&#9734;{% endfor %}
+        </span>
+        <span class="text-small text-muted">{{ p.rating.display | default("4.5/5") }}</span>
+        {% endif %}
+        {% if p.amz_r %}
+        <span class="text-small text-muted">({{ p.amz_r }})</span>
+        {% endif %}
+      </div>
+      {% if p.price %}
+      <div class="price-tag" style="margin-top:auto;margin-bottom:0">
+        <span class="price">{{ p.price }}</span>
+      </div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<!-- ALL REVIEWS GRID -->
+<section style="margin-top:var(--space-32)">
+  <h2 class="section-title">All Reviews</h2>
+  <div class="product-grid" id="productGrid">
+    {% for p in products %}
+    <a class="product-card" href="{{ p.slug }}-review.html" data-niche="{{ p.niche }}">
+      <div class="card-header">
+        <span class="badge badge--{{ p.tier | lower }}">Tier {{ p.tier }}</span>
+        <span class="niche-label">{{ p.niche_label | default(p.niche) }}</span>
+      </div>
+      {% if p.is_amazon %}
+      <div class="prime-badge">Prime</div>
+      {% endif %}
+      <div class="card-title">{{ p.name }}</div>
+      <div class="card-score">
+        {% if p.amazon_rating %}
+        <span class="stars">{{ p.amazon_rating }}</span>
+        {% else %}
+        <span class="stars">
+          {% set stars = p.rating.stars | default(5) %}
+          {% for i in range(stars) %}&#9733;{% endfor %}
+          {% for i in range(5 - stars) %}&#9734;{% endfor %}
+        </span>
+        <span class="text-small text-muted">{{ p.rating.display | default("4.5/5") }}</span>
+        {% endif %}
+        {% if p.amz_r %}
+        <span class="text-small text-muted">({{ p.amz_r }})</span>
+        {% endif %}
+      </div>
+      {% if p.price %}
+      <div style="margin-top:auto;padding-top:var(--space-8)">
+        <span class="price-inline">{{ p.price }}</span>
+      </div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <h3>BecaWell Reviews</h3>
+      <p>We research and rank the best Amazon products so you don&apos;t have to. {{ total }} products reviewed. Updated {{ generated_at[:10] }}.</p>
+      <p>As an Amazon Associate, I earn from qualifying purchases.</p>
+    </div>
+    <div class="footer-links">
+      <h4>Categories</h4>
+      <ul>
+        <li><a href="collection-amazon-beauty.html">Beauty</a></li>
+        <li><a href="collection-amazon-fitness.html">Fitness</a></li>
+        <li><a href="collection-amazon-kitchen.html">Kitchen</a></li>
+        <li><a href="collection-amazon-home.html">Home &amp; Garden</a></li>
+        <li><a href="collection-amazon-sleep.html">Sleep</a></li>
+        <li><a href="collection-amazon-pets.html">Pets</a></li>
+        <li><a href="collection-amazon-travel.html">Travel</a></li>
+      </ul>
+    </div>
+    <div class="footer-links">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="disclaimer.html">Disclaimer</a></li>
+      </ul>
+    </div>
+    <div class="footer-legal">
+      As an Amazon Associate I earn from qualifying purchases. Amazon, the Amazon logo, and Prime are trademarks of Amazon.com, Inc. or its affiliates. Product prices and availability are subject to change.
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2026 BecaWell Reviews &middot; Amazon Associate &middot; We earn commissions from qualifying purchases.</p>
+  </div>
+</footer>
+
+<script src="https://becabotinha-boop.github.io/becawell-reviews/assets/app.js"></script>
+<script>
+document.querySelectorAll('.filter-tab').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-tab').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var niche = btn.dataset.niche;
+    document.querySelectorAll('#productGrid .product-card').forEach(function(card) {
+      card.style.display = (niche === 'all' || card.dataset.niche === niche) ? '' : 'none';
+    });
+  });
+});
+</script>
+</body>
+</html>

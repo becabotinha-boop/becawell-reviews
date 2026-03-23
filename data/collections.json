@@ -1,0 +1,504 @@
+{
+  "collections": [
+    {
+      "id": "anime_collectibles",
+      "slug": "anime-collectibles",
+      "label": "Anime Collectibles",
+      "keyword": "anime collectibles aliexpress",
+      "board": "Anime Finds",
+      "product_count": 10,
+      "top_products": [
+        "ae_1005008438225768",
+        "ae_1005009325887249",
+        "ae_1005008635835302",
+        "ae_1005008635845307",
+        "ae_1005008635689563",
+        "ae_1005009382186355",
+        "ae_1005008635834286",
+        "ae_1005008443064194",
+        "ae_1005008442965540",
+        "ae_1005010562174593"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-anime-collectibles.html"
+    },
+    {
+      "id": "jewelry",
+      "slug": "jewelry",
+      "label": "Jewelry",
+      "keyword": "jewelry aliexpress",
+      "board": "Jewelry Finds",
+      "product_count": 9,
+      "top_products": [
+        "ae_1005007156281263",
+        "ae_1005006995789811",
+        "ae_1005008334857246",
+        "ae_1005004205221279",
+        "ae_32835895809",
+        "ae_1005004720895061",
+        "ae_1005008897453336",
+        "ae_1005005260648961",
+        "ae_1005009965055372"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-jewelry.html"
+    },
+    {
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty amazon",
+      "board": "Amazon Beauty Finds",
+      "product_count": 9,
+      "top_products": [
+        "facial_cleansing_brush",
+        "hair_curler_auto",
+        "led_face_mask",
+        "amazon_nuface_mini",
+        "amazon_laneige_lip_mask",
+        "amazon_solawave_wand",
+        "amazon_revlon_volumizer",
+        "amazon_truskin_vitamin_c",
+        "amazon_mighty_patch"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-beauty.html"
+    },
+    {
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "label": "Fitness Equipment",
+      "keyword": "fitness amazon",
+      "board": "Home Fitness Finds",
+      "product_count": 5,
+      "top_products": [
+        "jump_rope_pro",
+        "adjustable_dumbbells",
+        "resistance_bands",
+        "amazon_theragun_mini",
+        "amazon_owala_freesip"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-fitness.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "label": "Electronics & Audio",
+      "keyword": "electronics aliexpress deals",
+      "board": "Electronics Finds",
+      "product_count": 4,
+      "top_products": [
+        "ae_1005007568176613",
+        "ae_1005009014580579",
+        "ae_1005010251027274",
+        "ae_1005008616015631"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-electronics-audio.html"
+    },
+    {
+      "id": "amazon_kitchen",
+      "slug": "amazon-kitchen",
+      "label": "Kitchen Gadgets",
+      "keyword": "kitchen gadgets amazon",
+      "board": "Kitchen Finds",
+      "product_count": 4,
+      "top_products": [
+        "meal_prep_containers",
+        "vegetable_chopper",
+        "air_fryer",
+        "amazon_fullstar_chopper"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-kitchen.html"
+    },
+    {
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "label": "Outdoor Gear",
+      "keyword": "outdoor gear deals",
+      "board": "Outdoor Gear Finds",
+      "product_count": 3,
+      "top_products": [
+        "ae_1005007341990710",
+        "ae_1005009762835151",
+        "ae_1005007484673961"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-outdoor-gear.html"
+    },
+    {
+      "id": "home_decor",
+      "slug": "home-decor",
+      "label": "Home Decor",
+      "keyword": "home decor aliexpress",
+      "board": "Home Decor Finds",
+      "product_count": 3,
+      "top_products": [
+        "ae_1005007573820052",
+        "ae_1005007273995598",
+        "ae_1005007316134477"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-decor.html"
+    },
+    {
+      "id": "beauty_skincare",
+      "slug": "beauty-skincare",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty skincare aliexpress",
+      "board": "Beauty Skincare Finds",
+      "product_count": 3,
+      "top_products": [
+        "ae_1005006479918994",
+        "ae_1005009205623449",
+        "ae_1005008006229286"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-beauty-skincare.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "under_sink_organizer",
+        "storage_box_system"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "soccer_training_cones",
+        "soccer_rebounder",
+        "agility_ladder"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-soccer.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "label": "AliExpress Deals",
+      "keyword": "aliexpress deals 2026",
+      "board": "AliExpress Finds",
+      "product_count": 2,
+      "top_products": [
+        "ae_anniversary_sale_2025",
+        "ae_1005006046732740"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-aliexpress-deals.html"
+    },
+    {
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "label": "Amazon Car",
+      "keyword": "amazon car",
+      "board": "Amazon Car Finds",
+      "product_count": 2,
+      "top_products": [
+        "car_phone_mount",
+        "portable_car_vacuum"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-car.html"
+    },
+    {
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "label": "Amazon Pets",
+      "keyword": "amazon pets",
+      "board": "Amazon Pets Finds",
+      "product_count": 2,
+      "top_products": [
+        "auto_pet_feeder",
+        "dog_training_collar"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-pets.html"
+    },
+    {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "label": "Amazon Productivity",
+      "keyword": "amazon productivity",
+      "board": "Amazon Productivity Finds",
+      "product_count": 2,
+      "top_products": [
+        "blue_light_glasses",
+        "standing_desk_converter"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-productivity.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "label": "Amazon Creator",
+      "keyword": "amazon creator",
+      "board": "Amazon Creator Finds",
+      "product_count": 2,
+      "top_products": [
+        "phone_tripod",
+        "ring_light"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-creator.html"
+    },
+    {
+      "id": "amazon_travel",
+      "slug": "amazon-travel",
+      "label": "Amazon Travel",
+      "keyword": "amazon travel",
+      "board": "Amazon Travel Finds",
+      "product_count": 2,
+      "top_products": [
+        "packing_cubes",
+        "travel_backpack"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-travel.html"
+    },
+    {
+      "id": "fragrance",
+      "slug": "fragrance",
+      "label": "Fragrance",
+      "keyword": "perfume aliexpress deals",
+      "board": "Fragrance Finds",
+      "product_count": 2,
+      "top_products": [
+        "ae_1005008987706323",
+        "ae_1005008798177162"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-fragrance.html"
+    },
+    {
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "label": "Home Electronics",
+      "keyword": "home electronics aliexpress",
+      "board": "Home Electronics Finds",
+      "product_count": 2,
+      "top_products": [
+        "ae_1005005694176122",
+        "ae_4000081470399"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-electronics.html"
+    },
+    {
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "label": "Family Fashion",
+      "keyword": "family fashion aliexpress",
+      "board": "Family Fashion Finds",
+      "product_count": 2,
+      "top_products": [
+        "ae_1005009717134661",
+        "ae_1005009715939885"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-family-fashion.html"
+    },
+    {
+      "id": "retro_gaming",
+      "slug": "retro-gaming",
+      "label": "Retro Gaming",
+      "keyword": "retro gaming aliexpress",
+      "board": "Retro Gaming Finds",
+      "product_count": 2,
+      "top_products": [
+        "ae_1005006423791000",
+        "ae_1005001952399668"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-retro-gaming.html"
+    },
+    {
+      "id": "home_wellness",
+      "slug": "home-wellness",
+      "label": "Home Wellness",
+      "keyword": "home wellness gadgets",
+      "board": "Home Wellness Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007527811142"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-wellness.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "label": "Home Improvement",
+      "keyword": "home improvement tools",
+      "board": "Home Improvement Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006926453576"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-improvement.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "label": "Car Accessories",
+      "keyword": "car accessories aliexpress",
+      "board": "Car Accessories Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006332093484"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-car-accessories.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "label": "Grooming Tools",
+      "keyword": "grooming tools aliexpress",
+      "board": "Grooming Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006930863642"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-grooming-tools.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "label": "Amazon Tech",
+      "keyword": "amazon tech",
+      "board": "Amazon Tech Finds",
+      "product_count": 1,
+      "top_products": [
+        "wireless_earbuds"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-tech.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "label": "Beauty & Grooming",
+      "keyword": "beauty grooming aliexpress",
+      "board": "Beauty Grooming Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007205112799"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-beauty-grooming.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "label": "Toys & Gadgets",
+      "keyword": "toys gadgets aliexpress",
+      "board": "Toy & Gadget Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005928117831"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-toys-gadgets.html"
+    },
+    {
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
+      "label": "Fitness & Wellness",
+      "keyword": "fitness aliexpress deals",
+      "board": "Fitness Wellness Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005856471552"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-fitness-wellness.html"
+    },
+    {
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "label": "Home Textiles",
+      "keyword": "home textiles aliexpress",
+      "board": "Home Textile Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006736492092"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-textiles.html"
+    },
+    {
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "label": "Home Appliances",
+      "keyword": "home appliances aliexpress",
+      "board": "Home Appliance Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005009195449913"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-home-appliances.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "label": "Garden Tools",
+      "keyword": "garden tools aliexpress",
+      "board": "Garden Tool Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007266454048"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-garden-tools.html"
+    },
+    {
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "label": "Fashion Shoes",
+      "keyword": "fashion shoes aliexpress",
+      "board": "Fashion Shoe Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006216058777"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-fashion-shoes.html"
+    },
+    {
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "label": "Sports & Cycling",
+      "keyword": "sports cycling aliexpress",
+      "board": "Sports Cycling Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005008391982804"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-sports-cycling.html"
+    },
+    {
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
+      "label": "Sleep Products",
+      "keyword": "sleep amazon",
+      "board": "Sleep Essentials",
+      "product_count": 1,
+      "top_products": [
+        "amazon_hatch_restore"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-amazon-sleep.html"
+    },
+    {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "label": "Sports Shoes",
+      "keyword": "sports shoes aliexpress",
+      "board": "Sports Shoe Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005008453643216"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-sports-shoes.html"
+    },
+    {
+      "id": "beauty_wigs",
+      "slug": "beauty-wigs",
+      "label": "Hair & Wigs",
+      "keyword": "wigs aliexpress deals",
+      "board": "Hair Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005008852560175"
+      ],
+      "url": "https://3adbf9c9b38c2a84-45-165-22-94.serveousercontent.com/collection-beauty-wigs.html"
+    }
+  ],
+  "total": 37
+}

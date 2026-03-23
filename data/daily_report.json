@@ -1,0 +1,27 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T11:39:56.198766+00:00",
+  "status": "WARNING",
+  "metrics": {
+    "hops": 63,
+    "sales": 0,
+    "revenue": 0.0
+  },
+  "failures": 213,
+  "failure_types": [
+    "creative_failure",
+    "trust_failure"
+  ],
+  "pages_built": 242,
+  "pins_posted_today": 0,
+  "deploy_ok": 0,
+  "actions_taken": [
+    "trust_engine_applied"
+  ],
+  "top_priority": "trust_failure",
+  "next_steps": [
+    "Add 3+ testimonial blocks with specific results (not generic)",
+    "Add \"As Seen On\" or authority markers near the top",
+    "Display star rating prominently (4.5+ stars)"
+  ]
+}
