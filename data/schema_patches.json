@@ -1,100 +1,12 @@
 {
   "patches": [
     {
-      "product_id": "ae_1005006332093484",
-      "slug": "ae-1005006332093484",
+      "product_id": "ae_1005007273995598",
+      "slug": "ae-1005007273995598",
       "schema": {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "Magnetic Car Phone Holder Universal Car Phone Stand for iPhone Xiaomi Huawei Sam",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007341990710",
-      "slug": "ae-1005007341990710",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Men's Waterproof Large Capacity Fanny Pack Adjustable Strap For Outdoor Activiti",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005006926453576",
-      "slug": "ae-1005006926453576",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ultra-strong Double Sided Adhesive Monster Tape Home Appliance Waterproof Wall S",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007527811142",
-      "slug": "ae-1005007527811142",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aro",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_anniversary_sale_2025",
-      "slug": "ae-anniversary-sale-2025",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "AliExpress Anniversary Sale Up to 80 Pct Off 03/16-03/25",
+        "name": "Book Light LED Moon Light Galaxy Light Moon Night Light Girl Boy Child Birthday ",
         "description": "",
         "review": {
           "@type": "Review",
@@ -133,12 +45,34 @@
       }
     },
     {
-      "product_id": "ae_1005007156281263",
-      "slug": "ae-1005007156281263",
+      "product_id": "ae_1005007341990710",
+      "slug": "ae-1005007341990710",
       "schema": {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "2025 2000X25 HD Monocular Telescope Compact Portable for Travel Hiking Fishing C",
+        "name": "Men's Waterproof Large Capacity Fanny Pack Adjustable Strap For Outdoor Activiti",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_anniversary_sale_2025",
+      "slug": "ae-anniversary-sale-2025",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "AliExpress Anniversary Sale Up to 80 Pct Off 03/16-03/25",
         "description": "",
         "review": {
           "@type": "Review",
@@ -161,6 +95,116 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "High Strong Power Led Flashlights 2000LM Tactical Torch with Display Light USB C",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005006332093484",
+      "slug": "ae-1005006332093484",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Magnetic Car Phone Holder Universal Car Phone Stand for iPhone Xiaomi Huawei Sam",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007527811142",
+      "slug": "ae-1005007527811142",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aro",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005007156281263",
+      "slug": "ae-1005007156281263",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "2025 2000X25 HD Monocular Telescope Compact Portable for Travel Hiking Fishing C",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "ae_1005006926453576",
+      "slug": "ae-1005006926453576",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Ultra-strong Double Sided Adhesive Monster Tape Home Appliance Waterproof Wall S",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Meal Prep Containers 20-Pack",
         "description": "",
         "review": {
           "@type": "Review",
@@ -243,72 +287,6 @@
       }
     },
     {
-      "product_id": "ae_1005006479918994",
-      "slug": "ae-1005006479918994",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Lip Balm Healing Moisturizing All-natural Lip Mask For Dry Lips Lip Moisturizing",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "ae_1005007273995598",
-      "slug": "ae-1005007273995598",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Book Light LED Moon Light Galaxy Light Moon Night Light Girl Boy Child Birthday ",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "meal_prep_containers",
-      "slug": "meal-prep-containers",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Meal Prep Containers 20-Pack",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
       "product_id": "hair_curler_auto",
       "slug": "hair-curler-auto",
       "schema": {
@@ -353,56 +331,12 @@
       }
     },
     {
-      "product_id": "facial_cleansing_brush",
-      "slug": "facial-cleansing-brush",
+      "product_id": "ae_1005006479918994",
+      "slug": "ae-1005006479918994",
       "schema": {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "Sonic Facial Cleansing Brush",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "adjustable_dumbbells",
-      "slug": "adjustable-dumbbells",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Adjustable Dumbbell Set",
-        "description": "",
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{score}",
-            "bestRating": "100"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "BecaWell Reviews"
-          }
-        }
-      }
-    },
-    {
-      "product_id": "jump_rope_pro",
-      "slug": "jump-rope-pro",
-      "schema": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Weighted Jump Rope Pro",
+        "name": "Lip Balm Healing Moisturizing All-natural Lip Mask For Dry Lips Lip Moisturizing",
         "description": "",
         "review": {
           "@type": "Review",
@@ -689,6 +623,72 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cordless Car Vacuum 20Kpa",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "facial_cleansing_brush",
+      "slug": "facial-cleansing-brush",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sonic Facial Cleansing Brush",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "adjustable_dumbbells",
+      "slug": "adjustable-dumbbells",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Adjustable Dumbbell Set",
+        "description": "",
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{score}",
+            "bestRating": "100"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BecaWell Reviews"
+          }
+        }
+      }
+    },
+    {
+      "product_id": "jump_rope_pro",
+      "slug": "jump-rope-pro",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Weighted Jump Rope Pro",
         "description": "",
         "review": {
           "@type": "Review",
@@ -2025,5 +2025,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-23T14:14:16.297309+00:00"
+  "updated_at": "2026-03-23T19:47:05.929558+00:00"
 }
