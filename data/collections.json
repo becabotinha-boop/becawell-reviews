@@ -12,14 +12,14 @@
         "ae_1005008442965540",
         "ae_1005008438225768",
         "ae_1005008635845307",
-        "ae_1005008443064194",
-        "ae_1005009382186355",
-        "ae_1005008635689563",
         "ae_1005008635835302",
         "ae_1005008635834286",
-        "ae_1005009325887249"
+        "ae_1005008443064194",
+        "ae_1005009382186355",
+        "ae_1005009325887249",
+        "ae_1005008635689563"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime-collectibles.html"
+      "url": "https://api.trycloudflare.com/collection-anime-collectibles.html"
     },
     {
       "id": "amazon_beauty",
@@ -36,10 +36,10 @@
         "amazon_truskin_vitamin_c",
         "amazon_mighty_patch",
         "facial_cleansing_brush",
-        "hair_curler_auto",
-        "led_face_mask"
+        "led_face_mask",
+        "hair_curler_auto"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-beauty.html"
     },
     {
       "id": "jewelry",
@@ -55,11 +55,11 @@
         "ae_1005008897453336",
         "ae_1005004205221279",
         "ae_32835895809",
-        "ae_1005006995789811",
         "ae_1005007156281263",
-        "ae_1005008334857246"
+        "ae_1005008334857246",
+        "ae_1005006995789811"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
+      "url": "https://api.trycloudflare.com/collection-jewelry.html"
     },
     {
       "id": "amazon_fitness",
@@ -75,7 +75,7 @@
         "jump_rope_pro",
         "adjustable_dumbbells"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-fitness.html"
     },
     {
       "id": "amazon_kitchen",
@@ -86,11 +86,11 @@
       "product_count": 4,
       "top_products": [
         "amazon_fullstar_chopper",
-        "vegetable_chopper",
+        "air_fryer",
         "meal_prep_containers",
-        "air_fryer"
+        "vegetable_chopper"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-kitchen.html"
     },
     {
       "id": "electronics_audio",
@@ -102,10 +102,10 @@
       "top_products": [
         "ae_1005008616015631",
         "ae_1005010251027274",
-        "ae_1005007568176613",
-        "ae_1005009014580579"
+        "ae_1005009014580579",
+        "ae_1005007568176613"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics-audio.html"
+      "url": "https://api.trycloudflare.com/collection-electronics-audio.html"
     },
     {
       "id": "beauty_skincare",
@@ -119,21 +119,7 @@
         "ae_1005009205623449",
         "ae_1005006479918994"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-skincare.html"
-    },
-    {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
-      "product_count": 3,
-      "top_products": [
-        "soccer_rebounder",
-        "agility_ladder",
-        "soccer_training_cones"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
+      "url": "https://api.trycloudflare.com/collection-beauty-skincare.html"
     },
     {
       "id": "amazon_home",
@@ -143,11 +129,25 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "closet_organizer",
         "under_sink_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "closet_organizer"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "agility_ladder",
+        "soccer_rebounder",
+        "soccer_training_cones"
+      ],
+      "url": "https://api.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
       "id": "home_decor",
@@ -161,7 +161,7 @@
         "ae_1005007316134477",
         "ae_1005007573820052"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-decor.html"
+      "url": "https://api.trycloudflare.com/collection-home-decor.html"
     },
     {
       "id": "outdoor_gear",
@@ -171,11 +171,11 @@
       "board": "Outdoor Gear Finds",
       "product_count": 3,
       "top_products": [
+        "ae_1005009762835151",
         "ae_1005007341990710",
-        "ae_1005007484673961",
-        "ae_1005009762835151"
+        "ae_1005007484673961"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-outdoor-gear.html"
+      "url": "https://api.trycloudflare.com/collection-outdoor-gear.html"
     },
     {
       "id": "aliexpress_deals",
@@ -188,7 +188,7 @@
         "ae_anniversary_sale_2025",
         "ae_1005006046732740"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-aliexpress-deals.html"
+      "url": "https://api.trycloudflare.com/collection-aliexpress-deals.html"
     },
     {
       "id": "retro_gaming",
@@ -201,7 +201,7 @@
         "ae_1005006423791000",
         "ae_1005001952399668"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-retro-gaming.html"
+      "url": "https://api.trycloudflare.com/collection-retro-gaming.html"
     },
     {
       "id": "amazon_productivity",
@@ -214,7 +214,7 @@
         "blue_light_glasses",
         "standing_desk_converter"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-productivity.html"
     },
     {
       "id": "family_fashion",
@@ -227,7 +227,7 @@
         "ae_1005009715939885",
         "ae_1005009717134661"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family-fashion.html"
+      "url": "https://api.trycloudflare.com/collection-family-fashion.html"
     },
     {
       "id": "amazon_travel",
@@ -237,10 +237,10 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-travel.html"
     },
     {
       "id": "home_electronics",
@@ -253,7 +253,7 @@
         "ae_4000081470399",
         "ae_1005005694176122"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-electronics.html"
+      "url": "https://api.trycloudflare.com/collection-home-electronics.html"
     },
     {
       "id": "amazon_pets",
@@ -263,10 +263,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-pets.html"
     },
     {
       "id": "fragrance",
@@ -279,7 +279,7 @@
         "ae_1005008798177162",
         "ae_1005008987706323"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
+      "url": "https://api.trycloudflare.com/collection-fragrance.html"
     },
     {
       "id": "amazon_creator",
@@ -289,10 +289,10 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-creator.html"
     },
     {
       "id": "amazon_car",
@@ -305,7 +305,7 @@
         "car_phone_mount",
         "portable_car_vacuum"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-car.html"
     },
     {
       "id": "amazon_sleep",
@@ -317,7 +317,7 @@
       "top_products": [
         "amazon_hatch_restore"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-sleep.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-sleep.html"
     },
     {
       "id": "sports_shoes",
@@ -329,7 +329,7 @@
       "top_products": [
         "ae_1005008453643216"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports-shoes.html"
+      "url": "https://api.trycloudflare.com/collection-sports-shoes.html"
     },
     {
       "id": "beauty_wigs",
@@ -341,7 +341,7 @@
       "top_products": [
         "ae_1005008852560175"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-wigs.html"
+      "url": "https://api.trycloudflare.com/collection-beauty-wigs.html"
     },
     {
       "id": "fashion_shoes",
@@ -353,7 +353,7 @@
       "top_products": [
         "ae_1005006216058777"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion-shoes.html"
+      "url": "https://api.trycloudflare.com/collection-fashion-shoes.html"
     },
     {
       "id": "amazon_tech",
@@ -365,67 +365,7 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "label": "Sports & Cycling",
-      "keyword": "sports cycling aliexpress",
-      "board": "Sports Cycling Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005008391982804"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports-cycling.html"
-    },
-    {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "label": "Toys & Gadgets",
-      "keyword": "toys gadgets aliexpress",
-      "board": "Toy & Gadget Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005005928117831"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys-gadgets.html"
-    },
-    {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "label": "Beauty & Grooming",
-      "keyword": "beauty grooming aliexpress",
-      "board": "Beauty Grooming Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005007205112799"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-grooming.html"
-    },
-    {
-      "id": "fitness_wellness",
-      "slug": "fitness-wellness",
-      "label": "Fitness & Wellness",
-      "keyword": "fitness aliexpress deals",
-      "board": "Fitness Wellness Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005005856471552"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness-wellness.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "label": "Home Improvement",
-      "keyword": "home improvement tools",
-      "board": "Home Improvement Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005006926453576"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-improvement.html"
+      "url": "https://api.trycloudflare.com/collection-amazon-tech.html"
     },
     {
       "id": "home_appliances",
@@ -437,19 +377,31 @@
       "top_products": [
         "ae_1005009195449913"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-appliances.html"
+      "url": "https://api.trycloudflare.com/collection-home-appliances.html"
     },
     {
-      "id": "car_accessories",
-      "slug": "car-accessories",
-      "label": "Car Accessories",
-      "keyword": "car accessories aliexpress",
-      "board": "Car Accessories Finds",
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "label": "Sports & Cycling",
+      "keyword": "sports cycling aliexpress",
+      "board": "Sports Cycling Finds",
       "product_count": 1,
       "top_products": [
-        "ae_1005006332093484"
+        "ae_1005008391982804"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-car-accessories.html"
+      "url": "https://api.trycloudflare.com/collection-sports-cycling.html"
+    },
+    {
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
+      "label": "Fitness & Wellness",
+      "keyword": "fitness aliexpress deals",
+      "board": "Fitness Wellness Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005856471552"
+      ],
+      "url": "https://api.trycloudflare.com/collection-fitness-wellness.html"
     },
     {
       "id": "home_textiles",
@@ -461,7 +413,19 @@
       "top_products": [
         "ae_1005006736492092"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-textiles.html"
+      "url": "https://api.trycloudflare.com/collection-home-textiles.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "label": "Car Accessories",
+      "keyword": "car accessories aliexpress",
+      "board": "Car Accessories Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006332093484"
+      ],
+      "url": "https://api.trycloudflare.com/collection-car-accessories.html"
     },
     {
       "id": "home_wellness",
@@ -473,7 +437,19 @@
       "top_products": [
         "ae_1005007527811142"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-wellness.html"
+      "url": "https://api.trycloudflare.com/collection-home-wellness.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "label": "Toys & Gadgets",
+      "keyword": "toys gadgets aliexpress",
+      "board": "Toy & Gadget Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005928117831"
+      ],
+      "url": "https://api.trycloudflare.com/collection-toys-gadgets.html"
     },
     {
       "id": "garden_tools",
@@ -485,7 +461,19 @@
       "top_products": [
         "ae_1005007266454048"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden-tools.html"
+      "url": "https://api.trycloudflare.com/collection-garden-tools.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "label": "Beauty & Grooming",
+      "keyword": "beauty grooming aliexpress",
+      "board": "Beauty Grooming Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007205112799"
+      ],
+      "url": "https://api.trycloudflare.com/collection-beauty-grooming.html"
     },
     {
       "id": "grooming_tools",
@@ -497,7 +485,19 @@
       "top_products": [
         "ae_1005006930863642"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming-tools.html"
+      "url": "https://api.trycloudflare.com/collection-grooming-tools.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "label": "Home Improvement",
+      "keyword": "home improvement tools",
+      "board": "Home Improvement Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006926453576"
+      ],
+      "url": "https://api.trycloudflare.com/collection-home-improvement.html"
     }
   ],
   "total": 37
