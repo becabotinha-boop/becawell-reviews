@@ -22,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "vegetable_chopper",
+        "air_fryer",
         "meal_prep_containers",
-        "air_fryer"
+        "vegetable_chopper"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
@@ -37,8 +37,8 @@
       "product_count": 3,
       "top_products": [
         "resistance_bands",
-        "adjustable_dumbbells",
-        "jump_rope_pro"
+        "jump_rope_pro",
+        "adjustable_dumbbells"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
@@ -51,8 +51,8 @@
       "product_count": 3,
       "top_products": [
         "soccer_training_cones",
-        "agility_ladder",
-        "soccer_rebounder"
+        "soccer_rebounder",
+        "agility_ladder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
@@ -64,9 +64,9 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "storage_box_system",
+        "under_sink_organizer",
         "closet_organizer",
-        "under_sink_organizer"
+        "storage_box_system"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
     },
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
     },
