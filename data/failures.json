@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T19:35:23.807499+00:00",
-  "total_failures": 8,
+  "generated_at": "2026-03-24T12:35:48.338799+00:00",
+  "total_failures": 1,
   "critical_count": 0,
   "top_priority": {
     "id": "global_low_cvr",
@@ -21,7 +21,7 @@
       "Remove hype words: \"miracle\", \"magic\", \"guaranteed results\""
     ],
     "priority": 2,
-    "detected_at": "2026-03-23T19:35:23.807499+00:00"
+    "detected_at": "2026-03-24T12:35:48.338799+00:00"
   },
   "failures": [
     {
@@ -43,154 +43,7 @@
         "Remove hype words: \"miracle\", \"magic\", \"guaranteed results\""
       ],
       "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
-    },
-    {
-      "id": "creative_unknown_",
-      "type": "creative_failure",
-      "severity": "medium",
-      "metric": {
-        "engagement_rate": 0.0,
-        "saves": 0
-      },
-      "product_id": "unknown",
-      "root_cause": "CTR < 1% — pin visuals or hook not working",
-      "fixes": [
-        "Generate 10 new hook angles for underperforming pins",
-        "Test curiosity angle: \"The real reason X isn't working...\"",
-        "Test transformation angle: \"I lost 27lbs without dieting — here's how\"",
-        "Test mechanism angle: \"Scientists discovered this 1 weird trick...\"",
-        "A/B test text-on-image vs clean image",
-        "Refresh visuals — use new Pexels images from product niche"
-      ],
-      "priority": 2,
-      "detected_at": "2026-03-23T19:35:23.807499+00:00"
+      "detected_at": "2026-03-24T12:35:48.338799+00:00"
     }
   ]
 }
