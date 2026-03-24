@@ -1,27 +1,6 @@
 {
   "collections": [
     {
-      "id": "weight_loss",
-      "slug": "weight-loss",
-      "label": "Weight Loss",
-      "keyword": "weight loss supplement",
-      "board": "Weight Loss Tips",
-      "product_count": 12,
-      "top_products": [
-        "citrusburn",
-        "alpilean",
-        "leanbiome",
-        "ikaria_lean_belly",
-        "exipure",
-        "java_burn",
-        "ignite_drops",
-        "sumatra_slim",
-        "protetox",
-        "okinawa_flat_belly"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-weight-loss.html"
-    },
-    {
       "id": "anime_collectibles",
       "slug": "anime-collectibles",
       "label": "Anime Collectibles",
@@ -29,18 +8,38 @@
       "board": "Anime Finds",
       "product_count": 10,
       "top_products": [
-        "ae_1005008438225768",
-        "ae_1005009325887249",
-        "ae_1005008635835302",
-        "ae_1005008635845307",
-        "ae_1005008635689563",
-        "ae_1005009382186355",
-        "ae_1005008635834286",
-        "ae_1005008443064194",
+        "ae_1005010562174593",
         "ae_1005008442965540",
-        "ae_1005010562174593"
+        "ae_1005008438225768",
+        "ae_1005008635845307",
+        "ae_1005008443064194",
+        "ae_1005009382186355",
+        "ae_1005008635689563",
+        "ae_1005008635835302",
+        "ae_1005008635834286",
+        "ae_1005009325887249"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-anime-collectibles.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime-collectibles.html"
+    },
+    {
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty amazon",
+      "board": "Amazon Beauty Finds",
+      "product_count": 9,
+      "top_products": [
+        "amazon_nuface_mini",
+        "amazon_solawave_wand",
+        "amazon_revlon_volumizer",
+        "amazon_laneige_lip_mask",
+        "amazon_truskin_vitamin_c",
+        "amazon_mighty_patch",
+        "facial_cleansing_brush",
+        "hair_curler_auto",
+        "led_face_mask"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
     {
       "id": "jewelry",
@@ -50,169 +49,48 @@
       "board": "Jewelry Finds",
       "product_count": 9,
       "top_products": [
-        "ae_1005007156281263",
-        "ae_1005006995789811",
-        "ae_1005008334857246",
+        "ae_1005004720895061",
+        "ae_1005005260648961",
+        "ae_1005009965055372",
+        "ae_1005008897453336",
         "ae_1005004205221279",
         "ae_32835895809",
-        "ae_1005004720895061",
-        "ae_1005008897453336",
-        "ae_1005005260648961",
-        "ae_1005009965055372"
+        "ae_1005006995789811",
+        "ae_1005007156281263",
+        "ae_1005008334857246"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-jewelry.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
     },
     {
-      "id": "pain_relief",
-      "slug": "pain-relief",
-      "label": "Pain Relief",
-      "keyword": "pain relief supplement",
-      "board": "Natural Pain Relief",
-      "product_count": 8,
-      "top_products": [
-        "flexafen",
-        "joint_genesis",
-        "cortexi",
-        "prostadine",
-        "nerve_regen",
-        "protoflow",
-        "neuropathy_support",
-        "nervefresh"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-pain-relief.html"
-    },
-    {
-      "id": "blood_sugar",
-      "slug": "blood-sugar",
-      "label": "Blood Sugar",
-      "keyword": "blood sugar supplement",
-      "board": "Blood Sugar Control",
-      "product_count": 8,
-      "top_products": [
-        "glucotrust",
-        "sugar_defender",
-        "glucoberry",
-        "amiclear",
-        "glucofort",
-        "gluco_shield_pro",
-        "altai_balance",
-        "glucolean"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-blood-sugar.html"
-    },
-    {
-      "id": "keto_diet",
-      "slug": "keto-diet",
-      "label": "Keto Diet",
-      "keyword": "keto supplement",
-      "board": "Keto Diet Tips",
-      "product_count": 6,
-      "top_products": [
-        "customketo",
-        "keto_cycle",
-        "trim_keto",
-        "keto_elevate",
-        "keto_breads",
-        "kiss_my_keto"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-keto-diet.html"
-    },
-    {
-      "id": "coffee_weight",
-      "slug": "coffee-weight",
-      "label": "Coffee Weight Loss",
-      "keyword": "coffee weight loss",
-      "board": "Coffee & Weight Loss",
-      "product_count": 6,
-      "top_products": [
-        "teaburn",
-        "javaburn",
-        "primal_coffee",
-        "lean_coffee",
-        "javita",
-        "mocca_slim"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-coffee-weight.html"
-    },
-    {
-      "id": "mens_health",
-      "slug": "mens-health",
-      "label": "Men's Health",
-      "keyword": "mens health supplement",
-      "board": "Men's Health Tips",
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "label": "Fitness Equipment",
+      "keyword": "fitness amazon",
+      "board": "Home Fitness Finds",
       "product_count": 5,
       "top_products": [
-        "testosil",
-        "prime_male",
-        "max_performer",
-        "male_extra",
-        "testonine"
+        "amazon_theragun_mini",
+        "amazon_owala_freesip",
+        "resistance_bands",
+        "jump_rope_pro",
+        "adjustable_dumbbells"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-mens-health.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
     {
-      "id": "nootropics",
-      "slug": "nootropics",
-      "label": "Nootropics",
-      "keyword": "nootropics",
-      "board": "Nootropics Finds",
-      "product_count": 5,
+      "id": "amazon_kitchen",
+      "slug": "amazon-kitchen",
+      "label": "Kitchen Gadgets",
+      "keyword": "kitchen gadgets amazon",
+      "board": "Kitchen Finds",
+      "product_count": 4,
       "top_products": [
-        "qualia_mind",
-        "nooceptin",
-        "mind_lab_pro",
-        "alpha_brain",
-        "neuro_ignite"
+        "amazon_fullstar_chopper",
+        "vegetable_chopper",
+        "meal_prep_containers",
+        "air_fryer"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-nootropics.html"
-    },
-    {
-      "id": "gut_health",
-      "slug": "gut-health",
-      "label": "Gut Health",
-      "keyword": "gut health",
-      "board": "Gut Health Finds",
-      "product_count": 5,
-      "top_products": [
-        "prodentim",
-        "bioptimizers_mag",
-        "synogut",
-        "gut_vita",
-        "biome_breakthrough"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-gut-health.html"
-    },
-    {
-      "id": "sleep_weight",
-      "slug": "sleep-weight",
-      "label": "Sleep & Weight",
-      "keyword": "sleep weight loss",
-      "board": "Sleep & Weight Loss",
-      "product_count": 5,
-      "top_products": [
-        "resurge",
-        "revive_daily",
-        "sleep_slim_tea",
-        "dream_hero",
-        "lunar_sleep"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-sleep-weight.html"
-    },
-    {
-      "id": "anti_aging",
-      "slug": "anti-aging",
-      "label": "Anti Aging",
-      "keyword": "anti aging",
-      "board": "Anti Aging Finds",
-      "product_count": 5,
-      "top_products": [
-        "skin_cell_pro",
-        "genie_script",
-        "youthful_brain",
-        "derma_prime",
-        "ageless_body"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-anti-aging.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
     {
       "id": "electronics_audio",
@@ -222,85 +100,12 @@
       "board": "Electronics Finds",
       "product_count": 4,
       "top_products": [
-        "ae_1005007568176613",
-        "ae_1005009014580579",
+        "ae_1005008616015631",
         "ae_1005010251027274",
-        "ae_1005008616015631"
+        "ae_1005007568176613",
+        "ae_1005009014580579"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-electronics-audio.html"
-    },
-    {
-      "id": "fitness_muscle",
-      "slug": "fitness-muscle",
-      "label": "Fitness Muscle",
-      "keyword": "fitness muscle",
-      "board": "Fitness Muscle Finds",
-      "product_count": 4,
-      "top_products": [
-        "crazy_bulk_d_bal",
-        "testo_prime",
-        "anvarol",
-        "creatine_hcl_pro"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-fitness-muscle.html"
-    },
-    {
-      "id": "immune_health",
-      "slug": "immune-health",
-      "label": "Immune Health",
-      "keyword": "immune health",
-      "board": "Immune Health Finds",
-      "product_count": 4,
-      "top_products": [
-        "bio_complete_3",
-        "mycosyn_pro",
-        "nano_defense",
-        "immunity_911"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-immune-health.html"
-    },
-    {
-      "id": "hair_beauty",
-      "slug": "hair-beauty",
-      "label": "Hair Beauty",
-      "keyword": "hair beauty",
-      "board": "Hair Beauty Finds",
-      "product_count": 4,
-      "top_products": [
-        "brilliance_sf",
-        "folifort",
-        "restolin",
-        "hair_revital_x"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-hair-beauty.html"
-    },
-    {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "label": "Outdoor Gear",
-      "keyword": "outdoor gear deals",
-      "board": "Outdoor Gear Finds",
-      "product_count": 3,
-      "top_products": [
-        "ae_1005007484673961",
-        "ae_1005009762835151",
-        "ae_1005007341990710"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-outdoor-gear.html"
-    },
-    {
-      "id": "home_decor",
-      "slug": "home-decor",
-      "label": "Home Decor",
-      "keyword": "home decor aliexpress",
-      "board": "Home Decor Finds",
-      "product_count": 3,
-      "top_products": [
-        "ae_1005007573820052",
-        "ae_1005007273995598",
-        "ae_1005007316134477"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-decor.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics-audio.html"
     },
     {
       "id": "beauty_skincare",
@@ -310,11 +115,25 @@
       "board": "Beauty Skincare Finds",
       "product_count": 3,
       "top_products": [
-        "ae_1005006479918994",
+        "ae_1005008006229286",
         "ae_1005009205623449",
-        "ae_1005008006229286"
+        "ae_1005006479918994"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-beauty-skincare.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-skincare.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "soccer_rebounder",
+        "agility_ladder",
+        "soccer_training_cones"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_home",
@@ -328,119 +147,35 @@
         "under_sink_organizer",
         "storage_box_system"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
     },
     {
-      "id": "amazon_kitchen",
-      "slug": "amazon-kitchen",
-      "label": "Kitchen Gadgets",
-      "keyword": "kitchen gadgets amazon",
-      "board": "Kitchen Finds",
+      "id": "home_decor",
+      "slug": "home-decor",
+      "label": "Home Decor",
+      "keyword": "home decor aliexpress",
+      "board": "Home Decor Finds",
       "product_count": 3,
       "top_products": [
-        "air_fryer",
-        "vegetable_chopper",
-        "meal_prep_containers"
+        "ae_1005007273995598",
+        "ae_1005007316134477",
+        "ae_1005007573820052"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-kitchen.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-decor.html"
     },
     {
-      "id": "amazon_fitness",
-      "slug": "amazon-fitness",
-      "label": "Fitness Equipment",
-      "keyword": "fitness amazon",
-      "board": "Home Fitness Finds",
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "label": "Outdoor Gear",
+      "keyword": "outdoor gear deals",
+      "board": "Outdoor Gear Finds",
       "product_count": 3,
       "top_products": [
-        "resistance_bands",
-        "adjustable_dumbbells",
-        "jump_rope_pro"
+        "ae_1005007341990710",
+        "ae_1005007484673961",
+        "ae_1005009762835151"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "label": "Beauty & Skincare",
-      "keyword": "beauty amazon",
-      "board": "Amazon Beauty Finds",
-      "product_count": 3,
-      "top_products": [
-        "facial_cleansing_brush",
-        "led_face_mask",
-        "hair_curler_auto"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-beauty.html"
-    },
-    {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
-      "product_count": 3,
-      "top_products": [
-        "soccer_training_cones",
-        "agility_ladder",
-        "soccer_rebounder"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-soccer.html"
-    },
-    {
-      "id": "vision_health",
-      "slug": "vision-health",
-      "label": "Vision Health",
-      "keyword": "vision supplement",
-      "board": "Eye Health Tips",
-      "product_count": 3,
-      "top_products": [
-        "sight_care",
-        "visisharp",
-        "vision_20"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-vision-health.html"
-    },
-    {
-      "id": "stress_anxiety",
-      "slug": "stress-anxiety",
-      "label": "Stress Anxiety",
-      "keyword": "stress anxiety",
-      "board": "Stress Anxiety Finds",
-      "product_count": 3,
-      "top_products": [
-        "mood_boost",
-        "stress_guard",
-        "serenol"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-stress-anxiety.html"
-    },
-    {
-      "id": "diabetes",
-      "slug": "diabetes",
-      "label": "Diabetes",
-      "keyword": "diabetes",
-      "board": "Diabetes Finds",
-      "product_count": 3,
-      "top_products": [
-        "diabetes_freedom",
-        "halki_diabetes",
-        "blood_sugar_premier"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-diabetes.html"
-    },
-    {
-      "id": "womens_health",
-      "slug": "womens-health",
-      "label": "Women's Health",
-      "keyword": "womens health supplement",
-      "board": "Women's Health Tips",
-      "product_count": 3,
-      "top_products": [
-        "balanced_slim",
-        "her_secret",
-        "nurturive_her"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-womens-health.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-outdoor-gear.html"
     },
     {
       "id": "aliexpress_deals",
@@ -453,124 +188,7 @@
         "ae_anniversary_sale_2025",
         "ae_1005006046732740"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-aliexpress-deals.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "label": "Amazon Pets",
-      "keyword": "amazon pets",
-      "board": "Amazon Pets Finds",
-      "product_count": 2,
-      "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-pets.html"
-    },
-    {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "label": "Amazon Creator",
-      "keyword": "amazon creator",
-      "board": "Amazon Creator Finds",
-      "product_count": 2,
-      "top_products": [
-        "phone_tripod",
-        "ring_light"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-creator.html"
-    },
-    {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "label": "Amazon Car",
-      "keyword": "amazon car",
-      "board": "Amazon Car Finds",
-      "product_count": 2,
-      "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-car.html"
-    },
-    {
-      "id": "amazon_travel",
-      "slug": "amazon-travel",
-      "label": "Amazon Travel",
-      "keyword": "amazon travel",
-      "board": "Amazon Travel Finds",
-      "product_count": 2,
-      "top_products": [
-        "packing_cubes",
-        "travel_backpack"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-travel.html"
-    },
-    {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "label": "Amazon Productivity",
-      "keyword": "amazon productivity",
-      "board": "Amazon Productivity Finds",
-      "product_count": 2,
-      "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-productivity.html"
-    },
-    {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "label": "Fragrance",
-      "keyword": "perfume aliexpress deals",
-      "board": "Fragrance Finds",
-      "product_count": 2,
-      "top_products": [
-        "ae_1005008987706323",
-        "ae_1005008798177162"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-fragrance.html"
-    },
-    {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "label": "Home Electronics",
-      "keyword": "home electronics aliexpress",
-      "board": "Home Electronics Finds",
-      "product_count": 2,
-      "top_products": [
-        "ae_1005005694176122",
-        "ae_4000081470399"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-electronics.html"
-    },
-    {
-      "id": "thyroid_health",
-      "slug": "thyroid-health",
-      "label": "Thyroid Health",
-      "keyword": "thyroid health",
-      "board": "Thyroid Health Finds",
-      "product_count": 2,
-      "top_products": [
-        "thyroid_support",
-        "thyromine"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-thyroid-health.html"
-    },
-    {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "label": "Family Fashion",
-      "keyword": "family fashion aliexpress",
-      "board": "Family Fashion Finds",
-      "product_count": 2,
-      "top_products": [
-        "ae_1005009717134661",
-        "ae_1005009715939885"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-family-fashion.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-aliexpress-deals.html"
     },
     {
       "id": "retro_gaming",
@@ -583,163 +201,123 @@
         "ae_1005006423791000",
         "ae_1005001952399668"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-retro-gaming.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-retro-gaming.html"
     },
     {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "label": "Home Improvement",
-      "keyword": "home improvement tools",
-      "board": "Home Improvement Finds",
-      "product_count": 1,
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "label": "Amazon Productivity",
+      "keyword": "amazon productivity",
+      "board": "Amazon Productivity Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005006926453576"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-improvement.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
     {
-      "id": "home_wellness",
-      "slug": "home-wellness",
-      "label": "Home Wellness",
-      "keyword": "home wellness gadgets",
-      "board": "Home Wellness Finds",
-      "product_count": 1,
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "label": "Family Fashion",
+      "keyword": "family fashion aliexpress",
+      "board": "Family Fashion Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005007527811142"
+        "ae_1005009715939885",
+        "ae_1005009717134661"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-wellness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family-fashion.html"
     },
     {
-      "id": "car_accessories",
-      "slug": "car-accessories",
-      "label": "Car Accessories",
-      "keyword": "car accessories aliexpress",
-      "board": "Car Accessories Finds",
-      "product_count": 1,
+      "id": "amazon_travel",
+      "slug": "amazon-travel",
+      "label": "Amazon Travel",
+      "keyword": "amazon travel",
+      "board": "Amazon Travel Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005006332093484"
+        "travel_backpack",
+        "packing_cubes"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-car-accessories.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
     },
     {
-      "id": "grooming_tools",
-      "slug": "grooming-tools",
-      "label": "Grooming Tools",
-      "keyword": "grooming tools aliexpress",
-      "board": "Grooming Finds",
-      "product_count": 1,
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "label": "Home Electronics",
+      "keyword": "home electronics aliexpress",
+      "board": "Home Electronics Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005006930863642"
+        "ae_4000081470399",
+        "ae_1005005694176122"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-grooming-tools.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-electronics.html"
     },
     {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "label": "Amazon Tech",
-      "keyword": "amazon tech",
-      "board": "Amazon Tech Finds",
-      "product_count": 1,
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "label": "Amazon Pets",
+      "keyword": "amazon pets",
+      "board": "Amazon Pets Finds",
+      "product_count": 2,
       "top_products": [
-        "wireless_earbuds"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-amazon-tech.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
     },
     {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "label": "Beauty & Grooming",
-      "keyword": "beauty grooming aliexpress",
-      "board": "Beauty Grooming Finds",
-      "product_count": 1,
+      "id": "fragrance",
+      "slug": "fragrance",
+      "label": "Fragrance",
+      "keyword": "perfume aliexpress deals",
+      "board": "Fragrance Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005007205112799"
+        "ae_1005008798177162",
+        "ae_1005008987706323"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-beauty-grooming.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
     },
     {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "label": "Toys & Gadgets",
-      "keyword": "toys gadgets aliexpress",
-      "board": "Toy & Gadget Finds",
-      "product_count": 1,
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "label": "Amazon Creator",
+      "keyword": "amazon creator",
+      "board": "Amazon Creator Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005005928117831"
+        "ring_light",
+        "phone_tripod"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-toys-gadgets.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
     },
     {
-      "id": "fitness_wellness",
-      "slug": "fitness-wellness",
-      "label": "Fitness & Wellness",
-      "keyword": "fitness aliexpress deals",
-      "board": "Fitness Wellness Finds",
-      "product_count": 1,
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "label": "Amazon Car",
+      "keyword": "amazon car",
+      "board": "Amazon Car Finds",
+      "product_count": 2,
       "top_products": [
-        "ae_1005005856471552"
+        "car_phone_mount",
+        "portable_car_vacuum"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-fitness-wellness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
     },
     {
-      "id": "home_textiles",
-      "slug": "home-textiles",
-      "label": "Home Textiles",
-      "keyword": "home textiles aliexpress",
-      "board": "Home Textile Finds",
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
+      "label": "Sleep Products",
+      "keyword": "sleep amazon",
+      "board": "Sleep Essentials",
       "product_count": 1,
       "top_products": [
-        "ae_1005006736492092"
+        "amazon_hatch_restore"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-textiles.html"
-    },
-    {
-      "id": "home_appliances",
-      "slug": "home-appliances",
-      "label": "Home Appliances",
-      "keyword": "home appliances aliexpress",
-      "board": "Home Appliance Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005009195449913"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-home-appliances.html"
-    },
-    {
-      "id": "garden_tools",
-      "slug": "garden-tools",
-      "label": "Garden Tools",
-      "keyword": "garden tools aliexpress",
-      "board": "Garden Tool Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005007266454048"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-garden-tools.html"
-    },
-    {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "label": "Fashion Shoes",
-      "keyword": "fashion shoes aliexpress",
-      "board": "Fashion Shoe Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005006216058777"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-fashion-shoes.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "label": "Sports & Cycling",
-      "keyword": "sports cycling aliexpress",
-      "board": "Sports Cycling Finds",
-      "product_count": 1,
-      "top_products": [
-        "ae_1005008391982804"
-      ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-sports-cycling.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-sleep.html"
     },
     {
       "id": "sports_shoes",
@@ -751,7 +329,7 @@
       "top_products": [
         "ae_1005008453643216"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-sports-shoes.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports-shoes.html"
     },
     {
       "id": "beauty_wigs",
@@ -763,8 +341,164 @@
       "top_products": [
         "ae_1005008852560175"
       ],
-      "url": "https://preparation-telecommunications-threshold-parties.trycloudflare.com/collection-beauty-wigs.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-wigs.html"
+    },
+    {
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "label": "Fashion Shoes",
+      "keyword": "fashion shoes aliexpress",
+      "board": "Fashion Shoe Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006216058777"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion-shoes.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "label": "Amazon Tech",
+      "keyword": "amazon tech",
+      "board": "Amazon Tech Finds",
+      "product_count": 1,
+      "top_products": [
+        "wireless_earbuds"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
+    },
+    {
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "label": "Sports & Cycling",
+      "keyword": "sports cycling aliexpress",
+      "board": "Sports Cycling Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005008391982804"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports-cycling.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "label": "Toys & Gadgets",
+      "keyword": "toys gadgets aliexpress",
+      "board": "Toy & Gadget Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005928117831"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys-gadgets.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "label": "Beauty & Grooming",
+      "keyword": "beauty grooming aliexpress",
+      "board": "Beauty Grooming Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007205112799"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty-grooming.html"
+    },
+    {
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
+      "label": "Fitness & Wellness",
+      "keyword": "fitness aliexpress deals",
+      "board": "Fitness Wellness Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005005856471552"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness-wellness.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "label": "Home Improvement",
+      "keyword": "home improvement tools",
+      "board": "Home Improvement Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006926453576"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-improvement.html"
+    },
+    {
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "label": "Home Appliances",
+      "keyword": "home appliances aliexpress",
+      "board": "Home Appliance Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005009195449913"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-appliances.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "label": "Car Accessories",
+      "keyword": "car accessories aliexpress",
+      "board": "Car Accessories Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006332093484"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-car-accessories.html"
+    },
+    {
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "label": "Home Textiles",
+      "keyword": "home textiles aliexpress",
+      "board": "Home Textile Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006736492092"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-textiles.html"
+    },
+    {
+      "id": "home_wellness",
+      "slug": "home-wellness",
+      "label": "Home Wellness",
+      "keyword": "home wellness gadgets",
+      "board": "Home Wellness Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007527811142"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home-wellness.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "label": "Garden Tools",
+      "keyword": "garden tools aliexpress",
+      "board": "Garden Tool Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005007266454048"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden-tools.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "label": "Grooming Tools",
+      "keyword": "grooming tools aliexpress",
+      "board": "Grooming Finds",
+      "product_count": 1,
+      "top_products": [
+        "ae_1005006930863642"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming-tools.html"
     }
   ],
-  "total": 54
+  "total": 37
 }
