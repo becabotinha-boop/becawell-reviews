@@ -8,8 +8,8 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "hair_curler_auto",
         "facial_cleansing_brush",
+        "hair_curler_auto",
         "led_face_mask"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-beauty.html"
@@ -23,8 +23,8 @@
       "product_count": 3,
       "top_products": [
         "air_fryer",
-        "vegetable_chopper",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "vegetable_chopper"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-kitchen.html"
     },
@@ -36,8 +36,8 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "jump_rope_pro",
         "adjustable_dumbbells",
+        "jump_rope_pro",
         "resistance_bands"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-fitness.html"
@@ -50,9 +50,9 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
+        "soccer_training_cones",
         "soccer_rebounder",
-        "agility_ladder",
-        "soccer_training_cones"
+        "agility_ladder"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-soccer.html"
     },
@@ -64,9 +64,9 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "storage_box_system",
+        "closet_organizer",
         "under_sink_organizer",
-        "closet_organizer"
+        "storage_box_system"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-home.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-pets.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "phone_tripod",
-        "ring_light"
+        "ring_light",
+        "phone_tripod"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-creator.html"
     },
@@ -130,8 +130,8 @@
       "board": "Amazon Car Finds",
       "product_count": 2,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
+        "portable_car_vacuum",
+        "car_phone_mount"
       ],
       "url": "https://shoot-equipment-viruses-fold.trycloudflare.com/collection-amazon-car.html"
     },
