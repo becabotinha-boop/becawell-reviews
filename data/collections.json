@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
+        "hair_curler_auto",
         "facial_cleansing_brush",
-        "led_face_mask",
-        "hair_curler_auto"
+        "led_face_mask"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
@@ -22,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "meal_prep_containers",
+        "air_fryer",
         "vegetable_chopper",
-        "air_fryer"
+        "meal_prep_containers"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
@@ -36,9 +36,9 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
+        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands",
-        "jump_rope_pro"
+        "resistance_bands"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
@@ -50,9 +50,9 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "soccer_rebounder",
         "soccer_training_cones",
-        "agility_ladder"
+        "agility_ladder",
+        "soccer_rebounder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
@@ -64,9 +64,9 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "closet_organizer",
         "under_sink_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "closet_organizer"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
     },
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
     },
