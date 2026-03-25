@@ -8,8 +8,8 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
         "led_face_mask",
+        "facial_cleansing_brush",
         "hair_curler_auto"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
@@ -36,9 +36,9 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands"
+        "resistance_bands",
+        "jump_rope_pro"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
@@ -50,8 +50,8 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "under_sink_organizer",
         "closet_organizer",
+        "under_sink_organizer",
         "storage_box_system"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
@@ -64,8 +64,8 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "agility_ladder",
         "soccer_rebounder",
+        "agility_ladder",
         "soccer_training_cones"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
     },
