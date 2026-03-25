@@ -1,18 +1,18 @@
 {
   "collections": [
     {
-      "id": "amazon_fitness",
-      "slug": "amazon-fitness",
-      "label": "Fitness Equipment",
-      "keyword": "fitness amazon",
-      "board": "Home Fitness Finds",
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty amazon",
+      "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "resistance_bands",
-        "adjustable_dumbbells",
-        "jump_rope_pro"
+        "hair_curler_auto",
+        "led_face_mask",
+        "facial_cleansing_brush"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
     {
       "id": "amazon_kitchen",
@@ -22,39 +22,25 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
+        "air_fryer",
         "meal_prep_containers",
-        "vegetable_chopper",
-        "air_fryer"
+        "vegetable_chopper"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
     {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "label": "Beauty & Skincare",
-      "keyword": "beauty amazon",
-      "board": "Amazon Beauty Finds",
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "label": "Fitness Equipment",
+      "keyword": "fitness amazon",
+      "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
-        "led_face_mask",
-        "hair_curler_auto"
+        "adjustable_dumbbells",
+        "resistance_bands",
+        "jump_rope_pro"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "under_sink_organizer",
-        "closet_organizer"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
     {
       "id": "amazon_soccer",
@@ -64,11 +50,38 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "soccer_rebounder",
         "soccer_training_cones",
-        "agility_ladder"
+        "agility_ladder",
+        "soccer_rebounder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "storage_box_system",
+        "under_sink_organizer"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "label": "Amazon Productivity",
+      "keyword": "amazon productivity",
+      "board": "Amazon Productivity Finds",
+      "product_count": 2,
+      "top_products": [
+        "blue_light_glasses",
+        "standing_desk_converter"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_travel",
@@ -91,23 +104,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
-    },
-    {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "label": "Amazon Productivity",
-      "keyword": "amazon productivity",
-      "board": "Amazon Productivity Finds",
-      "product_count": 2,
-      "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_creator",
@@ -130,8 +130,8 @@
       "board": "Amazon Car Finds",
       "product_count": 2,
       "top_products": [
-        "portable_car_vacuum",
-        "car_phone_mount"
+        "car_phone_mount",
+        "portable_car_vacuum"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
     },
