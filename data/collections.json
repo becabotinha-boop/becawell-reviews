@@ -8,11 +8,11 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
+        "hair_curler_auto",
         "led_face_mask",
-        "facial_cleansing_brush",
-        "hair_curler_auto"
+        "facial_cleansing_brush"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-beauty.html"
     },
     {
       "id": "amazon_kitchen",
@@ -26,7 +26,7 @@
         "meal_prep_containers",
         "vegetable_chopper"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-kitchen.html"
     },
     {
       "id": "amazon_fitness",
@@ -36,11 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "adjustable_dumbbells",
+        "jump_rope_pro",
         "resistance_bands",
-        "jump_rope_pro"
+        "adjustable_dumbbells"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-fitness.html"
     },
     {
       "id": "amazon_home",
@@ -54,7 +54,7 @@
         "under_sink_organizer",
         "storage_box_system"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_soccer",
@@ -68,7 +68,7 @@
         "agility_ladder",
         "soccer_training_cones"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_productivity",
@@ -78,10 +78,10 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_travel",
@@ -91,10 +91,10 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-travel.html"
     },
     {
       "id": "amazon_pets",
@@ -104,10 +104,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-pets.html"
     },
     {
       "id": "amazon_creator",
@@ -120,7 +120,7 @@
         "phone_tripod",
         "ring_light"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-creator.html"
     },
     {
       "id": "amazon_car",
@@ -133,7 +133,7 @@
         "portable_car_vacuum",
         "car_phone_mount"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-car.html"
     },
     {
       "id": "amazon_tech",
@@ -145,7 +145,7 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
+      "url": "https://signatures-ship-moisture-metals.trycloudflare.com/collection-amazon-tech.html"
     }
   ],
   "total": 11
