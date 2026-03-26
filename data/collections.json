@@ -8,11 +8,11 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
         "hair_curler_auto",
-        "facial_cleansing_brush"
+        "facial_cleansing_brush",
+        "led_face_mask"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-beauty.html"
     },
     {
       "id": "amazon_kitchen",
@@ -26,7 +26,7 @@
         "meal_prep_containers",
         "air_fryer"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-kitchen.html"
     },
     {
       "id": "amazon_fitness",
@@ -36,25 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "resistance_bands",
         "jump_rope_pro",
-        "adjustable_dumbbells"
+        "adjustable_dumbbells",
+        "resistance_bands"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
-      "product_count": 3,
-      "top_products": [
-        "soccer_training_cones",
-        "agility_ladder",
-        "soccer_rebounder"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-fitness.html"
     },
     {
       "id": "amazon_home",
@@ -64,11 +50,25 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "closet_organizer",
         "under_sink_organizer",
+        "closet_organizer",
         "storage_box_system"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "agility_ladder",
+        "soccer_rebounder",
+        "soccer_training_cones"
+      ],
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_productivity",
@@ -78,10 +78,10 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_travel",
@@ -94,7 +94,7 @@
         "travel_backpack",
         "packing_cubes"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-travel.html"
     },
     {
       "id": "amazon_pets",
@@ -104,10 +104,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-pets.html"
     },
     {
       "id": "amazon_creator",
@@ -117,10 +117,10 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "phone_tripod",
-        "ring_light"
+        "ring_light",
+        "phone_tripod"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-creator.html"
     },
     {
       "id": "amazon_car",
@@ -133,7 +133,7 @@
         "car_phone_mount",
         "portable_car_vacuum"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-car.html"
     },
     {
       "id": "amazon_tech",
@@ -145,7 +145,7 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-tech.html"
     }
   ],
   "total": 11
