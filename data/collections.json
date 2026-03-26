@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
         "facial_cleansing_brush",
-        "hair_curler_auto"
+        "hair_curler_auto",
+        "led_face_mask"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -22,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "vegetable_chopper",
+        "air_fryer",
         "meal_prep_containers",
-        "air_fryer"
+        "vegetable_chopper"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-kitchen.html"
     },
@@ -64,9 +64,9 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "soccer_training_cones",
+        "agility_ladder",
         "soccer_rebounder",
-        "agility_ladder"
+        "soccer_training_cones"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-soccer.html"
     },
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "packing_cubes"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-travel.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-pets.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://urls-knight-acre-collapse.trycloudflare.com/collection-amazon-creator.html"
     },
