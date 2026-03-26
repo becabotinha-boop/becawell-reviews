@@ -9,8 +9,8 @@
       "product_count": 3,
       "top_products": [
         "hair_curler_auto",
-        "facial_cleansing_brush",
-        "led_face_mask"
+        "led_face_mask",
+        "facial_cleansing_brush"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -22,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "vegetable_chopper",
         "air_fryer",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "vegetable_chopper"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-kitchen.html"
     },
@@ -36,25 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
+        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands",
-        "jump_rope_pro"
+        "resistance_bands"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "under_sink_organizer",
-        "closet_organizer"
-      ],
-      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_soccer",
@@ -71,6 +57,20 @@
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "under_sink_organizer",
+        "storage_box_system",
+        "closet_organizer"
+      ],
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-home.html"
+    },
+    {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
       "label": "Amazon Productivity",
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-productivity.html"
     },
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-travel.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-creator.html"
     },
