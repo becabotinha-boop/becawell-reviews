@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "hair_curler_auto",
+        "led_face_mask",
         "facial_cleansing_brush",
-        "led_face_mask"
+        "hair_curler_auto"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
@@ -23,8 +23,8 @@
       "product_count": 3,
       "top_products": [
         "vegetable_chopper",
-        "meal_prep_containers",
-        "air_fryer"
+        "air_fryer",
+        "meal_prep_containers"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
@@ -37,8 +37,8 @@
       "product_count": 3,
       "top_products": [
         "jump_rope_pro",
-        "resistance_bands",
-        "adjustable_dumbbells"
+        "adjustable_dumbbells",
+        "resistance_bands"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
@@ -50,9 +50,9 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "storage_box_system",
         "closet_organizer",
-        "under_sink_organizer"
+        "under_sink_organizer",
+        "storage_box_system"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
     },
@@ -65,8 +65,8 @@
       "product_count": 3,
       "top_products": [
         "soccer_rebounder",
-        "soccer_training_cones",
-        "agility_ladder"
+        "agility_ladder",
+        "soccer_training_cones"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
