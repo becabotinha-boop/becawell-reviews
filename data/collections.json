@@ -9,8 +9,8 @@
       "product_count": 3,
       "top_products": [
         "hair_curler_auto",
-        "led_face_mask",
-        "facial_cleansing_brush"
+        "facial_cleansing_brush",
+        "led_face_mask"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -36,25 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
+        "resistance_bands",
         "jump_rope_pro",
-        "adjustable_dumbbells",
-        "resistance_bands"
+        "adjustable_dumbbells"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
-      "product_count": 3,
-      "top_products": [
-        "agility_ladder",
-        "soccer_rebounder",
-        "soccer_training_cones"
-      ],
-      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_home",
@@ -64,11 +50,25 @@
       "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
-        "storage_box_system",
+        "under_sink_organizer",
         "closet_organizer",
-        "under_sink_organizer"
+        "storage_box_system"
       ],
       "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "label": "Amazon Soccer",
+      "keyword": "amazon soccer",
+      "board": "Amazon Soccer Finds",
+      "product_count": 3,
+      "top_products": [
+        "soccer_training_cones",
+        "agility_ladder",
+        "soccer_rebounder"
+      ],
+      "url": "https://coordinated-composite-milk-jerry.trycloudflare.com/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_productivity",
