@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
+        "hair_curler_auto",
         "facial_cleansing_brush",
-        "led_face_mask",
-        "hair_curler_auto"
+        "led_face_mask"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
@@ -22,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "meal_prep_containers",
+        "air_fryer",
         "vegetable_chopper",
-        "air_fryer"
+        "meal_prep_containers"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
@@ -36,9 +36,9 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands"
+        "resistance_bands",
+        "jump_rope_pro"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
@@ -50,9 +50,9 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "soccer_training_cones",
+        "agility_ladder",
         "soccer_rebounder",
-        "agility_ladder"
+        "soccer_training_cones"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
     },
