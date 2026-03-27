@@ -1,9 +1,12 @@
 {
-  "generated_at": "2026-03-27T01:17:41.345767+00:00",
+  "generated_at": "2026-03-27T02:54:05.220331+00:00",
   "pages": {
     "total": 376
   },
-  "pinterest": {},
+  "pinterest": {
+    "total_posted": 0,
+    "total_queued": 104
+  },
   "revenue": {
     "total_hops": 63,
     "total_revenue": 0.0,
