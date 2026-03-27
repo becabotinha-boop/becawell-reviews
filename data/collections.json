@@ -8,8 +8,8 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
         "facial_cleansing_brush",
+        "led_face_mask",
         "hair_curler_auto"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
@@ -36,25 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "resistance_bands",
         "jump_rope_pro",
+        "resistance_bands",
         "adjustable_dumbbells"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "closet_organizer",
-        "under_sink_organizer"
-      ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_soccer",
@@ -69,6 +55,20 @@
         "agility_ladder"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "under_sink_organizer",
+        "storage_box_system",
+        "closet_organizer"
+      ],
+      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_productivity",
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-travel.html"
     },
