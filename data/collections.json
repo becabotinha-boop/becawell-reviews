@@ -8,11 +8,11 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
         "led_face_mask",
+        "facial_cleansing_brush",
         "hair_curler_auto"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
     },
     {
       "id": "amazon_kitchen",
@@ -22,11 +22,11 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "meal_prep_containers",
         "vegetable_chopper",
-        "air_fryer"
+        "air_fryer",
+        "meal_prep_containers"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-kitchen.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
     },
     {
       "id": "amazon_fitness",
@@ -40,7 +40,7 @@
         "resistance_bands",
         "adjustable_dumbbells"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
     },
     {
       "id": "amazon_home",
@@ -51,10 +51,10 @@
       "product_count": 3,
       "top_products": [
         "under_sink_organizer",
-        "closet_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "closet_organizer"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
     },
     {
       "id": "amazon_soccer",
@@ -64,11 +64,11 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
+        "soccer_rebounder",
         "soccer_training_cones",
-        "agility_ladder",
-        "soccer_rebounder"
+        "agility_ladder"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
     },
     {
       "id": "amazon_productivity",
@@ -78,10 +78,10 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-productivity.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_travel",
@@ -94,7 +94,7 @@
         "packing_cubes",
         "travel_backpack"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-travel.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
     },
     {
       "id": "amazon_pets",
@@ -104,10 +104,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-pets.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
     },
     {
       "id": "amazon_creator",
@@ -120,7 +120,7 @@
         "phone_tripod",
         "ring_light"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-creator.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
     },
     {
       "id": "amazon_car",
@@ -133,7 +133,7 @@
         "car_phone_mount",
         "portable_car_vacuum"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-car.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
     },
     {
       "id": "amazon_tech",
@@ -145,7 +145,7 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-tech.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
     }
   ],
   "total": 11
