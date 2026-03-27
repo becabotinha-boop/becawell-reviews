@@ -9,8 +9,8 @@
       "product_count": 3,
       "top_products": [
         "led_face_mask",
-        "hair_curler_auto",
-        "facial_cleansing_brush"
+        "facial_cleansing_brush",
+        "hair_curler_auto"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -36,25 +36,11 @@
       "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
-        "adjustable_dumbbells",
         "jump_rope_pro",
-        "resistance_bands"
+        "resistance_bands",
+        "adjustable_dumbbells"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-fitness.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "under_sink_organizer",
-        "closet_organizer"
-      ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_soccer",
@@ -65,10 +51,24 @@
       "product_count": 3,
       "top_products": [
         "soccer_rebounder",
-        "soccer_training_cones",
-        "agility_ladder"
+        "agility_ladder",
+        "soccer_training_cones"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "storage_box_system",
+        "under_sink_organizer"
+      ],
+      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
     {
       "id": "amazon_productivity",
@@ -78,8 +78,8 @@
       "board": "Amazon Productivity Finds",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-productivity.html"
     },
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-travel.html"
     },
@@ -117,8 +117,8 @@
       "board": "Amazon Creator Finds",
       "product_count": 2,
       "top_products": [
-        "phone_tripod",
-        "ring_light"
+        "ring_light",
+        "phone_tripod"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-creator.html"
     },
