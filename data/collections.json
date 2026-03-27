@@ -1,6 +1,20 @@
 {
   "collections": [
     {
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "label": "Beauty & Skincare",
+      "keyword": "beauty amazon",
+      "board": "Amazon Beauty Finds",
+      "product_count": 3,
+      "top_products": [
+        "led_face_mask",
+        "facial_cleansing_brush",
+        "hair_curler_auto"
+      ],
+      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
+    },
+    {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
       "label": "Kitchen Gadgets",
@@ -8,9 +22,9 @@
       "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
-        "air_fryer",
         "vegetable_chopper",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "air_fryer"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-kitchen.html"
     },
@@ -29,34 +43,6 @@
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-fitness.html"
     },
     {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "label": "Beauty & Skincare",
-      "keyword": "beauty amazon",
-      "board": "Amazon Beauty Finds",
-      "product_count": 3,
-      "top_products": [
-        "facial_cleansing_brush",
-        "led_face_mask",
-        "hair_curler_auto"
-      ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
-      "product_count": 3,
-      "top_products": [
-        "closet_organizer",
-        "under_sink_organizer",
-        "storage_box_system"
-      ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
-    },
-    {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
       "label": "Amazon Soccer",
@@ -69,6 +55,33 @@
         "agility_ladder"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "label": "Amazon Home",
+      "keyword": "amazon home",
+      "board": "Amazon Home Finds",
+      "product_count": 3,
+      "top_products": [
+        "under_sink_organizer",
+        "storage_box_system",
+        "closet_organizer"
+      ],
+      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
+    },
+    {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "label": "Amazon Productivity",
+      "keyword": "amazon productivity",
+      "board": "Amazon Productivity Finds",
+      "product_count": 2,
+      "top_products": [
+        "standing_desk_converter",
+        "blue_light_glasses"
+      ],
+      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_travel",
@@ -91,23 +104,10 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-pets.html"
-    },
-    {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "label": "Amazon Productivity",
-      "keyword": "amazon productivity",
-      "board": "Amazon Productivity Finds",
-      "product_count": 2,
-      "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
-      ],
-      "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-productivity.html"
     },
     {
       "id": "amazon_creator",
@@ -130,8 +130,8 @@
       "board": "Amazon Car Finds",
       "product_count": 2,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
+        "portable_car_vacuum",
+        "car_phone_mount"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-car.html"
     },
