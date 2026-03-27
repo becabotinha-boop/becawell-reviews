@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
+        "facial_cleansing_brush",
         "hair_curler_auto",
-        "facial_cleansing_brush"
+        "led_face_mask"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -23,8 +23,8 @@
       "product_count": 3,
       "top_products": [
         "meal_prep_containers",
-        "vegetable_chopper",
-        "air_fryer"
+        "air_fryer",
+        "vegetable_chopper"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-kitchen.html"
     },
@@ -51,8 +51,8 @@
       "product_count": 3,
       "top_products": [
         "under_sink_organizer",
-        "closet_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "closet_organizer"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
@@ -64,9 +64,9 @@
       "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
-        "soccer_training_cones",
         "agility_ladder",
-        "soccer_rebounder"
+        "soccer_rebounder",
+        "soccer_training_cones"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
     },
@@ -104,8 +104,8 @@
       "board": "Amazon Pets Finds",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-pets.html"
     },
