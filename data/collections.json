@@ -8,9 +8,9 @@
       "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
+        "led_face_mask",
         "hair_curler_auto",
-        "led_face_mask"
+        "facial_cleansing_brush"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-beauty.html"
     },
@@ -51,8 +51,8 @@
       "product_count": 3,
       "top_products": [
         "under_sink_organizer",
-        "storage_box_system",
-        "closet_organizer"
+        "closet_organizer",
+        "storage_box_system"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-home.html"
     },
@@ -65,8 +65,8 @@
       "product_count": 3,
       "top_products": [
         "soccer_rebounder",
-        "agility_ladder",
-        "soccer_training_cones"
+        "soccer_training_cones",
+        "agility_ladder"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-soccer.html"
     },
@@ -91,8 +91,8 @@
       "board": "Amazon Travel Finds",
       "product_count": 2,
       "top_products": [
-        "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "packing_cubes"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-travel.html"
     },
@@ -130,8 +130,8 @@
       "board": "Amazon Car Finds",
       "product_count": 2,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
+        "portable_car_vacuum",
+        "car_phone_mount"
       ],
       "url": "https://merely-palm-essential-yard.trycloudflare.com/collection-amazon-car.html"
     },
