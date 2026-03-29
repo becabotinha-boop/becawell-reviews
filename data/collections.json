@@ -5,32 +5,32 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_productivity.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_productivity.html"
     },
     {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
+        "led_face_mask",
         "hair_curler_auto",
-        "facial_cleansing_brush",
-        "led_face_mask"
+        "facial_cleansing_brush"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_beauty.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
+        "meal_prep_containers",
         "air_fryer",
-        "vegetable_chopper",
-        "meal_prep_containers"
+        "vegetable_chopper"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_kitchen.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
@@ -40,7 +40,7 @@
         "packing_cubes",
         "travel_backpack"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_travel.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
@@ -51,17 +51,27 @@
         "adjustable_dumbbells",
         "resistance_bands"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_fitness.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
       "slug": "amazon-pets",
       "product_count": 2,
       "top_products": [
-        "auto_pet_feeder",
-        "dog_training_collar"
+        "dog_training_collar",
+        "auto_pet_feeder"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_pets.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_pets.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
+      "top_products": [
+        "ring_light",
+        "phone_tripod"
+      ],
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_creator.html"
     },
     {
       "id": "amazon_tech",
@@ -70,17 +80,7 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_tech.html"
-    },
-    {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "product_count": 2,
-      "top_products": [
-        "phone_tripod",
-        "ring_light"
-      ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_creator.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "amazon_home",
@@ -88,10 +88,10 @@
       "product_count": 3,
       "top_products": [
         "closet_organizer",
-        "storage_box_system",
-        "under_sink_organizer"
+        "under_sink_organizer",
+        "storage_box_system"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "amazon_soccer",
@@ -102,7 +102,7 @@
         "agility_ladder",
         "soccer_training_cones"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_soccer.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_car",
@@ -112,7 +112,7 @@
         "car_phone_mount",
         "portable_car_vacuum"
       ],
-      "url": "https://sake-cover-even-font.trycloudflare.com/collection-amazon_car.html"
+      "url": "https://carefully-participated-democracy-supervision.trycloudflare.com/collection-amazon_car.html"
     }
   ]
 }
