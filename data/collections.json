@@ -8,29 +8,29 @@
         "standing_desk_converter",
         "blue_light_glasses"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_productivity.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
     },
     {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
         "hair_curler_auto",
+        "facial_cleansing_brush",
         "led_face_mask"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_beauty.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
-        "meal_prep_containers",
         "air_fryer",
-        "vegetable_chopper"
+        "vegetable_chopper",
+        "meal_prep_containers"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_kitchen.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
@@ -40,7 +40,7 @@
         "travel_backpack",
         "packing_cubes"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_travel.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
@@ -51,7 +51,7 @@
         "adjustable_dumbbells",
         "resistance_bands"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
@@ -61,17 +61,17 @@
         "dog_training_collar",
         "auto_pet_feeder"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_pets.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
     },
     {
       "id": "amazon_creator",
       "slug": "amazon-creator",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_creator.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
     },
     {
       "id": "amazon_tech",
@@ -80,29 +80,29 @@
       "top_products": [
         "wireless_earbuds"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_tech.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 3,
-      "top_products": [
-        "under_sink_organizer",
-        "storage_box_system",
-        "closet_organizer"
-      ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
+        "agility_ladder",
         "soccer_rebounder",
-        "soccer_training_cones",
-        "agility_ladder"
+        "soccer_training_cones"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_soccer.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "storage_box_system",
+        "under_sink_organizer"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "amazon_car",
@@ -112,7 +112,7 @@
         "portable_car_vacuum",
         "car_phone_mount"
       ],
-      "url": "https://odds-designation-experience-entrepreneurs.trycloudflare.com/collection-amazon_car.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
     }
   ]
 }
