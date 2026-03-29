@@ -1,152 +1,118 @@
 {
   "collections": [
     {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "product_count": 2,
+      "top_products": [
+        "blue_light_glasses",
+        "standing_desk_converter"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
+    },
+    {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
-      "label": "Beauty & Skincare",
-      "keyword": "beauty amazon",
-      "board": "Amazon Beauty Finds",
       "product_count": 3,
       "top_products": [
         "led_face_mask",
         "facial_cleansing_brush",
         "hair_curler_auto"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-beauty.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
-      "label": "Kitchen Gadgets",
-      "keyword": "kitchen gadgets amazon",
-      "board": "Kitchen Finds",
       "product_count": 3,
       "top_products": [
         "meal_prep_containers",
         "vegetable_chopper",
         "air_fryer"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-kitchen.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
+    },
+    {
+      "id": "amazon_travel",
+      "slug": "amazon-travel",
+      "product_count": 2,
+      "top_products": [
+        "packing_cubes",
+        "travel_backpack"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
-      "label": "Fitness Equipment",
-      "keyword": "fitness amazon",
-      "board": "Home Fitness Finds",
       "product_count": 3,
       "top_products": [
         "jump_rope_pro",
         "adjustable_dumbbells",
         "resistance_bands"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
+    },
+    {
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "product_count": 2,
+      "top_products": [
+        "dog_training_collar",
+        "auto_pet_feeder"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
+      "top_products": [
+        "ring_light",
+        "phone_tripod"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 1,
+      "top_products": [
+        "wireless_earbuds"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "label": "Amazon Home",
-      "keyword": "amazon home",
-      "board": "Amazon Home Finds",
       "product_count": 3,
       "top_products": [
         "closet_organizer",
         "storage_box_system",
         "under_sink_organizer"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
-      "label": "Amazon Soccer",
-      "keyword": "amazon soccer",
-      "board": "Amazon Soccer Finds",
       "product_count": 3,
       "top_products": [
         "soccer_training_cones",
         "soccer_rebounder",
         "agility_ladder"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-soccer.html"
-    },
-    {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "label": "Amazon Productivity",
-      "keyword": "amazon productivity",
-      "board": "Amazon Productivity Finds",
-      "product_count": 2,
-      "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-productivity.html"
-    },
-    {
-      "id": "amazon_travel",
-      "slug": "amazon-travel",
-      "label": "Amazon Travel",
-      "keyword": "amazon travel",
-      "board": "Amazon Travel Finds",
-      "product_count": 2,
-      "top_products": [
-        "packing_cubes",
-        "travel_backpack"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-travel.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "label": "Amazon Pets",
-      "keyword": "amazon pets",
-      "board": "Amazon Pets Finds",
-      "product_count": 2,
-      "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-pets.html"
-    },
-    {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "label": "Amazon Creator",
-      "keyword": "amazon creator",
-      "board": "Amazon Creator Finds",
-      "product_count": 2,
-      "top_products": [
-        "ring_light",
-        "phone_tripod"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-creator.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
-      "label": "Amazon Car",
-      "keyword": "amazon car",
-      "board": "Amazon Car Finds",
       "product_count": 2,
       "top_products": [
         "portable_car_vacuum",
         "car_phone_mount"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-car.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "label": "Amazon Tech",
-      "keyword": "amazon tech",
-      "board": "Amazon Tech Finds",
-      "product_count": 1,
-      "top_products": [
-        "wireless_earbuds"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon-tech.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
     }
-  ],
-  "total": 11
+  ]
 }
