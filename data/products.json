@@ -6,9 +6,6 @@
       "name": "Blue Light Blocking Glasses",
       "network": "amazon",
       "niche": "amazon_productivity",
-      "niche_label": "Amazon Productivity",
-      "board": "Amazon Productivity Finds",
-      "keyword": "amazon productivity",
       "score": 85.0,
       "tier": "A",
       "rating": {
@@ -16,20 +13,9 @@
         "value": 4.9,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.18,
-      "payout": 3,
-      "hoplink": "https://www.amazon.com/s?k=blue+light+blocking+glasses+computer+anti+glare&tag=becawell05-20",
-      "cvr": 0.0218,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "15-30",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/blue-light-glasses-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/blue-light-glasses-review.html"
     },
     {
       "id": "standing_desk_converter",
@@ -37,9 +23,6 @@
       "name": "Standing Desk Converter Adjustable",
       "network": "amazon",
       "niche": "amazon_productivity",
-      "niche_label": "Amazon Productivity",
-      "board": "Amazon Productivity Finds",
-      "keyword": "amazon productivity",
       "score": 85.0,
       "tier": "A",
       "rating": {
@@ -47,20 +30,9 @@
         "value": 4.9,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.18,
-      "payout": 3,
-      "hoplink": "https://www.amazon.com/s?k=standing+desk+converter+adjustable+height+36+inch&tag=becawell05-20",
-      "cvr": 0.0218,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "60-120",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/standing-desk-converter-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/standing-desk-converter-review.html"
     },
     {
       "id": "led_face_mask",
@@ -68,9 +40,6 @@
       "name": "LED Light Therapy Face Mask",
       "network": "amazon",
       "niche": "amazon_beauty",
-      "niche_label": "Beauty & Skincare",
-      "board": "Amazon Beauty Finds",
-      "keyword": "beauty amazon",
       "score": 82.5,
       "tier": "A",
       "rating": {
@@ -78,20 +47,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.15,
-      "payout": 3,
-      "hoplink": "https://www.amazon.com/s?k=LED+light+therapy+face+mask+red+blue&tag=becawell05-20",
-      "cvr": 0.0215,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "40-80",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/led-face-mask-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/led-face-mask-review.html"
     },
     {
       "id": "facial_cleansing_brush",
@@ -99,9 +57,6 @@
       "name": "Sonic Facial Cleansing Brush",
       "network": "amazon",
       "niche": "amazon_beauty",
-      "niche_label": "Beauty & Skincare",
-      "board": "Amazon Beauty Finds",
-      "keyword": "beauty amazon",
       "score": 82.5,
       "tier": "A",
       "rating": {
@@ -109,20 +64,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.15,
-      "payout": 3,
-      "hoplink": "https://www.amazon.com/s?k=sonic+facial+cleansing+brush+silicone+waterproof&tag=becawell05-20",
-      "cvr": 0.0215,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "25-50",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/facial-cleansing-brush-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/facial-cleansing-brush-review.html"
     },
     {
       "id": "hair_curler_auto",
@@ -130,9 +74,6 @@
       "name": "Automatic Hair Curler",
       "network": "amazon",
       "niche": "amazon_beauty",
-      "niche_label": "Beauty & Skincare",
-      "board": "Amazon Beauty Finds",
-      "keyword": "beauty amazon",
       "score": 82.5,
       "tier": "A",
       "rating": {
@@ -140,20 +81,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.15,
-      "payout": 3,
-      "hoplink": "https://www.amazon.com/s?k=automatic+hair+curler+rotating+barrel&tag=becawell05-20",
-      "cvr": 0.0215,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "35-65",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/hair-curler-auto-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/hair-curler-auto-review.html"
     },
     {
       "id": "meal_prep_containers",
@@ -161,9 +91,6 @@
       "name": "Meal Prep Containers 20-Pack",
       "network": "amazon",
       "niche": "amazon_kitchen",
-      "niche_label": "Kitchen Gadgets",
-      "board": "Kitchen Finds",
-      "keyword": "kitchen gadgets amazon",
       "score": 80.1,
       "tier": "A",
       "rating": {
@@ -171,20 +98,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.12,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=meal+prep+containers+bpa+free+microwave+safe&tag=becawell05-20",
-      "cvr": 0.0212,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/meal-prep-containers-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/meal-prep-containers-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -192,9 +108,6 @@
       "name": "Pro Vegetable Chopper",
       "network": "amazon",
       "niche": "amazon_kitchen",
-      "niche_label": "Kitchen Gadgets",
-      "board": "Kitchen Finds",
-      "keyword": "kitchen gadgets amazon",
       "score": 80.1,
       "tier": "A",
       "rating": {
@@ -202,20 +115,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.12,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=vegetable+chopper+mandoline+slicer+pro&tag=becawell05-20",
-      "cvr": 0.0212,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "25-40",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/vegetable-chopper-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/vegetable-chopper-review.html"
     },
     {
       "id": "air_fryer",
@@ -223,9 +125,6 @@
       "name": "Air Fryer 5.8QT",
       "network": "amazon",
       "niche": "amazon_kitchen",
-      "niche_label": "Kitchen Gadgets",
-      "board": "Kitchen Finds",
-      "keyword": "kitchen gadgets amazon",
       "score": 80.1,
       "tier": "A",
       "rating": {
@@ -233,20 +132,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.12,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=air+fryer+5.8+qt+large&tag=becawell05-20",
-      "cvr": 0.0212,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "55-90",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/air-fryer-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/air-fryer-review.html"
     },
     {
       "id": "packing_cubes",
@@ -254,9 +142,6 @@
       "name": "Packing Cubes 6-Piece Set",
       "network": "amazon",
       "niche": "amazon_travel",
-      "niche_label": "Amazon Travel",
-      "board": "Amazon Travel Finds",
-      "keyword": "amazon travel",
       "score": 78.9,
       "tier": "B",
       "rating": {
@@ -264,20 +149,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.11,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=packing+cubes+set+6+piece+compression+travel&tag=becawell05-20",
-      "cvr": 0.0211,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/packing-cubes-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/packing-cubes-review.html"
     },
     {
       "id": "travel_backpack",
@@ -285,9 +159,6 @@
       "name": "40L Travel Backpack Carry-On",
       "network": "amazon",
       "niche": "amazon_travel",
-      "niche_label": "Amazon Travel",
-      "board": "Amazon Travel Finds",
-      "keyword": "amazon travel",
       "score": 78.9,
       "tier": "B",
       "rating": {
@@ -295,20 +166,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "gravity": 80,
-      "epc": 0.11,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=40L+travel+backpack+carry+on+laptop+compartment&tag=becawell05-20",
-      "cvr": 0.0211,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "45-80",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/travel-backpack-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/travel-backpack-review.html"
     },
     {
       "id": "jump_rope_pro",
@@ -316,9 +176,6 @@
       "name": "Weighted Jump Rope Pro",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "niche_label": "Fitness Equipment",
-      "board": "Home Fitness Finds",
-      "keyword": "fitness amazon",
       "score": 78.0,
       "tier": "B",
       "rating": {
@@ -326,20 +183,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.1,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=weighted+jump+rope+fitness+adults&tag=becawell05-20",
-      "cvr": 0.021,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "15-30",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/jump-rope-pro-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/jump-rope-pro-review.html"
     },
     {
       "id": "adjustable_dumbbells",
@@ -347,9 +193,6 @@
       "name": "Adjustable Dumbbell Set",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "niche_label": "Fitness Equipment",
-      "board": "Home Fitness Finds",
-      "keyword": "fitness amazon",
       "score": 78.0,
       "tier": "B",
       "rating": {
@@ -357,20 +200,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.1,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=adjustable+dumbbells+set+5-50+lbs&tag=becawell05-20",
-      "cvr": 0.021,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "60-120",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/adjustable-dumbbells-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/adjustable-dumbbells-review.html"
     },
     {
       "id": "resistance_bands",
@@ -378,9 +210,6 @@
       "name": "Resistance Bands Set 11-Piece",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "niche_label": "Fitness Equipment",
-      "board": "Home Fitness Finds",
-      "keyword": "fitness amazon",
       "score": 78.0,
       "tier": "B",
       "rating": {
@@ -388,30 +217,16 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.1,
-      "payout": 2,
-      "hoplink": "https://www.amazon.com/s?k=resistance+bands+set+with+handles&tag=becawell05-20",
-      "cvr": 0.021,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/resistance-bands-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/resistance-bands-review.html"
     },
     {
       "id": "dog_training_collar",
       "slug": "dog-training-collar",
-      "name": "Dog Training Collar",
+      "name": "Dog Training Collar with Remote",
       "network": "amazon",
       "niche": "amazon_pets",
-      "niche_label": "Amazon Pets",
-      "board": "Amazon Pets Finds",
-      "keyword": "amazon pets",
       "score": 77.0,
       "tier": "B",
       "rating": {
@@ -419,20 +234,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.09,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=dog+training+collar+remote+1000ft+range&tag=becawell05-20",
-      "cvr": 0.0209,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "25-50",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/dog-training-collar-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/dog-training-collar-review.html"
     },
     {
       "id": "auto_pet_feeder",
@@ -440,9 +244,6 @@
       "name": "Automatic Pet Feeder WiFi",
       "network": "amazon",
       "niche": "amazon_pets",
-      "niche_label": "Amazon Pets",
-      "board": "Amazon Pets Finds",
-      "keyword": "amazon pets",
       "score": 77.0,
       "tier": "B",
       "rating": {
@@ -450,30 +251,16 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.09,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=automatic+pet+feeder+wifi+app+6L&tag=becawell05-20",
-      "cvr": 0.0209,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "45-85",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/auto-pet-feeder-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/auto-pet-feeder-review.html"
     },
     {
       "id": "ring_light",
       "slug": "ring-light",
-      "name": "Ring Light 18-inch",
+      "name": "Ring Light 18-inch with Stand",
       "network": "amazon",
       "niche": "amazon_creator",
-      "niche_label": "Amazon Creator",
-      "board": "Amazon Creator Finds",
-      "keyword": "amazon creator",
       "score": 75.8,
       "tier": "B",
       "rating": {
@@ -481,20 +268,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.08,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=ring+light+18+inch+tripod+stand+phone+holder&tag=becawell05-20",
-      "cvr": 0.0208,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "35-65",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/ring-light-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/ring-light-review.html"
     },
     {
       "id": "phone_tripod",
@@ -502,9 +278,6 @@
       "name": "Flexible Phone Tripod + Remote",
       "network": "amazon",
       "niche": "amazon_creator",
-      "niche_label": "Amazon Creator",
-      "board": "Amazon Creator Finds",
-      "keyword": "amazon creator",
       "score": 75.8,
       "tier": "B",
       "rating": {
@@ -512,20 +285,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.08,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=flexible+phone+tripod+bluetooth+remote+shutter&tag=becawell05-20",
-      "cvr": 0.0208,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/phone-tripod-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/phone-tripod-review.html"
     },
     {
       "id": "wireless_earbuds",
@@ -533,9 +295,6 @@
       "name": "Wireless Earbuds ANC",
       "network": "amazon",
       "niche": "amazon_tech",
-      "niche_label": "Amazon Tech",
-      "board": "Amazon Tech Finds",
-      "keyword": "amazon tech",
       "score": 75.8,
       "tier": "B",
       "rating": {
@@ -543,20 +302,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.08,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=wireless+earbuds+active+noise+cancelling+bluetooth&tag=becawell05-20",
-      "cvr": 0.0208,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "30-60",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
     },
     {
       "id": "closet_organizer",
@@ -564,9 +312,6 @@
       "name": "Closet Organizer System",
       "network": "amazon",
       "niche": "amazon_home",
-      "niche_label": "Amazon Home",
-      "board": "Amazon Home Finds",
-      "keyword": "amazon home",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -574,20 +319,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=closet+organizer+system+hanging&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "25-45",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/closet-organizer-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/closet-organizer-review.html"
     },
     {
       "id": "soccer_training_cones",
@@ -595,9 +329,6 @@
       "name": "Soccer Training Cones 50-Pack",
       "network": "amazon",
       "niche": "amazon_soccer",
-      "niche_label": "Amazon Soccer",
-      "board": "Amazon Soccer Finds",
-      "keyword": "amazon soccer",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -605,20 +336,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=soccer+training+cones+50+pack+disc+markers&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "15-25",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-training-cones-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-training-cones-review.html"
     },
     {
       "id": "soccer_rebounder",
@@ -626,9 +346,6 @@
       "name": "Soccer Rebounder Net Adjustable",
       "network": "amazon",
       "niche": "amazon_soccer",
-      "niche_label": "Amazon Soccer",
-      "board": "Amazon Soccer Finds",
-      "keyword": "amazon soccer",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -636,20 +353,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=soccer+rebounder+net+adjustable+angle+target&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "35-70",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-rebounder-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-rebounder-review.html"
     },
     {
       "id": "storage_box_system",
@@ -657,9 +363,6 @@
       "name": "Stackable Storage Boxes",
       "network": "amazon",
       "niche": "amazon_home",
-      "niche_label": "Amazon Home",
-      "board": "Amazon Home Finds",
-      "keyword": "amazon home",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -667,20 +370,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=stackable+storage+boxes+clear+lid&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "30-55",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/storage-box-system-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/storage-box-system-review.html"
     },
     {
       "id": "under_sink_organizer",
@@ -688,9 +380,6 @@
       "name": "Under Sink Organizer",
       "network": "amazon",
       "niche": "amazon_home",
-      "niche_label": "Amazon Home",
-      "board": "Amazon Home Finds",
-      "keyword": "amazon home",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -698,20 +387,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=under+sink+organizer+bathroom&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/under-sink-organizer-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/under-sink-organizer-review.html"
     },
     {
       "id": "agility_ladder",
@@ -719,9 +397,6 @@
       "name": "Agility Ladder Speed Training",
       "network": "amazon",
       "niche": "amazon_soccer",
-      "niche_label": "Amazon Soccer",
-      "board": "Amazon Soccer Finds",
-      "keyword": "amazon soccer",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -729,20 +404,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.06,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=agility+ladder+speed+training+20+rungs&tag=becawell05-20",
-      "cvr": 0.0206,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "20-35",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/agility-ladder-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/agility-ladder-review.html"
     },
     {
       "id": "portable_car_vacuum",
@@ -750,9 +414,6 @@
       "name": "Cordless Car Vacuum 20Kpa",
       "network": "amazon",
       "niche": "amazon_car",
-      "niche_label": "Amazon Car",
-      "board": "Amazon Car Finds",
-      "keyword": "amazon car",
       "score": 73.4,
       "tier": "B",
       "rating": {
@@ -760,20 +421,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.05,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=cordless+car+vacuum+handheld+high+suction+20kpa&tag=becawell05-20",
-      "cvr": 0.0205,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "35-60",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/portable-car-vacuum-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/portable-car-vacuum-review.html"
     },
     {
       "id": "car_phone_mount",
@@ -781,9 +431,6 @@
       "name": "Car Phone Mount Magnetic",
       "network": "amazon",
       "niche": "amazon_car",
-      "niche_label": "Amazon Car",
-      "board": "Amazon Car Finds",
-      "keyword": "amazon car",
       "score": 73.4,
       "tier": "B",
       "rating": {
@@ -791,22 +438,11 @@
         "value": 4.4,
         "stars": 4
       },
-      "gravity": 80,
-      "epc": 0.05,
-      "payout": 1,
-      "hoplink": "https://www.amazon.com/s?k=magnetic+car+phone+mount+dashboard+windshield&tag=becawell05-20",
-      "cvr": 0.0205,
-      "status": "active",
-      "is_amazon": true,
-      "is_aliexpress": false,
-      "asin": "",
       "price": "15-25",
-      "amazon_rating": {},
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/car-phone-mount-review.html",
-      "page_exists": false,
-      "image_url": ""
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/car-phone-mount-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-29T12:01:36.659093+00:00"
+  "generated_at": "2026-03-29T12:01:37.963440+00:00"
 }
