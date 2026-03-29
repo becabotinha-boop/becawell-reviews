@@ -86,9 +86,9 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/hair-curler-auto-review.html"
     },
     {
-      "id": "air_fryer",
-      "slug": "air-fryer",
-      "name": "Air Fryer 5.8QT",
+      "id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "name": "Meal Prep Containers 20-Pack",
       "network": "amazon",
       "niche": "amazon_kitchen",
       "score": 80.1,
@@ -98,9 +98,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "price": "55-90",
+      "price": "20-35",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/air-fryer-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/meal-prep-containers-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -120,9 +120,9 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/vegetable-chopper-review.html"
     },
     {
-      "id": "meal_prep_containers",
-      "slug": "meal-prep-containers",
-      "name": "Meal Prep Containers 20-Pack",
+      "id": "air_fryer",
+      "slug": "air-fryer",
+      "name": "Air Fryer 5.8QT",
       "network": "amazon",
       "niche": "amazon_kitchen",
       "score": 80.1,
@@ -132,26 +132,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "price": "20-35",
+      "price": "55-90",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/meal-prep-containers-review.html"
-    },
-    {
-      "id": "packing_cubes",
-      "slug": "packing-cubes",
-      "name": "Packing Cubes 6-Piece Set",
-      "network": "amazon",
-      "niche": "amazon_travel",
-      "score": 78.9,
-      "tier": "B",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/packing-cubes-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/air-fryer-review.html"
     },
     {
       "id": "travel_backpack",
@@ -171,21 +154,21 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/travel-backpack-review.html"
     },
     {
-      "id": "jump_rope_pro",
-      "slug": "jump-rope-pro",
-      "name": "Weighted Jump Rope Pro",
+      "id": "packing_cubes",
+      "slug": "packing-cubes",
+      "name": "Packing Cubes 6-Piece Set",
       "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 78.0,
+      "niche": "amazon_travel",
+      "score": 78.9,
       "tier": "B",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
-      "price": "15-30",
+      "price": "20-35",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/jump-rope-pro-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/packing-cubes-review.html"
     },
     {
       "id": "adjustable_dumbbells",
@@ -222,6 +205,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/resistance-bands-review.html"
     },
     {
+      "id": "jump_rope_pro",
+      "slug": "jump-rope-pro",
+      "name": "Weighted Jump Rope Pro",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 78.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15-30",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/jump-rope-pro-review.html"
+    },
+    {
       "id": "dog_training_collar",
       "slug": "dog-training-collar",
       "name": "Dog Training Collar with Remote",
@@ -254,6 +254,23 @@
       "price": "45-85",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/auto-pet-feeder-review.html"
+    },
+    {
+      "id": "wireless_earbuds",
+      "slug": "wireless-earbuds",
+      "name": "Wireless Earbuds ANC",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "30-60",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
     },
     {
       "id": "ring_light",
@@ -290,21 +307,21 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/phone-tripod-review.html"
     },
     {
-      "id": "wireless_earbuds",
-      "slug": "wireless-earbuds",
-      "name": "Wireless Earbuds ANC",
+      "id": "closet_organizer",
+      "slug": "closet-organizer",
+      "name": "Closet Organizer System",
       "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.8,
+      "niche": "amazon_home",
+      "score": 74.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "30-60",
+      "price": "25-45",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/closet-organizer-review.html"
     },
     {
       "id": "under_sink_organizer",
@@ -324,11 +341,11 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/under-sink-organizer-review.html"
     },
     {
-      "id": "closet_organizer",
-      "slug": "closet-organizer",
-      "name": "Closet Organizer System",
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "amazon_soccer",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -336,9 +353,26 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "25-45",
+      "price": "35-70",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/closet-organizer-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-rebounder-review.html"
+    },
+    {
+      "id": "soccer_training_cones",
+      "slug": "soccer-training-cones",
+      "name": "Soccer Training Cones 50-Pack",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15-25",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-training-cones-review.html"
     },
     {
       "id": "agility_ladder",
@@ -375,38 +409,21 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/storage-box-system-review.html"
     },
     {
-      "id": "soccer_training_cones",
-      "slug": "soccer-training-cones",
-      "name": "Soccer Training Cones 50-Pack",
+      "id": "portable_car_vacuum",
+      "slug": "portable-car-vacuum",
+      "name": "Cordless Car Vacuum 20Kpa",
       "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
+      "niche": "amazon_car",
+      "score": 73.4,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "15-25",
+      "price": "35-60",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-training-cones-review.html"
-    },
-    {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-rebounder-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/portable-car-vacuum-review.html"
     },
     {
       "id": "car_phone_mount",
@@ -424,25 +441,8 @@
       "price": "15-25",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/car-phone-mount-review.html"
-    },
-    {
-      "id": "portable_car_vacuum",
-      "slug": "portable-car-vacuum",
-      "name": "Cordless Car Vacuum 20Kpa",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-60",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/portable-car-vacuum-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-29T13:26:14.305293+00:00"
+  "generated_at": "2026-03-29T13:39:03.595519+00:00"
 }
