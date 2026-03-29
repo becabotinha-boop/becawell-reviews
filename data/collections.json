@@ -8,7 +8,7 @@
         "blue_light_glasses",
         "standing_desk_converter"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_productivity.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
     },
     {
       "id": "amazon_beauty",
@@ -19,28 +19,28 @@
         "facial_cleansing_brush",
         "led_face_mask"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_beauty.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
-        "vegetable_chopper",
         "meal_prep_containers",
-        "air_fryer"
+        "air_fryer",
+        "vegetable_chopper"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_kitchen.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_travel.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
@@ -48,10 +48,10 @@
       "product_count": 3,
       "top_products": [
         "jump_rope_pro",
-        "adjustable_dumbbells",
-        "resistance_bands"
+        "resistance_bands",
+        "adjustable_dumbbells"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
@@ -61,16 +61,7 @@
         "dog_training_collar",
         "auto_pet_feeder"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_pets.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 1,
-      "top_products": [
-        "wireless_earbuds"
-      ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_tech.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
     },
     {
       "id": "amazon_creator",
@@ -80,18 +71,16 @@
         "ring_light",
         "phone_tripod"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_creator.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
     },
     {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "product_count": 3,
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 1,
       "top_products": [
-        "soccer_training_cones",
-        "agility_ladder",
-        "soccer_rebounder"
+        "wireless_earbuds"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_soccer.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "amazon_home",
@@ -99,20 +88,31 @@
       "product_count": 3,
       "top_products": [
         "closet_organizer",
-        "under_sink_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "under_sink_organizer"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "product_count": 3,
+      "top_products": [
+        "soccer_rebounder",
+        "agility_ladder",
+        "soccer_training_cones"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
       "product_count": 2,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
+        "portable_car_vacuum",
+        "car_phone_mount"
       ],
-      "url": "https://handmade-lead-specialties-dolls.trycloudflare.com/collection-amazon_car.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
     }
   ]
 }
