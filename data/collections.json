@@ -5,8 +5,8 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
     },
@@ -15,8 +15,8 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
         "facial_cleansing_brush",
+        "led_face_mask",
         "hair_curler_auto"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
@@ -26,9 +26,9 @@
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
+        "air_fryer",
         "meal_prep_containers",
-        "vegetable_chopper",
-        "air_fryer"
+        "vegetable_chopper"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
     },
@@ -47,9 +47,9 @@
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
-        "adjustable_dumbbells",
+        "jump_rope_pro",
         "resistance_bands",
-        "jump_rope_pro"
+        "adjustable_dumbbells"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
     },
@@ -58,19 +58,10 @@
       "slug": "amazon-pets",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 1,
-      "top_products": [
-        "wireless_earbuds"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "amazon_creator",
@@ -81,6 +72,15 @@
         "phone_tripod"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 1,
+      "top_products": [
+        "wireless_earbuds"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "amazon_home",
@@ -98,9 +98,9 @@
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
-        "soccer_rebounder",
+        "agility_ladder",
         "soccer_training_cones",
-        "agility_ladder"
+        "soccer_rebounder"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
     },
