@@ -16,8 +16,8 @@
       "product_count": 3,
       "top_products": [
         "hair_curler_auto",
-        "facial_cleansing_brush",
-        "led_face_mask"
+        "led_face_mask",
+        "facial_cleansing_brush"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -27,8 +27,8 @@
       "product_count": 3,
       "top_products": [
         "vegetable_chopper",
-        "air_fryer",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "air_fryer"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -37,8 +37,8 @@
       "slug": "amazon-travel",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -47,9 +47,9 @@
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
+        "jump_rope_pro",
         "resistance_bands",
-        "adjustable_dumbbells",
-        "jump_rope_pro"
+        "adjustable_dumbbells"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_fitness.html"
     },
@@ -68,8 +68,8 @@
       "slug": "amazon-creator",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_creator.html"
     },
@@ -87,9 +87,9 @@
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
-        "agility_ladder",
+        "soccer_training_cones",
         "soccer_rebounder",
-        "soccer_training_cones"
+        "agility_ladder"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_soccer.html"
     },
@@ -98,9 +98,9 @@
       "slug": "amazon-home",
       "product_count": 3,
       "top_products": [
+        "storage_box_system",
         "under_sink_organizer",
-        "closet_organizer",
-        "storage_box_system"
+        "closet_organizer"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_home.html"
     },
@@ -109,8 +109,8 @@
       "slug": "amazon-car",
       "product_count": 2,
       "top_products": [
-        "portable_car_vacuum",
-        "car_phone_mount"
+        "car_phone_mount",
+        "portable_car_vacuum"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_car.html"
     }
