@@ -15,9 +15,9 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
+        "hair_curler_auto",
         "led_face_mask",
-        "facial_cleansing_brush",
-        "hair_curler_auto"
+        "facial_cleansing_brush"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -26,9 +26,9 @@
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
-        "vegetable_chopper",
         "air_fryer",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "vegetable_chopper"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -37,8 +37,8 @@
       "slug": "amazon-travel",
       "product_count": 2,
       "top_products": [
-        "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "packing_cubes"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -47,9 +47,9 @@
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
-        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands"
+        "resistance_bands",
+        "jump_rope_pro"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_fitness.html"
     },
@@ -68,8 +68,8 @@
       "slug": "amazon-creator",
       "product_count": 2,
       "top_products": [
-        "phone_tripod",
-        "ring_light"
+        "ring_light",
+        "phone_tripod"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_creator.html"
     },
@@ -87,9 +87,9 @@
       "slug": "amazon-home",
       "product_count": 3,
       "top_products": [
-        "storage_box_system",
+        "under_sink_organizer",
         "closet_organizer",
-        "under_sink_organizer"
+        "storage_box_system"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_home.html"
     },
@@ -98,8 +98,8 @@
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
-        "agility_ladder",
         "soccer_rebounder",
+        "agility_ladder",
         "soccer_training_cones"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_soccer.html"
