@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": "standing_desk_converter",
+      "slug": "standing-desk-converter",
+      "name": "Standing Desk Converter Adjustable",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 85.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "60-120",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/standing-desk-converter-review.html"
+    },
+    {
       "id": "blue_light_glasses",
       "slug": "blue-light-glasses",
       "name": "Blue Light Blocking Glasses",
@@ -18,21 +35,21 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
-      "id": "standing_desk_converter",
-      "slug": "standing-desk-converter",
-      "name": "Standing Desk Converter Adjustable",
+      "id": "led_face_mask",
+      "slug": "led-face-mask",
+      "name": "LED Light Therapy Face Mask",
       "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 85.0,
+      "niche": "amazon_beauty",
+      "score": 82.5,
       "tier": "A",
       "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
+        "display": "4.7/5",
+        "value": 4.7,
         "stars": 5
       },
-      "price": "60-120",
+      "price": "40-80",
       "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/standing-desk-converter-review.html"
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/led-face-mask-review.html"
     },
     {
       "id": "facial_cleansing_brush",
@@ -69,23 +86,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/hair-curler-auto-review.html"
     },
     {
-      "id": "led_face_mask",
-      "slug": "led-face-mask",
-      "name": "LED Light Therapy Face Mask",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "40-80",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/led-face-mask-review.html"
-    },
-    {
       "id": "air_fryer",
       "slug": "air-fryer",
       "name": "Air Fryer 5.8QT",
@@ -103,23 +103,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/air-fryer-review.html"
     },
     {
-      "id": "meal_prep_containers",
-      "slug": "meal-prep-containers",
-      "name": "Meal Prep Containers 20-Pack",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 80.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/meal-prep-containers-review.html"
-    },
-    {
       "id": "vegetable_chopper",
       "slug": "vegetable-chopper",
       "name": "Pro Vegetable Chopper",
@@ -135,6 +118,23 @@
       "price": "25-40",
       "image_url": "",
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/vegetable-chopper-review.html"
+    },
+    {
+      "id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "name": "Meal Prep Containers 20-Pack",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 80.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/meal-prep-containers-review.html"
     },
     {
       "id": "travel_backpack",
@@ -273,23 +273,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/ring-light-review.html"
     },
     {
-      "id": "phone_tripod",
-      "slug": "phone-tripod",
-      "name": "Flexible Phone Tripod + Remote",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 75.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/phone-tripod-review.html"
-    },
-    {
       "id": "wireless_earbuds",
       "slug": "wireless-earbuds",
       "name": "Wireless Earbuds ANC",
@@ -307,12 +290,12 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/wireless-earbuds-review.html"
     },
     {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
+      "id": "phone_tripod",
+      "slug": "phone-tripod",
+      "name": "Flexible Phone Tripod + Remote",
       "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
+      "niche": "amazon_creator",
+      "score": 75.8,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
@@ -321,7 +304,7 @@
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/agility-ladder-review.html"
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/phone-tripod-review.html"
     },
     {
       "id": "closet_organizer",
@@ -375,6 +358,23 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
+      "id": "storage_box_system",
+      "slug": "storage-box-system",
+      "name": "Stackable Storage Boxes",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "30-55",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/storage-box-system-review.html"
+    },
+    {
       "id": "under_sink_organizer",
       "slug": "under-sink-organizer",
       "name": "Under Sink Organizer",
@@ -392,11 +392,11 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/under-sink-organizer-review.html"
     },
     {
-      "id": "storage_box_system",
-      "slug": "storage-box-system",
-      "name": "Stackable Storage Boxes",
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "amazon_soccer",
       "score": 74.3,
       "tier": "B",
       "rating": {
@@ -404,9 +404,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "30-55",
+      "price": "20-35",
       "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/storage-box-system-review.html"
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/agility-ladder-review.html"
     },
     {
       "id": "portable_car_vacuum",
@@ -444,5 +444,5 @@
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T13:59:41.691065+00:00"
+  "generated_at": "2026-03-31T15:26:37.923558+00:00"
 }
