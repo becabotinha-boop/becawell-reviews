@@ -1,23 +1,6 @@
 {
   "products": [
     {
-      "id": "standing_desk_converter",
-      "slug": "standing-desk-converter",
-      "name": "Standing Desk Converter Adjustable",
-      "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 85.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "60-120",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/standing-desk-converter-review.html"
-    },
-    {
       "id": "blue_light_glasses",
       "slug": "blue-light-glasses",
       "name": "Blue Light Blocking Glasses",
@@ -32,7 +15,24 @@
       },
       "price": "15-30",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/blue-light-glasses-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/blue-light-glasses-review.html"
+    },
+    {
+      "id": "standing_desk_converter",
+      "slug": "standing-desk-converter",
+      "name": "Standing Desk Converter Adjustable",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 85.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "60-120",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/standing-desk-converter-review.html"
     },
     {
       "id": "facial_cleansing_brush",
@@ -49,7 +49,7 @@
       },
       "price": "25-50",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/facial-cleansing-brush-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/facial-cleansing-brush-review.html"
     },
     {
       "id": "hair_curler_auto",
@@ -66,7 +66,7 @@
       },
       "price": "35-65",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/hair-curler-auto-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/hair-curler-auto-review.html"
     },
     {
       "id": "led_face_mask",
@@ -83,24 +83,7 @@
       },
       "price": "40-80",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/led-face-mask-review.html"
-    },
-    {
-      "id": "air_fryer",
-      "slug": "air-fryer",
-      "name": "Air Fryer 5.8QT",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 80.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "55-90",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/air-fryer-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/led-face-mask-review.html"
     },
     {
       "id": "meal_prep_containers",
@@ -117,7 +100,7 @@
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/meal-prep-containers-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/meal-prep-containers-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -134,7 +117,24 @@
       },
       "price": "25-40",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/vegetable-chopper-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/vegetable-chopper-review.html"
+    },
+    {
+      "id": "air_fryer",
+      "slug": "air-fryer",
+      "name": "Air Fryer 5.8QT",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 80.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "55-90",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/air-fryer-review.html"
     },
     {
       "id": "packing_cubes",
@@ -151,7 +151,7 @@
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/packing-cubes-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/packing-cubes-review.html"
     },
     {
       "id": "travel_backpack",
@@ -168,7 +168,7 @@
       },
       "price": "45-80",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/travel-backpack-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/travel-backpack-review.html"
     },
     {
       "id": "jump_rope_pro",
@@ -185,7 +185,7 @@
       },
       "price": "15-30",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/jump-rope-pro-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/jump-rope-pro-review.html"
     },
     {
       "id": "adjustable_dumbbells",
@@ -202,7 +202,7 @@
       },
       "price": "60-120",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/adjustable-dumbbells-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/adjustable-dumbbells-review.html"
     },
     {
       "id": "resistance_bands",
@@ -219,24 +219,7 @@
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/resistance-bands-review.html"
-    },
-    {
-      "id": "dog_training_collar",
-      "slug": "dog-training-collar",
-      "name": "Dog Training Collar with Remote",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 77.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "25-50",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/dog-training-collar-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/resistance-bands-review.html"
     },
     {
       "id": "auto_pet_feeder",
@@ -253,24 +236,24 @@
       },
       "price": "45-85",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/auto-pet-feeder-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/auto-pet-feeder-review.html"
     },
     {
-      "id": "wireless_earbuds",
-      "slug": "wireless-earbuds",
-      "name": "Wireless Earbuds ANC",
+      "id": "dog_training_collar",
+      "slug": "dog-training-collar",
+      "name": "Dog Training Collar with Remote",
       "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.8,
+      "niche": "amazon_pets",
+      "score": 77.0,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "30-60",
+      "price": "25-50",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/wireless-earbuds-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/dog-training-collar-review.html"
     },
     {
       "id": "phone_tripod",
@@ -287,7 +270,24 @@
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/phone-tripod-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/phone-tripod-review.html"
+    },
+    {
+      "id": "wireless_earbuds",
+      "slug": "wireless-earbuds",
+      "name": "Wireless Earbuds ANC",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "30-60",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
     },
     {
       "id": "ring_light",
@@ -304,41 +304,7 @@
       },
       "price": "35-65",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/ring-light-review.html"
-    },
-    {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/agility-ladder-review.html"
-    },
-    {
-      "id": "closet_organizer",
-      "slug": "closet-organizer",
-      "name": "Closet Organizer System",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "25-45",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/closet-organizer-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/ring-light-review.html"
     },
     {
       "id": "soccer_training_cones",
@@ -355,41 +321,7 @@
       },
       "price": "15-25",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-training-cones-review.html"
-    },
-    {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
-      "id": "under_sink_organizer",
-      "slug": "under-sink-organizer",
-      "name": "Under Sink Organizer",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/under-sink-organizer-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-training-cones-review.html"
     },
     {
       "id": "storage_box_system",
@@ -406,24 +338,75 @@
       },
       "price": "30-55",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/storage-box-system-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/storage-box-system-review.html"
     },
     {
-      "id": "portable_car_vacuum",
-      "slug": "portable-car-vacuum",
-      "name": "Cordless Car Vacuum 20Kpa",
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
       "network": "amazon",
-      "niche": "amazon_car",
-      "score": 73.4,
+      "niche": "amazon_soccer",
+      "score": 74.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "35-60",
+      "price": "35-70",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/portable-car-vacuum-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/soccer-rebounder-review.html"
+    },
+    {
+      "id": "under_sink_organizer",
+      "slug": "under-sink-organizer",
+      "name": "Under Sink Organizer",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/under-sink-organizer-review.html"
+    },
+    {
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/agility-ladder-review.html"
+    },
+    {
+      "id": "closet_organizer",
+      "slug": "closet-organizer",
+      "name": "Closet Organizer System",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "25-45",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/closet-organizer-review.html"
     },
     {
       "id": "car_phone_mount",
@@ -440,9 +423,26 @@
       },
       "price": "15-25",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/car-phone-mount-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/car-phone-mount-review.html"
+    },
+    {
+      "id": "portable_car_vacuum",
+      "slug": "portable-car-vacuum",
+      "name": "Cordless Car Vacuum 20Kpa",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 73.4,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-60",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/portable-car-vacuum-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T09:54:56.202248+00:00"
+  "generated_at": "2026-03-31T10:23:20.010850+00:00"
 }
