@@ -174,18 +174,18 @@
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 14,
+      "product_count": 13,
       "top_products": [
         "am_4ca88dd586e1",
         "am_c567c27216e1",
         "am_990d0419d434",
         "am_3d9773628943",
-        "am_266f93ce0a6f",
         "am_2991a16c949d",
         "am_2561bc4f86c6",
         "am_a3b793fc8218",
         "am_ac0a1d71dd2c",
-        "am_563f28d6e534"
+        "am_563f28d6e534",
+        "am_29f1b7bba20f"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
     },
@@ -196,9 +196,9 @@
       "top_products": [
         "am_f958357ca4c7",
         "am_c5969473e80a",
-        "am_eaa3e57f5b53",
         "am_3e5ff2924065",
-        "am_99dc4d57d532"
+        "am_99dc4d57d532",
+        "am_eaa3e57f5b53"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_appliances.html"
     },
@@ -223,18 +223,18 @@
     {
       "id": "beauty_grooming",
       "slug": "beauty-grooming",
-      "product_count": 13,
+      "product_count": 12,
       "top_products": [
         "am_a2a86df28a1a",
         "am_8c68dbdece76",
         "am_4e85eaf61874",
         "am_5d4010d9327c",
-        "am_c06d7a55140c",
         "am_aaff36c94289",
         "am_bd6485f4c2dc",
         "am_2fa368ad42d7",
         "am_b412e742a040",
-        "am_6a106da7fb9b"
+        "am_6a106da7fb9b",
+        "am_df11aad6ab73"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_grooming.html"
     },
@@ -384,7 +384,7 @@
     {
       "id": "garden_tools",
       "slug": "garden-tools",
-      "product_count": 9,
+      "product_count": 13,
       "top_products": [
         "am_52bfb373dfc3",
         "am_26894e75e06c",
@@ -394,7 +394,8 @@
         "am_3d05b82632b1",
         "am_02bf18c258c4",
         "am_294b08341abe",
-        "am_81496142ed14"
+        "am_81496142ed14",
+        "am_a9a23f799f1a"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden_tools.html"
     },
@@ -435,18 +436,18 @@
     {
       "id": "home_improvement",
       "slug": "home-improvement",
-      "product_count": 17,
+      "product_count": 16,
       "top_products": [
         "am_f39dbb413dae",
         "am_436fcf7d4816",
-        "am_38783845d148",
         "am_ae27fff7d2b4",
         "am_abe785e0a325",
         "am_b002bdfb1070",
         "am_1822f01aa96d",
         "am_fb6e9976a371",
         "am_415896ff9d71",
-        "am_ec7774801d62"
+        "am_ec7774801d62",
+        "am_53bb778abdec"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_improvement.html"
     },
@@ -482,15 +483,14 @@
     {
       "id": "car_accessories",
       "slug": "car-accessories",
-      "product_count": 7,
+      "product_count": 6,
       "top_products": [
         "am_62e4eadf6458",
-        "am_a27e005426c4",
-        "am_0426ca02b684",
         "am_f4bb70f4f044",
         "am_9efb0b0c8d9a",
         "am_e7dc6a2b33c5",
-        "am_eedda19c9c1a"
+        "am_eedda19c9c1a",
+        "am_0426ca02b684"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-car_accessories.html"
     },
