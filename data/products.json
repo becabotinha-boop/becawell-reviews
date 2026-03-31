@@ -256,6 +256,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/dog-training-collar-review.html"
     },
     {
+      "id": "wireless_earbuds",
+      "slug": "wireless-earbuds",
+      "name": "Wireless Earbuds ANC",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "30-60",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
+    },
+    {
       "id": "ring_light",
       "slug": "ring-light",
       "name": "Ring Light 18-inch with Stand",
@@ -288,23 +305,6 @@
       "price": "20-35",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/phone-tripod-review.html"
-    },
-    {
-      "id": "wireless_earbuds",
-      "slug": "wireless-earbuds",
-      "name": "Wireless Earbuds ANC",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "30-60",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/wireless-earbuds-review.html"
     },
     {
       "id": "storage_box_system",
@@ -970,23 +970,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-50acb1676368-review.html"
     },
     {
-      "id": "am_e1be00e0f4dc",
-      "slug": "am-e1be00e0f4dc",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "328.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e1be00e0f4dc-review.html"
-    },
-    {
       "id": "am_4eeb19d7bc35",
       "slug": "am-4eeb19d7bc35",
       "name": "Best Seller",
@@ -1497,6 +1480,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-013e1a8255c7-review.html"
     },
     {
+      "id": "am_e1be00e0f4dc",
+      "slug": "am-e1be00e0f4dc",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "328.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e1be00e0f4dc-review.html"
+    },
+    {
       "id": "am_c1f74c20a5cd",
       "slug": "am-c1f74c20a5cd",
       "name": "Rated  from 5 reviews",
@@ -1546,23 +1546,6 @@
       "price": "41.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-cafbae270614-review.html"
-    },
-    {
-      "id": "am_dcba7c707364",
-      "slug": "am-dcba7c707364",
-      "name": "Rated  from 18 reviews",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "254.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-dcba7c707364-review.html"
     },
     {
       "id": "am_60a98c6152ed",
@@ -2413,23 +2396,6 @@
       "price": "37.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-35015cb1c43a-review.html"
-    },
-    {
-      "id": "am_91a881ebd6d1",
-      "slug": "am-91a881ebd6d1",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "sports_cycling",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-91a881ebd6d1-review.html"
     },
     {
       "id": "am_436fcf7d4816",
@@ -3418,23 +3384,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-9a39908951d9-review.html"
     },
     {
-      "id": "am_638b7ab0d855",
-      "slug": "am-638b7ab0d855",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-638b7ab0d855-review.html"
-    },
-    {
       "id": "am_a8f6322e3b85",
       "slug": "am-a8f6322e3b85",
       "name": ", rating details",
@@ -3773,23 +3722,6 @@
       "price": "149.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-11345e42ceb9-review.html"
-    },
-    {
-      "id": "am_5bba6636fca4",
-      "slug": "am-5bba6636fca4",
-      "name": "DREO Tower Fan for Bedroom, 2026 Upgraded DC Motor, 28ft/s Hig...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "69.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-5bba6636fca4-review.html"
     },
     {
       "id": "am_abe785e0a325",
@@ -4385,23 +4317,6 @@
       "price": "13.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-fa07cc7f7b1e-review.html"
-    },
-    {
-      "id": "am_d56644bdf010",
-      "slug": "am-d56644bdf010",
-      "name": "Goiple Wig Glue for Lace Front Wigs, Waterproof Lace Front Wig...",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d56644bdf010-review.html"
     },
     {
       "id": "am_2ac1a4d9cbef",
@@ -7634,6 +7549,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-831d4e34d31d-review.html"
     },
     {
+      "id": "am_dcba7c707364",
+      "slug": "am-dcba7c707364",
+      "name": "Rated  from 18 reviews",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "254.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-dcba7c707364-review.html"
+    },
+    {
       "id": "am_3d05b82632b1",
       "slug": "am-3d05b82632b1",
       "name": "NCEDN\u3164",
@@ -8499,8 +8431,76 @@
       "price": "159.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-323ba379ad99-review.html"
+    },
+    {
+      "id": "am_ce591925eb54",
+      "slug": "am-ce591925eb54",
+      "name": "Rated  from 21 reviews",
+      "network": "amazon",
+      "niche": "grooming_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-ce591925eb54-review.html"
+    },
+    {
+      "id": "am_a0e8307b1ee5",
+      "slug": "am-a0e8307b1ee5",
+      "name": "2Pcs Headrest Hooks for Car, 2026 New Leather Headrest Hooks f...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a0e8307b1ee5-review.html"
+    },
+    {
+      "id": "am_97cc7fe472db",
+      "slug": "am-97cc7fe472db",
+      "name": "Tellegloww 27 Pcs Graduation Cruise Door Magnets 2026 Graduati...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-97cc7fe472db-review.html"
+    },
+    {
+      "id": "am_81496142ed14",
+      "slug": "am-81496142ed14",
+      "name": "Tactical Backpack Cooler, 25L Cooler Backpack Insulated Leak-P...",
+      "network": "amazon",
+      "niche": "garden_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "45.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-81496142ed14-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-03-31T20:28:35.793741+00:00"
+  "generated_at": "2026-03-31T20:31:01.193645+00:00"
 }
