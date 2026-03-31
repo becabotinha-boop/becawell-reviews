@@ -3,401 +3,501 @@
     {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
-      "product_count": 2,
+      "product_count": 11,
       "top_products": [
         "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "am_25269f79728b",
+        "am_d49dd0fba7a1",
+        "am_0d294be01afa",
+        "am_466ff85cfbee",
+        "am_a8f7c6987dfe",
+        "am_5af0a53ccc3c",
+        "am_81950e2037dc",
+        "am_f8ced8d92f30"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_productivity.html"
     },
     {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
-      "product_count": 3,
+      "product_count": 4,
       "top_products": [
-        "led_face_mask",
         "hair_curler_auto",
-        "facial_cleansing_brush"
+        "led_face_mask",
+        "facial_cleansing_brush",
+        "am_308a0862def9"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
-      "product_count": 3,
+      "product_count": 7,
       "top_products": [
         "meal_prep_containers",
         "air_fryer",
-        "vegetable_chopper"
+        "vegetable_chopper",
+        "am_f882c926d67a",
+        "am_359a7a363c40",
+        "am_61c0f00a2dc2",
+        "am_ce2ff1b2d2ac"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
-      "product_count": 2,
+      "product_count": 3,
       "top_products": [
+        "travel_backpack",
         "packing_cubes",
-        "travel_backpack"
+        "am_ab0d9741227f"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_travel.html"
     },
     {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 14,
+      "top_products": [
+        "am_08bb3072fec9",
+        "am_93a6639756e7",
+        "am_4ae85465d81b",
+        "am_9b388d32bcde",
+        "am_84b276e466fb",
+        "am_ed2030e74e80",
+        "am_7216a14e9419",
+        "am_b84ca699de26",
+        "am_be64ab890f94",
+        "am_9c944d73d7ee"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-sports_shoes.html"
+    },
+    {
+      "id": "home_wellness",
+      "slug": "home-wellness",
+      "product_count": 7,
+      "top_products": [
+        "am_f356c82f2772",
+        "am_8ce0aa8498f7",
+        "am_c6cdbfbcf01b",
+        "am_fd16863e358e",
+        "am_c13bd44c92d5",
+        "am_a8f6322e3b85",
+        "am_d56644bdf010"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_wellness.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "product_count": 16,
+      "top_products": [
+        "am_bbc68cb8dad6",
+        "am_96cf22daeaea",
+        "am_b5f871eb6cff",
+        "am_24c12a92e878",
+        "am_cfc532a950fe",
+        "am_957f24c33a00",
+        "am_06caca0b921a",
+        "am_0a8e0366b47f",
+        "am_904401750e12",
+        "am_5d7ea28889b5"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-car_accessories.html"
+    },
+    {
+      "id": "beauty_wigs",
+      "slug": "beauty-wigs",
+      "product_count": 13,
+      "top_products": [
+        "am_78622c58a569",
+        "am_d1db0357b6d3",
+        "am_725207e5d0b0",
+        "am_a74537cca6e6",
+        "am_413a54aad85b",
+        "am_1b1e3693c8cf",
+        "am_93d65f3b6d3a",
+        "am_b0b3c634a2b3",
+        "am_fc88b2a84f4e",
+        "am_4cdf9e128986"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-beauty_wigs.html"
+    },
+    {
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "product_count": 8,
+      "top_products": [
+        "am_e5b1767477a5",
+        "am_88976b57303d",
+        "am_d88b2d445ca0",
+        "am_6e63e6ce1685",
+        "am_434b086566f5",
+        "am_c994de45c618",
+        "am_3e5ff2924065",
+        "am_eaa3e57f5b53"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_appliances.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "product_count": 5,
+      "top_products": [
+        "am_0dd64b314804",
+        "am_8f712648f811",
+        "am_52bfb373dfc3",
+        "am_3d05b82632b1",
+        "am_d8016f2a2811"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-garden_tools.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 2,
+      "top_products": [
+        "am_7ebfd3c95391",
+        "am_edf129adc16a"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-grooming_tools.html"
+    },
+    {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
-      "product_count": 20,
+      "product_count": 12,
       "top_products": [
         "adjustable_dumbbells",
-        "resistance_bands",
         "jump_rope_pro",
-        "am_61a51ce84ae9",
-        "am_bd53ac7cc4ae",
-        "am_b5e079a1cf34",
-        "am_07a427808397",
+        "resistance_bands",
         "am_4838df04dd12",
         "am_678e7042ccc8",
-        "am_7e8d6bed7b28"
+        "am_e3f84d6a0f83",
+        "am_bd53ac7cc4ae",
+        "am_237eb4de3bd2",
+        "am_916bc239ea2d",
+        "am_baeddce33761"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
       "slug": "amazon-pets",
-      "product_count": 22,
+      "product_count": 29,
       "top_products": [
-        "auto_pet_feeder",
         "dog_training_collar",
-        "am_861524f2d6d2",
-        "am_2a3191b10dfa",
-        "am_765c8554b179",
-        "am_39a502501121",
+        "auto_pet_feeder",
         "am_da8edfe060ef",
-        "am_bdd2eb2c4ec6",
-        "am_0b33804817a1",
-        "am_2bc4d93620d4"
+        "am_39a502501121",
+        "am_ecbcb6412458",
+        "am_d2037e875f2d",
+        "am_a3875336bbf0",
+        "am_7942078545ed",
+        "am_f974f47fae75",
+        "am_5af7d7ec7fa3"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_pets.html"
     },
     {
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 33,
+      "top_products": [
+        "am_11345e42ceb9",
+        "am_9d84384e3f96",
+        "am_fcb7edfe74c7",
+        "am_da03fc8f5d2b",
+        "am_78edbf0cbca4",
+        "am_3ee6e3cd3bf5",
+        "am_67f4fb670407",
+        "am_60a98c6152ed",
+        "am_b15efea347ea",
+        "am_019202188a5c"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-family_fashion.html"
+    },
+    {
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "product_count": 2,
+      "top_products": [
+        "am_1d3c10025ece",
+        "am_bfbf1ad47e1b"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-sports_cycling.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 7,
+      "top_products": [
+        "am_bd6485f4c2dc",
+        "am_a2a86df28a1a",
+        "am_8c68dbdece76",
+        "am_5d4010d9327c",
+        "am_63818f653f0d",
+        "am_2fa368ad42d7",
+        "am_6a106da7fb9b"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-beauty_grooming.html"
+    },
+    {
+      "id": "home_decor",
+      "slug": "home-decor",
+      "product_count": 61,
+      "top_products": [
+        "am_81d9f1e3fa58",
+        "am_8f5a9b47b1aa",
+        "am_cfda5d85934d",
+        "am_60a3047ba7cc",
+        "am_01985eba6130",
+        "am_dbf057427bcb",
+        "am_f776f5c9454f",
+        "am_e09d67ebd30b",
+        "am_667a6b909283",
+        "am_ea05e84b9348"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_decor.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "product_count": 35,
+      "top_products": [
+        "am_87598242ea3f",
+        "am_424a81e9a91c",
+        "am_3685ec18e626",
+        "am_f60be711678f",
+        "am_bd3c53678fa5",
+        "am_9291d83447e6",
+        "am_93386c7b95fd",
+        "am_3117f4b0a692",
+        "am_35015cb1c43a",
+        "am_588b445331b5"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-toys_gadgets.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "product_count": 25,
+      "top_products": [
+        "am_b002bdfb1070",
+        "am_436fcf7d4816",
+        "am_abe785e0a325",
+        "am_38783845d148",
+        "am_f39dbb413dae",
+        "am_fb6e9976a371",
+        "am_646781cb4b71",
+        "am_a57184c72f08",
+        "am_513380e95fcc",
+        "am_ae27fff7d2b4"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_improvement.html"
+    },
+    {
+      "id": "fragrance",
+      "slug": "fragrance",
+      "product_count": 19,
+      "top_products": [
+        "am_986b284c1248",
+        "am_2ea80dd55555",
+        "am_00b21c4ec84e",
+        "al_19af0c4f1d4c",
+        "am_b81416ded435",
+        "am_fc2e0bf0d9b0",
+        "am_60e8fb335188",
+        "am_b9c6eddff64f",
+        "am_7ac06cfaad97",
+        "am_6f8f879aeaf3"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-fragrance.html"
+    },
+    {
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "product_count": 12,
+      "top_products": [
+        "am_b7e2613e54be",
+        "am_5d23f95287ed",
+        "am_5e62eb958458",
+        "am_b88f40633201",
+        "am_85a2ce0182c2",
+        "am_195d8743359b",
+        "am_10e5137f04cd",
+        "am_4e857d1dabff",
+        "am_91934c7634ba",
+        "am_0cccf9fdef26"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-outdoor_gear.html"
+    },
+    {
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "product_count": 39,
+      "top_products": [
+        "am_8de1226014dd",
+        "portable_car_vacuum",
+        "car_phone_mount",
+        "am_8909b7cbbe04",
+        "am_b15df601097c",
+        "am_2549212ce2fa",
+        "am_151e613e0602",
+        "am_89f0f8b5efee",
+        "am_68a2ccc73e17",
+        "am_795331ded27f"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_car.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 31,
+      "top_products": [
+        "am_be0d45f24608",
+        "am_7f911cc47bdd",
+        "storage_box_system",
+        "under_sink_organizer",
+        "closet_organizer",
+        "am_39bf15c821a0",
+        "am_95b1f90c32e5",
+        "am_03c6fd65330d",
+        "am_2c0370c3b99e",
+        "am_4547121d38e6"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_home.html"
+    },
+    {
       "id": "amazon_tech",
       "slug": "amazon-tech",
-      "product_count": 53,
+      "product_count": 50,
       "top_products": [
+        "am_c7fc76fed5cd",
+        "am_ef92206909ce",
         "wireless_earbuds",
-        "am_d3ac5bb8ed7a",
         "am_e5d1209d19aa",
-        "am_da3108c0c879",
+        "am_964f49cc1523",
+        "am_f120cfea282b",
+        "am_6a1c4594fba1",
         "am_e1be00e0f4dc",
-        "am_a4e3d99faa79",
-        "am_d72ecee53f92",
-        "am_0c7c6e67227f",
-        "am_9adea7206ef4",
-        "am_a1c39ee45b64"
+        "am_7db56b24d0fc",
+        "am_91362cd9b9a1"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 4,
+      "top_products": [
+        "am_2991a16c949d",
+        "am_c567c27216e1",
+        "am_990d0419d434",
+        "am_563f28d6e534"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-electronics_audio.html"
     },
     {
       "id": "amazon_creator",
       "slug": "amazon-creator",
       "product_count": 2,
       "top_products": [
-        "ring_light",
-        "phone_tripod"
+        "phone_tripod",
+        "ring_light"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_creator.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 30,
-      "top_products": [
-        "storage_box_system",
-        "closet_organizer",
-        "under_sink_organizer",
-        "am_3e43a4c562de",
-        "am_f179336419fb",
-        "am_02a64fa17041",
-        "am_2db41b9b1753",
-        "am_5370bf3dce67",
-        "am_71b7141d2e73",
-        "am_95b1f90c32e5"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_home.html"
-    },
-    {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
-      "product_count": 3,
+      "product_count": 5,
       "top_products": [
-        "soccer_rebounder",
+        "agility_ladder",
         "soccer_training_cones",
-        "agility_ladder"
+        "soccer_rebounder",
+        "am_44fa295f65f4",
+        "am_62f47ee06921"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "product_count": 38,
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
+      "product_count": 9,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum",
-        "am_cf11edac4557",
-        "am_8909b7cbbe04",
-        "am_b15df601097c",
-        "am_f89732a28556",
-        "am_50acb1676368",
-        "am_151e613e0602",
-        "am_29f4cf9da8f0",
-        "am_2ea969959b32"
+        "am_d6839c59ce6c",
+        "am_d2bf20c49fac",
+        "am_6c45bbe51a81",
+        "am_e98c1f23e56b",
+        "am_0f5cd33a6a8b",
+        "am_10195a6efa93",
+        "am_525b830ad111",
+        "am_1b8f457dd26b",
+        "am_a1247a47200e"
       ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_car.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-amazon_sleep.html"
     },
     {
-      "id": "beauty_wigs",
-      "slug": "beauty-wigs",
-      "product_count": 22,
+      "id": "jewelry",
+      "slug": "jewelry",
+      "product_count": 6,
       "top_products": [
-        "am_725207e5d0b0",
-        "am_261a839dae26",
-        "am_f1b99218dc1e",
-        "am_a74537cca6e6",
-        "am_a9dbd8cec733",
-        "am_fc88b2a84f4e",
-        "am_1b1e3693c8cf",
-        "am_1ae35c170882",
-        "am_4cdf9e128986",
-        "am_195dbb8dcbc0"
+        "am_25e507c12290",
+        "am_ad39ec4e77fe",
+        "am_27915117d165",
+        "am_2e3690b01f4a",
+        "am_595403912937",
+        "am_e79b340a3dd8"
       ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-beauty_wigs.html"
-    },
-    {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 13,
-      "top_products": [
-        "am_4ca88dd586e1",
-        "am_c567c27216e1",
-        "am_990d0419d434",
-        "am_3d9773628943",
-        "am_2991a16c949d",
-        "am_2561bc4f86c6",
-        "am_a3b793fc8218",
-        "am_ac0a1d71dd2c",
-        "am_563f28d6e534",
-        "am_29f1b7bba20f"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-electronics_audio.html"
-    },
-    {
-      "id": "home_appliances",
-      "slug": "home-appliances",
-      "product_count": 5,
-      "top_products": [
-        "am_f958357ca4c7",
-        "am_c5969473e80a",
-        "am_3e5ff2924065",
-        "am_99dc4d57d532",
-        "am_eaa3e57f5b53"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_appliances.html"
-    },
-    {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "product_count": 19,
-      "top_products": [
-        "am_5e62eb958458",
-        "am_79d9082d671c",
-        "am_3134fbffe62c",
-        "am_50da79f697ed",
-        "am_982ec97e5c9f",
-        "am_b88f40633201",
-        "am_b7e2613e54be",
-        "am_1968822ddee3",
-        "am_195d8743359b",
-        "am_85a2ce0182c2"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-outdoor_gear.html"
-    },
-    {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "product_count": 12,
-      "top_products": [
-        "am_a2a86df28a1a",
-        "am_8c68dbdece76",
-        "am_4e85eaf61874",
-        "am_5d4010d9327c",
-        "am_aaff36c94289",
-        "am_bd6485f4c2dc",
-        "am_2fa368ad42d7",
-        "am_b412e742a040",
-        "am_6a106da7fb9b",
-        "am_df11aad6ab73"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-beauty_grooming.html"
-    },
-    {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "product_count": 31,
-      "top_products": [
-        "am_54d295a1174c",
-        "am_fa4332339a8a",
-        "am_be98aebb9b5c",
-        "am_4eeb19d7bc35",
-        "am_0232905aa113",
-        "am_0ac5ff005643",
-        "am_424a81e9a91c",
-        "am_c06b128ff2de",
-        "am_013e1a8255c7",
-        "am_cafbae270614"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-toys_gadgets.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-jewelry.html"
     },
     {
       "id": "beauty_skincare",
       "slug": "beauty-skincare",
-      "product_count": 1,
+      "product_count": 4,
       "top_products": [
-        "am_40135c0fd2ee"
+        "am_40135c0fd2ee",
+        "am_3d45ee8849dc",
+        "am_70c1a0c63148",
+        "am_46fedd835027"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-beauty_skincare.html"
     },
     {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "product_count": 22,
-      "top_products": [
-        "am_5eaf3ba1efb1",
-        "am_4daffb714b23",
-        "am_2ea80dd55555",
-        "am_00b21c4ec84e",
-        "al_19af0c4f1d4c",
-        "al_9e573f269e20",
-        "am_b81416ded435",
-        "am_9a39908951d9",
-        "am_986b284c1248",
-        "am_b9c6eddff64f"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-fragrance.html"
-    },
-    {
-      "id": "home_wellness",
-      "slug": "home-wellness",
-      "product_count": 13,
-      "top_products": [
-        "am_c13bd44c92d5",
-        "am_42c595cf32a7",
-        "am_fd16863e358e",
-        "am_a8f6322e3b85",
-        "am_2ac1a4d9cbef",
-        "am_c6cdbfbcf01b",
-        "am_fffe413af6f3",
-        "am_31e1dd5af0d6",
-        "am_969d00ce453d",
-        "am_bddc83df0eb4"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_wellness.html"
-    },
-    {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 22,
-      "top_products": [
-        "am_8040b7235385",
-        "am_717879260edd",
-        "am_60a98c6152ed",
-        "am_b15efea347ea",
-        "am_594e3682ce39",
-        "am_11345e42ceb9",
-        "am_1a0e7c70673c",
-        "am_6862bb540af3",
-        "am_715ab275f45d",
-        "am_fa0d396adfe3"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-family_fashion.html"
-    },
-    {
       "id": "fashion_shoes",
       "slug": "fashion-shoes",
-      "product_count": 2,
+      "product_count": 3,
       "top_products": [
-        "am_df2f9b527af8",
-        "am_9a2e38110cc6"
+        "am_1fd0a5185f11",
+        "am_9a2e38110cc6",
+        "am_927a522fef47"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-fashion_shoes.html"
     },
     {
-      "id": "sports_shoes",
-      "slug": "sports-shoes",
-      "product_count": 13,
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
+      "product_count": 4,
       "top_products": [
-        "am_5e150f60bd1f",
-        "am_bc94595093d9",
-        "am_08bb3072fec9",
-        "am_9b388d32bcde",
-        "am_303e08dc6c07",
-        "am_ed2030e74e80",
-        "am_9c944d73d7ee",
-        "am_be64ab890f94",
-        "am_b2fc3ba41c07",
-        "am_c3da0619b3b6"
+        "am_f1908b700c26",
+        "am_17ec767104b5",
+        "am_d6726462e3f1",
+        "am_b468187ed441"
       ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-sports_shoes.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-fitness_wellness.html"
     },
     {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 15,
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "product_count": 3,
       "top_products": [
-        "am_b8a7eed5879a",
-        "am_3346e9988a1c",
-        "am_c4f4c89a44f9",
-        "am_e315a2d774bc",
-        "am_dc6205da0667",
-        "am_768a685345d8",
-        "am_64c51ce91cd6",
-        "am_7a0494afee4f",
-        "am_78d1bb42d13a",
-        "am_53f40a9585b6"
+        "am_6b176c765abf",
+        "am_ef84b22fff97",
+        "am_d63c9565a6d5"
       ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_electronics.html"
-    },
-    {
-      "id": "grooming_tools",
-      "slug": "grooming-tools",
-      "product_count": 8,
-      "top_products": [
-        "am_7d35fde09116",
-        "am_75da69a5dd12",
-        "am_edf129adc16a",
-        "am_2b4bf379769c",
-        "am_db17dab20b10",
-        "am_c5c585badb7f",
-        "am_cdce1abfe6a1",
-        "am_ce591925eb54"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-grooming_tools.html"
-    },
-    {
-      "id": "garden_tools",
-      "slug": "garden-tools",
-      "product_count": 13,
-      "top_products": [
-        "am_52bfb373dfc3",
-        "am_26894e75e06c",
-        "am_d8016f2a2811",
-        "am_e6d8ffe6b372",
-        "am_21f42a05542c",
-        "am_3d05b82632b1",
-        "am_02bf18c258c4",
-        "am_294b08341abe",
-        "am_81496142ed14",
-        "am_a9a23f799f1a"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-garden_tools.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_textiles.html"
     },
     {
       "id": "anime_collectibles",
@@ -405,118 +505,46 @@
       "product_count": 8,
       "top_products": [
         "am_b4738012382f",
-        "am_6da8735e55d6",
         "am_41b008043a33",
-        "am_77c7136cbaf6",
-        "am_a95ad311fabd",
-        "am_b75bc8a9fbd8",
+        "am_7063167a2bea",
         "am_37fca7ab4cd8",
-        "am_2f588e9eb57d"
+        "am_2f588e9eb57d",
+        "am_6da8735e55d6",
+        "am_fe55909ef627",
+        "am_b75bc8a9fbd8"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-anime_collectibles.html"
     },
     {
-      "id": "home_decor",
-      "slug": "home-decor",
-      "product_count": 60,
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 5,
       "top_products": [
-        "am_c1f74c20a5cd",
-        "am_3157f33282f3",
-        "am_f616de0ba40f",
-        "am_5aabefaa55c4",
-        "am_af0e72ed36f8",
-        "am_ea9a0b2f0bc9",
-        "am_dbf057427bcb",
-        "am_f776f5c9454f",
-        "am_e09d67ebd30b",
-        "am_581b923c5079"
+        "am_33e74c6d0f4f",
+        "am_7a0494afee4f",
+        "am_768a685345d8",
+        "am_bef062a4d8f3",
+        "am_1adbcb8f40d5"
       ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_decor.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "product_count": 16,
-      "top_products": [
-        "am_f39dbb413dae",
-        "am_436fcf7d4816",
-        "am_ae27fff7d2b4",
-        "am_abe785e0a325",
-        "am_b002bdfb1070",
-        "am_1822f01aa96d",
-        "am_fb6e9976a371",
-        "am_415896ff9d71",
-        "am_ec7774801d62",
-        "am_53bb778abdec"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_improvement.html"
-    },
-    {
-      "id": "home_textiles",
-      "slug": "home-textiles",
-      "product_count": 9,
-      "top_products": [
-        "am_ef84b22fff97",
-        "am_93b7bdff3677",
-        "am_6b176c765abf",
-        "am_308de180c2c1",
-        "am_3122af2f9f02",
-        "am_5bfe6d4032c3",
-        "am_24fe9edafd5a",
-        "am_5d621df70a0c",
-        "am_d63c9565a6d5"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_textiles.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "product_count": 4,
-      "top_products": [
-        "am_d2b0c9bb7c87",
-        "am_1d3c10025ece",
-        "am_5363f61990aa",
-        "am_b2bb827b7f65"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-sports_cycling.html"
-    },
-    {
-      "id": "car_accessories",
-      "slug": "car-accessories",
-      "product_count": 6,
-      "top_products": [
-        "am_62e4eadf6458",
-        "am_f4bb70f4f044",
-        "am_9efb0b0c8d9a",
-        "am_e7dc6a2b33c5",
-        "am_eedda19c9c1a",
-        "am_0426ca02b684"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-car_accessories.html"
-    },
-    {
-      "id": "jewelry",
-      "slug": "jewelry",
-      "product_count": 3,
-      "top_products": [
-        "am_5a48eb610e2c",
-        "am_25e507c12290",
-        "am_831d4e34d31d"
-      ],
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-jewelry.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-home_electronics.html"
     },
     {
       "id": "retro_gaming",
       "slug": "retro-gaming",
-      "product_count": 5,
+      "product_count": 1,
       "top_products": [
-        "am_dc65131c1194",
-        "am_5d424f15f747",
-        "am_ff3ec9d7b886",
-        "am_cdd305664bff",
-        "am_e07cc71addc2"
+        "am_ff3ec9d7b886"
       ],
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-retro_gaming.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 1,
+      "top_products": [
+        "am_e0b279d1f47f"
+      ],
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/collection-aliexpress_deals.html"
     }
   ]
 }
