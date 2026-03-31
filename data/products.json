@@ -1,23 +1,6 @@
 {
   "products": [
     {
-      "id": "blue_light_glasses",
-      "slug": "blue-light-glasses",
-      "name": "Blue Light Blocking Glasses",
-      "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 85.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "15-30",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/blue-light-glasses-review.html"
-    },
-    {
       "id": "standing_desk_converter",
       "slug": "standing-desk-converter",
       "name": "Standing Desk Converter Adjustable",
@@ -35,21 +18,21 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/standing-desk-converter-review.html"
     },
     {
-      "id": "led_face_mask",
-      "slug": "led-face-mask",
-      "name": "LED Light Therapy Face Mask",
+      "id": "blue_light_glasses",
+      "slug": "blue-light-glasses",
+      "name": "Blue Light Blocking Glasses",
       "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
+      "niche": "amazon_productivity",
+      "score": 85.0,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
-      "price": "40-80",
+      "price": "15-30",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/led-face-mask-review.html"
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
       "id": "hair_curler_auto",
@@ -67,6 +50,23 @@
       "price": "35-65",
       "image_url": "",
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/hair-curler-auto-review.html"
+    },
+    {
+      "id": "led_face_mask",
+      "slug": "led-face-mask",
+      "name": "LED Light Therapy Face Mask",
+      "network": "amazon",
+      "niche": "amazon_beauty",
+      "score": 82.5,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "40-80",
+      "image_url": "",
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/led-face-mask-review.html"
     },
     {
       "id": "facial_cleansing_brush",
@@ -103,23 +103,6 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/meal-prep-containers-review.html"
     },
     {
-      "id": "vegetable_chopper",
-      "slug": "vegetable-chopper",
-      "name": "Pro Vegetable Chopper",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 80.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "25-40",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/vegetable-chopper-review.html"
-    },
-    {
       "id": "air_fryer",
       "slug": "air-fryer",
       "name": "Air Fryer 5.8QT",
@@ -135,6 +118,23 @@
       "price": "55-90",
       "image_url": "",
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/air-fryer-review.html"
+    },
+    {
+      "id": "vegetable_chopper",
+      "slug": "vegetable-chopper",
+      "name": "Pro Vegetable Chopper",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 80.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "25-40",
+      "image_url": "",
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/vegetable-chopper-review.html"
     },
     {
       "id": "packing_cubes",
@@ -222,23 +222,6 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/resistance-bands-review.html"
     },
     {
-      "id": "dog_training_collar",
-      "slug": "dog-training-collar",
-      "name": "Dog Training Collar with Remote",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 77.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "25-50",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/dog-training-collar-review.html"
-    },
-    {
       "id": "auto_pet_feeder",
       "slug": "auto-pet-feeder",
       "name": "Automatic Pet Feeder WiFi",
@@ -256,21 +239,21 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/auto-pet-feeder-review.html"
     },
     {
-      "id": "wireless_earbuds",
-      "slug": "wireless-earbuds",
-      "name": "Wireless Earbuds ANC",
+      "id": "dog_training_collar",
+      "slug": "dog-training-collar",
+      "name": "Dog Training Collar with Remote",
       "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.8,
+      "niche": "amazon_pets",
+      "score": 77.0,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "30-60",
+      "price": "25-50",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/wireless-earbuds-review.html"
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/dog-training-collar-review.html"
     },
     {
       "id": "phone_tripod",
@@ -307,38 +290,21 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/ring-light-review.html"
     },
     {
-      "id": "storage_box_system",
-      "slug": "storage-box-system",
-      "name": "Stackable Storage Boxes",
+      "id": "wireless_earbuds",
+      "slug": "wireless-earbuds",
+      "name": "Wireless Earbuds ANC",
       "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
+      "niche": "amazon_tech",
+      "score": 75.8,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "30-55",
+      "price": "30-60",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/storage-box-system-review.html"
-    },
-    {
-      "id": "under_sink_organizer",
-      "slug": "under-sink-organizer",
-      "name": "Under Sink Organizer",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/under-sink-organizer-review.html"
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/wireless-earbuds-review.html"
     },
     {
       "id": "soccer_training_cones",
@@ -356,6 +322,40 @@
       "price": "15-25",
       "image_url": "",
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/soccer-training-cones-review.html"
+    },
+    {
+      "id": "closet_organizer",
+      "slug": "closet-organizer",
+      "name": "Closet Organizer System",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "25-45",
+      "image_url": "",
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/closet-organizer-review.html"
+    },
+    {
+      "id": "under_sink_organizer",
+      "slug": "under-sink-organizer",
+      "name": "Under Sink Organizer",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/under-sink-organizer-review.html"
     },
     {
       "id": "soccer_rebounder",
@@ -392,9 +392,9 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/agility-ladder-review.html"
     },
     {
-      "id": "closet_organizer",
-      "slug": "closet-organizer",
-      "name": "Closet Organizer System",
+      "id": "storage_box_system",
+      "slug": "storage-box-system",
+      "name": "Stackable Storage Boxes",
       "network": "amazon",
       "niche": "amazon_home",
       "score": 74.3,
@@ -404,26 +404,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "25-45",
+      "price": "30-55",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/closet-organizer-review.html"
-    },
-    {
-      "id": "portable_car_vacuum",
-      "slug": "portable-car-vacuum",
-      "name": "Cordless Car Vacuum 20Kpa",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-60",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/portable-car-vacuum-review.html"
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/storage-box-system-review.html"
     },
     {
       "id": "car_phone_mount",
@@ -441,8 +424,25 @@
       "price": "15-25",
       "image_url": "",
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/car-phone-mount-review.html"
+    },
+    {
+      "id": "portable_car_vacuum",
+      "slug": "portable-car-vacuum",
+      "name": "Cordless Car Vacuum 20Kpa",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 73.4,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-60",
+      "image_url": "",
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/portable-car-vacuum-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T05:19:14.757951+00:00"
+  "generated_at": "2026-03-31T05:51:56.453553+00:00"
 }
