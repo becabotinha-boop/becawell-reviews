@@ -5,8 +5,8 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -15,8 +15,8 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
-        "led_face_mask",
         "hair_curler_auto",
+        "led_face_mask",
         "facial_cleansing_brush"
       ],
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_beauty.html"
@@ -27,8 +27,8 @@
       "product_count": 3,
       "top_products": [
         "meal_prep_containers",
-        "vegetable_chopper",
-        "air_fryer"
+        "air_fryer",
+        "vegetable_chopper"
       ],
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -58,19 +58,10 @@
       "slug": "amazon-pets",
       "product_count": 2,
       "top_products": [
-        "dog_training_collar",
-        "auto_pet_feeder"
+        "auto_pet_feeder",
+        "dog_training_collar"
       ],
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_pets.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 1,
-      "top_products": [
-        "wireless_earbuds"
-      ],
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "amazon_creator",
@@ -83,15 +74,13 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_creator.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 3,
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 1,
       "top_products": [
-        "storage_box_system",
-        "under_sink_organizer",
-        "closet_organizer"
+        "wireless_earbuds"
       ],
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "amazon_soccer",
@@ -105,12 +94,23 @@
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "under_sink_organizer",
+        "storage_box_system"
+      ],
+      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_home.html"
+    },
+    {
       "id": "amazon_car",
       "slug": "amazon-car",
       "product_count": 2,
       "top_products": [
-        "portable_car_vacuum",
-        "car_phone_mount"
+        "car_phone_mount",
+        "portable_car_vacuum"
       ],
       "url": "https://cloth-forums-extremely-doll.trycloudflare.com/collection-amazon_car.html"
     }
