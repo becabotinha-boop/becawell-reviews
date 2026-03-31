@@ -35,23 +35,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
-      "id": "led_face_mask",
-      "slug": "led-face-mask",
-      "name": "LED Light Therapy Face Mask",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "40-80",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/led-face-mask-review.html"
-    },
-    {
       "id": "facial_cleansing_brush",
       "slug": "facial-cleansing-brush",
       "name": "Sonic Facial Cleansing Brush",
@@ -86,21 +69,21 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/hair-curler-auto-review.html"
     },
     {
-      "id": "air_fryer",
-      "slug": "air-fryer",
-      "name": "Air Fryer 5.8QT",
+      "id": "led_face_mask",
+      "slug": "led-face-mask",
+      "name": "LED Light Therapy Face Mask",
       "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 80.1,
+      "niche": "amazon_beauty",
+      "score": 82.5,
       "tier": "A",
       "rating": {
         "display": "4.7/5",
         "value": 4.7,
         "stars": 5
       },
-      "price": "55-90",
+      "price": "40-80",
       "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/air-fryer-review.html"
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/led-face-mask-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -120,6 +103,23 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/vegetable-chopper-review.html"
     },
     {
+      "id": "air_fryer",
+      "slug": "air-fryer",
+      "name": "Air Fryer 5.8QT",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 80.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "55-90",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/air-fryer-review.html"
+    },
+    {
       "id": "meal_prep_containers",
       "slug": "meal-prep-containers",
       "name": "Meal Prep Containers 20-Pack",
@@ -137,23 +137,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/meal-prep-containers-review.html"
     },
     {
-      "id": "travel_backpack",
-      "slug": "travel-backpack",
-      "name": "40L Travel Backpack Carry-On",
-      "network": "amazon",
-      "niche": "amazon_travel",
-      "score": 78.9,
-      "tier": "B",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "45-80",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/travel-backpack-review.html"
-    },
-    {
       "id": "packing_cubes",
       "slug": "packing-cubes",
       "name": "Packing Cubes 6-Piece Set",
@@ -169,6 +152,23 @@
       "price": "20-35",
       "image_url": "",
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/packing-cubes-review.html"
+    },
+    {
+      "id": "travel_backpack",
+      "slug": "travel-backpack",
+      "name": "40L Travel Backpack Carry-On",
+      "network": "amazon",
+      "niche": "amazon_travel",
+      "score": 78.9,
+      "tier": "B",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "45-80",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/travel-backpack-review.html"
     },
     {
       "id": "jump_rope_pro",
@@ -256,6 +256,23 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/auto-pet-feeder-review.html"
     },
     {
+      "id": "phone_tripod",
+      "slug": "phone-tripod",
+      "name": "Flexible Phone Tripod + Remote",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 75.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/phone-tripod-review.html"
+    },
+    {
       "id": "ring_light",
       "slug": "ring-light",
       "name": "Ring Light 18-inch with Stand",
@@ -290,21 +307,21 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/wireless-earbuds-review.html"
     },
     {
-      "id": "phone_tripod",
-      "slug": "phone-tripod",
-      "name": "Flexible Phone Tripod + Remote",
+      "id": "soccer_training_cones",
+      "slug": "soccer-training-cones",
+      "name": "Soccer Training Cones 50-Pack",
       "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 75.8,
+      "niche": "amazon_soccer",
+      "score": 74.3,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "20-35",
+      "price": "15-25",
       "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/phone-tripod-review.html"
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
       "id": "closet_organizer",
@@ -324,6 +341,23 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/closet-organizer-review.html"
     },
     {
+      "id": "under_sink_organizer",
+      "slug": "under-sink-organizer",
+      "name": "Under Sink Organizer",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/under-sink-organizer-review.html"
+    },
+    {
       "id": "soccer_rebounder",
       "slug": "soccer-rebounder",
       "name": "Soccer Rebounder Net Adjustable",
@@ -339,23 +373,6 @@
       "price": "35-70",
       "image_url": "",
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
-      "id": "soccer_training_cones",
-      "slug": "soccer-training-cones",
-      "name": "Soccer Training Cones 50-Pack",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "15-25",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
       "id": "storage_box_system",
@@ -375,23 +392,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/storage-box-system-review.html"
     },
     {
-      "id": "under_sink_organizer",
-      "slug": "under-sink-organizer",
-      "name": "Under Sink Organizer",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/under-sink-organizer-review.html"
-    },
-    {
       "id": "agility_ladder",
       "slug": "agility-ladder",
       "name": "Agility Ladder Speed Training",
@@ -409,23 +409,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/agility-ladder-review.html"
     },
     {
-      "id": "portable_car_vacuum",
-      "slug": "portable-car-vacuum",
-      "name": "Cordless Car Vacuum 20Kpa",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-60",
-      "image_url": "",
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/portable-car-vacuum-review.html"
-    },
-    {
       "id": "car_phone_mount",
       "slug": "car-phone-mount",
       "name": "Car Phone Mount Magnetic",
@@ -441,8 +424,25 @@
       "price": "15-25",
       "image_url": "",
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/car-phone-mount-review.html"
+    },
+    {
+      "id": "portable_car_vacuum",
+      "slug": "portable-car-vacuum",
+      "name": "Cordless Car Vacuum 20Kpa",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 73.4,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-60",
+      "image_url": "",
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/portable-car-vacuum-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T15:26:37.923558+00:00"
+  "generated_at": "2026-03-31T15:46:29.632956+00:00"
 }
