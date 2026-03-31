@@ -79,6 +79,24 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
     },
     {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 53,
+      "top_products": [
+        "wireless_earbuds",
+        "am_d3ac5bb8ed7a",
+        "am_e5d1209d19aa",
+        "am_da3108c0c879",
+        "am_e1be00e0f4dc",
+        "am_a4e3d99faa79",
+        "am_d72ecee53f92",
+        "am_0c7c6e67227f",
+        "am_9adea7206ef4",
+        "am_a1c39ee45b64"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
+    },
+    {
       "id": "amazon_creator",
       "slug": "amazon-creator",
       "product_count": 2,
@@ -89,27 +107,9 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
     },
     {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 53,
-      "top_products": [
-        "wireless_earbuds",
-        "am_d3ac5bb8ed7a",
-        "am_e5d1209d19aa",
-        "am_e1be00e0f4dc",
-        "am_da3108c0c879",
-        "am_a4e3d99faa79",
-        "am_d72ecee53f92",
-        "am_0c7c6e67227f",
-        "am_9adea7206ef4",
-        "am_a1c39ee45b64"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
-    },
-    {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "product_count": 29,
+      "product_count": 30,
       "top_products": [
         "storage_box_system",
         "closet_organizer",
@@ -286,18 +286,18 @@
     {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 14,
+      "product_count": 13,
       "top_products": [
         "am_c13bd44c92d5",
         "am_42c595cf32a7",
         "am_fd16863e358e",
         "am_a8f6322e3b85",
-        "am_d56644bdf010",
         "am_2ac1a4d9cbef",
         "am_c6cdbfbcf01b",
         "am_fffe413af6f3",
         "am_31e1dd5af0d6",
-        "am_969d00ce453d"
+        "am_969d00ce453d",
+        "am_bddc83df0eb4"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_wellness.html"
     },
@@ -308,14 +308,14 @@
       "top_products": [
         "am_8040b7235385",
         "am_717879260edd",
-        "am_dcba7c707364",
         "am_60a98c6152ed",
         "am_b15efea347ea",
         "am_594e3682ce39",
         "am_11345e42ceb9",
         "am_1a0e7c70673c",
         "am_6862bb540af3",
-        "am_715ab275f45d"
+        "am_715ab275f45d",
+        "am_fa0d396adfe3"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
     },
@@ -332,18 +332,18 @@
     {
       "id": "sports_shoes",
       "slug": "sports-shoes",
-      "product_count": 14,
+      "product_count": 13,
       "top_products": [
         "am_5e150f60bd1f",
         "am_bc94595093d9",
         "am_08bb3072fec9",
-        "am_638b7ab0d855",
         "am_9b388d32bcde",
         "am_303e08dc6c07",
         "am_ed2030e74e80",
         "am_9c944d73d7ee",
         "am_be64ab890f94",
-        "am_b2fc3ba41c07"
+        "am_b2fc3ba41c07",
+        "am_c3da0619b3b6"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports_shoes.html"
     },
@@ -368,7 +368,7 @@
     {
       "id": "grooming_tools",
       "slug": "grooming-tools",
-      "product_count": 7,
+      "product_count": 8,
       "top_products": [
         "am_7d35fde09116",
         "am_75da69a5dd12",
@@ -376,7 +376,8 @@
         "am_2b4bf379769c",
         "am_db17dab20b10",
         "am_c5c585badb7f",
-        "am_cdce1abfe6a1"
+        "am_cdce1abfe6a1",
+        "am_ce591925eb54"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming_tools.html"
     },
@@ -386,14 +387,14 @@
       "product_count": 9,
       "top_products": [
         "am_52bfb373dfc3",
-        "am_5bba6636fca4",
         "am_26894e75e06c",
         "am_d8016f2a2811",
         "am_e6d8ffe6b372",
         "am_21f42a05542c",
         "am_3d05b82632b1",
         "am_02bf18c258c4",
-        "am_294b08341abe"
+        "am_294b08341abe",
+        "am_81496142ed14"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden_tools.html"
     },
@@ -416,7 +417,7 @@
     {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 59,
+      "product_count": 60,
       "top_products": [
         "am_c1f74c20a5cd",
         "am_3157f33282f3",
@@ -469,10 +470,9 @@
     {
       "id": "sports_cycling",
       "slug": "sports-cycling",
-      "product_count": 5,
+      "product_count": 4,
       "top_products": [
         "am_d2b0c9bb7c87",
-        "am_91a881ebd6d1",
         "am_1d3c10025ece",
         "am_5363f61990aa",
         "am_b2bb827b7f65"
