@@ -5,8 +5,8 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -15,9 +15,9 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
+        "led_face_mask",
         "facial_cleansing_brush",
-        "hair_curler_auto",
-        "led_face_mask"
+        "hair_curler_auto"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -27,8 +27,8 @@
       "product_count": 3,
       "top_products": [
         "air_fryer",
-        "meal_prep_containers",
-        "vegetable_chopper"
+        "vegetable_chopper",
+        "meal_prep_containers"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -83,26 +83,26 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_tech.html"
     },
     {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "product_count": 3,
-      "top_products": [
-        "agility_ladder",
-        "soccer_rebounder",
-        "soccer_training_cones"
-      ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_soccer.html"
-    },
-    {
       "id": "amazon_home",
       "slug": "amazon-home",
       "product_count": 3,
       "top_products": [
         "closet_organizer",
-        "under_sink_organizer",
-        "storage_box_system"
+        "storage_box_system",
+        "under_sink_organizer"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_home.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "product_count": 3,
+      "top_products": [
+        "soccer_rebounder",
+        "soccer_training_cones",
+        "agility_ladder"
+      ],
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_car",
