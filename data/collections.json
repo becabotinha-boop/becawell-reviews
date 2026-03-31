@@ -5,8 +5,8 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "standing_desk_converter",
-        "blue_light_glasses"
+        "blue_light_glasses",
+        "standing_desk_converter"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -16,8 +16,8 @@
       "product_count": 3,
       "top_products": [
         "facial_cleansing_brush",
-        "hair_curler_auto",
-        "led_face_mask"
+        "led_face_mask",
+        "hair_curler_auto"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -26,9 +26,9 @@
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
+        "meal_prep_containers",
         "vegetable_chopper",
-        "air_fryer",
-        "meal_prep_containers"
+        "air_fryer"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -37,8 +37,8 @@
       "slug": "amazon-travel",
       "product_count": 2,
       "top_products": [
-        "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "packing_cubes"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -64,16 +64,6 @@
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_pets.html"
     },
     {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "product_count": 2,
-      "top_products": [
-        "phone_tripod",
-        "ring_light"
-      ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_creator.html"
-    },
-    {
       "id": "amazon_tech",
       "slug": "amazon-tech",
       "product_count": 1,
@@ -81,6 +71,16 @@
         "wireless_earbuds"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
+      "top_products": [
+        "ring_light",
+        "phone_tripod"
+      ],
+      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_creator.html"
     },
     {
       "id": "amazon_soccer",
@@ -98,9 +98,9 @@
       "slug": "amazon-home",
       "product_count": 3,
       "top_products": [
-        "closet_organizer",
+        "storage_box_system",
         "under_sink_organizer",
-        "storage_box_system"
+        "closet_organizer"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_home.html"
     },
@@ -109,8 +109,8 @@
       "slug": "amazon-car",
       "product_count": 2,
       "top_products": [
-        "car_phone_mount",
-        "portable_car_vacuum"
+        "portable_car_vacuum",
+        "car_phone_mount"
       ],
       "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_car.html"
     }
