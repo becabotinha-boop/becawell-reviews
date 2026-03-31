@@ -1,23 +1,6 @@
 {
   "products": [
     {
-      "id": "blue_light_glasses",
-      "slug": "blue-light-glasses",
-      "name": "Blue Light Blocking Glasses",
-      "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 85.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "15-30",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/blue-light-glasses-review.html"
-    },
-    {
       "id": "standing_desk_converter",
       "slug": "standing-desk-converter",
       "name": "Standing Desk Converter Adjustable",
@@ -33,6 +16,23 @@
       "price": "60-120",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/standing-desk-converter-review.html"
+    },
+    {
+      "id": "blue_light_glasses",
+      "slug": "blue-light-glasses",
+      "name": "Blue Light Blocking Glasses",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 85.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "15-30",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
       "id": "led_face_mask",
@@ -137,23 +137,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/vegetable-chopper-review.html"
     },
     {
-      "id": "travel_backpack",
-      "slug": "travel-backpack",
-      "name": "40L Travel Backpack Carry-On",
-      "network": "amazon",
-      "niche": "amazon_travel",
-      "score": 78.9,
-      "tier": "B",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "45-80",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/travel-backpack-review.html"
-    },
-    {
       "id": "packing_cubes",
       "slug": "packing-cubes",
       "name": "Packing Cubes 6-Piece Set",
@@ -171,21 +154,21 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/packing-cubes-review.html"
     },
     {
-      "id": "jump_rope_pro",
-      "slug": "jump-rope-pro",
-      "name": "Weighted Jump Rope Pro",
+      "id": "travel_backpack",
+      "slug": "travel-backpack",
+      "name": "40L Travel Backpack Carry-On",
       "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 78.0,
+      "niche": "amazon_travel",
+      "score": 78.9,
       "tier": "B",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
-      "price": "15-30",
+      "price": "45-80",
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/jump-rope-pro-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/travel-backpack-review.html"
     },
     {
       "id": "resistance_bands",
@@ -220,6 +203,23 @@
       "price": "60-120",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/adjustable-dumbbells-review.html"
+    },
+    {
+      "id": "jump_rope_pro",
+      "slug": "jump-rope-pro",
+      "name": "Weighted Jump Rope Pro",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 78.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15-30",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/jump-rope-pro-review.html"
     },
     {
       "id": "auto_pet_feeder",
@@ -324,23 +324,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/storage-box-system-review.html"
     },
     {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
       "id": "soccer_training_cones",
       "slug": "soccer-training-cones",
       "name": "Soccer Training Cones 50-Pack",
@@ -409,6 +392,23 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/under-sink-organizer-review.html"
     },
     {
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-70",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/soccer-rebounder-review.html"
+    },
+    {
       "id": "car_phone_mount",
       "slug": "car-phone-mount",
       "name": "Car Phone Mount Magnetic",
@@ -441,6 +441,23 @@
       "price": "35-60",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/portable-car-vacuum-review.html"
+    },
+    {
+      "id": "am_d3ac5bb8ed7a",
+      "slug": "am-d3ac5bb8ed7a",
+      "name": "Jushope Interior Car LED Strip Lights, RGB USB Ambient Lightin...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d3ac5bb8ed7a-review.html"
     },
     {
       "id": "am_725207e5d0b0",
@@ -1633,23 +1650,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-a624a7e0d329-review.html"
     },
     {
-      "id": "am_1f6a057fe8cb",
-      "slug": "am-1f6a057fe8cb",
-      "name": "2Pcs Headrest Hooks for Car, 2026 New Leather Headrest Hooks f...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-1f6a057fe8cb-review.html"
-    },
-    {
       "id": "am_a4e3d99faa79",
       "slug": "am-a4e3d99faa79",
       "name": "Rated  from 337 reviews",
@@ -1682,23 +1682,6 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d72ecee53f92-review.html"
-    },
-    {
-      "id": "am_8b91dcef6662",
-      "slug": "am-8b91dcef6662",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "399.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-8b91dcef6662-review.html"
     },
     {
       "id": "am_f616de0ba40f",
@@ -2075,23 +2058,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-308de180c2c1-review.html"
     },
     {
-      "id": "am_8f8c61f1bfa0",
-      "slug": "am-8f8c61f1bfa0",
-      "name": "PowerBlock Pro 50 Adjustable Dumbbells, Sold in Pairs, 5-50 lb...",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "549.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-8f8c61f1bfa0-review.html"
-    },
-    {
       "id": "am_f98b3ff92909",
       "slug": "am-f98b3ff92909",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -2107,40 +2073,6 @@
       "price": "25.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-f98b3ff92909-review.html"
-    },
-    {
-      "id": "am_858b49e8d261",
-      "slug": "am-858b49e8d261",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "89.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-858b49e8d261-review.html"
-    },
-    {
-      "id": "am_b07ece44cc76",
-      "slug": "am-b07ece44cc76",
-      "name": "APPS2Car Magnetic Phone Mount for Car, Dashboard & Windshield...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b07ece44cc76-review.html"
     },
     {
       "id": "am_a9293ba2feb9",
@@ -2364,23 +2296,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-a1c39ee45b64-review.html"
     },
     {
-      "id": "am_b2797be115d6",
-      "slug": "am-b2797be115d6",
-      "name": "Rated  from 67 reviews",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "21.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b2797be115d6-review.html"
-    },
-    {
       "id": "am_87598242ea3f",
       "slug": "am-87598242ea3f",
       "name": "colors available",
@@ -2396,23 +2311,6 @@
       "price": "6.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-87598242ea3f-review.html"
-    },
-    {
-      "id": "am_faadc51bef97",
-      "slug": "am-faadc51bef97",
-      "name": "Hezeyferg 22LBS Adjustable Dumbbells Set, Adjustable Weight Du...",
-      "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "72.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-faadc51bef97-review.html"
     },
     {
       "id": "am_765c8554b179",
@@ -2619,40 +2517,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b7e2613e54be-review.html"
     },
     {
-      "id": "am_bd60f3aaa322",
-      "slug": "am-bd60f3aaa322",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-bd60f3aaa322-review.html"
-    },
-    {
-      "id": "am_9f201b8d9581",
-      "slug": "am-9f201b8d9581",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "159.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-9f201b8d9581-review.html"
-    },
-    {
       "id": "am_266f93ce0a6f",
       "slug": "am-266f93ce0a6f",
       "name": ", rating details",
@@ -2804,40 +2668,6 @@
       "price": "17.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-1968822ddee3-review.html"
-    },
-    {
-      "id": "am_67f7558c7a63",
-      "slug": "am-67f7558c7a63",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-67f7558c7a63-review.html"
-    },
-    {
-      "id": "am_40c5ec4707ec",
-      "slug": "am-40c5ec4707ec",
-      "name": "The Perfect Kitchen",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "35.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-40c5ec4707ec-review.html"
     },
     {
       "id": "am_78d1bb42d13a",
@@ -3061,6 +2891,23 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-a74537cca6e6-review.html"
     },
     {
+      "id": "al_19af0c4f1d4c",
+      "slug": "al-19af0c4f1d4c",
+      "name": "Best Perfume 2026 Item",
+      "network": "aliexpress",
+      "niche": "fragrance",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-19af0c4f1d4c-review.html"
+    },
+    {
       "id": "am_85a2ce0182c2",
       "slug": "am-85a2ce0182c2",
       "name": "Best Seller",
@@ -3095,10 +2942,10 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-77ef34907a9a-review.html"
     },
     {
-      "id": "am_2ea80dd55555",
-      "slug": "am-2ea80dd55555",
-      "name": "Amber Wood, Wood",
-      "network": "amazon",
+      "id": "al_9e573f269e20",
+      "slug": "al-9e573f269e20",
+      "name": "Best Perfume 2026 Item",
+      "network": "aliexpress",
       "niche": "fragrance",
       "score": 68.8,
       "tier": "B",
@@ -3107,26 +2954,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "64.0",
+      "price": null,
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-2ea80dd55555-review.html"
-    },
-    {
-      "id": "am_84b276e466fb",
-      "slug": "am-84b276e466fb",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-84b276e466fb-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-9e573f269e20-review.html"
     },
     {
       "id": "am_01bbac8a465e",
@@ -3214,23 +3044,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b81416ded435-review.html"
     },
     {
-      "id": "am_7465c8c177db",
-      "slug": "am-7465c8c177db",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-7465c8c177db-review.html"
-    },
-    {
       "id": "am_9a39908951d9",
       "slug": "am-9a39908951d9",
       "name": "Add to cart",
@@ -3246,23 +3059,6 @@
       "price": "62.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-9a39908951d9-review.html"
-    },
-    {
-      "id": "am_e1be00e0f4dc",
-      "slug": "am-e1be00e0f4dc",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "328.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-e1be00e0f4dc-review.html"
     },
     {
       "id": "am_638b7ab0d855",
@@ -3452,23 +3248,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-895ab486b46f-review.html"
     },
     {
-      "id": "am_411e24d63f5d",
-      "slug": "am-411e24d63f5d",
-      "name": "Wireless Earbuds, Bluetooth 5.4 Headphones Bass Stereo, Ear Bu...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-411e24d63f5d-review.html"
-    },
-    {
       "id": "am_bdd2eb2c4ec6",
       "slug": "am-bdd2eb2c4ec6",
       "name": "IMIPAW Automatic Cat Feeder, 5G WiFi Cat Food Dispenser with A...",
@@ -3605,23 +3384,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-11345e42ceb9-review.html"
     },
     {
-      "id": "am_b9d5b28c5e8b",
-      "slug": "am-b9d5b28c5e8b",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b9d5b28c5e8b-review.html"
-    },
-    {
       "id": "am_abe785e0a325",
       "slug": "am-abe785e0a325",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -3724,40 +3486,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-8f5a9b47b1aa-review.html"
     },
     {
-      "id": "am_c2cb447cd333",
-      "slug": "am-c2cb447cd333",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "42.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-c2cb447cd333-review.html"
-    },
-    {
-      "id": "am_d2037e875f2d",
-      "slug": "am-d2037e875f2d",
-      "name": "Automatic Cat Feeder 5G WiFi, Automatic Pet Feeder with App Re...",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "38.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d2037e875f2d-review.html"
-    },
-    {
       "id": "am_b002bdfb1070",
       "slug": "am-b002bdfb1070",
       "name": "Best Seller",
@@ -3775,23 +3503,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b002bdfb1070-review.html"
     },
     {
-      "id": "am_5d120b86995c",
-      "slug": "am-5d120b86995c",
-      "name": "TAIKOU 28 Inch Straight Wigs Human Hair 13x6 Frontal Wig 200 D...",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "89.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-5d120b86995c-review.html"
-    },
-    {
       "id": "am_78902e656231",
       "slug": "am-78902e656231",
       "name": "Rated  from 46 reviews",
@@ -3807,23 +3518,6 @@
       "price": "99.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-78902e656231-review.html"
-    },
-    {
-      "id": "am_60a3047ba7cc",
-      "slug": "am-60a3047ba7cc",
-      "name": "Rated  from 5 reviews",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-60a3047ba7cc-review.html"
     },
     {
       "id": "am_1d3c10025ece",
@@ -3877,11 +3571,11 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-5bfe6d4032c3-review.html"
     },
     {
-      "id": "am_75df7e936ec4",
-      "slug": "am-75df7e936ec4",
+      "id": "am_303e08dc6c07",
+      "slug": "am-303e08dc6c07",
       "name": ", rating details",
       "network": "amazon",
-      "niche": "grooming_tools",
+      "niche": "sports_shoes",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3889,9 +3583,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "4.0",
+      "price": "18.0",
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-75df7e936ec4-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-303e08dc6c07-review.html"
     },
     {
       "id": "am_60a98c6152ed",
@@ -4081,11 +3775,11 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-60e8fb335188-review.html"
     },
     {
-      "id": "am_b836d11f0cee",
-      "slug": "am-b836d11f0cee",
-      "name": "colors available",
+      "id": "am_ed2030e74e80",
+      "slug": "am-ed2030e74e80",
+      "name": "Best Seller",
       "network": "amazon",
-      "niche": "toys_gadgets",
+      "niche": "sports_shoes",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -4093,9 +3787,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "23.0",
+      "price": "6.0",
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b836d11f0cee-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-ed2030e74e80-review.html"
     },
     {
       "id": "am_8c68dbdece76",
@@ -4591,23 +4285,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-9a2e38110cc6-review.html"
     },
     {
-      "id": "am_0dd64b314804",
-      "slug": "am-0dd64b314804",
-      "name": "Dreo Tower Fan for Bedroom, 90\u00b0 Oscillating Standing Fans for...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "59.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-0dd64b314804-review.html"
-    },
-    {
       "id": "am_a25e8c2486d2",
       "slug": "am-a25e8c2486d2",
       "name": "Save 10%",
@@ -4640,23 +4317,6 @@
       "price": "26.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-f68dc1851b5f-review.html"
-    },
-    {
-      "id": "am_4abdd95c9190",
-      "slug": "am-4abdd95c9190",
-      "name": "Frostorm 3.2 Cu Ft Mini Fridge with Freezer - Energy Efficient...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "199.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-4abdd95c9190-review.html"
     },
     {
       "id": "am_d1db0357b6d3",
@@ -4827,23 +4487,6 @@
       "price": "55.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-53f40a9585b6-review.html"
-    },
-    {
-      "id": "am_8f712648f811",
-      "slug": "am-8f712648f811",
-      "name": "Frostorm 3.2 Cu Ft Mini Fridge with Freezer - Energy Efficient...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "194.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-8f712648f811-review.html"
     },
     {
       "id": "am_af0e72ed36f8",
@@ -5065,23 +4708,6 @@
       "price": "19.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-f4d9f4c23d52-review.html"
-    },
-    {
-      "id": "am_78622c58a569",
-      "slug": "am-78622c58a569",
-      "name": "Bouiexye",
-      "network": "amazon",
-      "niche": "beauty_wigs",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "35.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-78622c58a569-review.html"
     },
     {
       "id": "am_eb0856c45016",
@@ -5390,23 +5016,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b306b077901c-review.html"
     },
     {
-      "id": "am_423dd36dda16",
-      "slug": "am-423dd36dda16",
-      "name": "150 Best New Kitchen Ideas: The Essential Handbook for Design,...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-423dd36dda16-review.html"
-    },
-    {
       "id": "am_404c9aabbc8a",
       "slug": "am-404c9aabbc8a",
       "name": "Really Helpful Car Headrest Pillow, Car Neck Pillow for Sleepi...",
@@ -5696,23 +5305,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-87b8cbc8a111-review.html"
     },
     {
-      "id": "am_d3ac5bb8ed7a",
-      "slug": "am-d3ac5bb8ed7a",
-      "name": "Jushope Interior Car LED Strip Lights, RGB USB Ambient Lightin...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d3ac5bb8ed7a-review.html"
-    },
-    {
       "id": "am_9c944d73d7ee",
       "slug": "am-9c944d73d7ee",
       "name": ", rating details",
@@ -5864,23 +5456,6 @@
       "price": "17.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-9ddd882ace25-review.html"
-    },
-    {
-      "id": "am_1b8f457dd26b",
-      "slug": "am-1b8f457dd26b",
-      "name": "Really Useful Car Headrest Pillow, Car Neck Pillow for Sleepin...",
-      "network": "amazon",
-      "niche": "amazon_sleep",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "23.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-1b8f457dd26b-review.html"
     },
     {
       "id": "am_f922d4d4e615",
@@ -6087,23 +5662,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-0c9308ea6efd-review.html"
     },
     {
-      "id": "am_ed2030e74e80",
-      "slug": "am-ed2030e74e80",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-ed2030e74e80-review.html"
-    },
-    {
       "id": "am_c3da0619b3b6",
       "slug": "am-c3da0619b3b6",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -6136,23 +5694,6 @@
       "price": "22.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-93a6639756e7-review.html"
-    },
-    {
-      "id": "am_93386c7b95fd",
-      "slug": "am-93386c7b95fd",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-93386c7b95fd-review.html"
     },
     {
       "id": "am_5363f61990aa",
@@ -6291,23 +5832,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-4ae85465d81b-review.html"
     },
     {
-      "id": "am_303e08dc6c07",
-      "slug": "am-303e08dc6c07",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-303e08dc6c07-review.html"
-    },
-    {
       "id": "am_b2bb827b7f65",
       "slug": "am-b2bb827b7f65",
       "name": "colors available",
@@ -6444,11 +5968,11 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-1650d0e61a0e-review.html"
     },
     {
-      "id": "am_0a6dfc47addc",
-      "slug": "am-0a6dfc47addc",
-      "name": "TAIKOU 34 Inch Straight Wigs Human Hair 13x6 Lace Front Wigs H...",
-      "network": "amazon",
-      "niche": "home_wellness",
+      "id": "al_1024c10cd625",
+      "slug": "al-1024c10cd625",
+      "name": "Best Perfume 2026 Item",
+      "network": "aliexpress",
+      "niche": "fragrance",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -6456,9 +5980,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "179.0",
+      "price": null,
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-0a6dfc47addc-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-1024c10cd625-review.html"
     },
     {
       "id": "am_f618f477282a",
@@ -6512,23 +6036,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-77e65dbb66ba-review.html"
     },
     {
-      "id": "am_27915117d165",
-      "slug": "am-27915117d165",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "jewelry",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "17.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-27915117d165-review.html"
-    },
-    {
       "id": "am_14c6b4f2317e",
       "slug": "am-14c6b4f2317e",
       "name": "Rated  from 337 reviews",
@@ -6546,11 +6053,11 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-14c6b4f2317e-review.html"
     },
     {
-      "id": "am_18a305911c9d",
-      "slug": "am-18a305911c9d",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "outdoor_gear",
+      "id": "al_bfcdb7ccdd94",
+      "slug": "al-bfcdb7ccdd94",
+      "name": "Best Kitchen Design Ideas 2026 Item",
+      "network": "aliexpress",
+      "niche": "home_decor",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -6558,9 +6065,43 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "339.0",
+      "price": null,
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-18a305911c9d-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-bfcdb7ccdd94-review.html"
+    },
+    {
+      "id": "al_c4a49d34d086",
+      "slug": "al-c4a49d34d086",
+      "name": "Best Kitchen Design Ideas 2026 Item",
+      "network": "aliexpress",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-c4a49d34d086-review.html"
+    },
+    {
+      "id": "al_acfc60cc571b",
+      "slug": "al-acfc60cc571b",
+      "name": "Best Kitchen Design Ideas 2026 Item",
+      "network": "aliexpress",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-acfc60cc571b-review.html"
     },
     {
       "id": "am_1469ccde7407",
@@ -6631,23 +6172,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-fb32330f0970-review.html"
     },
     {
-      "id": "am_310212aa63c0",
-      "slug": "am-310212aa63c0",
-      "name": "Shellfairy Tire Mending Nail, 20/40/60 Pcs Tire Repair Rubber...",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-310212aa63c0-review.html"
-    },
-    {
       "id": "am_e6d8ffe6b372",
       "slug": "am-e6d8ffe6b372",
       "name": ", rating details",
@@ -6714,6 +6238,57 @@
       "price": "49.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-2b8a95a45eb0-review.html"
+    },
+    {
+      "id": "al_ac025bc22504",
+      "slug": "al-ac025bc22504",
+      "name": "Under Sink Organizer Item",
+      "network": "aliexpress",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-ac025bc22504-review.html"
+    },
+    {
+      "id": "al_9db1db2564b3",
+      "slug": "al-9db1db2564b3",
+      "name": "Under Sink Organizer Item",
+      "network": "aliexpress",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-9db1db2564b3-review.html"
+    },
+    {
+      "id": "al_020a2223ee19",
+      "slug": "al-020a2223ee19",
+      "name": "Under Sink Organizer Item",
+      "network": "aliexpress",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-020a2223ee19-review.html"
     },
     {
       "id": "am_721962917f2d",
@@ -6801,6 +6376,57 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-30e550b1705d-review.html"
     },
     {
+      "id": "al_464ec6bdaff3",
+      "slug": "al-464ec6bdaff3",
+      "name": "Automatic Pet Feeder Wifi Item",
+      "network": "aliexpress",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-464ec6bdaff3-review.html"
+    },
+    {
+      "id": "al_2aa5e5c0062a",
+      "slug": "al-2aa5e5c0062a",
+      "name": "Automatic Pet Feeder Wifi Item",
+      "network": "aliexpress",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-2aa5e5c0062a-review.html"
+    },
+    {
+      "id": "al_841affd0474a",
+      "slug": "al-841affd0474a",
+      "name": "Automatic Pet Feeder Wifi Item",
+      "network": "aliexpress",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-841affd0474a-review.html"
+    },
+    {
       "id": "am_6b9c6afeecdf",
       "slug": "am-6b9c6afeecdf",
       "name": "Rated  from 1 reviews",
@@ -6816,40 +6442,6 @@
       "price": "6.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-6b9c6afeecdf-review.html"
-    },
-    {
-      "id": "am_eaccd62a49aa",
-      "slug": "am-eaccd62a49aa",
-      "name": "Rated  from 125 reviews",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "80.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-eaccd62a49aa-review.html"
-    },
-    {
-      "id": "am_5af7d7ec7fa3",
-      "slug": "am-5af7d7ec7fa3",
-      "name": "PETLIBRO RFID Automatic Cat Feeder, Collar Tag-Activated Perso...",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "119.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-5af7d7ec7fa3-review.html"
     },
     {
       "id": "am_1d51f398b1f4",
@@ -6903,11 +6495,11 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-76875eeae1d3-review.html"
     },
     {
-      "id": "am_389a0a8aba5d",
-      "slug": "am-389a0a8aba5d",
-      "name": "DREO Tower Fan for Bedroom, 25ft/s Velocity Quiet Floor Fan, 9...",
-      "network": "amazon",
-      "niche": "garden_tools",
+      "id": "al_a36178b4ba5d",
+      "slug": "al-a36178b4ba5d",
+      "name": "Best Tech 2026 Item",
+      "network": "aliexpress",
+      "niche": "amazon_tech",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -6915,9 +6507,26 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "59.0",
+      "price": null,
       "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-389a0a8aba5d-review.html"
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-a36178b4ba5d-review.html"
+    },
+    {
+      "id": "al_c09646193f43",
+      "slug": "al-c09646193f43",
+      "name": "Best Tech 2026 Item",
+      "network": "aliexpress",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-c09646193f43-review.html"
     },
     {
       "id": "am_bfaece168d47",
@@ -6969,6 +6578,40 @@
       "price": "26.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-848cd16e2bc5-review.html"
+    },
+    {
+      "id": "al_4b4e6b352bcc",
+      "slug": "al-4b4e6b352bcc",
+      "name": "Best Tech 2026 Item",
+      "network": "aliexpress",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-4b4e6b352bcc-review.html"
+    },
+    {
+      "id": "al_cc78ffb2259d",
+      "slug": "al-cc78ffb2259d",
+      "name": "Best Wigs 2026 Item",
+      "network": "aliexpress",
+      "niche": "beauty_wigs",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-cc78ffb2259d-review.html"
     },
     {
       "id": "am_6a1c4594fba1",
@@ -7054,6 +6697,23 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-0007626aea0b-review.html"
+    },
+    {
+      "id": "al_e2fe165fda75",
+      "slug": "al-e2fe165fda75",
+      "name": "Best Wigs 2026 Item",
+      "network": "aliexpress",
+      "niche": "beauty_wigs",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/al-e2fe165fda75-review.html"
     },
     {
       "id": "am_d64334bd2919",
@@ -7481,6 +7141,23 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-4510a0cb703b-review.html"
     },
     {
+      "id": "am_8f8c61f1bfa0",
+      "slug": "am-8f8c61f1bfa0",
+      "name": "PowerBlock Pro 50 Adjustable Dumbbells, Sold in Pairs, 5-50 lb...",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "549.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-8f8c61f1bfa0-review.html"
+    },
+    {
       "id": "am_9d84384e3f96",
       "slug": "am-9d84384e3f96",
       "name": "domirica",
@@ -7617,6 +7294,23 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-e0bf21263b9f-review.html"
     },
     {
+      "id": "am_858b49e8d261",
+      "slug": "am-858b49e8d261",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "89.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-858b49e8d261-review.html"
+    },
+    {
       "id": "am_0cccf9fdef26",
       "slug": "am-0cccf9fdef26",
       "name": "Small Business",
@@ -7649,6 +7343,23 @@
       "price": "22.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-91934c7634ba-review.html"
+    },
+    {
+      "id": "am_bd60f3aaa322",
+      "slug": "am-bd60f3aaa322",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-bd60f3aaa322-review.html"
     },
     {
       "id": "am_6da8735e55d6",
@@ -7751,6 +7462,23 @@
       "price": "21.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-64c3e9e2c248-review.html"
+    },
+    {
+      "id": "am_e1be00e0f4dc",
+      "slug": "am-e1be00e0f4dc",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "328.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-e1be00e0f4dc-review.html"
     },
     {
       "id": "am_017064405449",
@@ -7887,6 +7615,23 @@
       "price": "169.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-7a04e056cbd2-review.html"
+    },
+    {
+      "id": "am_411e24d63f5d",
+      "slug": "am-411e24d63f5d",
+      "name": "Wireless Earbuds, Bluetooth 5.4 Headphones Bass Stereo, Ear Bu...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-411e24d63f5d-review.html"
     },
     {
       "id": "am_a3ccd7e8dcd1",
@@ -8161,6 +7906,23 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-56993caf408f-review.html"
     },
     {
+      "id": "am_d2037e875f2d",
+      "slug": "am-d2037e875f2d",
+      "name": "Automatic Cat Feeder 5G WiFi, Automatic Pet Feeder with App Re...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "38.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d2037e875f2d-review.html"
+    },
+    {
       "id": "am_5d23f95287ed",
       "slug": "am-5d23f95287ed",
       "name": "View  information or leave ad feedback",
@@ -8176,6 +7938,23 @@
       "price": "5.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-5d23f95287ed-review.html"
+    },
+    {
+      "id": "am_60a3047ba7cc",
+      "slug": "am-60a3047ba7cc",
+      "name": "Rated  from 5 reviews",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-60a3047ba7cc-review.html"
     },
     {
       "id": "am_a6fdcf167f42",
@@ -8280,57 +8059,6 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-44c00393fadc-review.html"
     },
     {
-      "id": "am_67f4fb670407",
-      "slug": "am-67f4fb670407",
-      "name": "Family Senior 2026 Proud Family of A 2026 Graduate Done 2026 T...",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-67f4fb670407-review.html"
-    },
-    {
-      "id": "am_b0f2104b638b",
-      "slug": "am-b0f2104b638b",
-      "name": "Angels Forever Young",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "28.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b0f2104b638b-review.html"
-    },
-    {
-      "id": "am_961017e3dac6",
-      "slug": "am-961017e3dac6",
-      "name": "Status Between 3ANC Onyx True Active Noise Cancelling Wireless...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "99.0",
-      "image_url": "",
-      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-961017e3dac6-review.html"
-    },
-    {
       "id": "am_c24630719159",
       "slug": "am-c24630719159",
       "name": "Est\u00e9e Lauder Beautiful Magnolia Eau de Parfum Spray with Notes...",
@@ -8433,6 +8161,40 @@
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-10e5137f04cd-review.html"
     },
     {
+      "id": "am_75df7e936ec4",
+      "slug": "am-75df7e936ec4",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "grooming_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-75df7e936ec4-review.html"
+    },
+    {
+      "id": "am_bf98a23fc983",
+      "slug": "am-bf98a23fc983",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "outdoor_gear",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "134.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-bf98a23fc983-review.html"
+    },
+    {
       "id": "am_25269f79728b",
       "slug": "am-25269f79728b",
       "name": "LG LFDS22520S - Refrigerator/Freezer - French Door Bottom Free...",
@@ -8499,8 +8261,246 @@
       "price": "15.0",
       "image_url": "",
       "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-45213830d28e-review.html"
+    },
+    {
+      "id": "am_70c1a0c63148",
+      "slug": "am-70c1a0c63148",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "85.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-70c1a0c63148-review.html"
+    },
+    {
+      "id": "am_9a70f1d98580",
+      "slug": "am-9a70f1d98580",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "146.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-9a70f1d98580-review.html"
+    },
+    {
+      "id": "am_b836d11f0cee",
+      "slug": "am-b836d11f0cee",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "23.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b836d11f0cee-review.html"
+    },
+    {
+      "id": "am_e2e2bd793663",
+      "slug": "am-e2e2bd793663",
+      "name": "Ad - Magnolia Table, Volume 2: A Collection of Recipes for Gat...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-e2e2bd793663-review.html"
+    },
+    {
+      "id": "am_b4485c2cd383",
+      "slug": "am-b4485c2cd383",
+      "name": "Ad - The Tucci Cookbook",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-b4485c2cd383-review.html"
+    },
+    {
+      "id": "am_d63209cbd26e",
+      "slug": "am-d63209cbd26e",
+      "name": "Options:2 sizes",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "36.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d63209cbd26e-review.html"
+    },
+    {
+      "id": "am_4feb6bfc8234",
+      "slug": "am-4feb6bfc8234",
+      "name": "Featured from Amazon brands",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-4feb6bfc8234-review.html"
+    },
+    {
+      "id": "am_7f79d4a855c1",
+      "slug": "am-7f79d4a855c1",
+      "name": "Options:4 sizes",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "40.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-7f79d4a855c1-review.html"
+    },
+    {
+      "id": "am_750fd3a111c8",
+      "slug": "am-750fd3a111c8",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "152.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-750fd3a111c8-review.html"
+    },
+    {
+      "id": "am_fce632c66b8f",
+      "slug": "am-fce632c66b8f",
+      "name": "Add to cart",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "69.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-fce632c66b8f-review.html"
+    },
+    {
+      "id": "am_a25df719e077",
+      "slug": "am-a25df719e077",
+      "name": "Add to cart",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "108.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-a25df719e077-review.html"
+    },
+    {
+      "id": "am_e5d1209d19aa",
+      "slug": "am-e5d1209d19aa",
+      "name": "2026 Air Tracker Tags for Android, Smart Tags-4 Pack Android T...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-e5d1209d19aa-review.html"
+    },
+    {
+      "id": "am_d05f8f250ec2",
+      "slug": "am-d05f8f250ec2",
+      "name": "Air Tracker Tags for Android or iOS, Dual System Air Smart Tag...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-d05f8f250ec2-review.html"
+    },
+    {
+      "id": "am_6db8ba428e76",
+      "slug": "am-6db8ba428e76",
+      "name": "Smart Tags-4 Pack Android, Air Tracker Tags for Android, Bluet...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://whilst-italiano-dividend-intervals.trycloudflare.com/am-6db8ba428e76-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-03-31T20:11:28.248101+00:00"
+  "generated_at": "2026-03-31T20:20:02.985191+00:00"
 }
