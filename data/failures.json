@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:07:30.750112+00:00",
+  "generated_at": "2026-03-31T20:04:01.393666+00:00",
   "total_failures": 1,
   "critical_count": 0,
   "top_priority": {
@@ -21,7 +21,7 @@
       "Remove hype words: \"miracle\", \"magic\", \"guaranteed results\""
     ],
     "priority": 2,
-    "detected_at": "2026-03-29T19:07:30.750112+00:00"
+    "detected_at": "2026-03-31T20:04:01.393666+00:00"
   },
   "failures": [
     {
@@ -43,7 +43,7 @@
         "Remove hype words: \"miracle\", \"magic\", \"guaranteed results\""
       ],
       "priority": 2,
-      "detected_at": "2026-03-29T19:07:30.750112+00:00"
+      "detected_at": "2026-03-31T20:04:01.393666+00:00"
     }
   ]
 }
