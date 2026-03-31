@@ -6,7 +6,7 @@
       "name": "Standing Desk Converter Adjustable",
       "network": "amazon",
       "niche": "amazon_productivity",
-      "score": 85.0,
+      "score": 94.2,
       "tier": "A",
       "rating": {
         "display": "4.9/5",
@@ -15,7 +15,7 @@
       },
       "price": "60-120",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/standing-desk-converter-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/standing-desk-converter-review.html"
     },
     {
       "id": "blue_light_glasses",
@@ -23,7 +23,7 @@
       "name": "Blue Light Blocking Glasses",
       "network": "amazon",
       "niche": "amazon_productivity",
-      "score": 85.0,
+      "score": 94.2,
       "tier": "A",
       "rating": {
         "display": "4.9/5",
@@ -32,7 +32,7 @@
       },
       "price": "15-30",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/blue-light-glasses-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
       "id": "hair_curler_auto",
@@ -40,33 +40,16 @@
       "name": "Automatic Hair Curler",
       "network": "amazon",
       "niche": "amazon_beauty",
-      "score": 82.5,
+      "score": 91.5,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "35-65",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/hair-curler-auto-review.html"
-    },
-    {
-      "id": "led_face_mask",
-      "slug": "led-face-mask",
-      "name": "LED Light Therapy Face Mask",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "40-80",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/led-face-mask-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/hair-curler-auto-review.html"
     },
     {
       "id": "facial_cleansing_brush",
@@ -74,33 +57,33 @@
       "name": "Sonic Facial Cleansing Brush",
       "network": "amazon",
       "niche": "amazon_beauty",
-      "score": 82.5,
+      "score": 91.5,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "25-50",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/facial-cleansing-brush-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/facial-cleansing-brush-review.html"
     },
     {
-      "id": "meal_prep_containers",
-      "slug": "meal-prep-containers",
-      "name": "Meal Prep Containers 20-Pack",
+      "id": "led_face_mask",
+      "slug": "led-face-mask",
+      "name": "LED Light Therapy Face Mask",
       "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 80.1,
+      "niche": "amazon_beauty",
+      "score": 91.5,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
-      "price": "20-35",
+      "price": "40-80",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/meal-prep-containers-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/led-face-mask-review.html"
     },
     {
       "id": "air_fryer",
@@ -108,16 +91,16 @@
       "name": "Air Fryer 5.8QT",
       "network": "amazon",
       "niche": "amazon_kitchen",
-      "score": 80.1,
+      "score": 88.7,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "55-90",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/air-fryer-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/air-fryer-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -125,16 +108,33 @@
       "name": "Pro Vegetable Chopper",
       "network": "amazon",
       "niche": "amazon_kitchen",
-      "score": 80.1,
+      "score": 88.7,
       "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "25-40",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/vegetable-chopper-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/vegetable-chopper-review.html"
+    },
+    {
+      "id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "name": "Meal Prep Containers 20-Pack",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 88.7,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/meal-prep-containers-review.html"
     },
     {
       "id": "packing_cubes",
@@ -142,16 +142,16 @@
       "name": "Packing Cubes 6-Piece Set",
       "network": "amazon",
       "niche": "amazon_travel",
-      "score": 78.9,
-      "tier": "B",
+      "score": 87.4,
+      "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/packing-cubes-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/packing-cubes-review.html"
     },
     {
       "id": "travel_backpack",
@@ -159,16 +159,16 @@
       "name": "40L Travel Backpack Carry-On",
       "network": "amazon",
       "niche": "amazon_travel",
-      "score": 78.9,
-      "tier": "B",
+      "score": 87.4,
+      "tier": "A",
       "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
+        "display": "4.9/5",
+        "value": 4.9,
         "stars": 5
       },
       "price": "45-80",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/travel-backpack-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/travel-backpack-review.html"
     },
     {
       "id": "jump_rope_pro",
@@ -176,16 +176,16 @@
       "name": "Weighted Jump Rope Pro",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "score": 78.0,
-      "tier": "B",
+      "score": 86.4,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
       },
       "price": "15-30",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/jump-rope-pro-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/jump-rope-pro-review.html"
     },
     {
       "id": "adjustable_dumbbells",
@@ -193,16 +193,16 @@
       "name": "Adjustable Dumbbell Set",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "score": 78.0,
-      "tier": "B",
+      "score": 86.4,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
       },
       "price": "60-120",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/adjustable-dumbbells-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/adjustable-dumbbells-review.html"
     },
     {
       "id": "resistance_bands",
@@ -210,16 +210,16 @@
       "name": "Resistance Bands Set 11-Piece",
       "network": "amazon",
       "niche": "amazon_fitness",
-      "score": 78.0,
-      "tier": "B",
+      "score": 86.4,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
       },
       "price": "20-35",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/resistance-bands-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/resistance-bands-review.html"
     },
     {
       "id": "auto_pet_feeder",
@@ -227,16 +227,16 @@
       "name": "Automatic Pet Feeder WiFi",
       "network": "amazon",
       "niche": "amazon_pets",
-      "score": 77.0,
-      "tier": "B",
+      "score": 85.4,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
       },
       "price": "45-85",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/auto-pet-feeder-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/auto-pet-feeder-review.html"
     },
     {
       "id": "dog_training_collar",
@@ -244,50 +244,16 @@
       "name": "Dog Training Collar with Remote",
       "network": "amazon",
       "niche": "amazon_pets",
-      "score": 77.0,
-      "tier": "B",
+      "score": 85.4,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
       },
       "price": "25-50",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/dog-training-collar-review.html"
-    },
-    {
-      "id": "phone_tripod",
-      "slug": "phone-tripod",
-      "name": "Flexible Phone Tripod + Remote",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 75.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/phone-tripod-review.html"
-    },
-    {
-      "id": "ring_light",
-      "slug": "ring-light",
-      "name": "Ring Light 18-inch with Stand",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 75.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-65",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/ring-light-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/dog-training-collar-review.html"
     },
     {
       "id": "wireless_earbuds",
@@ -295,16 +261,50 @@
       "name": "Wireless Earbuds ANC",
       "network": "amazon",
       "niche": "amazon_tech",
-      "score": 75.8,
-      "tier": "B",
+      "score": 84.0,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "30-60",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/wireless-earbuds-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/wireless-earbuds-review.html"
+    },
+    {
+      "id": "ring_light",
+      "slug": "ring-light",
+      "name": "Ring Light 18-inch with Stand",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 84.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "35-65",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/ring-light-review.html"
+    },
+    {
+      "id": "phone_tripod",
+      "slug": "phone-tripod",
+      "name": "Flexible Phone Tripod + Remote",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 84.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/phone-tripod-review.html"
     },
     {
       "id": "soccer_training_cones",
@@ -312,16 +312,16 @@
       "name": "Soccer Training Cones 50-Pack",
       "network": "amazon",
       "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
+      "score": 82.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "15-25",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/soccer-training-cones-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
       "id": "closet_organizer",
@@ -329,33 +329,16 @@
       "name": "Closet Organizer System",
       "network": "amazon",
       "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
+      "score": 82.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "25-45",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/closet-organizer-review.html"
-    },
-    {
-      "id": "under_sink_organizer",
-      "slug": "under-sink-organizer",
-      "name": "Under Sink Organizer",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/under-sink-organizer-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/closet-organizer-review.html"
     },
     {
       "id": "soccer_rebounder",
@@ -363,33 +346,16 @@
       "name": "Soccer Rebounder Net Adjustable",
       "network": "amazon",
       "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
+      "score": 82.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "35-70",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/agility-ladder-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-rebounder-review.html"
     },
     {
       "id": "storage_box_system",
@@ -397,16 +363,50 @@
       "name": "Stackable Storage Boxes",
       "network": "amazon",
       "niche": "amazon_home",
-      "score": 74.3,
-      "tier": "B",
+      "score": 82.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "30-55",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/storage-box-system-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/storage-box-system-review.html"
+    },
+    {
+      "id": "under_sink_organizer",
+      "slug": "under-sink-organizer",
+      "name": "Under Sink Organizer",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 82.3,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/under-sink-organizer-review.html"
+    },
+    {
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 82.3,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/agility-ladder-review.html"
     },
     {
       "id": "car_phone_mount",
@@ -414,16 +414,16 @@
       "name": "Car Phone Mount Magnetic",
       "network": "amazon",
       "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
+      "score": 81.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "15-25",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/car-phone-mount-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/car-phone-mount-review.html"
     },
     {
       "id": "portable_car_vacuum",
@@ -431,18 +431,18 @@
       "name": "Cordless Car Vacuum 20Kpa",
       "network": "amazon",
       "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
+      "score": 81.3,
+      "tier": "A",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
       },
       "price": "35-60",
       "image_url": "",
-      "url": "https://cloth-forums-extremely-doll.trycloudflare.com/portable-car-vacuum-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/portable-car-vacuum-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T05:51:56.453553+00:00"
+  "generated_at": "2026-03-31T07:21:17.602792+00:00"
 }
