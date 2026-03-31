@@ -5,8 +5,8 @@
       "slug": "amazon-productivity",
       "product_count": 2,
       "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter"
+        "standing_desk_converter",
+        "blue_light_glasses"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -15,9 +15,9 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
-        "facial_cleansing_brush",
         "hair_curler_auto",
-        "led_face_mask"
+        "led_face_mask",
+        "facial_cleansing_brush"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -27,8 +27,8 @@
       "product_count": 3,
       "top_products": [
         "vegetable_chopper",
-        "air_fryer",
-        "meal_prep_containers"
+        "meal_prep_containers",
+        "air_fryer"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_kitchen.html"
     },
@@ -47,8 +47,8 @@
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
-        "adjustable_dumbbells",
         "jump_rope_pro",
+        "adjustable_dumbbells",
         "resistance_bands"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_fitness.html"
@@ -64,16 +64,6 @@
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_pets.html"
     },
     {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "product_count": 2,
-      "top_products": [
-        "ring_light",
-        "phone_tripod"
-      ],
-      "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_creator.html"
-    },
-    {
       "id": "amazon_tech",
       "slug": "amazon-tech",
       "product_count": 1,
@@ -81,6 +71,27 @@
         "wireless_earbuds"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
+      "top_products": [
+        "phone_tripod",
+        "ring_light"
+      ],
+      "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "under_sink_organizer",
+        "storage_box_system"
+      ],
+      "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "amazon_soccer",
@@ -94,23 +105,12 @@
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "closet_organizer",
-        "under_sink_organizer"
-      ],
-      "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_home.html"
-    },
-    {
       "id": "amazon_car",
       "slug": "amazon-car",
       "product_count": 2,
       "top_products": [
-        "portable_car_vacuum",
-        "car_phone_mount"
+        "car_phone_mount",
+        "portable_car_vacuum"
       ],
       "url": "https://pictures-dogs-taken-respondents.trycloudflare.com/collection-amazon_car.html"
     }
