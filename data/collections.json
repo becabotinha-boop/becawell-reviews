@@ -15,9 +15,9 @@
       "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
+        "facial_cleansing_brush",
         "hair_curler_auto",
-        "led_face_mask",
-        "facial_cleansing_brush"
+        "led_face_mask"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -37,8 +37,8 @@
       "slug": "amazon-travel",
       "product_count": 2,
       "top_products": [
-        "travel_backpack",
-        "packing_cubes"
+        "packing_cubes",
+        "travel_backpack"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -47,9 +47,9 @@
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
+        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands",
-        "jump_rope_pro"
+        "resistance_bands"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_fitness.html"
     },
@@ -64,16 +64,6 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_pets.html"
     },
     {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "product_count": 2,
-      "top_products": [
-        "ring_light",
-        "phone_tripod"
-      ],
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_creator.html"
-    },
-    {
       "id": "amazon_tech",
       "slug": "amazon-tech",
       "product_count": 1,
@@ -83,26 +73,36 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_tech.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 3,
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
       "top_products": [
-        "under_sink_organizer",
-        "closet_organizer",
-        "storage_box_system"
+        "phone_tripod",
+        "ring_light"
       ],
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_creator.html"
     },
     {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
-        "soccer_rebounder",
         "agility_ladder",
-        "soccer_training_cones"
+        "soccer_training_cones",
+        "soccer_rebounder"
       ],
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_soccer.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 3,
+      "top_products": [
+        "closet_organizer",
+        "under_sink_organizer",
+        "storage_box_system"
+      ],
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "amazon_car",
