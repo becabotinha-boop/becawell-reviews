@@ -8,7 +8,7 @@
         "blue_light_glasses",
         "standing_desk_converter"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_productivity.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_productivity.html"
     },
     {
       "id": "amazon_beauty",
@@ -19,18 +19,18 @@
         "led_face_mask",
         "hair_curler_auto"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_beauty.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
       "product_count": 3,
       "top_products": [
-        "meal_prep_containers",
+        "air_fryer",
         "vegetable_chopper",
-        "air_fryer"
+        "meal_prep_containers"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_kitchen.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
@@ -40,37 +40,34 @@
         "travel_backpack",
         "packing_cubes"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_travel.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
       "product_count": 3,
       "top_products": [
-        "jump_rope_pro",
         "adjustable_dumbbells",
-        "resistance_bands"
+        "resistance_bands",
+        "jump_rope_pro"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_fitness.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
       "slug": "amazon-pets",
-      "product_count": 2,
+      "product_count": 8,
       "top_products": [
+        "auto_pet_feeder",
         "dog_training_collar",
-        "auto_pet_feeder"
+        "am_0b33804817a1",
+        "am_2a3191b10dfa",
+        "am_39a502501121",
+        "am_5af7d7ec7fa3",
+        "am_c97d857e1525",
+        "am_a778b2b01d2f"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_pets.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 1,
-      "top_products": [
-        "wireless_earbuds"
-      ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_tech.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_pets.html"
     },
     {
       "id": "amazon_creator",
@@ -80,39 +77,94 @@
         "ring_light",
         "phone_tripod"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_creator.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 7,
+      "top_products": [
+        "wireless_earbuds",
+        "am_9f0292c90ab6",
+        "am_c7fc76fed5cd",
+        "am_78902e656231",
+        "am_da3108c0c879",
+        "am_961017e3dac6",
+        "am_f120cfea282b"
+      ],
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 9,
+      "top_products": [
+        "storage_box_system",
+        "under_sink_organizer",
+        "closet_organizer",
+        "am_2db41b9b1753",
+        "am_3e43a4c562de",
+        "am_2629aec9e297",
+        "am_e48fc387423e",
+        "am_71b7141d2e73",
+        "am_95b1f90c32e5"
+      ],
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
       "product_count": 3,
       "top_products": [
-        "soccer_training_cones",
+        "agility_ladder",
         "soccer_rebounder",
-        "agility_ladder"
+        "soccer_training_cones"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_soccer.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 3,
-      "top_products": [
-        "storage_box_system",
-        "under_sink_organizer",
-        "closet_organizer"
-      ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_home.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
-      "product_count": 2,
+      "product_count": 8,
       "top_products": [
+        "car_phone_mount",
         "portable_car_vacuum",
-        "car_phone_mount"
+        "am_b15df601097c",
+        "am_f98b3ff92909",
+        "am_fcd8da4e1dc8",
+        "am_a624a7e0d329",
+        "am_b07ece44cc76",
+        "am_0007626aea0b"
       ],
-      "url": "https://aware-wine-analyzed-transcripts.trycloudflare.com/collection-amazon_car.html"
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-amazon_car.html"
+    },
+    {
+      "id": "home_decor",
+      "slug": "home-decor",
+      "product_count": 6,
+      "top_products": [
+        "am_96ee0e1581c0",
+        "am_a0dd9555e4ae",
+        "am_8f5a9b47b1aa",
+        "am_1d58cba5295a",
+        "am_6dabe0770b4c",
+        "am_3157f33282f3"
+      ],
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-home_decor.html"
+    },
+    {
+      "id": "fragrance",
+      "slug": "fragrance",
+      "product_count": 6,
+      "top_products": [
+        "am_bf78a7481355",
+        "am_1d51f398b1f4",
+        "am_9b42b23dfbf0",
+        "am_c24630719159",
+        "am_dbdd8e6b64c5",
+        "am_80baa85b2f90"
+      ],
+      "url": "https://surprised-thereafter-essays-spot.trycloudflare.com/collection-fragrance.html"
     }
   ]
 }
