@@ -1,23 +1,6 @@
 {
   "products": [
     {
-      "id": "blue_light_glasses",
-      "slug": "blue-light-glasses",
-      "name": "Blue Light Blocking Glasses",
-      "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 85.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "15-30",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/blue-light-glasses-review.html"
-    },
-    {
       "id": "standing_desk_converter",
       "slug": "standing-desk-converter",
       "name": "Standing Desk Converter Adjustable",
@@ -33,6 +16,23 @@
       "price": "60-120",
       "image_url": "",
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/standing-desk-converter-review.html"
+    },
+    {
+      "id": "blue_light_glasses",
+      "slug": "blue-light-glasses",
+      "name": "Blue Light Blocking Glasses",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 85.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "15-30",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
       "id": "led_face_mask",
@@ -86,9 +86,9 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/facial-cleansing-brush-review.html"
     },
     {
-      "id": "meal_prep_containers",
-      "slug": "meal-prep-containers",
-      "name": "Meal Prep Containers 20-Pack",
+      "id": "air_fryer",
+      "slug": "air-fryer",
+      "name": "Air Fryer 5.8QT",
       "network": "amazon",
       "niche": "amazon_kitchen",
       "score": 80.1,
@@ -98,9 +98,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "price": "20-35",
+      "price": "55-90",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/meal-prep-containers-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/air-fryer-review.html"
     },
     {
       "id": "vegetable_chopper",
@@ -120,9 +120,9 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/vegetable-chopper-review.html"
     },
     {
-      "id": "air_fryer",
-      "slug": "air-fryer",
-      "name": "Air Fryer 5.8QT",
+      "id": "meal_prep_containers",
+      "slug": "meal-prep-containers",
+      "name": "Meal Prep Containers 20-Pack",
       "network": "amazon",
       "niche": "amazon_kitchen",
       "score": 80.1,
@@ -132,9 +132,9 @@
         "value": 4.7,
         "stars": 5
       },
-      "price": "55-90",
+      "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/air-fryer-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/meal-prep-containers-review.html"
     },
     {
       "id": "packing_cubes",
@@ -171,6 +171,23 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/travel-backpack-review.html"
     },
     {
+      "id": "jump_rope_pro",
+      "slug": "jump-rope-pro",
+      "name": "Weighted Jump Rope Pro",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 78.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15-30",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/jump-rope-pro-review.html"
+    },
+    {
       "id": "adjustable_dumbbells",
       "slug": "adjustable-dumbbells",
       "name": "Adjustable Dumbbell Set",
@@ -203,23 +220,6 @@
       "price": "20-35",
       "image_url": "",
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/resistance-bands-review.html"
-    },
-    {
-      "id": "jump_rope_pro",
-      "slug": "jump-rope-pro",
-      "name": "Weighted Jump Rope Pro",
-      "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 78.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "15-30",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/jump-rope-pro-review.html"
     },
     {
       "id": "dog_training_collar",
@@ -256,9 +256,9 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/auto-pet-feeder-review.html"
     },
     {
-      "id": "phone_tripod",
-      "slug": "phone-tripod",
-      "name": "Flexible Phone Tripod + Remote",
+      "id": "ring_light",
+      "slug": "ring-light",
+      "name": "Ring Light 18-inch with Stand",
       "network": "amazon",
       "niche": "amazon_creator",
       "score": 75.8,
@@ -268,9 +268,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "20-35",
+      "price": "35-65",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/phone-tripod-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/ring-light-review.html"
     },
     {
       "id": "wireless_earbuds",
@@ -290,9 +290,9 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/wireless-earbuds-review.html"
     },
     {
-      "id": "ring_light",
-      "slug": "ring-light",
-      "name": "Ring Light 18-inch with Stand",
+      "id": "phone_tripod",
+      "slug": "phone-tripod",
+      "name": "Flexible Phone Tripod + Remote",
       "network": "amazon",
       "niche": "amazon_creator",
       "score": 75.8,
@@ -302,9 +302,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "35-65",
+      "price": "20-35",
       "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/ring-light-review.html"
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/phone-tripod-review.html"
     },
     {
       "id": "closet_organizer",
@@ -324,23 +324,6 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/closet-organizer-review.html"
     },
     {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
       "id": "under_sink_organizer",
       "slug": "under-sink-organizer",
       "name": "Under Sink Organizer",
@@ -356,6 +339,23 @@
       "price": "20-35",
       "image_url": "",
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/under-sink-organizer-review.html"
+    },
+    {
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-70",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-rebounder-review.html"
     },
     {
       "id": "storage_box_system",
@@ -409,23 +409,6 @@
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
-      "id": "car_phone_mount",
-      "slug": "car-phone-mount",
-      "name": "Car Phone Mount Magnetic",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 73.4,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "15-25",
-      "image_url": "",
-      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/car-phone-mount-review.html"
-    },
-    {
       "id": "portable_car_vacuum",
       "slug": "portable-car-vacuum",
       "name": "Cordless Car Vacuum 20Kpa",
@@ -441,8 +424,25 @@
       "price": "35-60",
       "image_url": "",
       "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/portable-car-vacuum-review.html"
+    },
+    {
+      "id": "car_phone_mount",
+      "slug": "car-phone-mount",
+      "name": "Car Phone Mount Magnetic",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 73.4,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15-25",
+      "image_url": "",
+      "url": "https://rendering-entrance-approaches-modems.trycloudflare.com/car-phone-mount-review.html"
     }
   ],
   "total": 26,
-  "generated_at": "2026-03-31T11:40:06.109444+00:00"
+  "generated_at": "2026-03-31T11:53:15.761460+00:00"
 }
