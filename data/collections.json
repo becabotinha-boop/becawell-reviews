@@ -3,354 +3,16 @@
     {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
-      "product_count": 4,
+      "product_count": 6,
       "top_products": [
         "standing_desk_converter",
         "blue_light_glasses",
-        "am_f3159f7f3d4c",
-        "am_a8f7c6987dfe"
+        "am_a8f7c6987dfe",
+        "am_7ddca06356da",
+        "am_5af0a53ccc3c",
+        "am_f8ced8d92f30"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_productivity.html"
-    },
-    {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 42,
-      "top_products": [
-        "am_d298ced22421",
-        "am_acc5b88a269e",
-        "am_0d9d113612f1",
-        "am_449cf83ebde3",
-        "am_687b9164cbff",
-        "am_54c4350f4a08",
-        "am_0e413791bd17",
-        "am_919cb1596894",
-        "am_5a68290b648f",
-        "am_9b36b82d07eb"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-family_fashion.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 47,
-      "top_products": [
-        "am_379ccbb64121",
-        "am_bbcf132ccf7d",
-        "am_7db56b24d0fc",
-        "am_f120cfea282b",
-        "am_ba6a1d5cb6d2",
-        "am_3cb0aefc131f",
-        "am_e276d8086f39",
-        "am_6955d052384e",
-        "al_c09646193f43",
-        "am_7ce7ee8c85f6"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_tech.html"
-    },
-    {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "product_count": 34,
-      "top_products": [
-        "am_2549212ce2fa",
-        "am_ed922298511f",
-        "am_6c56c5d62558",
-        "am_c89c05de162e",
-        "am_b1550ef4af69",
-        "am_b460428e5d3a",
-        "am_ea912b9e28a2",
-        "car_phone_mount",
-        "portable_car_vacuum",
-        "am_fcd8da4e1dc8"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_car.html"
-    },
-    {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "product_count": 18,
-      "top_products": [
-        "am_10e5137f04cd",
-        "am_2707bb945a42",
-        "am_489e4340468e",
-        "am_3134fbffe62c",
-        "am_76875eeae1d3",
-        "am_5d23f95287ed",
-        "am_7aa1fde6a870",
-        "am_f3620c4982f4",
-        "am_91934c7634ba",
-        "am_195d8743359b"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-outdoor_gear.html"
-    },
-    {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "product_count": 11,
-      "top_products": [
-        "am_fc2e0bf0d9b0",
-        "am_914c24876d06",
-        "am_88b6f74a27fa",
-        "am_7ac06cfaad97",
-        "am_aa98b11a9708",
-        "am_1d51f398b1f4",
-        "am_60e8fb335188",
-        "am_f4d9f4c23d52",
-        "am_c24630719159",
-        "am_9a39908951d9"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fragrance.html"
-    },
-    {
-      "id": "beauty_skincare",
-      "slug": "beauty-skincare",
-      "product_count": 3,
-      "top_products": [
-        "am_46fedd835027",
-        "am_40135c0fd2ee",
-        "am_3d45ee8849dc"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-beauty_skincare.html"
-    },
-    {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "product_count": 40,
-      "top_products": [
-        "am_9c8d095f62a0",
-        "am_a3013a24ec88",
-        "am_b836d11f0cee",
-        "am_ff98567dac77",
-        "am_bb06c9c22632",
-        "am_588b445331b5",
-        "am_d36a89be121c",
-        "am_9b7a54846daf",
-        "am_e79f3aa00ec0",
-        "am_9291d83447e6"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-toys_gadgets.html"
-    },
-    {
-      "id": "sports_shoes",
-      "slug": "sports-shoes",
-      "product_count": 20,
-      "top_products": [
-        "am_7216a14e9419",
-        "am_40a096273734",
-        "am_b84ca699de26",
-        "am_55a712fdb1eb",
-        "am_4ae85465d81b",
-        "am_bfaece168d47",
-        "am_4b446a0625b6",
-        "am_400374c8603f",
-        "am_5548d9dcd2df",
-        "am_98f84aab3b5d"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-sports_shoes.html"
-    },
-    {
-      "id": "home_decor",
-      "slug": "home-decor",
-      "product_count": 60,
-      "top_products": [
-        "am_ba4827465058",
-        "am_34316c920aec",
-        "am_77ef482982c3",
-        "am_f616de0ba40f",
-        "am_40e3ae2642af",
-        "am_3aaf60189c91",
-        "am_a3ccd7e8dcd1",
-        "am_8f5a9b47b1aa",
-        "am_273442acd1fe",
-        "am_ec6f7e52a4cf"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_decor.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "product_count": 16,
-      "top_products": [
-        "am_824c8b27629b",
-        "am_d5b2b7ba580e",
-        "am_f39dbb413dae",
-        "am_5f8f9a3b4839",
-        "am_415896ff9d71",
-        "am_a57184c72f08",
-        "am_dcab3d71ae28",
-        "am_1822f01aa96d",
-        "am_fb6e9976a371",
-        "am_83236ae6f9f9"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_improvement.html"
-    },
-    {
-      "id": "fitness_wellness",
-      "slug": "fitness-wellness",
-      "product_count": 5,
-      "top_products": [
-        "am_b468187ed441",
-        "am_25a0cb8ae590",
-        "am_f1908b700c26",
-        "am_f41484501c10",
-        "am_256d023109dd"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fitness_wellness.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 37,
-      "top_products": [
-        "am_f179336419fb",
-        "am_f97f635329ea",
-        "am_be0d45f24608",
-        "closet_organizer",
-        "storage_box_system",
-        "under_sink_organizer",
-        "am_7f00a2a3d55d",
-        "am_fce973f68f4c",
-        "am_42e33ea00f82",
-        "am_4feb6bfc8234"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_home.html"
-    },
-    {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "product_count": 19,
-      "top_products": [
-        "am_cbd4d15e9416",
-        "am_df2f9b527af8",
-        "am_bac973fe30f5",
-        "am_b2797be115d6",
-        "am_a3d621d55bdd",
-        "am_1fd0a5185f11",
-        "am_089d9a0471fe",
-        "am_9a6749b94b49",
-        "am_6bce2368a2c6",
-        "am_70dc65c3b842"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fashion_shoes.html"
-    },
-    {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 4,
-      "top_products": [
-        "am_1adbcb8f40d5",
-        "am_a2020de2a18a",
-        "am_3346e9988a1c",
-        "am_24250eb7bbd0"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_electronics.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "product_count": 33,
-      "top_products": [
-        "am_ecbcb6412458",
-        "am_765c8554b179",
-        "am_9eefa9602190",
-        "am_5a700a4108ef",
-        "am_d950d2812bb3",
-        "am_0b33804817a1",
-        "am_715802b68c8a",
-        "auto_pet_feeder",
-        "dog_training_collar",
-        "am_f974f47fae75"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_pets.html"
-    },
-    {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 10,
-      "top_products": [
-        "am_8b91dcef6662",
-        "am_bb4eacc402f0",
-        "am_266f93ce0a6f",
-        "am_4ca88dd586e1",
-        "am_990d0419d434",
-        "am_2991a16c949d",
-        "am_29f1b7bba20f",
-        "am_ac0a1d71dd2c",
-        "am_8f8c61f1bfa0",
-        "am_563f28d6e534"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-electronics_audio.html"
-    },
-    {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "product_count": 9,
-      "top_products": [
-        "am_7a598027f03c",
-        "am_63818f653f0d",
-        "am_5d4010d9327c",
-        "am_6a106da7fb9b",
-        "am_b412e742a040",
-        "am_aaff36c94289",
-        "am_94dd68fe35a3",
-        "am_c06d7a55140c",
-        "am_bd6485f4c2dc"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-beauty_grooming.html"
-    },
-    {
-      "id": "jewelry",
-      "slug": "jewelry",
-      "product_count": 3,
-      "top_products": [
-        "am_e79b340a3dd8",
-        "am_8ed14b742f0a",
-        "am_595403912937"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-jewelry.html"
-    },
-    {
-      "id": "anime_collectibles",
-      "slug": "anime-collectibles",
-      "product_count": 10,
-      "top_products": [
-        "am_37fca7ab4cd8",
-        "am_77c7136cbaf6",
-        "am_fe55909ef627",
-        "am_8595283e156d",
-        "am_2f588e9eb57d",
-        "am_2afc2ad77d65",
-        "am_26c3ffb6127b",
-        "am_b4738012382f",
-        "am_039311775a35",
-        "am_c97b51fc3c4c"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-anime_collectibles.html"
-    },
-    {
-      "id": "amazon_creator",
-      "slug": "amazon-creator",
-      "product_count": 5,
-      "top_products": [
-        "am_4c4aca052a8a",
-        "ring_light",
-        "phone_tripod",
-        "am_5ce42499f87a",
-        "am_a1f8088699a8"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_creator.html"
-    },
-    {
-      "id": "retro_gaming",
-      "slug": "retro-gaming",
-      "product_count": 3,
-      "top_products": [
-        "am_e07cc71addc2",
-        "am_ff3ec9d7b886",
-        "am_cdd305664bff"
-      ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-retro_gaming.html"
     },
     {
       "id": "amazon_beauty",
@@ -360,8 +22,8 @@
         "facial_cleansing_brush",
         "led_face_mask",
         "hair_curler_auto",
-        "am_7303dda1a9ee",
-        "am_308a0862def9"
+        "am_308a0862def9",
+        "am_86d306dd4f3c"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_beauty.html"
     },
@@ -392,32 +54,149 @@
     {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
-      "product_count": 15,
+      "product_count": 8,
       "top_products": [
         "jump_rope_pro",
         "adjustable_dumbbells",
         "resistance_bands",
         "am_24ea4c86bfaa",
-        "am_61a51ce84ae9",
-        "am_19b83ecabf5d",
-        "am_678e7042ccc8",
-        "am_4838df04dd12",
-        "am_07a427808397",
-        "am_ad9582f81957"
+        "am_faadc51bef97",
+        "am_e9a6c8977dcc",
+        "am_b5e079a1cf34",
+        "am_916bc239ea2d"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_fitness.html"
     },
     {
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "product_count": 27,
+      "top_products": [
+        "auto_pet_feeder",
+        "dog_training_collar",
+        "am_1e68c0c04921",
+        "am_c97d857e1525",
+        "am_861524f2d6d2",
+        "am_2b8a95a45eb0",
+        "am_d950d2812bb3",
+        "am_7942078545ed",
+        "am_9eefa9602190",
+        "am_0b33804817a1"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_pets.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 4,
+      "top_products": [
+        "ring_light",
+        "phone_tripod",
+        "am_4c4aca052a8a",
+        "am_935eb48f9813"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 41,
+      "top_products": [
+        "wireless_earbuds",
+        "am_233013f5acf3",
+        "am_ae3a0027916f",
+        "al_a36178b4ba5d",
+        "am_422a9b3068d9",
+        "am_0c7c6e67227f",
+        "am_e7ddccc670cd",
+        "am_35e3cf034c92",
+        "am_b0d14e5ba41b",
+        "am_d72ecee53f92"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 36,
+      "top_products": [
+        "closet_organizer",
+        "storage_box_system",
+        "under_sink_organizer",
+        "am_fce973f68f4c",
+        "am_42e33ea00f82",
+        "am_f82ab8d09d20",
+        "am_2db41b9b1753",
+        "am_71b7141d2e73",
+        "am_be0d45f24608",
+        "am_7f00a2a3d55d"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_home.html"
+    },
+    {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
-      "product_count": 4,
+      "product_count": 3,
       "top_products": [
         "soccer_rebounder",
         "agility_ladder",
-        "soccer_training_cones",
-        "am_62f47ee06921"
+        "soccer_training_cones"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_soccer.html"
+    },
+    {
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "product_count": 39,
+      "top_products": [
+        "car_phone_mount",
+        "portable_car_vacuum",
+        "am_fcd8da4e1dc8",
+        "am_8de1226014dd",
+        "am_2a2a43e57dcd",
+        "am_f89732a28556",
+        "am_b07ece44cc76",
+        "am_f922d4d4e615",
+        "am_881a0866bfa0",
+        "am_d20f1f804022"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_car.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "product_count": 19,
+      "top_products": [
+        "am_f39dbb413dae",
+        "am_415896ff9d71",
+        "am_a57184c72f08",
+        "am_dcab3d71ae28",
+        "am_1822f01aa96d",
+        "am_fb6e9976a371",
+        "am_83236ae6f9f9",
+        "am_5b9c6706f33e",
+        "am_824c8b27629b",
+        "am_5f8f9a3b4839"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_improvement.html"
+    },
+    {
+      "id": "fragrance",
+      "slug": "fragrance",
+      "product_count": 20,
+      "top_products": [
+        "am_88b6f74a27fa",
+        "am_aa98b11a9708",
+        "am_1d51f398b1f4",
+        "am_60e8fb335188",
+        "am_f4d9f4c23d52",
+        "am_c24630719159",
+        "am_fc2e0bf0d9b0",
+        "am_7ac06cfaad97",
+        "am_9a39908951d9",
+        "am_4daffb714b23"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fragrance.html"
     },
     {
       "id": "beauty_wigs",
@@ -438,52 +217,181 @@
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-beauty_wigs.html"
     },
     {
-      "id": "car_accessories",
-      "slug": "car-accessories",
-      "product_count": 8,
+      "id": "retro_gaming",
+      "slug": "retro-gaming",
+      "product_count": 3,
       "top_products": [
-        "am_cfc532a950fe",
-        "am_eedda19c9c1a",
-        "am_e7dc6a2b33c5",
-        "am_f4bb70f4f044",
-        "am_b5f871eb6cff",
-        "am_24c12a92e878",
-        "am_06caca0b921a",
-        "am_bbc68cb8dad6"
+        "am_ff3ec9d7b886",
+        "am_cdd305664bff",
+        "am_e07cc71addc2"
       ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-car_accessories.html"
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-retro_gaming.html"
     },
     {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "product_count": 1,
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 21,
       "top_products": [
-        "am_d2b0c9bb7c87"
+        "am_bfaece168d47",
+        "am_5548d9dcd2df",
+        "am_98f84aab3b5d",
+        "am_a2ac07bdedbb",
+        "am_303e08dc6c07",
+        "am_ed2030e74e80",
+        "am_96a57db568c9",
+        "am_b84ca699de26",
+        "am_55a712fdb1eb",
+        "am_b9d5b28c5e8b"
       ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-sports_cycling.html"
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-sports_shoes.html"
     },
     {
-      "id": "aliexpress_deals",
-      "slug": "aliexpress-deals",
-      "product_count": 5,
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "product_count": 19,
       "top_products": [
-        "am_e0b279d1f47f",
-        "am_3e0324368012",
-        "am_deabad4f0ec8",
-        "am_97e6c50a8628",
-        "am_8f3803c26931"
+        "am_b2797be115d6",
+        "am_a3d621d55bdd",
+        "am_1fd0a5185f11",
+        "am_6bce2368a2c6",
+        "am_70dc65c3b842",
+        "am_3d585b323b06",
+        "am_368c19f7a0ee",
+        "am_548a74062cef",
+        "am_bac973fe30f5",
+        "am_c815f2ccc24f"
       ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-aliexpress_deals.html"
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fashion_shoes.html"
     },
     {
-      "id": "home_textiles",
-      "slug": "home-textiles",
-      "product_count": 2,
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 43,
       "top_products": [
-        "am_6b176c765abf",
-        "am_5bfe6d4032c3"
+        "am_5a68290b648f",
+        "am_9b36b82d07eb",
+        "am_988bba45449d",
+        "am_c7e2074a5bd7",
+        "am_6862bb540af3",
+        "am_d28400f466bc",
+        "am_481103319249",
+        "am_8040b7235385",
+        "am_cdab7fc070b1",
+        "am_2ad85ee2b7e9"
       ],
-      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_textiles.html"
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-family_fashion.html"
+    },
+    {
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "product_count": 15,
+      "top_products": [
+        "am_489e4340468e",
+        "am_7aa1fde6a870",
+        "am_f3620c4982f4",
+        "am_91934c7634ba",
+        "am_195d8743359b",
+        "am_64c3e9e2c248",
+        "am_8f4eecd10b35",
+        "am_a53203775ba5",
+        "am_10e5137f04cd",
+        "am_50da79f697ed"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-outdoor_gear.html"
+    },
+    {
+      "id": "anime_collectibles",
+      "slug": "anime-collectibles",
+      "product_count": 9,
+      "top_products": [
+        "am_8595283e156d",
+        "am_2f588e9eb57d",
+        "am_fe55909ef627",
+        "am_26c3ffb6127b",
+        "am_b4738012382f",
+        "am_039311775a35",
+        "am_37fca7ab4cd8",
+        "am_77c7136cbaf6",
+        "am_b75bc8a9fbd8"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-anime_collectibles.html"
+    },
+    {
+      "id": "home_decor",
+      "slug": "home-decor",
+      "product_count": 55,
+      "top_products": [
+        "am_f7652d5a95e7",
+        "am_01985eba6130",
+        "am_758b7244f6bb",
+        "am_eb59f99250ac",
+        "am_b4485c2cd383",
+        "am_74e7f2736509",
+        "am_224bdd7c50e4",
+        "am_10ffd94d6f13",
+        "am_62a5f4c9b5c5",
+        "am_581b923c5079"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_decor.html"
+    },
+    {
+      "id": "beauty_skincare",
+      "slug": "beauty-skincare",
+      "product_count": 3,
+      "top_products": [
+        "am_3d45ee8849dc",
+        "am_46fedd835027",
+        "am_40135c0fd2ee"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-beauty_skincare.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "product_count": 48,
+      "top_products": [
+        "am_4eeb19d7bc35",
+        "am_9ddd882ace25",
+        "am_0232905aa113",
+        "am_b2c425cee364",
+        "am_d36a89be121c",
+        "am_fa4332339a8a",
+        "am_643fbced17e1",
+        "am_1cdb96b04e59",
+        "am_52e4f49cee42",
+        "am_ce1be748b276"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-toys_gadgets.html"
+    },
+    {
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 4,
+      "top_products": [
+        "am_1adbcb8f40d5",
+        "am_a2020de2a18a",
+        "am_bef062a4d8f3",
+        "am_bdff1887a83b"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_electronics.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 10,
+      "top_products": [
+        "am_63818f653f0d",
+        "am_5d4010d9327c",
+        "am_6a106da7fb9b",
+        "am_b412e742a040",
+        "am_94dd68fe35a3",
+        "am_c06d7a55140c",
+        "am_7a598027f03c",
+        "am_4e85eaf61874",
+        "am_ca1686a37e7f",
+        "am_8c68dbdece76"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-beauty_grooming.html"
     },
     {
       "id": "amazon_sleep",
@@ -492,9 +400,23 @@
       "top_products": [
         "am_5a9758189715",
         "am_525b830ad111",
-        "am_d64334bd2919"
+        "am_1b8f457dd26b"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-amazon_sleep.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "product_count": 6,
+      "top_products": [
+        "am_e7dc6a2b33c5",
+        "am_eedda19c9c1a",
+        "am_b5f871eb6cff",
+        "am_06caca0b921a",
+        "am_bbc68cb8dad6",
+        "am_904401750e12"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-car_accessories.html"
     },
     {
       "id": "grooming_tools",
@@ -509,12 +431,95 @@
     {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 2,
+      "product_count": 3,
       "top_products": [
         "am_895139b16098",
-        "am_31e1dd5af0d6"
+        "am_31e1dd5af0d6",
+        "am_bddc83df0eb4"
       ],
       "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_wellness.html"
+    },
+    {
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "product_count": 2,
+      "top_products": [
+        "am_5bfe6d4032c3",
+        "am_308de180c2c1"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-home_textiles.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 12,
+      "top_products": [
+        "am_266f93ce0a6f",
+        "am_990d0419d434",
+        "am_2991a16c949d",
+        "am_29f1b7bba20f",
+        "am_8f8c61f1bfa0",
+        "am_563f28d6e534",
+        "am_8b91dcef6662",
+        "am_c567c27216e1",
+        "am_a3b793fc8218",
+        "am_2561bc4f86c6"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-electronics_audio.html"
+    },
+    {
+      "id": "jewelry",
+      "slug": "jewelry",
+      "product_count": 3,
+      "top_products": [
+        "am_595403912937",
+        "am_e79b340a3dd8",
+        "am_25e507c12290"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-jewelry.html"
+    },
+    {
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
+      "product_count": 3,
+      "top_products": [
+        "am_b468187ed441",
+        "am_f41484501c10",
+        "am_f1908b700c26"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-fitness_wellness.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 5,
+      "top_products": [
+        "am_3e0324368012",
+        "am_deabad4f0ec8",
+        "am_97e6c50a8628",
+        "am_8f3803c26931",
+        "am_47aaf03123e6"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-aliexpress_deals.html"
+    },
+    {
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "product_count": 2,
+      "top_products": [
+        "am_d2b0c9bb7c87",
+        "am_1d3c10025ece"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-sports_cycling.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "product_count": 1,
+      "top_products": [
+        "am_02bf18c258c4"
+      ],
+      "url": "https://juan-comparisons-legislative-reasonable.trycloudflare.com/collection-garden_tools.html"
     }
   ]
 }
