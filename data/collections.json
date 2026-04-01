@@ -14,40 +14,22 @@
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_productivity.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 45,
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 47,
       "top_products": [
-        "am_4a511f7f0f60",
-        "am_7f911cc47bdd",
-        "am_f65aae4b71f3",
-        "am_f179336419fb",
-        "am_4547121d38e6",
-        "am_e36289ac9940",
-        "am_f99084943a76",
-        "am_f97f635329ea",
-        "am_77e65dbb66ba",
-        "am_bdf3c7fcabda"
+        "am_8040b7235385",
+        "am_3796e56254f9",
+        "am_9b36b82d07eb",
+        "am_b5121c1b1420",
+        "am_9a70f1d98580",
+        "am_35c6dd3ec220",
+        "am_717879260edd",
+        "am_43b5e4aa2e36",
+        "am_b1e64d987ad7",
+        "am_60a98c6152ed"
       ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_home.html"
-    },
-    {
-      "id": "sports_shoes",
-      "slug": "sports-shoes",
-      "product_count": 19,
-      "top_products": [
-        "am_48f64cd95462",
-        "am_9b388d32bcde",
-        "am_3817fa47700e",
-        "am_b84ca699de26",
-        "am_4ae85465d81b",
-        "am_98f84aab3b5d",
-        "am_93a6639756e7",
-        "am_400374c8603f",
-        "am_4ce0628f3fcc",
-        "am_03f7daca84e4"
-      ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-sports_shoes.html"
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-family_fashion.html"
     },
     {
       "id": "amazon_pets",
@@ -70,7 +52,7 @@
     {
       "id": "amazon_tech",
       "slug": "amazon-tech",
-      "product_count": 47,
+      "product_count": 49,
       "top_products": [
         "am_4073f0d3aa7a",
         "am_6a1c4594fba1",
@@ -88,7 +70,7 @@
     {
       "id": "fragrance",
       "slug": "fragrance",
-      "product_count": 18,
+      "product_count": 19,
       "top_products": [
         "am_6f8f879aeaf3",
         "al_19af0c4f1d4c",
@@ -113,40 +95,40 @@
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-fitness_wellness.html"
     },
     {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 44,
+      "top_products": [
+        "am_7f911cc47bdd",
+        "am_4547121d38e6",
+        "am_e36289ac9940",
+        "am_f99084943a76",
+        "am_77e65dbb66ba",
+        "am_bdf3c7fcabda",
+        "am_f97f635329ea",
+        "am_4a511f7f0f60",
+        "am_f65aae4b71f3",
+        "am_f179336419fb"
+      ],
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_home.html"
+    },
+    {
       "id": "toys_gadgets",
       "slug": "toys-gadgets",
-      "product_count": 48,
+      "product_count": 49,
       "top_products": [
         "am_54d295a1174c",
-        "am_fa09170e3e80",
-        "am_221ef30c9df6",
         "am_e0ce8a0135f4",
         "am_4eeb19d7bc35",
         "am_3e8fab282dc3",
-        "am_d5df5161448f",
-        "am_17bb7928ed6c",
         "am_f5206805833e",
-        "am_4b7bd991eba4"
+        "am_4b7bd991eba4",
+        "am_fa09170e3e80",
+        "am_221ef30c9df6",
+        "am_d5df5161448f",
+        "am_17bb7928ed6c"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-toys_gadgets.html"
-    },
-    {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 44,
-      "top_products": [
-        "am_35c6dd3ec220",
-        "am_3796e56254f9",
-        "am_9b36b82d07eb",
-        "am_8040b7235385",
-        "am_9a70f1d98580",
-        "am_717879260edd",
-        "am_b5121c1b1420",
-        "am_43b5e4aa2e36",
-        "am_b1e64d987ad7",
-        "am_60a98c6152ed"
-      ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-family_fashion.html"
     },
     {
       "id": "home_decor",
@@ -169,7 +151,7 @@
     {
       "id": "home_improvement",
       "slug": "home-improvement",
-      "product_count": 20,
+      "product_count": 22,
       "top_products": [
         "am_fcdea8b7bc4d",
         "am_fb6e9976a371",
@@ -187,12 +169,12 @@
     {
       "id": "outdoor_gear",
       "slug": "outdoor-gear",
-      "product_count": 22,
+      "product_count": 21,
       "top_products": [
         "am_bfb0bc51a616",
         "am_77ef34907a9a",
-        "am_a8580a2ee8e1",
         "am_10e5137f04cd",
+        "am_a8580a2ee8e1",
         "am_5e62eb958458",
         "am_b88f40633201",
         "am_195d8743359b",
@@ -205,7 +187,7 @@
     {
       "id": "anime_collectibles",
       "slug": "anime-collectibles",
-      "product_count": 10,
+      "product_count": 11,
       "top_products": [
         "am_2afc2ad77d65",
         "am_a95ad311fabd",
@@ -221,42 +203,26 @@
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-anime_collectibles.html"
     },
     {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "product_count": 8,
-      "top_products": [
-        "am_8c68dbdece76",
-        "am_ca1686a37e7f",
-        "am_df11aad6ab73",
-        "am_a2a86df28a1a",
-        "am_2fa368ad42d7",
-        "am_b412e742a040",
-        "am_94dd68fe35a3",
-        "am_7a598027f03c"
-      ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-beauty_grooming.html"
-    },
-    {
       "id": "amazon_travel",
       "slug": "amazon-travel",
       "product_count": 3,
       "top_products": [
         "am_2501ba793bec",
-        "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "packing_cubes"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_travel.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
-      "product_count": 34,
+      "product_count": 32,
       "top_products": [
         "am_ce8812cee741",
         "am_a624a7e0d329",
         "am_47dfa02812a8",
-        "portable_car_vacuum",
         "car_phone_mount",
+        "portable_car_vacuum",
         "am_d22bf52c10af",
         "am_ed922298511f",
         "am_ea912b9e28a2",
@@ -268,16 +234,17 @@
     {
       "id": "sports_cycling",
       "slug": "sports-cycling",
-      "product_count": 1,
+      "product_count": 2,
       "top_products": [
-        "am_d2b0c9bb7c87"
+        "am_d2b0c9bb7c87",
+        "am_b2bb827b7f65"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-sports_cycling.html"
     },
     {
       "id": "fashion_shoes",
       "slug": "fashion-shoes",
-      "product_count": 9,
+      "product_count": 8,
       "top_products": [
         "am_3d585b323b06",
         "am_c5e54521f6f4",
@@ -286,8 +253,7 @@
         "am_e7f8960aaffb",
         "am_569be0db740b",
         "am_70dc65c3b842",
-        "am_b2797be115d6",
-        "am_089d9a0471fe"
+        "am_a3d621d55bdd"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-fashion_shoes.html"
     },
@@ -299,8 +265,8 @@
         "am_f7a97406862b",
         "am_a649c16f6cf5",
         "am_935eb48f9813",
-        "ring_light",
         "phone_tripod",
+        "ring_light",
         "am_6ed825c742d6",
         "am_4c4aca052a8a",
         "am_a1f8088699a8",
@@ -311,15 +277,32 @@
     {
       "id": "home_electronics",
       "slug": "home-electronics",
-      "product_count": 5,
+      "product_count": 4,
       "top_products": [
         "am_1adbcb8f40d5",
         "am_768a685345d8",
         "am_c4f4c89a44f9",
-        "am_24250eb7bbd0",
-        "am_e315a2d774bc"
+        "am_24250eb7bbd0"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-home_electronics.html"
+    },
+    {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 20,
+      "top_products": [
+        "am_9b388d32bcde",
+        "am_48f64cd95462",
+        "am_3817fa47700e",
+        "am_b84ca699de26",
+        "am_4ae85465d81b",
+        "am_98f84aab3b5d",
+        "am_93a6639756e7",
+        "am_400374c8603f",
+        "am_4ce0628f3fcc",
+        "am_5e150f60bd1f"
+      ],
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-sports_shoes.html"
     },
     {
       "id": "jewelry",
@@ -330,6 +313,21 @@
         "am_27915117d165"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-jewelry.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 7,
+      "top_products": [
+        "am_ca1686a37e7f",
+        "am_8c68dbdece76",
+        "am_df11aad6ab73",
+        "am_a2a86df28a1a",
+        "am_b412e742a040",
+        "am_94dd68fe35a3",
+        "am_7a598027f03c"
+      ],
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-beauty_grooming.html"
     },
     {
       "id": "amazon_beauty",
@@ -351,22 +349,22 @@
         "air_fryer",
         "vegetable_chopper",
         "am_ce2ff1b2d2ac",
-        "am_309e9194075f"
+        "am_61c0f00a2dc2"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "beauty_wigs",
       "slug": "beauty-wigs",
-      "product_count": 18,
+      "product_count": 16,
       "top_products": [
         "al_cc78ffb2259d",
         "am_f1b99218dc1e",
         "am_e8df01aa9175",
         "am_725207e5d0b0",
-        "am_413a54aad85b",
         "am_93d65f3b6d3a",
         "am_d1db0357b6d3",
+        "am_413a54aad85b",
         "am_195dbb8dcbc0",
         "am_45213830d28e",
         "am_4cdf9e128986"
@@ -376,27 +374,26 @@
     {
       "id": "garden_tools",
       "slug": "garden-tools",
-      "product_count": 5,
+      "product_count": 4,
       "top_products": [
         "am_0dd64b314804",
-        "am_02bf18c258c4",
         "am_389a0a8aba5d",
-        "am_7307c1585932",
-        "am_f440c9b9e37f"
+        "am_02bf18c258c4",
+        "am_780b74705342"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-garden_tools.html"
     },
     {
       "id": "car_accessories",
       "slug": "car-accessories",
-      "product_count": 10,
+      "product_count": 14,
       "top_products": [
-        "am_b0c2d3a28738",
-        "am_a27e005426c4",
-        "am_957f24c33a00",
         "am_62e4eadf6458",
         "am_b5f871eb6cff",
         "am_f4bb70f4f044",
+        "am_b0c2d3a28738",
+        "am_a27e005426c4",
+        "am_957f24c33a00",
         "am_0a8e0366b47f",
         "am_0426ca02b684",
         "am_eedda19c9c1a",
@@ -407,11 +404,10 @@
     {
       "id": "home_appliances",
       "slug": "home-appliances",
-      "product_count": 4,
+      "product_count": 3,
       "top_products": [
         "am_3e5ff2924065",
         "am_c994de45c618",
-        "am_f958357ca4c7",
         "am_99dc4d57d532"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-home_appliances.html"
@@ -422,33 +418,30 @@
       "product_count": 2,
       "top_products": [
         "am_d63c9565a6d5",
-        "am_308de180c2c1"
+        "am_ef84b22fff97"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-home_textiles.html"
     },
     {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 4,
+      "product_count": 2,
       "top_products": [
         "am_812caa1f37ae",
-        "am_c13bd44c92d5",
-        "am_bddc83df0eb4",
-        "am_31e1dd5af0d6"
+        "am_bddc83df0eb4"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-home_wellness.html"
     },
     {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
-      "product_count": 6,
+      "product_count": 5,
       "top_products": [
         "resistance_bands",
         "jump_rope_pro",
         "adjustable_dumbbells",
-        "am_faadc51bef97",
-        "am_916bc239ea2d",
-        "am_19b83ecabf5d"
+        "am_19b83ecabf5d",
+        "am_baeddce33761"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_fitness.html"
     },
@@ -466,24 +459,46 @@
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 3,
+      "product_count": 1,
       "top_products": [
-        "am_2991a16c949d",
-        "am_a3b793fc8218",
-        "am_2561bc4f86c6"
+        "am_2991a16c949d"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-electronics_audio.html"
     },
     {
       "id": "amazon_sleep",
       "slug": "amazon-sleep",
-      "product_count": 3,
+      "product_count": 2,
       "top_products": [
         "am_6c45bbe51a81",
-        "am_d6839c59ce6c",
-        "am_e98c1f23e56b"
+        "am_d6839c59ce6c"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-amazon_sleep.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 5,
+      "top_products": [
+        "am_cdce1abfe6a1",
+        "am_7ebfd3c95391",
+        "am_db17dab20b10",
+        "am_574f948a1585",
+        "am_c5c585badb7f"
+      ],
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-grooming_tools.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 4,
+      "top_products": [
+        "am_97e6c50a8628",
+        "am_14c61a92db83",
+        "am_47aaf03123e6",
+        "am_3e0324368012"
+      ],
+      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-aliexpress_deals.html"
     },
     {
       "id": "beauty_skincare",
@@ -495,30 +510,6 @@
         "am_70c1a0c63148"
       ],
       "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-beauty_skincare.html"
-    },
-    {
-      "id": "grooming_tools",
-      "slug": "grooming-tools",
-      "product_count": 3,
-      "top_products": [
-        "am_cdce1abfe6a1",
-        "am_7ebfd3c95391",
-        "am_db17dab20b10"
-      ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-grooming_tools.html"
-    },
-    {
-      "id": "aliexpress_deals",
-      "slug": "aliexpress-deals",
-      "product_count": 5,
-      "top_products": [
-        "am_97e6c50a8628",
-        "am_14c61a92db83",
-        "am_47aaf03123e6",
-        "am_3e0324368012",
-        "am_deabad4f0ec8"
-      ],
-      "url": "https://tremendous-aqua-bosnia-emission.trycloudflare.com/collection-aliexpress_deals.html"
     }
   ]
 }
