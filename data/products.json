@@ -307,40 +307,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/phone-tripod-review.html"
     },
     {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/agility-ladder-review.html"
-    },
-    {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
       "id": "under_sink_organizer",
       "slug": "under-sink-organizer",
       "name": "Under Sink Organizer",
@@ -392,6 +358,40 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/closet-organizer-review.html"
     },
     {
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/agility-ladder-review.html"
+    },
+    {
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-70",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/soccer-rebounder-review.html"
+    },
+    {
       "id": "storage_box_system",
       "slug": "storage-box-system",
       "name": "Stackable Storage Boxes",
@@ -441,6 +441,23 @@
       "price": "35-60",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/portable-car-vacuum-review.html"
+    },
+    {
+      "id": "am_3157f33282f3",
+      "slug": "am-3157f33282f3",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-3157f33282f3-review.html"
     },
     {
       "id": "am_9a6749b94b49",
@@ -528,23 +545,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-5e62eb958458-review.html"
     },
     {
-      "id": "am_d8f09fde7416",
-      "slug": "am-d8f09fde7416",
-      "name": "Small Closet System with Shelves, 5FT-8FT Closet Organizer Sys...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "107.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-d8f09fde7416-review.html"
-    },
-    {
       "id": "am_1fd0a5185f11",
       "slug": "am-1fd0a5185f11",
       "name": "Rated  from 67 reviews",
@@ -562,11 +562,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-1fd0a5185f11-review.html"
     },
     {
-      "id": "am_75e6548cf8cd",
-      "slug": "am-75e6548cf8cd",
-      "name": "Car Clothes Hanger Bar Adjustable Garment Rack 30&#x27;&#x27;-...",
+      "id": "am_8de1226014dd",
+      "slug": "am-8de1226014dd",
+      "name": "Rated  from 1 reviews",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "amazon_car",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -574,26 +574,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "25.0",
+      "price": "6.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-75e6548cf8cd-review.html"
-    },
-    {
-      "id": "am_1adbcb8f40d5",
-      "slug": "am-1adbcb8f40d5",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "119.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-1adbcb8f40d5-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-8de1226014dd-review.html"
     },
     {
       "id": "am_858f1cc456ce",
@@ -611,40 +594,6 @@
       "price": "18.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-858f1cc456ce-review.html"
-    },
-    {
-      "id": "am_7ebfd3c95391",
-      "slug": "am-7ebfd3c95391",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "grooming_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-7ebfd3c95391-review.html"
-    },
-    {
-      "id": "am_c5e54521f6f4",
-      "slug": "am-c5e54521f6f4",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "23.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-c5e54521f6f4-review.html"
     },
     {
       "id": "am_a25e8c2486d2",
@@ -681,9 +630,9 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-6aa1e03ed531-review.html"
     },
     {
-      "id": "am_19caa1cc10d5",
-      "slug": "am-19caa1cc10d5",
-      "name": "currex",
+      "id": "am_deafc7742e4d",
+      "slug": "am-deafc7742e4d",
+      "name": ", rating details",
       "network": "amazon",
       "niche": "toys_gadgets",
       "score": 68.8,
@@ -693,9 +642,26 @@
         "value": 4.1,
         "stars": 4
       },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-deafc7742e4d-review.html"
+    },
+    {
+      "id": "am_5a48eb610e2c",
+      "slug": "am-5a48eb610e2c",
+      "name": "24 Inch",
+      "network": "amazon",
+      "niche": "jewelry",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
       "price": "59.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-19caa1cc10d5-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-5a48eb610e2c-review.html"
     },
     {
       "id": "am_513380e95fcc",
@@ -749,11 +715,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-2f2eb064f462-review.html"
     },
     {
-      "id": "am_1b8f457dd26b",
-      "slug": "am-1b8f457dd26b",
-      "name": "Really Useful Car Headrest Pillow, Car Neck Pillow for Sleepin...",
+      "id": "am_61a73ab9bdb7",
+      "slug": "am-61a73ab9bdb7",
+      "name": "Suede Leather Car Seat Hook, 2026 New Car Seat Back Storage Ho...",
       "network": "amazon",
-      "niche": "amazon_sleep",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -761,26 +727,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "23.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-1b8f457dd26b-review.html"
-    },
-    {
-      "id": "am_3817fa47700e",
-      "slug": "am-3817fa47700e",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "63.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-3817fa47700e-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-61a73ab9bdb7-review.html"
     },
     {
       "id": "am_ad0fcc4cd895",
@@ -800,23 +749,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-ad0fcc4cd895-review.html"
     },
     {
-      "id": "am_24c12a92e878",
-      "slug": "am-24c12a92e878",
-      "name": "Furryland Custom Graduation Crystal Night Light, Personalized...",
-      "network": "amazon",
-      "niche": "car_accessories",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-24c12a92e878-review.html"
-    },
-    {
       "id": "am_481103319249",
       "slug": "am-481103319249",
       "name": "Rated  from 26,114 reviews",
@@ -832,40 +764,6 @@
       "price": "28.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-481103319249-review.html"
-    },
-    {
-      "id": "am_5d23f95287ed",
-      "slug": "am-5d23f95287ed",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-5d23f95287ed-review.html"
-    },
-    {
-      "id": "am_88b6f74a27fa",
-      "slug": "am-88b6f74a27fa",
-      "name": "Yellowstone Original",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "44.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-88b6f74a27fa-review.html"
     },
     {
       "id": "am_64fb8a097cc7",
@@ -902,23 +800,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-94dd68fe35a3-review.html"
     },
     {
-      "id": "am_9b42b23dfbf0",
-      "slug": "am-9b42b23dfbf0",
-      "name": "Est\u00e9e Lauder Beautiful Magnolia Eau de Parfum Spray with Notes...",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "84.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-9b42b23dfbf0-review.html"
-    },
-    {
       "id": "am_34316c920aec",
       "slug": "am-34316c920aec",
       "name": ", rating details",
@@ -934,40 +815,6 @@
       "price": "8.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-34316c920aec-review.html"
-    },
-    {
-      "id": "am_3aaf60189c91",
-      "slug": "am-3aaf60189c91",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-3aaf60189c91-review.html"
-    },
-    {
-      "id": "am_434b086566f5",
-      "slug": "am-434b086566f5",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_appliances",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "22.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-434b086566f5-review.html"
     },
     {
       "id": "am_b3d99bfebb08",
@@ -1002,23 +849,6 @@
       "price": "22.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-3eb94560485e-review.html"
-    },
-    {
-      "id": "am_fae08c8de091",
-      "slug": "am-fae08c8de091",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-fae08c8de091-review.html"
     },
     {
       "id": "am_43b5e4aa2e36",
@@ -1072,28 +902,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-5e906ff8f12d-review.html"
     },
     {
-      "id": "am_d88b2d445ca0",
-      "slug": "am-d88b2d445ca0",
-      "name": "Furryland Custom Photo Graduation Night Light, Personalized Cl...",
-      "network": "amazon",
-      "niche": "home_appliances",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-d88b2d445ca0-review.html"
-    },
-    {
-      "id": "am_ff98567dac77",
-      "slug": "am-ff98567dac77",
+      "id": "am_c4f4c89a44f9",
+      "slug": "am-c4f4c89a44f9",
       "name": ", rating details",
       "network": "amazon",
-      "niche": "toys_gadgets",
+      "niche": "home_electronics",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1101,9 +914,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "9.0",
+      "price": "129.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-ff98567dac77-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-c4f4c89a44f9-review.html"
     },
     {
       "id": "am_d22bf52c10af",
@@ -1123,11 +936,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-d22bf52c10af-review.html"
     },
     {
-      "id": "am_013e1a8255c7",
-      "slug": "am-013e1a8255c7",
-      "name": "Rated  from 51 reviews",
+      "id": "am_b8a7eed5879a",
+      "slug": "am-b8a7eed5879a",
+      "name": ", rating details",
       "network": "amazon",
-      "niche": "toys_gadgets",
+      "niche": "home_electronics",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1135,43 +948,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "41.0",
+      "price": "69.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-013e1a8255c7-review.html"
-    },
-    {
-      "id": "am_e1146f4f65f3",
-      "slug": "am-e1146f4f65f3",
-      "name": "Options:4 sizes",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-e1146f4f65f3-review.html"
-    },
-    {
-      "id": "am_be64ab890f94",
-      "slug": "am-be64ab890f94",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-be64ab890f94-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-b8a7eed5879a-review.html"
     },
     {
       "id": "am_da138358c7eb",
@@ -1327,11 +1106,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-919cb1596894-review.html"
     },
     {
-      "id": "am_fce632c66b8f",
-      "slug": "am-fce632c66b8f",
-      "name": "Add to cart",
+      "id": "am_273442acd1fe",
+      "slug": "am-273442acd1fe",
+      "name": "New Kitchen Idea Book (Taunton's Idea Book Series)",
       "network": "amazon",
-      "niche": "amazon_pets",
+      "niche": "home_decor",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1339,26 +1118,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "69.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-fce632c66b8f-review.html"
-    },
-    {
-      "id": "am_84b276e466fb",
-      "slug": "am-84b276e466fb",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-84b276e466fb-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-273442acd1fe-review.html"
     },
     {
       "id": "am_b84ca699de26",
@@ -1463,6 +1225,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-b654a65e567a-review.html"
     },
     {
+      "id": "am_0ac5ff005643",
+      "slug": "am-0ac5ff005643",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "24.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-0ac5ff005643-review.html"
+    },
+    {
       "id": "am_bd3c53678fa5",
       "slug": "am-bd3c53678fa5",
       "name": ", rating details",
@@ -1478,6 +1257,23 @@
       "price": "59.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-bd3c53678fa5-review.html"
+    },
+    {
+      "id": "am_cfda5d85934d",
+      "slug": "am-cfda5d85934d",
+      "name": "NKBA Kitchen and Bathroom Planning Guidelines with Access Stan...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-cfda5d85934d-review.html"
     },
     {
       "id": "am_424a81e9a91c",
@@ -1665,23 +1461,6 @@
       "price": "18.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-00e67f222218-review.html"
-    },
-    {
-      "id": "am_61c0f00a2dc2",
-      "slug": "am-61c0f00a2dc2",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-61c0f00a2dc2-review.html"
     },
     {
       "id": "am_fa0d396adfe3",
@@ -1886,23 +1665,6 @@
       "price": "26.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-26cd6f2bb81e-review.html"
-    },
-    {
-      "id": "am_ad9582f81957",
-      "slug": "am-ad9582f81957",
-      "name": "ALEADER Women&#x27;s Energycloud Lightweight Slip On Walking R...",
-      "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "34.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-ad9582f81957-review.html"
     },
     {
       "id": "am_bd60f3aaa322",
@@ -2534,23 +2296,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-2b722e496b13-review.html"
     },
     {
-      "id": "am_4abdd95c9190",
-      "slug": "am-4abdd95c9190",
-      "name": "Frostorm 3.2 Cu Ft Mini Fridge with Freezer - Energy Efficient...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "199.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-4abdd95c9190-review.html"
-    },
-    {
       "id": "am_1822f01aa96d",
       "slug": "am-1822f01aa96d",
       "name": "Options:5 sizes",
@@ -2566,6 +2311,23 @@
       "price": "54.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-1822f01aa96d-review.html"
+    },
+    {
+      "id": "am_ca6d181424bc",
+      "slug": "am-ca6d181424bc",
+      "name": "HANDBODE Hex Dumbbell Sets with Rack, 290-840 lb Rubber Encase...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "599.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-ca6d181424bc-review.html"
     },
     {
       "id": "am_cdce1abfe6a1",
@@ -2823,6 +2585,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-eb59f99250ac-review.html"
     },
     {
+      "id": "am_07a427808397",
+      "slug": "am-07a427808397",
+      "name": "Basics Adjustable Dumbbell Hand Weight Set with Storage Case,...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-07a427808397-review.html"
+    },
+    {
       "id": "am_78edbf0cbca4",
       "slug": "am-78edbf0cbca4",
       "name": "colors available",
@@ -2923,6 +2702,23 @@
       "price": null,
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/al-4b4e6b352bcc-review.html"
+    },
+    {
+      "id": "am_b002bdfb1070",
+      "slug": "am-b002bdfb1070",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-b002bdfb1070-review.html"
     },
     {
       "id": "am_f3620c4982f4",
@@ -3316,6 +3112,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-af3694928d36-review.html"
     },
     {
+      "id": "am_b0c32154356c",
+      "slug": "am-b0c32154356c",
+      "name": "Rated  from 1 reviews",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-b0c32154356c-review.html"
+    },
+    {
       "id": "am_233013f5acf3",
       "slug": "am-233013f5acf3",
       "name": "New on Amazon in past month",
@@ -3433,23 +3246,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-b2bb827b7f65-review.html"
-    },
-    {
-      "id": "am_6d993c37deea",
-      "slug": "am-6d993c37deea",
-      "name": "JLP RV Toy Hauler Trailer Motor Home Coach 5TH Wheel Off Road...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-6d993c37deea-review.html"
     },
     {
       "id": "am_22affea617d7",
@@ -4404,6 +4200,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-96a57db568c9-review.html"
     },
     {
+      "id": "am_f5206805833e",
+      "slug": "am-f5206805833e",
+      "name": "Transformers Decepticon Commander 3-Pack of 5-Inch Robot Actio...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "40.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-f5206805833e-review.html"
+    },
+    {
       "id": "am_b36d9481a91b",
       "slug": "am-b36d9481a91b",
       "name": "colors available",
@@ -4878,6 +4691,23 @@
       "price": "38.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-db17dab20b10-review.html"
+    },
+    {
+      "id": "am_61a51ce84ae9",
+      "slug": "am-61a51ce84ae9",
+      "name": "Hezeyferg 22LBS Adjustable Dumbbells Set, Adjustable Weight Du...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "69.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-61a51ce84ae9-review.html"
     },
     {
       "id": "am_7216a14e9419",
@@ -5798,40 +5628,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-3e8fab282dc3-review.html"
     },
     {
-      "id": "am_81496142ed14",
-      "slug": "am-81496142ed14",
-      "name": "Tactical Backpack Cooler, 25L Cooler Backpack Insulated Leak-P...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "45.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-81496142ed14-review.html"
-    },
-    {
-      "id": "am_fc88b2a84f4e",
-      "slug": "am-fc88b2a84f4e",
-      "name": "22 Inch (Pack of 1)",
-      "network": "amazon",
-      "niche": "beauty_wigs",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "22.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-fc88b2a84f4e-review.html"
-    },
-    {
       "id": "am_11a4655f5d24",
       "slug": "am-11a4655f5d24",
       "name": "NORTIV 8 Men&#x27;s Wide Toe Box Trail Running Shoes Cushion W...",
@@ -5847,6 +5643,23 @@
       "price": "63.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-11a4655f5d24-review.html"
+    },
+    {
+      "id": "am_678e7042ccc8",
+      "slug": "am-678e7042ccc8",
+      "name": "NUOBELL Adjustable Dumbbells 5-80 lbs: Replace 16 Sets, Ideal...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "765.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-678e7042ccc8-review.html"
     },
     {
       "id": "am_be7181ca083a",
@@ -6017,6 +5830,23 @@
       "price": "119.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-6bce2368a2c6-review.html"
+    },
+    {
+      "id": "am_569be0db740b",
+      "slug": "am-569be0db740b",
+      "name": "Only 1 left in stock - order soon.",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-569be0db740b-review.html"
     },
     {
       "id": "am_261a839dae26",
@@ -6546,6 +6376,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-dcab3d71ae28-review.html"
     },
     {
+      "id": "am_19b83ecabf5d",
+      "slug": "am-19b83ecabf5d",
+      "name": "ALEADER Women&#x27;s Energycloud Lightweight Slip On Walking R...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "45.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-19b83ecabf5d-review.html"
+    },
+    {
       "id": "am_a6fdcf167f42",
       "slug": "am-a6fdcf167f42",
       "name": "Shellfairy Automotive Clip Removal Tool & Trim Removal Pliers,...",
@@ -6561,23 +6408,6 @@
       "price": "22.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-a6fdcf167f42-review.html"
-    },
-    {
-      "id": "am_d6726462e3f1",
-      "slug": "am-d6726462e3f1",
-      "name": "Rated  from 2 reviews",
-      "network": "amazon",
-      "niche": "fitness_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-d6726462e3f1-review.html"
     },
     {
       "id": "am_ee0e3bfbe296",
@@ -6767,23 +6597,6 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-6a106da7fb9b-review.html"
     },
     {
-      "id": "am_62e4eadf6458",
-      "slug": "am-62e4eadf6458",
-      "name": "Rated  from 74 reviews",
-      "network": "amazon",
-      "niche": "car_accessories",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "31.0",
-      "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-62e4eadf6458-review.html"
-    },
-    {
       "id": "am_5a9758189715",
       "slug": "am-5a9758189715",
       "name": ", rating details",
@@ -6869,6 +6682,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-2afc2ad77d65-review.html"
     },
     {
+      "id": "am_9dc3bff3adc2",
+      "slug": "am-9dc3bff3adc2",
+      "name": "ALEADER Women&#x27;s Energycloud Lightweight Slip On Walking R...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "33.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-9dc3bff3adc2-review.html"
+    },
+    {
       "id": "am_93d65f3b6d3a",
       "slug": "am-93d65f3b6d3a",
       "name": ", rating details",
@@ -6886,11 +6716,11 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-93d65f3b6d3a-review.html"
     },
     {
-      "id": "am_8f712648f811",
-      "slug": "am-8f712648f811",
-      "name": "Frostorm 3.2 Cu Ft Mini Fridge with Freezer - Energy Efficient...",
+      "id": "am_88976b57303d",
+      "slug": "am-88976b57303d",
+      "name": "Furryland Custom Photo Graduation Night Light, Personalized Cl...",
       "network": "amazon",
-      "niche": "garden_tools",
+      "niche": "home_appliances",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -6898,9 +6728,26 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "194.0",
+      "price": "12.0",
       "image_url": "",
-      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-8f712648f811-review.html"
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-88976b57303d-review.html"
+    },
+    {
+      "id": "am_cfc532a950fe",
+      "slug": "am-cfc532a950fe",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "car_accessories",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-cfc532a950fe-review.html"
     },
     {
       "id": "am_bac973fe30f5",
@@ -7192,6 +7039,23 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-31e1dd5af0d6-review.html"
     },
     {
+      "id": "am_c13bd44c92d5",
+      "slug": "am-c13bd44c92d5",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "47.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-c13bd44c92d5-review.html"
+    },
+    {
       "id": "am_9d84384e3f96",
       "slug": "am-9d84384e3f96",
       "name": "domirica",
@@ -7277,6 +7141,40 @@
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-7aa1fde6a870-review.html"
     },
     {
+      "id": "am_2b8a95a45eb0",
+      "slug": "am-2b8a95a45eb0",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-2b8a95a45eb0-review.html"
+    },
+    {
+      "id": "am_74e1f00b11a6",
+      "slug": "am-74e1f00b11a6",
+      "name": "JISULIFE Portable Handheld Fan, Speed(1-100) Adjustable Turbo...",
+      "network": "amazon",
+      "niche": "home_appliances",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "62.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-74e1f00b11a6-review.html"
+    },
+    {
       "id": "am_43ceb1d76922",
       "slug": "am-43ceb1d76922",
       "name": "Ad - BKDRL Bluetooth Speaker Lamp with Wireless Charger, RGB N...",
@@ -7343,6 +7241,23 @@
       "price": "17.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-cdef15eba9c9-review.html"
+    },
+    {
+      "id": "am_67f4fb670407",
+      "slug": "am-67f4fb670407",
+      "name": "Family Senior 2026 Proud Family of A 2026 Graduate Done 2026 T...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-67f4fb670407-review.html"
     },
     {
       "id": "am_2c0370c3b99e",
@@ -7819,6 +7734,40 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-016d03620789-review.html"
+    },
+    {
+      "id": "am_d4349b1899d3",
+      "slug": "am-d4349b1899d3",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-d4349b1899d3-review.html"
+    },
+    {
+      "id": "am_294b08341abe",
+      "slug": "am-294b08341abe",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "garden_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "1.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-294b08341abe-review.html"
     },
     {
       "id": "am_97c16b598b8d",
@@ -8499,8 +8448,59 @@
       "price": "699.0",
       "image_url": "",
       "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-26894e75e06c-review.html"
+    },
+    {
+      "id": "am_0dd64b314804",
+      "slug": "am-0dd64b314804",
+      "name": "Dreo Tower Fan for Bedroom, 90\u00b0 Oscillating Standing Fans for...",
+      "network": "amazon",
+      "niche": "garden_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-0dd64b314804-review.html"
+    },
+    {
+      "id": "am_f40320d2e727",
+      "slug": "am-f40320d2e727",
+      "name": "Seivble Smart Moving Bouncing Dog Ball with Colorful Lights, 2...",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "28.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-f40320d2e727-review.html"
+    },
+    {
+      "id": "am_11345e42ceb9",
+      "slug": "am-11345e42ceb9",
+      "name": "Frostorm 3.2 Cu Ft Mini Fridge with Freezer - Energy Efficient...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "149.0",
+      "image_url": "",
+      "url": "https://rice-geneva-medium-hung.trycloudflare.com/am-11345e42ceb9-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-01T06:35:43.020232+00:00"
+  "generated_at": "2026-04-01T06:52:25.340411+00:00"
 }
