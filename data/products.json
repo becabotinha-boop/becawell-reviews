@@ -35,23 +35,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/blue-light-glasses-review.html"
     },
     {
-      "id": "facial_cleansing_brush",
-      "slug": "facial-cleansing-brush",
-      "name": "Sonic Facial Cleansing Brush",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "25-50",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/facial-cleansing-brush-review.html"
-    },
-    {
       "id": "led_face_mask",
       "slug": "led-face-mask",
       "name": "LED Light Therapy Face Mask",
@@ -67,6 +50,23 @@
       "price": "40-80",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/led-face-mask-review.html"
+    },
+    {
+      "id": "facial_cleansing_brush",
+      "slug": "facial-cleansing-brush",
+      "name": "Sonic Facial Cleansing Brush",
+      "network": "amazon",
+      "niche": "amazon_beauty",
+      "score": 82.5,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "25-50",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/facial-cleansing-brush-review.html"
     },
     {
       "id": "hair_curler_auto",
@@ -188,23 +188,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/resistance-bands-review.html"
     },
     {
-      "id": "adjustable_dumbbells",
-      "slug": "adjustable-dumbbells",
-      "name": "Adjustable Dumbbell Set",
-      "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 78.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "60-120",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/adjustable-dumbbells-review.html"
-    },
-    {
       "id": "jump_rope_pro",
       "slug": "jump-rope-pro",
       "name": "Weighted Jump Rope Pro",
@@ -222,21 +205,21 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/jump-rope-pro-review.html"
     },
     {
-      "id": "auto_pet_feeder",
-      "slug": "auto-pet-feeder",
-      "name": "Automatic Pet Feeder WiFi",
+      "id": "adjustable_dumbbells",
+      "slug": "adjustable-dumbbells",
+      "name": "Adjustable Dumbbell Set",
       "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 77.0,
+      "niche": "amazon_fitness",
+      "score": 78.0,
       "tier": "B",
       "rating": {
         "display": "4.4/5",
         "value": 4.4,
         "stars": 4
       },
-      "price": "45-85",
+      "price": "60-120",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/auto-pet-feeder-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/adjustable-dumbbells-review.html"
     },
     {
       "id": "dog_training_collar",
@@ -254,6 +237,23 @@
       "price": "25-50",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/dog-training-collar-review.html"
+    },
+    {
+      "id": "auto_pet_feeder",
+      "slug": "auto-pet-feeder",
+      "name": "Automatic Pet Feeder WiFi",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 77.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "45-85",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/auto-pet-feeder-review.html"
     },
     {
       "id": "wireless_earbuds",
@@ -307,23 +307,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/phone-tripod-review.html"
     },
     {
-      "id": "soccer_rebounder",
-      "slug": "soccer-rebounder",
-      "name": "Soccer Rebounder Net Adjustable",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "35-70",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/soccer-rebounder-review.html"
-    },
-    {
       "id": "under_sink_organizer",
       "slug": "under-sink-organizer",
       "name": "Under Sink Organizer",
@@ -356,23 +339,6 @@
       "price": "25-45",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/closet-organizer-review.html"
-    },
-    {
-      "id": "agility_ladder",
-      "slug": "agility-ladder",
-      "name": "Agility Ladder Speed Training",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 74.3,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "20-35",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/agility-ladder-review.html"
     },
     {
       "id": "storage_box_system",
@@ -409,6 +375,40 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/soccer-training-cones-review.html"
     },
     {
+      "id": "agility_ladder",
+      "slug": "agility-ladder",
+      "name": "Agility Ladder Speed Training",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "20-35",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/agility-ladder-review.html"
+    },
+    {
+      "id": "soccer_rebounder",
+      "slug": "soccer-rebounder",
+      "name": "Soccer Rebounder Net Adjustable",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 74.3,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35-70",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/soccer-rebounder-review.html"
+    },
+    {
       "id": "car_phone_mount",
       "slug": "car-phone-mount",
       "name": "Car Phone Mount Magnetic",
@@ -443,38 +443,21 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/portable-car-vacuum-review.html"
     },
     {
-      "id": "am_14c61a92db83",
-      "slug": "am-14c61a92db83",
-      "name": ", rating details",
+      "id": "am_8f3803c26931",
+      "slug": "am-8f3803c26931",
+      "name": "View  information or leave ad feedback",
       "network": "amazon",
       "niche": "aliexpress_deals",
-      "score": 70.6,
+      "score": 68.8,
       "tier": "B",
       "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
+        "display": "4.1/5",
+        "value": 4.1,
         "stars": 4
       },
-      "price": "19.0",
+      "price": "59.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-14c61a92db83-review.html"
-    },
-    {
-      "id": "am_3e0324368012",
-      "slug": "am-3e0324368012",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "aliexpress_deals",
-      "score": 70.6,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "61.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3e0324368012-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8f3803c26931-review.html"
     },
     {
       "id": "am_0023fddb8ab3",
@@ -511,11 +494,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-be1d9f847822-review.html"
     },
     {
-      "id": "am_51364d71ebeb",
-      "slug": "am-51364d71ebeb",
-      "name": "Eawwii Ombre Ash Brown with Platinum Blonde Wig for Women Long...",
+      "id": "am_39bf15c821a0",
+      "slug": "am-39bf15c821a0",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
       "network": "amazon",
-      "niche": "beauty_wigs",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -523,26 +506,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "35.0",
+      "price": "108.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-51364d71ebeb-review.html"
-    },
-    {
-      "id": "am_7307c1585932",
-      "slug": "am-7307c1585932",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "33.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7307c1585932-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-39bf15c821a0-review.html"
     },
     {
       "id": "am_fbf3299196b0",
@@ -596,11 +562,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-233013f5acf3-review.html"
     },
     {
-      "id": "am_3134fbffe62c",
-      "slug": "am-3134fbffe62c",
-      "name": "Jotsome Magnetic Calendar for Refrigerator 2026-2027, Monthly...",
+      "id": "am_c7a67a74d42b",
+      "slug": "am-c7a67a74d42b",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
       "network": "amazon",
-      "niche": "outdoor_gear",
+      "niche": "amazon_tech",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -608,16 +574,16 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "17.0",
+      "price": "9.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3134fbffe62c-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c7a67a74d42b-review.html"
     },
     {
-      "id": "am_bfe1e38eb609",
-      "slug": "am-bfe1e38eb609",
-      "name": "Options:2 sizes",
+      "id": "am_303e08dc6c07",
+      "slug": "am-303e08dc6c07",
+      "name": ", rating details",
       "network": "amazon",
-      "niche": "amazon_pets",
+      "niche": "sports_shoes",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -627,14 +593,14 @@
       },
       "price": "18.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bfe1e38eb609-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-303e08dc6c07-review.html"
     },
     {
-      "id": "am_ad9582f81957",
-      "slug": "am-ad9582f81957",
-      "name": "ALEADER Women&#x27;s Energycloud Lightweight Slip On Walking R...",
+      "id": "am_d3ac5bb8ed7a",
+      "slug": "am-d3ac5bb8ed7a",
+      "name": "Jushope Interior Car LED Strip Lights, RGB USB Ambient Lightin...",
       "network": "amazon",
-      "niche": "amazon_fitness",
+      "niche": "amazon_tech",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -642,14 +608,14 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "34.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ad9582f81957-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d3ac5bb8ed7a-review.html"
     },
     {
-      "id": "am_5666d19e6c28",
-      "slug": "am-5666d19e6c28",
-      "name": ", rating details",
+      "id": "am_4a511f7f0f60",
+      "slug": "am-4a511f7f0f60",
+      "name": "Heavy Duty Telescopic Car Clothes Hanger Bar - Adjustable 30&#...",
       "network": "amazon",
       "niche": "amazon_home",
       "score": 68.8,
@@ -659,9 +625,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "3.0",
+      "price": "29.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5666d19e6c28-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4a511f7f0f60-review.html"
     },
     {
       "id": "am_dc65131c1194",
@@ -681,11 +647,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-dc65131c1194-review.html"
     },
     {
-      "id": "am_c7a785c987b2",
-      "slug": "am-c7a785c987b2",
-      "name": "Custom Hanging Camping Sign, camping decor for camper Yard Sig...",
+      "id": "am_a213a957ba30",
+      "slug": "am-a213a957ba30",
+      "name": "JETech Matte Case for iPhone 17e (2026) / iPhone 16e, Shockpro...",
       "network": "amazon",
-      "niche": "home_decor",
+      "niche": "amazon_tech",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -693,26 +659,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "29.0",
+      "price": "9.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c7a785c987b2-review.html"
-    },
-    {
-      "id": "am_24250eb7bbd0",
-      "slug": "am-24250eb7bbd0",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "25.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-24250eb7bbd0-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a213a957ba30-review.html"
     },
     {
       "id": "am_a394427f1557",
@@ -732,40 +681,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a394427f1557-review.html"
     },
     {
-      "id": "am_45213830d28e",
-      "slug": "am-45213830d28e",
-      "name": "6-Pack Hair Extension Holder - Wig Storage Bags with Hanger fo...",
-      "network": "amazon",
-      "niche": "beauty_wigs",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-45213830d28e-review.html"
-    },
-    {
-      "id": "am_6bd4eacb506a",
-      "slug": "am-6bd4eacb506a",
-      "name": "MIXGOLD Wireless CarPlay Adapter for Apple iPhone & Android Au...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6bd4eacb506a-review.html"
-    },
-    {
       "id": "am_5370bf3dce67",
       "slug": "am-5370bf3dce67",
       "name": "Jiexily Car Seat Headrest Hooks for Purses and Bags, 2026 New...",
@@ -781,6 +696,23 @@
       "price": "7.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5370bf3dce67-review.html"
+    },
+    {
+      "id": "am_bfbf1ad47e1b",
+      "slug": "am-bfbf1ad47e1b",
+      "name": "befen Genuine Leather Saddle Crossbody Bags for Women with RFI...",
+      "network": "amazon",
+      "niche": "sports_cycling",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "40.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bfbf1ad47e1b-review.html"
     },
     {
       "id": "am_42e33ea00f82",
@@ -800,9 +732,26 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-42e33ea00f82-review.html"
     },
     {
-      "id": "am_a5b6c042a9bf",
-      "slug": "am-a5b6c042a9bf",
-      "name": "Alloy Steel, Aluminum",
+      "id": "am_0c1c4dfc40e4",
+      "slug": "am-0c1c4dfc40e4",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "46.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-0c1c4dfc40e4-review.html"
+    },
+    {
+      "id": "am_fae08c8de091",
+      "slug": "am-fae08c8de091",
+      "name": ", rating details",
       "network": "amazon",
       "niche": "toys_gadgets",
       "score": 68.8,
@@ -812,16 +761,16 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "309.0",
+      "price": "7.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a5b6c042a9bf-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fae08c8de091-review.html"
     },
     {
-      "id": "am_8f3803c26931",
-      "slug": "am-8f3803c26931",
-      "name": "View  information or leave ad feedback",
+      "id": "am_7f79d4a855c1",
+      "slug": "am-7f79d4a855c1",
+      "name": "Options:4 sizes",
       "network": "amazon",
-      "niche": "aliexpress_deals",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -829,9 +778,60 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "59.0",
+      "price": "40.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8f3803c26931-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7f79d4a855c1-review.html"
+    },
+    {
+      "id": "am_8ed14b742f0a",
+      "slug": "am-8ed14b742f0a",
+      "name": "New on Amazon in past month",
+      "network": "amazon",
+      "niche": "jewelry",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8ed14b742f0a-review.html"
+    },
+    {
+      "id": "am_32218ea38ca3",
+      "slug": "am-32218ea38ca3",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-32218ea38ca3-review.html"
+    },
+    {
+      "id": "am_b15efea347ea",
+      "slug": "am-b15efea347ea",
+      "name": "tattoos",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "23.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b15efea347ea-review.html"
     },
     {
       "id": "am_d28400f466bc",
@@ -900,6 +900,57 @@
       "price": "19.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e0b279d1f47f-review.html"
+    },
+    {
+      "id": "am_7a54664fe35a",
+      "slug": "am-7a54664fe35a",
+      "name": "Rated  from 220 reviews",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7a54664fe35a-review.html"
+    },
+    {
+      "id": "am_caae915bbe12",
+      "slug": "am-caae915bbe12",
+      "name": "Fresh, Citrus Aquatic",
+      "network": "amazon",
+      "niche": "fragrance",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "116.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-caae915bbe12-review.html"
+    },
+    {
+      "id": "am_e0ce8a0135f4",
+      "slug": "am-e0ce8a0135f4",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e0ce8a0135f4-review.html"
     },
     {
       "id": "am_e994c4084e0d",
@@ -1004,11 +1055,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a3d621d55bdd-review.html"
     },
     {
-      "id": "am_6ed825c742d6",
-      "slug": "am-6ed825c742d6",
-      "name": "View  information or leave ad feedback",
+      "id": "am_4b446a0625b6",
+      "slug": "am-4b446a0625b6",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
       "network": "amazon",
-      "niche": "amazon_creator",
+      "niche": "sports_shoes",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1016,9 +1067,26 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "29.0",
+      "price": "12.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6ed825c742d6-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4b446a0625b6-review.html"
+    },
+    {
+      "id": "am_97c16b598b8d",
+      "slug": "am-97c16b598b8d",
+      "name": "Rated  from 367 reviews",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "127.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-97c16b598b8d-review.html"
     },
     {
       "id": "am_f99084943a76",
@@ -1038,45 +1106,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f99084943a76-review.html"
     },
     {
-      "id": "am_c7a67a74d42b",
-      "slug": "am-c7a67a74d42b",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c7a67a74d42b-review.html"
-    },
-    {
-      "id": "am_d20f1f804022",
-      "slug": "am-d20f1f804022",
-      "name": "snanlen Upgraded 360\u00b0 Vacuum Magnetic Phone Holder, Magnetic C...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "20.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d20f1f804022-review.html"
-    },
-    {
-      "id": "am_303e08dc6c07",
-      "slug": "am-303e08dc6c07",
+      "id": "am_64c51ce91cd6",
+      "slug": "am-64c51ce91cd6",
       "name": ", rating details",
       "network": "amazon",
-      "niche": "sports_shoes",
+      "niche": "home_electronics",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1084,9 +1118,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "18.0",
+      "price": "339.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-303e08dc6c07-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-64c51ce91cd6-review.html"
     },
     {
       "id": "am_6bce2368a2c6",
@@ -1123,11 +1157,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-75906cb0b69d-review.html"
     },
     {
-      "id": "am_2db41b9b1753",
-      "slug": "am-2db41b9b1753",
-      "name": "Rated  from 1,520 reviews",
+      "id": "am_6ed825c742d6",
+      "slug": "am-6ed825c742d6",
+      "name": "View  information or leave ad feedback",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "amazon_creator",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1135,9 +1169,60 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "19.0",
+      "price": "29.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2db41b9b1753-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6ed825c742d6-review.html"
+    },
+    {
+      "id": "am_988bba45449d",
+      "slug": "am-988bba45449d",
+      "name": "Hulezt Portable Silent Mini Bladeless Electric Fan, 2026 New C...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-988bba45449d-review.html"
+    },
+    {
+      "id": "am_3cb0aefc131f",
+      "slug": "am-3cb0aefc131f",
+      "name": "How it Works Annual 2026: The Best of Science, Tech, Nature &...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3cb0aefc131f-review.html"
+    },
+    {
+      "id": "am_0c6fc0f043de",
+      "slug": "am-0c6fc0f043de",
+      "name": "Only 12 left in stock - order soon.",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-0c6fc0f043de-review.html"
     },
     {
       "id": "am_c89c05de162e",
@@ -1174,11 +1259,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a6fdcf167f42-review.html"
     },
     {
-      "id": "am_cdd305664bff",
-      "slug": "am-cdd305664bff",
-      "name": ", rating details",
+      "id": "am_67f4fb670407",
+      "slug": "am-67f4fb670407",
+      "name": "Family Senior 2026 Proud Family of A 2026 Graduate Done 2026 T...",
       "network": "amazon",
-      "niche": "retro_gaming",
+      "niche": "family_fashion",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1186,9 +1271,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "38.0",
+      "price": "13.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-cdd305664bff-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-67f4fb670407-review.html"
     },
     {
       "id": "am_5e906ff8f12d",
@@ -1225,11 +1310,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5aa505643571-review.html"
     },
     {
-      "id": "am_38a7da52c397",
-      "slug": "am-38a7da52c397",
-      "name": "colors available",
+      "id": "am_d20f1f804022",
+      "slug": "am-d20f1f804022",
+      "name": "snanlen Upgraded 360\u00b0 Vacuum Magnetic Phone Holder, Magnetic C...",
       "network": "amazon",
-      "niche": "amazon_pets",
+      "niche": "amazon_car",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1237,9 +1322,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "49.0",
+      "price": "20.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-38a7da52c397-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d20f1f804022-review.html"
     },
     {
       "id": "am_a57184c72f08",
@@ -1259,23 +1344,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a57184c72f08-review.html"
     },
     {
-      "id": "am_d3ac5bb8ed7a",
-      "slug": "am-d3ac5bb8ed7a",
-      "name": "Jushope Interior Car LED Strip Lights, RGB USB Ambient Lightin...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d3ac5bb8ed7a-review.html"
-    },
-    {
       "id": "am_11a4655f5d24",
       "slug": "am-11a4655f5d24",
       "name": "NORTIV 8 Men&#x27;s Wide Toe Box Trail Running Shoes Cushion W...",
@@ -1293,11 +1361,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-11a4655f5d24-review.html"
     },
     {
-      "id": "am_8f5a9b47b1aa",
-      "slug": "am-8f5a9b47b1aa",
-      "name": "All New Kitchen Ideas that Work: Solutions for Planning, Remod...",
+      "id": "am_c7e2074a5bd7",
+      "slug": "am-c7e2074a5bd7",
+      "name": "Biacolum",
       "network": "amazon",
-      "niche": "home_decor",
+      "niche": "family_fashion",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1305,9 +1373,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "18.0",
+      "price": "30.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8f5a9b47b1aa-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c7e2074a5bd7-review.html"
     },
     {
       "id": "am_ed2030e74e80",
@@ -1376,6 +1444,40 @@
       "price": "69.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-baeddce33761-review.html"
+    },
+    {
+      "id": "am_7ebfd3c95391",
+      "slug": "am-7ebfd3c95391",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "grooming_tools",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7ebfd3c95391-review.html"
+    },
+    {
+      "id": "am_64c3e9e2c248",
+      "slug": "am-64c3e9e2c248",
+      "name": "Battery Powered",
+      "network": "amazon",
+      "niche": "outdoor_gear",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-64c3e9e2c248-review.html"
     },
     {
       "id": "am_22affea617d7",
@@ -1463,23 +1565,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-51dd4ccf2e8d-review.html"
     },
     {
-      "id": "am_4a511f7f0f60",
-      "slug": "am-4a511f7f0f60",
-      "name": "Heavy Duty Telescopic Car Clothes Hanger Bar - Adjustable 30&#...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4a511f7f0f60-review.html"
-    },
-    {
       "id": "am_6a5c38f1e59f",
       "slug": "am-6a5c38f1e59f",
       "name": "Kitchen",
@@ -1531,11 +1616,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-554356fe7905-review.html"
     },
     {
-      "id": "am_a213a957ba30",
-      "slug": "am-a213a957ba30",
-      "name": "JETech Matte Case for iPhone 17e (2026) / iPhone 16e, Shockpro...",
+      "id": "am_95b1f90c32e5",
+      "slug": "am-95b1f90c32e5",
+      "name": "colors available",
       "network": "amazon",
-      "niche": "amazon_tech",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1543,9 +1628,26 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "9.0",
+      "price": "28.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a213a957ba30-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-95b1f90c32e5-review.html"
+    },
+    {
+      "id": "am_70c1a0c63148",
+      "slug": "am-70c1a0c63148",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "85.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-70c1a0c63148-review.html"
     },
     {
       "id": "am_38783845d148",
@@ -1633,23 +1735,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e7dc6a2b33c5-review.html"
     },
     {
-      "id": "am_9b7a54846daf",
-      "slug": "am-9b7a54846daf",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9b7a54846daf-review.html"
-    },
-    {
       "id": "am_224bdd7c50e4",
       "slug": "am-224bdd7c50e4",
       "name": ", rating details",
@@ -1735,11 +1820,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d36a89be121c-review.html"
     },
     {
-      "id": "am_60e8fb335188",
-      "slug": "am-60e8fb335188",
-      "name": "Add to cart",
+      "id": "am_2db41b9b1753",
+      "slug": "am-2db41b9b1753",
+      "name": "Rated  from 1,520 reviews",
       "network": "amazon",
-      "niche": "fragrance",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1747,9 +1832,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "105.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-60e8fb335188-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2db41b9b1753-review.html"
     },
     {
       "id": "am_643fbced17e1",
@@ -1820,6 +1905,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b0b3c634a2b3-review.html"
     },
     {
+      "id": "am_46fedd835027",
+      "slug": "am-46fedd835027",
+      "name": "AWSOLE",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-46fedd835027-review.html"
+    },
+    {
       "id": "am_d2b0c9bb7c87",
       "slug": "am-d2b0c9bb7c87",
       "name": "Best Seller",
@@ -1835,6 +1937,23 @@
       "price": "21.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d2b0c9bb7c87-review.html"
+    },
+    {
+      "id": "am_a27e005426c4",
+      "slug": "am-a27e005426c4",
+      "name": "Rated  from 1,291 reviews",
+      "network": "amazon",
+      "niche": "car_accessories",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a27e005426c4-review.html"
     },
     {
       "id": "am_7751776f8cda",
@@ -1869,23 +1988,6 @@
       "price": "59.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-433fccf21f2a-review.html"
-    },
-    {
-      "id": "am_a53203775ba5",
-      "slug": "am-a53203775ba5",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "310.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a53203775ba5-review.html"
     },
     {
       "id": "am_39f6d39a7d0d",
@@ -2024,23 +2126,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-1cdb96b04e59-review.html"
     },
     {
-      "id": "am_fc88b2a84f4e",
-      "slug": "am-fc88b2a84f4e",
-      "name": "22 Inch (Pack of 1)",
-      "network": "amazon",
-      "niche": "beauty_wigs",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "22.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fc88b2a84f4e-review.html"
-    },
-    {
       "id": "am_b4485c2cd383",
       "slug": "am-b4485c2cd383",
       "name": "Ad - The Tucci Cookbook",
@@ -2056,6 +2141,23 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b4485c2cd383-review.html"
+    },
+    {
+      "id": "am_b468187ed441",
+      "slug": "am-b468187ed441",
+      "name": "Rated  from 14 reviews",
+      "network": "amazon",
+      "niche": "fitness_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b468187ed441-review.html"
     },
     {
       "id": "am_5d4010d9327c",
@@ -2109,11 +2211,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-62f47ee06921-review.html"
     },
     {
-      "id": "am_bfb0bc51a616",
-      "slug": "am-bfb0bc51a616",
-      "name": "colors available",
+      "id": "am_29f4cf9da8f0",
+      "slug": "am-29f4cf9da8f0",
+      "name": "Upgraded Vacuum Magnetic Suction Phone Mount, Magnetic Car Pho...",
       "network": "amazon",
-      "niche": "outdoor_gear",
+      "niche": "amazon_car",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -2121,9 +2223,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "23.0",
+      "price": "9.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bfb0bc51a616-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-29f4cf9da8f0-review.html"
     },
     {
       "id": "am_5ce42499f87a",
@@ -2143,11 +2245,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5ce42499f87a-review.html"
     },
     {
-      "id": "am_c4a23641d4a8",
-      "slug": "am-c4a23641d4a8",
-      "name": "domirica",
+      "id": "am_d99fd566622a",
+      "slug": "am-d99fd566622a",
+      "name": "snanlen 2026 Upgraded Car Phone Holder for Magsafe [108LBS Str...",
       "network": "amazon",
-      "niche": "family_fashion",
+      "niche": "amazon_car",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -2155,9 +2257,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "37.0",
+      "price": "22.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c4a23641d4a8-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d99fd566622a-review.html"
     },
     {
       "id": "am_9a6749b94b49",
@@ -2211,23 +2313,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2ad13a3a2311-review.html"
     },
     {
-      "id": "am_56993caf408f",
-      "slug": "am-56993caf408f",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-56993caf408f-review.html"
-    },
-    {
       "id": "am_6f75f68becda",
       "slug": "am-6f75f68becda",
       "name": "Ad - ROKFORM Dual Magnet Swivel Dash Mount, Magnetic Adhesive...",
@@ -2243,6 +2328,23 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6f75f68becda-review.html"
+    },
+    {
+      "id": "am_6db8ba428e76",
+      "slug": "am-6db8ba428e76",
+      "name": "Smart Tags-4 Pack Android, Air Tracker Tags for Android, Bluet...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6db8ba428e76-review.html"
     },
     {
       "id": "am_b3b0583aa702",
@@ -2294,6 +2396,23 @@
       "price": "6.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fa0d396adfe3-review.html"
+    },
+    {
+      "id": "am_bad6295b521a",
+      "slug": "am-bad6295b521a",
+      "name": "Personalized Graduation Welcome Sign 2026 with Photo, Custom N...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bad6295b521a-review.html"
     },
     {
       "id": "am_e48fc387423e",
@@ -2362,6 +2481,23 @@
       "price": "29.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2bc4d93620d4-review.html"
+    },
+    {
+      "id": "am_8c68dbdece76",
+      "slug": "am-8c68dbdece76",
+      "name": "26 Inch",
+      "network": "amazon",
+      "niche": "beauty_grooming",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "32.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8c68dbdece76-review.html"
     },
     {
       "id": "am_0c9308ea6efd",
@@ -2466,11 +2602,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-422a9b3068d9-review.html"
     },
     {
-      "id": "am_7f79d4a855c1",
-      "slug": "am-7f79d4a855c1",
-      "name": "Options:4 sizes",
+      "id": "am_0b33804817a1",
+      "slug": "am-0b33804817a1",
+      "name": "PETLIBRO Automatic Cat Feeder, 5G WiFi Automatic Dog Food Disp...",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "amazon_pets",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -2478,9 +2614,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "40.0",
+      "price": "89.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7f79d4a855c1-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-0b33804817a1-review.html"
     },
     {
       "id": "am_0e52975ee78e",
@@ -2738,6 +2874,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/al-cc78ffb2259d-review.html"
     },
     {
+      "id": "am_67f7558c7a63",
+      "slug": "am-67f7558c7a63",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-67f7558c7a63-review.html"
+    },
+    {
       "id": "am_087c74e86efd",
       "slug": "am-087c74e86efd",
       "name": "Best Seller",
@@ -2789,6 +2942,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-14c6b4f2317e-review.html"
     },
     {
+      "id": "am_de9c664b514d",
+      "slug": "am-de9c664b514d",
+      "name": "pack all Shoe Bag for Travel, Water-Resistant Shoe Pouch for G...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-de9c664b514d-review.html"
+    },
+    {
       "id": "am_c13bd44c92d5",
       "slug": "am-c13bd44c92d5",
       "name": ", rating details",
@@ -2804,6 +2974,23 @@
       "price": "47.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c13bd44c92d5-review.html"
+    },
+    {
+      "id": "am_be7181ca083a",
+      "slug": "am-be7181ca083a",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-be7181ca083a-review.html"
     },
     {
       "id": "am_4cdf9e128986",
@@ -2872,6 +3059,23 @@
       "price": "36.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6955d052384e-review.html"
+    },
+    {
+      "id": "am_87b8cbc8a111",
+      "slug": "am-87b8cbc8a111",
+      "name": "Add to cart",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "69.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-87b8cbc8a111-review.html"
     },
     {
       "id": "am_45ee62905291",
@@ -2959,23 +3163,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-82ba00560907-review.html"
     },
     {
-      "id": "am_bad6295b521a",
-      "slug": "am-bad6295b521a",
-      "name": "Personalized Graduation Welcome Sign 2026 with Photo, Custom N...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bad6295b521a-review.html"
-    },
-    {
       "id": "am_3f5f0b6d667c",
       "slug": "am-3f5f0b6d667c",
       "name": "Add to cart",
@@ -3008,6 +3195,23 @@
       "price": "23.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c815f2ccc24f-review.html"
+    },
+    {
+      "id": "am_a26f05e991e5",
+      "slug": "am-a26f05e991e5",
+      "name": "Options:2 sizes",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a26f05e991e5-review.html"
     },
     {
       "id": "am_f39dbb413dae",
@@ -3061,11 +3265,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7ac06cfaad97-review.html"
     },
     {
-      "id": "am_00e04d26362b",
-      "slug": "am-00e04d26362b",
-      "name": "Fan Art World Championship",
+      "id": "am_6223d83aab50",
+      "slug": "am-6223d83aab50",
+      "name": "colors available",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "family_fashion",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3073,9 +3277,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "19.0",
+      "price": "14.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-00e04d26362b-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6223d83aab50-review.html"
     },
     {
       "id": "am_b7e2613e54be",
@@ -3146,11 +3350,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-62a5f4c9b5c5-review.html"
     },
     {
-      "id": "am_fa07cc7f7b1e",
-      "slug": "am-fa07cc7f7b1e",
-      "name": "LYLBFOF Personalized Custom Phone Case for iPhone 17 16 15 11...",
+      "id": "am_4c4aca052a8a",
+      "slug": "am-4c4aca052a8a",
+      "name": "Rated  from 3,774 reviews",
       "network": "amazon",
-      "niche": "amazon_tech",
+      "niche": "amazon_creator",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3158,9 +3362,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "13.0",
+      "price": "29.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fa07cc7f7b1e-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4c4aca052a8a-review.html"
     },
     {
       "id": "am_5a4a520f38cd",
@@ -3180,11 +3384,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5a4a520f38cd-review.html"
     },
     {
-      "id": "am_e6490a4cd274",
-      "slug": "am-e6490a4cd274",
-      "name": ", rating details",
+      "id": "am_60e8fb335188",
+      "slug": "am-60e8fb335188",
+      "name": "Add to cart",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "fragrance",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3192,16 +3396,16 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "9.0",
+      "price": "105.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e6490a4cd274-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-60e8fb335188-review.html"
     },
     {
-      "id": "am_404c9aabbc8a",
-      "slug": "am-404c9aabbc8a",
-      "name": "Really Helpful Car Headrest Pillow, Car Neck Pillow for Sleepi...",
+      "id": "am_ad0d85bf8e78",
+      "slug": "am-ad0d85bf8e78",
+      "name": "3.4 Fl Oz (Pack of 1)",
       "network": "amazon",
-      "niche": "amazon_sleep",
+      "niche": "fragrance",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3209,9 +3413,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "25.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-404c9aabbc8a-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ad0d85bf8e78-review.html"
     },
     {
       "id": "am_03c6fd65330d",
@@ -3282,23 +3486,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-60a3047ba7cc-review.html"
     },
     {
-      "id": "am_ae3a0027916f",
-      "slug": "am-ae3a0027916f",
-      "name": "Innovative Smart Glasses,2026 Cutting-Edge AI HD Camera Glasse...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "85.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ae3a0027916f-review.html"
-    },
-    {
       "id": "am_0c06edc74349",
       "slug": "am-0c06edc74349",
       "name": "Rated  from 573 reviews",
@@ -3367,23 +3554,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b306b077901c-review.html"
     },
     {
-      "id": "am_52e4f49cee42",
-      "slug": "am-52e4f49cee42",
-      "name": "Rated  from 60 reviews",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "69.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-52e4f49cee42-review.html"
-    },
-    {
       "id": "am_286550bbf0fb",
       "slug": "am-286550bbf0fb",
       "name": "Beautiful Kitchens and Baths 2024",
@@ -3399,23 +3569,6 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-286550bbf0fb-review.html"
-    },
-    {
-      "id": "am_858f1cc456ce",
-      "slug": "am-858f1cc456ce",
-      "name": "Affordable Kitchen Upgrades: Transform Your Kitchen On a Small...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-858f1cc456ce-review.html"
     },
     {
       "id": "am_a9dbd8cec733",
@@ -3452,23 +3605,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-cea7f133e349-review.html"
     },
     {
-      "id": "am_79f932956a06",
-      "slug": "am-79f932956a06",
-      "name": "House Beautiful: Incredible Kitchens: The must-have guide to r...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-79f932956a06-review.html"
-    },
-    {
       "id": "am_529278248225",
       "slug": "am-529278248225",
       "name": "colors available",
@@ -3484,23 +3620,6 @@
       "price": "21.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-529278248225-review.html"
-    },
-    {
-      "id": "am_667a6b909283",
-      "slug": "am-667a6b909283",
-      "name": "CDBUY Custom Air Fresheners with Picture - Personalized Double...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-667a6b909283-review.html"
     },
     {
       "id": "am_68a2ccc73e17",
@@ -3520,23 +3639,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-68a2ccc73e17-review.html"
     },
     {
-      "id": "am_ba6a1d5cb6d2",
-      "slug": "am-ba6a1d5cb6d2",
-      "name": "Options:2 sizes",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ba6a1d5cb6d2-review.html"
-    },
-    {
       "id": "am_b15dddb69ca8",
       "slug": "am-b15dddb69ca8",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -3552,6 +3654,40 @@
       "price": "8.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b15dddb69ca8-review.html"
+    },
+    {
+      "id": "am_96a57db568c9",
+      "slug": "am-96a57db568c9",
+      "name": "Brooks",
+      "network": "amazon",
+      "niche": "sports_shoes",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "148.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-96a57db568c9-review.html"
+    },
+    {
+      "id": "am_78d1bb42d13a",
+      "slug": "am-78d1bb42d13a",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "74.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-78d1bb42d13a-review.html"
     },
     {
       "id": "am_089d9a0471fe",
@@ -3588,6 +3724,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-75e6548cf8cd-review.html"
     },
     {
+      "id": "am_b36d9481a91b",
+      "slug": "am-b36d9481a91b",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "65.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b36d9481a91b-review.html"
+    },
+    {
       "id": "am_42c595cf32a7",
       "slug": "am-42c595cf32a7",
       "name": ", rating details",
@@ -3620,23 +3773,6 @@
       "price": "1.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b88f40633201-review.html"
-    },
-    {
-      "id": "am_f89732a28556",
-      "slug": "am-f89732a28556",
-      "name": "New on Amazon in past month",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f89732a28556-review.html"
     },
     {
       "id": "am_e08442ad409d",
@@ -3707,57 +3843,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-481f13c07af7-review.html"
     },
     {
-      "id": "am_eac03a76aebb",
-      "slug": "am-eac03a76aebb",
-      "name": "Est\u00e9e Lauder Beautiful Magnolia Eau de Parfum Spray with Notes...",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "63.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-eac03a76aebb-review.html"
-    },
-    {
-      "id": "am_988bba45449d",
-      "slug": "am-988bba45449d",
-      "name": "Hulezt Portable Silent Mini Bladeless Electric Fan, 2026 New C...",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-988bba45449d-review.html"
-    },
-    {
-      "id": "am_2991a16c949d",
-      "slug": "am-2991a16c949d",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "94.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2991a16c949d-review.html"
-    },
-    {
       "id": "am_594e3682ce39",
       "slug": "am-594e3682ce39",
       "name": ", rating details",
@@ -3792,6 +3877,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2593ad58a315-review.html"
     },
     {
+      "id": "am_c7a785c987b2",
+      "slug": "am-c7a785c987b2",
+      "name": "Custom Hanging Camping Sign, camping decor for camper Yard Sig...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c7a785c987b2-review.html"
+    },
+    {
       "id": "am_1a0e7c70673c",
       "slug": "am-1a0e7c70673c",
       "name": "appearance",
@@ -3807,6 +3909,23 @@
       "price": "21.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-1a0e7c70673c-review.html"
+    },
+    {
+      "id": "am_f60be711678f",
+      "slug": "am-f60be711678f",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f60be711678f-review.html"
     },
     {
       "id": "am_17e593a860f0",
@@ -3860,11 +3979,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-1ba498a27d12-review.html"
     },
     {
-      "id": "am_9a70f1d98580",
-      "slug": "am-9a70f1d98580",
+      "id": "am_c97b51fc3c4c",
+      "slug": "am-c97b51fc3c4c",
       "name": ", rating details",
       "network": "amazon",
-      "niche": "family_fashion",
+      "niche": "anime_collectibles",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3872,26 +3991,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "146.0",
+      "price": "150.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9a70f1d98580-review.html"
-    },
-    {
-      "id": "am_f922d4d4e615",
-      "slug": "am-f922d4d4e615",
-      "name": "Coolpow\u30102 Packs \u3011Magnetic Phone Holder for car\u3010Strong Magnet\u3011p...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f922d4d4e615-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c97b51fc3c4c-review.html"
     },
     {
       "id": "am_87598242ea3f",
@@ -3928,11 +4030,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-0ac5ff005643-review.html"
     },
     {
-      "id": "am_e1be00e0f4dc",
-      "slug": "am-e1be00e0f4dc",
-      "name": "View  information or leave ad feedback",
+      "id": "am_a1b6ac8c49fb",
+      "slug": "am-a1b6ac8c49fb",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
       "network": "amazon",
-      "niche": "amazon_tech",
+      "niche": "family_fashion",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3940,9 +4042,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "328.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e1be00e0f4dc-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a1b6ac8c49fb-review.html"
     },
     {
       "id": "am_ce591925eb54",
@@ -3960,6 +4062,23 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ce591925eb54-review.html"
+    },
+    {
+      "id": "am_8f5a9b47b1aa",
+      "slug": "am-8f5a9b47b1aa",
+      "name": "All New Kitchen Ideas that Work: Solutions for Planning, Remod...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8f5a9b47b1aa-review.html"
     },
     {
       "id": "am_8625ce6dd554",
@@ -4098,40 +4217,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-35c6dd3ec220-review.html"
     },
     {
-      "id": "am_489e4340468e",
-      "slug": "am-489e4340468e",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "198.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-489e4340468e-review.html"
-    },
-    {
-      "id": "am_fae08c8de091",
-      "slug": "am-fae08c8de091",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fae08c8de091-review.html"
-    },
-    {
       "id": "am_1d58cba5295a",
       "slug": "am-1d58cba5295a",
       "name": "Ad - 1001 Ideas for Kitchen Organization, New Edition: The Ult...",
@@ -4164,23 +4249,6 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bbcf132ccf7d-review.html"
-    },
-    {
-      "id": "am_32218ea38ca3",
-      "slug": "am-32218ea38ca3",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-32218ea38ca3-review.html"
     },
     {
       "id": "am_8f4eecd10b35",
@@ -4251,23 +4319,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2e3690b01f4a-review.html"
     },
     {
-      "id": "am_7a54664fe35a",
-      "slug": "am-7a54664fe35a",
-      "name": "Rated  from 220 reviews",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7a54664fe35a-review.html"
-    },
-    {
       "id": "al_1024c10cd625",
       "slug": "al-1024c10cd625",
       "name": "Best Perfume 2026 Item",
@@ -4283,23 +4334,6 @@
       "price": null,
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/al-1024c10cd625-review.html"
-    },
-    {
-      "id": "am_3cb0aefc131f",
-      "slug": "am-3cb0aefc131f",
-      "name": "How it Works Annual 2026: The Best of Science, Tech, Nature &...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "21.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3cb0aefc131f-review.html"
     },
     {
       "id": "am_e7ddccc670cd",
@@ -4795,23 +4829,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7cc42035330a-review.html"
     },
     {
-      "id": "am_4daf529c50fa",
-      "slug": "am-4daf529c50fa",
-      "name": "Floral, Lush, Wood",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "84.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4daf529c50fa-review.html"
-    },
-    {
       "id": "al_ac025bc22504",
       "slug": "al-ac025bc22504",
       "name": "Under Sink Organizer Item",
@@ -4827,6 +4844,23 @@
       "price": null,
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/al-ac025bc22504-review.html"
+    },
+    {
+      "id": "am_5666d19e6c28",
+      "slug": "am-5666d19e6c28",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5666d19e6c28-review.html"
     },
     {
       "id": "am_a1c39ee45b64",
@@ -4931,6 +4965,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-017064405449-review.html"
     },
     {
+      "id": "am_bfe1e38eb609",
+      "slug": "am-bfe1e38eb609",
+      "name": "Options:2 sizes",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bfe1e38eb609-review.html"
+    },
+    {
       "id": "am_30e550b1705d",
       "slug": "am-30e550b1705d",
       "name": "House Beautiful: Incredible Kitchens: Designers Secrets",
@@ -4946,23 +4997,6 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-30e550b1705d-review.html"
-    },
-    {
-      "id": "am_335a9c27fce6",
-      "slug": "am-335a9c27fce6",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "77.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-335a9c27fce6-review.html"
     },
     {
       "id": "am_a03199d4b6f5",
@@ -5016,23 +5050,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3dd358071e86-review.html"
     },
     {
-      "id": "am_d2bf20c49fac",
-      "slug": "am-d2bf20c49fac",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "amazon_sleep",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "319.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d2bf20c49fac-review.html"
-    },
-    {
       "id": "am_81496142ed14",
       "slug": "am-81496142ed14",
       "name": "Tactical Backpack Cooler, 25L Cooler Backpack Insulated Leak-P...",
@@ -5065,23 +5082,6 @@
       "price": null,
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/al-c09646193f43-review.html"
-    },
-    {
-      "id": "am_5bba6636fca4",
-      "slug": "am-5bba6636fca4",
-      "name": "DREO Tower Fan for Bedroom, 2026 Upgraded DC Motor, 28ft/s Hig...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "69.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5bba6636fca4-review.html"
     },
     {
       "id": "am_7465c8c177db",
@@ -5184,23 +5184,6 @@
       "price": "31.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f97f635329ea-review.html"
-    },
-    {
-      "id": "am_389a0a8aba5d",
-      "slug": "am-389a0a8aba5d",
-      "name": "DREO Tower Fan for Bedroom, 25ft/s Velocity Quiet Floor Fan, 9...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "59.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-389a0a8aba5d-review.html"
     },
     {
       "id": "am_37fca7ab4cd8",
@@ -5407,23 +5390,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bddc83df0eb4-review.html"
     },
     {
-      "id": "am_f3620c4982f4",
-      "slug": "am-f3620c4982f4",
-      "name": "Battery Powered",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f3620c4982f4-review.html"
-    },
-    {
       "id": "am_a9293ba2feb9",
       "slug": "am-a9293ba2feb9",
       "name": "Vacuum Magnetic Car Phone Holder 360\u00b0 Strongest 120LBS Ultra S...",
@@ -5492,11 +5458,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-983b75491ad2-review.html"
     },
     {
-      "id": "am_50da79f697ed",
-      "slug": "am-50da79f697ed",
-      "name": ", rating details",
+      "id": "am_a2a86df28a1a",
+      "slug": "am-a2a86df28a1a",
+      "name": "22.5 Inch",
       "network": "amazon",
-      "niche": "outdoor_gear",
+      "niche": "beauty_grooming",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -5504,9 +5470,26 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "89.0",
+      "price": "44.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-50da79f697ed-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a2a86df28a1a-review.html"
+    },
+    {
+      "id": "am_38a7da52c397",
+      "slug": "am-38a7da52c397",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-38a7da52c397-review.html"
     },
     {
       "id": "am_3bf13acd965c",
@@ -5526,23 +5509,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3bf13acd965c-review.html"
     },
     {
-      "id": "am_b75bc8a9fbd8",
-      "slug": "am-b75bc8a9fbd8",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "anime_collectibles",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b75bc8a9fbd8-review.html"
-    },
-    {
       "id": "am_a0e056dbdd5a",
       "slug": "am-a0e056dbdd5a",
       "name": "colors available",
@@ -5558,6 +5524,23 @@
       "price": "52.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a0e056dbdd5a-review.html"
+    },
+    {
+      "id": "am_2991a16c949d",
+      "slug": "am-2991a16c949d",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "94.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-2991a16c949d-review.html"
     },
     {
       "id": "am_b75a51a5562c",
@@ -5679,40 +5662,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-718e62d44593-review.html"
     },
     {
-      "id": "am_b15efea347ea",
-      "slug": "am-b15efea347ea",
-      "name": "tattoos",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "23.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b15efea347ea-review.html"
-    },
-    {
-      "id": "am_fce973f68f4c",
-      "slug": "am-fce973f68f4c",
-      "name": "AURIKAR Under Sink Organizer 2-Pack, Metal 2-Tier Pull-Out Cab...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fce973f68f4c-review.html"
-    },
-    {
       "id": "am_a5f659dfd133",
       "slug": "am-a5f659dfd133",
       "name": "Rope Cat Chew Toys, 2026 Upgraded Natural Catnip Chewing Rope,...",
@@ -5728,23 +5677,6 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a5f659dfd133-review.html"
-    },
-    {
-      "id": "am_97c16b598b8d",
-      "slug": "am-97c16b598b8d",
-      "name": "Rated  from 367 reviews",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "127.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-97c16b598b8d-review.html"
     },
     {
       "id": "am_a3aa3dd93d1d",
@@ -5815,23 +5747,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9a39908951d9-review.html"
     },
     {
-      "id": "am_96a57db568c9",
-      "slug": "am-96a57db568c9",
-      "name": "Brooks",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "148.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-96a57db568c9-review.html"
-    },
-    {
       "id": "am_e7076ecdb38f",
       "slug": "am-e7076ecdb38f",
       "name": "Rated  from 118 reviews",
@@ -5847,6 +5762,23 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e7076ecdb38f-review.html"
+    },
+    {
+      "id": "am_ef92206909ce",
+      "slug": "am-ef92206909ce",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "35.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ef92206909ce-review.html"
     },
     {
       "id": "am_982ec97e5c9f",
@@ -6136,40 +6068,6 @@
       "price": "82.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b81416ded435-review.html"
-    },
-    {
-      "id": "am_b36d9481a91b",
-      "slug": "am-b36d9481a91b",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "65.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b36d9481a91b-review.html"
-    },
-    {
-      "id": "am_c6cdbfbcf01b",
-      "slug": "am-c6cdbfbcf01b",
-      "name": "Wig Glue for Lace Front Wigs, Waterproof Lace Front Wig Adhesi...",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c6cdbfbcf01b-review.html"
     },
     {
       "id": "am_2ea80dd55555",
@@ -6886,23 +6784,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fffe413af6f3-review.html"
     },
     {
-      "id": "am_88976b57303d",
-      "slug": "am-88976b57303d",
-      "name": "Furryland Custom Photo Graduation Night Light, Personalized Cl...",
-      "network": "amazon",
-      "niche": "home_appliances",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-88976b57303d-review.html"
-    },
-    {
       "id": "am_f993e1e2eb35",
       "slug": "am-f993e1e2eb35",
       "name": "Juclise",
@@ -6988,6 +6869,23 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fce632c66b8f-review.html"
     },
     {
+      "id": "am_9a70f1d98580",
+      "slug": "am-9a70f1d98580",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "146.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9a70f1d98580-review.html"
+    },
+    {
       "id": "am_646781cb4b71",
       "slug": "am-646781cb4b71",
       "name": "Appliance Repair Technician",
@@ -7003,23 +6901,6 @@
       "price": "17.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-646781cb4b71-review.html"
-    },
-    {
-      "id": "am_caae915bbe12",
-      "slug": "am-caae915bbe12",
-      "name": "Fresh, Citrus Aquatic",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "116.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-caae915bbe12-review.html"
     },
     {
       "id": "am_93b16555dae3",
@@ -7141,11 +7022,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-d49dd0fba7a1-review.html"
     },
     {
-      "id": "am_64c51ce91cd6",
-      "slug": "am-64c51ce91cd6",
-      "name": ", rating details",
+      "id": "am_4daf529c50fa",
+      "slug": "am-4daf529c50fa",
+      "name": "Floral, Lush, Wood",
       "network": "amazon",
-      "niche": "home_electronics",
+      "niche": "fragrance",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -7153,26 +7034,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "339.0",
+      "price": "84.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-64c51ce91cd6-review.html"
-    },
-    {
-      "id": "am_95b1f90c32e5",
-      "slug": "am-95b1f90c32e5",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "28.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-95b1f90c32e5-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4daf529c50fa-review.html"
     },
     {
       "id": "am_9d84384e3f96",
@@ -7260,23 +7124,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-7a0494afee4f-review.html"
     },
     {
-      "id": "am_a1b6ac8c49fb",
-      "slug": "am-a1b6ac8c49fb",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a1b6ac8c49fb-review.html"
-    },
-    {
       "id": "am_4b7bd991eba4",
       "slug": "am-4b7bd991eba4",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -7309,23 +7156,6 @@
       "price": "7.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6f32ce2e2612-review.html"
-    },
-    {
-      "id": "am_43ceb1d76922",
-      "slug": "am-43ceb1d76922",
-      "name": "Ad - BKDRL Bluetooth Speaker Lamp with Wireless Charger, RGB N...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-43ceb1d76922-review.html"
     },
     {
       "id": "am_2ea969959b32",
@@ -7445,23 +7275,6 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-81fa9cef22ef-review.html"
-    },
-    {
-      "id": "am_60a98c6152ed",
-      "slug": "am-60a98c6152ed",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "35.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-60a98c6152ed-review.html"
     },
     {
       "id": "am_6aa1e03ed531",
@@ -7634,11 +7447,11 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4ce0628f3fcc-review.html"
     },
     {
-      "id": "am_40135c0fd2ee",
-      "slug": "am-40135c0fd2ee",
-      "name": ", rating details",
+      "id": "am_00e04d26362b",
+      "slug": "am-00e04d26362b",
+      "name": "Fan Art World Championship",
       "network": "amazon",
-      "niche": "beauty_skincare",
+      "niche": "amazon_home",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -7646,9 +7459,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "29.0",
+      "price": "19.0",
       "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-40135c0fd2ee-review.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-00e04d26362b-review.html"
     },
     {
       "id": "am_17ec767104b5",
@@ -7685,23 +7498,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-306e391c5b43-review.html"
     },
     {
-      "id": "am_266f93ce0a6f",
-      "slug": "am-266f93ce0a6f",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "731.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-266f93ce0a6f-review.html"
-    },
-    {
       "id": "am_7ef9b171061c",
       "slug": "am-7ef9b171061c",
       "name": ", rating details",
@@ -7734,23 +7530,6 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-1df629e46b5d-review.html"
-    },
-    {
-      "id": "am_5363f61990aa",
-      "slug": "am-5363f61990aa",
-      "name": "LASFIT Floor Mats for Honda CR-V 2026 2025 2024 2023 (Gasoline...",
-      "network": "amazon",
-      "niche": "sports_cycling",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "119.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-5363f61990aa-review.html"
     },
     {
       "id": "am_1d51f398b1f4",
@@ -7821,23 +7600,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3dee71c65105-review.html"
     },
     {
-      "id": "am_b2bb827b7f65",
-      "slug": "am-b2bb827b7f65",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "sports_cycling",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b2bb827b7f65-review.html"
-    },
-    {
       "id": "am_75316c40438c",
       "slug": "am-75316c40438c",
       "name": "Automatic Cat Feeder WiFi- 5Ghz Cat Food Dispenser with APP Re...",
@@ -7853,23 +7615,6 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-75316c40438c-review.html"
-    },
-    {
-      "id": "am_a2a86df28a1a",
-      "slug": "am-a2a86df28a1a",
-      "name": "22.5 Inch",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "44.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-a2a86df28a1a-review.html"
     },
     {
       "id": "am_02bf18c258c4",
@@ -7923,23 +7668,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-27083393f1f6-review.html"
     },
     {
-      "id": "am_e0ce8a0135f4",
-      "slug": "am-e0ce8a0135f4",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-e0ce8a0135f4-review.html"
-    },
-    {
       "id": "am_019202188a5c",
       "slug": "am-019202188a5c",
       "name": "Hulezt Portable Silent Mini Bladeless Electric Fan, 2026 New C...",
@@ -7955,23 +7683,6 @@
       "price": "15.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-019202188a5c-review.html"
-    },
-    {
-      "id": "am_4e857d1dabff",
-      "slug": "am-4e857d1dabff",
-      "name": "WHITIN Men&#x27;s Minimalist Trail Runner | Wide Toe Box | Bar...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "41.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-4e857d1dabff-review.html"
     },
     {
       "id": "am_cf0407550b80",
@@ -8229,23 +7940,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c06d7a55140c-review.html"
     },
     {
-      "id": "am_b35bf5c3435a",
-      "slug": "am-b35bf5c3435a",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_sleep",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b35bf5c3435a-review.html"
-    },
-    {
       "id": "am_c1f74c20a5cd",
       "slug": "am-c1f74c20a5cd",
       "name": "Rated  from 5 reviews",
@@ -8329,23 +8023,6 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-895ab486b46f-review.html"
-    },
-    {
-      "id": "am_70c1a0c63148",
-      "slug": "am-70c1a0c63148",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "beauty_skincare",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "85.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-70c1a0c63148-review.html"
     },
     {
       "id": "am_feefa50cddb6",
@@ -8433,40 +8110,6 @@
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-78edbf0cbca4-review.html"
     },
     {
-      "id": "am_8c68dbdece76",
-      "slug": "am-8c68dbdece76",
-      "name": "26 Inch",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "32.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8c68dbdece76-review.html"
-    },
-    {
-      "id": "am_bf78a7481355",
-      "slug": "am-bf78a7481355",
-      "name": "Est\u00e9e Lauder Beautiful Magnolia L&#x27;Eau Eau de Toilette Spr...",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "81.0",
-      "image_url": "",
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bf78a7481355-review.html"
-    },
-    {
       "id": "am_ee60a592831c",
       "slug": "am-ee60a592831c",
       "name": ", rating details",
@@ -8499,8 +8142,365 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-428460aea50e-review.html"
+    },
+    {
+      "id": "am_25269f79728b",
+      "slug": "am-25269f79728b",
+      "name": "LG LFDS22520S - Refrigerator/Freezer - French Door Bottom Free...",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "1.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-25269f79728b-review.html"
+    },
+    {
+      "id": "am_8b1b79a923da",
+      "slug": "am-8b1b79a923da",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-8b1b79a923da-review.html"
+    },
+    {
+      "id": "am_9249825c30c5",
+      "slug": "am-9249825c30c5",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "89.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9249825c30c5-review.html"
+    },
+    {
+      "id": "am_da138358c7eb",
+      "slug": "am-da138358c7eb",
+      "name": "Brooks",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "119.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-da138358c7eb-review.html"
+    },
+    {
+      "id": "am_bcff42304696",
+      "slug": "am-bcff42304696",
+      "name": "Rated  from 136 reviews",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-bcff42304696-review.html"
+    },
+    {
+      "id": "am_ce2ff1b2d2ac",
+      "slug": "am-ce2ff1b2d2ac",
+      "name": "currex",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-ce2ff1b2d2ac-review.html"
+    },
+    {
+      "id": "am_475686c34229",
+      "slug": "am-475686c34229",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "34.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-475686c34229-review.html"
+    },
+    {
+      "id": "am_466ff85cfbee",
+      "slug": "am-466ff85cfbee",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-466ff85cfbee-review.html"
+    },
+    {
+      "id": "am_3462142881fb",
+      "slug": "am-3462142881fb",
+      "name": "Personalized Graduation Welcome Sign 2026 with Photo, Custom N...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-3462142881fb-review.html"
+    },
+    {
+      "id": "am_47dfa02812a8",
+      "slug": "am-47dfa02812a8",
+      "name": "AUTOMET",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "7.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-47dfa02812a8-review.html"
+    },
+    {
+      "id": "am_de95defbe293",
+      "slug": "am-de95defbe293",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-de95defbe293-review.html"
+    },
+    {
+      "id": "am_513380e95fcc",
+      "slug": "am-513380e95fcc",
+      "name": "Appliance Repair: How To Fix A Broken Appliance",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "5.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-513380e95fcc-review.html"
+    },
+    {
+      "id": "am_10195a6efa93",
+      "slug": "am-10195a6efa93",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "amazon_sleep",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-10195a6efa93-review.html"
+    },
+    {
+      "id": "am_6b32d689e559",
+      "slug": "am-6b32d689e559",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "beauty_grooming",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-6b32d689e559-review.html"
+    },
+    {
+      "id": "am_9efb0b0c8d9a",
+      "slug": "am-9efb0b0c8d9a",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "car_accessories",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-9efb0b0c8d9a-review.html"
+    },
+    {
+      "id": "am_b2797be115d6",
+      "slug": "am-b2797be115d6",
+      "name": "Rated  from 67 reviews",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b2797be115d6-review.html"
+    },
+    {
+      "id": "am_c36149088115",
+      "slug": "am-c36149088115",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "299.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-c36149088115-review.html"
+    },
+    {
+      "id": "am_11cd79df7e4c",
+      "slug": "am-11cd79df7e4c",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-11cd79df7e4c-review.html"
+    },
+    {
+      "id": "am_fcdea8b7bc4d",
+      "slug": "am-fcdea8b7bc4d",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "72.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-fcdea8b7bc4d-review.html"
+    },
+    {
+      "id": "am_b002bdfb1070",
+      "slug": "am-b002bdfb1070",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-b002bdfb1070-review.html"
+    },
+    {
+      "id": "am_f042982e4c3c",
+      "slug": "am-f042982e4c3c",
+      "name": "JISULIFE Portable Handheld Fan,Speed(1-100) Adjustable Turbo M...",
+      "network": "amazon",
+      "niche": "home_appliances",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "62.0",
+      "image_url": "",
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/am-f042982e4c3c-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-01T16:44:15.532758+00:00"
+  "generated_at": "2026-04-01T17:01:58.740742+00:00"
 }
