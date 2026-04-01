@@ -3,13 +3,14 @@
     {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
-      "product_count": 5,
+      "product_count": 6,
       "top_products": [
         "standing_desk_converter",
         "blue_light_glasses",
         "am_a8f7c6987dfe",
-        "am_5af0a53ccc3c",
-        "am_f8ced8d92f30"
+        "am_f8ced8d92f30",
+        "am_d49dd0fba7a1",
+        "am_d1134fbef7db"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -18,38 +19,40 @@
       "slug": "amazon-beauty",
       "product_count": 6,
       "top_products": [
-        "led_face_mask",
         "facial_cleansing_brush",
+        "led_face_mask",
         "hair_curler_auto",
-        "am_86d306dd4f3c",
+        "am_0023fddb8ab3",
         "am_3566c16e4882",
-        "am_7303dda1a9ee"
+        "am_308a0862def9"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
-      "product_count": 8,
+      "product_count": 9,
       "top_products": [
         "vegetable_chopper",
         "meal_prep_containers",
         "air_fryer",
-        "am_a3aa3dd93d1d",
-        "am_309e9194075f",
         "am_45ee62905291",
+        "am_a3aa3dd93d1d",
         "am_6fa88fa8bf00",
-        "am_af08019cc6bc"
+        "am_af08019cc6bc",
+        "am_708a0060ff6d",
+        "am_306e391c5b43"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
-      "product_count": 2,
+      "product_count": 3,
       "top_products": [
         "packing_cubes",
-        "travel_backpack"
+        "travel_backpack",
+        "am_7e112644dbd4"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -61,32 +64,50 @@
         "resistance_bands",
         "adjustable_dumbbells",
         "jump_rope_pro",
+        "am_ad9582f81957",
         "am_baeddce33761",
-        "am_e3f84d6a0f83",
-        "am_b5e079a1cf34",
-        "am_faadc51bef97",
-        "am_916bc239ea2d",
-        "am_bf4021fa26de"
+        "am_64fb8a097cc7",
+        "am_bf4021fa26de",
+        "am_d8bef40ce5d3",
+        "am_428460aea50e"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_fitness.html"
     },
     {
       "id": "amazon_pets",
       "slug": "amazon-pets",
-      "product_count": 24,
+      "product_count": 21,
       "top_products": [
         "auto_pet_feeder",
         "dog_training_collar",
-        "am_d950d2812bb3",
-        "am_7942078545ed",
-        "am_765c8554b179",
+        "am_bfe1e38eb609",
         "am_38a7da52c397",
-        "am_433fccf21f2a",
-        "am_62f88fe9b9c9",
+        "am_d950d2812bb3",
         "am_7751776f8cda",
-        "am_a3875336bbf0"
+        "am_433fccf21f2a",
+        "am_2bc4d93620d4",
+        "am_861524f2d6d2",
+        "am_a778b2b01d2f"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_pets.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 44,
+      "top_products": [
+        "wireless_earbuds",
+        "am_233013f5acf3",
+        "am_07c95de03d81",
+        "am_c7a67a74d42b",
+        "am_5aa505643571",
+        "am_d3ac5bb8ed7a",
+        "am_22affea617d7",
+        "am_a213a957ba30",
+        "am_09d1aba560c2",
+        "am_d72ecee53f92"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "amazon_creator",
@@ -95,365 +116,354 @@
       "top_products": [
         "ring_light",
         "phone_tripod",
-        "am_935eb48f9813",
-        "am_0c6fc0f043de"
+        "am_6ed825c742d6",
+        "am_5ce42499f87a"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_creator.html"
     },
     {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 42,
-      "top_products": [
-        "wireless_earbuds",
-        "am_233013f5acf3",
-        "am_a213a957ba30",
-        "am_0c7c6e67227f",
-        "am_22affea617d7",
-        "am_9564d4ba1033",
-        "am_09d1aba560c2",
-        "am_d72ecee53f92",
-        "am_54345ea82da9",
-        "am_422a9b3068d9"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_tech.html"
-    },
-    {
       "id": "amazon_soccer",
       "slug": "amazon-soccer",
-      "product_count": 4,
+      "product_count": 5,
       "top_products": [
-        "agility_ladder",
         "soccer_rebounder",
+        "agility_ladder",
         "soccer_training_cones",
-        "am_62f47ee06921"
+        "am_62f47ee06921",
+        "am_f40320d2e727"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "product_count": 37,
+      "product_count": 46,
       "top_products": [
-        "storage_box_system",
-        "closet_organizer",
         "under_sink_organizer",
+        "closet_organizer",
+        "storage_box_system",
         "am_5666d19e6c28",
         "am_5370bf3dce67",
-        "am_4a511f7f0f60",
         "am_42e33ea00f82",
-        "am_2db41b9b1753",
-        "am_bdf3c7fcabda",
-        "am_7f79d4a855c1"
+        "am_e994c4084e0d",
+        "am_f99084943a76",
+        "am_75906cb0b69d",
+        "am_2db41b9b1753"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
-      "product_count": 33,
+      "product_count": 34,
       "top_products": [
         "car_phone_mount",
         "portable_car_vacuum",
-        "am_881a0866bfa0",
-        "am_d20f1f804022",
-        "am_ce8812cee741",
-        "am_f98b3ff92909",
+        "am_6bd4eacb506a",
         "am_d60138e5aa93",
-        "am_2c4d88753835",
-        "am_2549212ce2fa",
-        "am_593b43cb5fa3"
+        "am_d20f1f804022",
+        "am_c89c05de162e",
+        "am_f98b3ff92909",
+        "am_ce8812cee741",
+        "am_6f75f68becda",
+        "am_2c4d88753835"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_car.html"
     },
     {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 6,
+      "top_products": [
+        "am_14c61a92db83",
+        "am_3e0324368012",
+        "am_8f3803c26931",
+        "am_47aaf03123e6",
+        "am_e0b279d1f47f",
+        "am_deabad4f0ec8"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-aliexpress_deals.html"
+    },
+    {
       "id": "fashion_shoes",
       "slug": "fashion-shoes",
-      "product_count": 20,
+      "product_count": 16,
       "top_products": [
         "am_be1d9f847822",
         "am_a3d621d55bdd",
-        "am_de9c664b514d",
         "am_6bce2368a2c6",
         "am_11a4655f5d24",
         "am_70dc65c3b842",
         "am_9a6749b94b49",
-        "am_1fd0a5185f11",
         "am_3d585b323b06",
-        "am_c815f2ccc24f"
+        "am_c815f2ccc24f",
+        "am_089d9a0471fe",
+        "am_e08442ad409d"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-fashion_shoes.html"
     },
     {
       "id": "beauty_wigs",
       "slug": "beauty-wigs",
-      "product_count": 16,
+      "product_count": 21,
       "top_products": [
-        "am_1b1e3693c8cf",
-        "am_b38cbd377a52",
-        "am_017064405449",
-        "am_b3b0583aa702",
-        "am_4cdf9e128986",
-        "am_93b16555dae3",
-        "am_2c8658a1b2eb",
-        "am_fc88b2a84f4e",
         "am_51364d71ebeb",
-        "al_cc78ffb2259d"
+        "am_1b1e3693c8cf",
+        "am_45213830d28e",
+        "am_b0b3c634a2b3",
+        "am_fc88b2a84f4e",
+        "am_2ad13a3a2311",
+        "am_b3b0583aa702",
+        "al_caa7cfb94cd2",
+        "al_cc78ffb2259d",
+        "am_4cdf9e128986"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-beauty_wigs.html"
     },
     {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 39,
-      "top_products": [
-        "am_dcba7c707364",
-        "am_a394427f1557",
-        "am_d28400f466bc",
-        "am_fcb7edfe74c7",
-        "am_a38bfb7e3a45",
-        "am_b1e4bf7b190f",
-        "am_3ee6e3cd3bf5",
-        "am_0e413791bd17",
-        "am_fa0d396adfe3",
-        "am_c4a23641d4a8"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-family_fashion.html"
-    },
-    {
-      "id": "home_decor",
-      "slug": "home-decor",
-      "product_count": 54,
-      "top_products": [
-        "am_423dd36dda16",
-        "am_758b7244f6bb",
-        "am_eb59f99250ac",
-        "am_b4485c2cd383",
-        "am_10ffd94d6f13",
-        "am_581b923c5079",
-        "am_8f5a9b47b1aa",
-        "am_554356fe7905",
-        "am_6a5c38f1e59f",
-        "am_01985eba6130"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_decor.html"
-    },
-    {
-      "id": "beauty_skincare",
-      "slug": "beauty-skincare",
-      "product_count": 2,
-      "top_products": [
-        "am_3d45ee8849dc",
-        "am_40135c0fd2ee"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-beauty_skincare.html"
-    },
-    {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "product_count": 47,
-      "top_products": [
-        "am_b836d11f0cee",
-        "am_0232905aa113",
-        "am_fa4332339a8a",
-        "am_d36a89be121c",
-        "am_9b7a54846daf",
-        "am_643fbced17e1",
-        "am_a3a7ecd6a657",
-        "am_1cdb96b04e59",
-        "am_d5df5161448f",
-        "am_c83a743efebd"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-toys_gadgets.html"
-    },
-    {
-      "id": "sports_shoes",
-      "slug": "sports-shoes",
-      "product_count": 21,
-      "top_products": [
-        "am_303e08dc6c07",
-        "am_ed2030e74e80",
-        "am_b84ca699de26",
-        "am_96a57db568c9",
-        "am_55a712fdb1eb",
-        "am_b2fc3ba41c07",
-        "am_7216a14e9419",
-        "am_400374c8603f",
-        "am_40a096273734",
-        "am_9c944d73d7ee"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-sports_shoes.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "product_count": 19,
-      "top_products": [
-        "am_415896ff9d71",
-        "am_a57184c72f08",
-        "am_dcab3d71ae28",
-        "am_1822f01aa96d",
-        "am_38783845d148",
-        "am_f39dbb413dae",
-        "am_83236ae6f9f9",
-        "am_5f8f9a3b4839",
-        "am_fb6e9976a371",
-        "am_a6fdcf167f42"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_improvement.html"
-    },
-    {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 11,
-      "top_products": [
-        "am_8f8c61f1bfa0",
-        "am_4ca88dd586e1",
-        "am_29f1b7bba20f",
-        "am_ac0a1d71dd2c",
-        "am_c567c27216e1",
-        "am_563f28d6e534",
-        "am_2561bc4f86c6",
-        "am_a3b793fc8218",
-        "am_9f201b8d9581",
-        "am_7d365ea923f4"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-electronics_audio.html"
-    },
-    {
-      "id": "car_accessories",
-      "slug": "car-accessories",
-      "product_count": 5,
-      "top_products": [
-        "am_1363501decdf",
-        "am_b5f871eb6cff",
-        "am_06caca0b921a",
-        "am_bbc68cb8dad6",
-        "am_e7dc6a2b33c5"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-car_accessories.html"
-    },
-    {
-      "id": "amazon_sleep",
-      "slug": "amazon-sleep",
-      "product_count": 3,
-      "top_products": [
-        "am_5a9758189715",
-        "am_e98c1f23e56b",
-        "am_6c45bbe51a81"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_sleep.html"
-    },
-    {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "product_count": 9,
-      "top_products": [
-        "am_6a106da7fb9b",
-        "am_5d4010d9327c",
-        "am_63818f653f0d",
-        "am_aaff36c94289",
-        "am_7a598027f03c",
-        "am_ca1686a37e7f",
-        "am_4e85eaf61874",
-        "am_8c68dbdece76",
-        "am_a2a86df28a1a"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-beauty_grooming.html"
-    },
-    {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "product_count": 15,
-      "top_products": [
-        "am_195d8743359b",
-        "am_f3620c4982f4",
-        "am_50da79f697ed",
-        "am_a53203775ba5",
-        "am_85a2ce0182c2",
-        "am_10e5137f04cd",
-        "am_489e4340468e",
-        "am_b88f40633201",
-        "am_7aa1fde6a870",
-        "am_bfb0bc51a616"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-outdoor_gear.html"
-    },
-    {
-      "id": "anime_collectibles",
-      "slug": "anime-collectibles",
-      "product_count": 14,
-      "top_products": [
-        "am_2afc2ad77d65",
-        "am_fe55909ef627",
-        "am_26c3ffb6127b",
-        "am_c97b51fc3c4c",
-        "am_7063167a2bea",
-        "am_039311775a35",
-        "am_37fca7ab4cd8",
-        "am_b75bc8a9fbd8",
-        "am_77c7136cbaf6",
-        "am_8595283e156d"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-anime_collectibles.html"
-    },
-    {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "product_count": 21,
-      "top_products": [
-        "am_f4d9f4c23d52",
-        "am_7ac06cfaad97",
-        "am_9a39908951d9",
-        "am_4daffb714b23",
-        "am_9b42b23dfbf0",
-        "am_4daf529c50fa",
-        "am_aa98b11a9708",
-        "am_60e8fb335188",
-        "am_1d51f398b1f4",
-        "am_c24630719159"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-fragrance.html"
-    },
-    {
-      "id": "retro_gaming",
-      "slug": "retro-gaming",
-      "product_count": 1,
-      "top_products": [
-        "am_e07cc71addc2"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-retro_gaming.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "product_count": 2,
-      "top_products": [
-        "am_b2bb827b7f65",
-        "am_1d3c10025ece"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-sports_cycling.html"
-    },
-    {
       "id": "garden_tools",
       "slug": "garden-tools",
-      "product_count": 3,
+      "product_count": 6,
       "top_products": [
+        "am_7307c1585932",
         "am_81496142ed14",
+        "am_5bba6636fca4",
         "am_389a0a8aba5d",
+        "am_f440c9b9e37f",
         "am_02bf18c258c4"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-garden_tools.html"
     },
     {
+      "id": "anime_collectibles",
+      "slug": "anime-collectibles",
+      "product_count": 7,
+      "top_products": [
+        "am_fbf3299196b0",
+        "am_2afc2ad77d65",
+        "am_37fca7ab4cd8",
+        "am_b75bc8a9fbd8",
+        "am_a95ad311fabd",
+        "am_3eb94560485e",
+        "am_77c7136cbaf6"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-anime_collectibles.html"
+    },
+    {
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "product_count": 17,
+      "top_products": [
+        "am_3134fbffe62c",
+        "am_195d8743359b",
+        "am_a53203775ba5",
+        "am_bfb0bc51a616",
+        "am_56993caf408f",
+        "am_85a2ce0182c2",
+        "am_b7e2613e54be",
+        "am_b88f40633201",
+        "am_489e4340468e",
+        "am_8f4eecd10b35"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-outdoor_gear.html"
+    },
+    {
+      "id": "retro_gaming",
+      "slug": "retro-gaming",
+      "product_count": 3,
+      "top_products": [
+        "am_dc65131c1194",
+        "am_cdd305664bff",
+        "am_e07cc71addc2"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-retro_gaming.html"
+    },
+    {
+      "id": "home_decor",
+      "slug": "home-decor",
+      "product_count": 53,
+      "top_products": [
+        "am_c7a785c987b2",
+        "am_8f5a9b47b1aa",
+        "am_30d76509a064",
+        "am_6a5c38f1e59f",
+        "am_554356fe7905",
+        "am_224bdd7c50e4",
+        "am_39f6d39a7d0d",
+        "am_9ff04d2c7194",
+        "am_fbb594b2ac33",
+        "am_b4485c2cd383"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_decor.html"
+    },
+    {
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 6,
+      "top_products": [
+        "am_24250eb7bbd0",
+        "am_53f40a9585b6",
+        "am_bef062a4d8f3",
+        "am_b8a7eed5879a",
+        "am_64c51ce91cd6",
+        "am_7a0494afee4f"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_electronics.html"
+    },
+    {
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 34,
+      "top_products": [
+        "am_a394427f1557",
+        "am_d28400f466bc",
+        "am_0e413791bd17",
+        "am_c4a23641d4a8",
+        "am_fa0d396adfe3",
+        "am_acc5b88a269e",
+        "am_b1e64d987ad7",
+        "am_0d9d113612f1",
+        "am_82ba00560907",
+        "am_bd60f3aaa322"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-family_fashion.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "product_count": 31,
+      "top_products": [
+        "am_a5b6c042a9bf",
+        "am_9b7a54846daf",
+        "am_fa4332339a8a",
+        "am_d36a89be121c",
+        "am_643fbced17e1",
+        "am_1cdb96b04e59",
+        "am_d5df5161448f",
+        "am_0c9820d7d697",
+        "am_9291d83447e6",
+        "am_52e4f49cee42"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-toys_gadgets.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "product_count": 4,
+      "top_products": [
+        "am_957f24c33a00",
+        "am_1363501decdf",
+        "am_e7dc6a2b33c5",
+        "am_bbc68cb8dad6"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-car_accessories.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "product_count": 16,
+      "top_products": [
+        "am_ec7774801d62",
+        "am_a6fdcf167f42",
+        "am_a57184c72f08",
+        "am_38783845d148",
+        "am_1822f01aa96d",
+        "am_83236ae6f9f9",
+        "am_f39dbb413dae",
+        "am_fb6e9976a371",
+        "am_7a54664fe35a",
+        "am_abe785e0a325"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_improvement.html"
+    },
+    {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 19,
+      "top_products": [
+        "am_303e08dc6c07",
+        "am_ed2030e74e80",
+        "am_5548d9dcd2df",
+        "am_b2fc3ba41c07",
+        "am_7216a14e9419",
+        "am_1ba498a27d12",
+        "am_400374c8603f",
+        "am_7465c8c177db",
+        "am_9c944d73d7ee",
+        "am_96a57db568c9"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-sports_shoes.html"
+    },
+    {
+      "id": "sports_cycling",
+      "slug": "sports-cycling",
+      "product_count": 4,
+      "top_products": [
+        "am_91a881ebd6d1",
+        "am_d2b0c9bb7c87",
+        "am_5363f61990aa",
+        "am_b2bb827b7f65"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-sports_cycling.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 11,
+      "top_products": [
+        "am_6a106da7fb9b",
+        "am_5d4010d9327c",
+        "am_4e85eaf61874",
+        "am_7a598027f03c",
+        "am_ca1686a37e7f",
+        "am_63818f653f0d",
+        "am_a2a86df28a1a",
+        "am_aaff36c94289",
+        "am_c06d7a55140c",
+        "am_b412e742a040"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-beauty_grooming.html"
+    },
+    {
+      "id": "fragrance",
+      "slug": "fragrance",
+      "product_count": 25,
+      "top_products": [
+        "am_60e8fb335188",
+        "am_7ac06cfaad97",
+        "am_eac03a76aebb",
+        "am_4daffb714b23",
+        "al_1024c10cd625",
+        "am_c24630719159",
+        "am_f4d9f4c23d52",
+        "am_4daf529c50fa",
+        "al_9e573f269e20",
+        "am_f68dc1851b5f"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-fragrance.html"
+    },
+    {
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "product_count": 2,
+      "top_products": [
+        "am_d88b2d445ca0",
+        "am_88976b57303d"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_appliances.html"
+    },
+    {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 4,
+      "product_count": 7,
       "top_products": [
         "am_c13bd44c92d5",
         "am_a8f6322e3b85",
+        "am_42c595cf32a7",
         "am_bddc83df0eb4",
-        "am_895139b16098"
+        "am_c6cdbfbcf01b",
+        "am_d56644bdf010",
+        "am_fffe413af6f3"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_wellness.html"
     },
@@ -462,57 +472,50 @@
       "slug": "grooming-tools",
       "product_count": 3,
       "top_products": [
-        "am_574f948a1585",
+        "am_c5c585badb7f",
         "am_ce591925eb54",
-        "am_c5c585badb7f"
+        "am_75da69a5dd12"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-grooming_tools.html"
     },
     {
-      "id": "jewelry",
-      "slug": "jewelry",
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
       "product_count": 4,
       "top_products": [
-        "am_595403912937",
-        "am_831d4e34d31d",
+        "am_404c9aabbc8a",
+        "am_d2bf20c49fac",
+        "am_ca0017dd3c08",
+        "am_b35bf5c3435a"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-amazon_sleep.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 8,
+      "top_products": [
+        "am_2991a16c949d",
+        "am_c567c27216e1",
+        "am_563f28d6e534",
+        "am_a3b793fc8218",
+        "am_2561bc4f86c6",
+        "am_9f201b8d9581",
+        "am_7d365ea923f4",
+        "am_266f93ce0a6f"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-electronics_audio.html"
+    },
+    {
+      "id": "jewelry",
+      "slug": "jewelry",
+      "product_count": 3,
+      "top_products": [
+        "am_2e3690b01f4a",
         "am_e79b340a3dd8",
         "am_25e507c12290"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-jewelry.html"
-    },
-    {
-      "id": "home_textiles",
-      "slug": "home-textiles",
-      "product_count": 1,
-      "top_products": [
-        "am_ef84b22fff97"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_textiles.html"
-    },
-    {
-      "id": "aliexpress_deals",
-      "slug": "aliexpress-deals",
-      "product_count": 4,
-      "top_products": [
-        "am_3e0324368012",
-        "am_97e6c50a8628",
-        "am_8f3803c26931",
-        "am_47aaf03123e6"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-aliexpress_deals.html"
-    },
-    {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 5,
-      "top_products": [
-        "am_53f40a9585b6",
-        "am_bef062a4d8f3",
-        "am_bdff1887a83b",
-        "am_33e74c6d0f4f",
-        "am_b8a7eed5879a"
-      ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_electronics.html"
     },
     {
       "id": "fitness_wellness",
@@ -520,18 +523,30 @@
       "product_count": 2,
       "top_products": [
         "am_f1908b700c26",
-        "am_f321b02f5ff8"
+        "am_17ec767104b5"
       ],
       "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-fitness_wellness.html"
     },
     {
-      "id": "home_appliances",
-      "slug": "home-appliances",
-      "product_count": 1,
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "product_count": 2,
       "top_products": [
-        "am_3e5ff2924065"
+        "am_ef84b22fff97",
+        "am_93b7bdff3677"
       ],
-      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_appliances.html"
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-home_textiles.html"
+    },
+    {
+      "id": "beauty_skincare",
+      "slug": "beauty-skincare",
+      "product_count": 3,
+      "top_products": [
+        "am_40135c0fd2ee",
+        "am_3d45ee8849dc",
+        "am_70c1a0c63148"
+      ],
+      "url": "https://weapon-gender-necessarily-participation.trycloudflare.com/collection-beauty_skincare.html"
     }
   ]
 }
