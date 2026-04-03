@@ -3,7 +3,7 @@
     {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 59,
+      "product_count": 60,
       "top_products": [
         "am_a3ad36113044",
         "am_62a5f4c9b5c5",
@@ -21,7 +21,7 @@
     {
       "id": "home_electronics",
       "slug": "home-electronics",
-      "product_count": 60,
+      "product_count": 61,
       "top_products": [
         "am_bcbd7cacd79c",
         "am_ade2dcb01057",
@@ -39,7 +39,7 @@
     {
       "id": "family_fashion",
       "slug": "family-fashion",
-      "product_count": 32,
+      "product_count": 31,
       "top_products": [
         "am_af875cd966ba",
         "am_481103319249",
@@ -57,7 +57,7 @@
     {
       "id": "amazon_tech",
       "slug": "amazon-tech",
-      "product_count": 37,
+      "product_count": 36,
       "top_products": [
         "am_9f602acdc9f3",
         "am_1f18fd27a62f",
@@ -219,7 +219,7 @@
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 28,
+      "product_count": 27,
       "top_products": [
         "am_68f29c669845",
         "am_24ce776a7820",
@@ -451,6 +451,15 @@
         "am_ff3ec9d7b886"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-retro_gaming.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 1,
+      "top_products": [
+        "am_a9a74b1a393c"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-grooming_tools.html"
     }
   ]
 }
