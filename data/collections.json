@@ -1,51 +1,40 @@
 {
   "collections": [
     {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "product_count": 3,
-      "top_products": [
-        "blue_light_glasses",
-        "standing_desk_converter",
-        "am_fdbad2e2d602"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
-    },
-    {
       "id": "toys_gadgets",
       "slug": "toys-gadgets",
-      "product_count": 39,
+      "product_count": 37,
       "top_products": [
         "am_9cc1051b83ec",
         "am_ddec541ab237",
-        "am_7c93d0fab81e",
-        "am_da012eaf3c0f",
-        "am_ce1ee000c4ab",
-        "am_a5f6a38ccdcd",
         "am_6a8cbca78123",
         "am_d24273639766",
         "am_730643e5338d",
-        "am_1c0799d928f6"
+        "am_da012eaf3c0f",
+        "am_4be9b657d0fb",
+        "am_1c7e0263482c",
+        "am_2edc741ab0ba",
+        "am_743a25d85bfd"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys_gadgets.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-toys_gadgets.html"
     },
     {
       "id": "home_electronics",
       "slug": "home-electronics",
-      "product_count": 77,
+      "product_count": 62,
       "top_products": [
         "am_a99da4049cac",
-        "am_3fc9c1897dde",
-        "am_050acbae975e",
         "am_c1c5580c8dc0",
-        "am_3a2f23df9ea3",
-        "am_0c337c851e4a",
-        "am_ffdd3aeacfa7",
-        "am_6a91c155fa5d",
-        "am_97fc404dd00a",
-        "am_92f901aa11ab"
+        "am_3fc9c1897dde",
+        "am_c7b3c0c3f793",
+        "am_5ab2da5e8917",
+        "am_6ff528818dfa",
+        "am_e0064379c621",
+        "am_17fc1cc9778c",
+        "am_64d5af03a23f",
+        "am_7ceea1eb6e44"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-home_electronics.html"
     },
     {
       "id": "home_improvement",
@@ -54,106 +43,154 @@
       "top_products": [
         "am_a006ef17f4ed",
         "am_78f2460d5726",
-        "am_716e41c827cd",
-        "am_07f312e6af3c",
-        "am_f18549124fbb",
-        "am_5d852aa3f72b",
-        "am_0fa095d09a0f",
-        "am_7adeb613f8b6",
-        "am_de95defbe293",
-        "am_f54de48c9149"
+        "am_f54de48c9149",
+        "am_549ed59570ba",
+        "am_ce4f3fedce94",
+        "am_f5a7fe29e7ce",
+        "am_ba6ec9f579bb",
+        "am_ca94f60b33a9",
+        "am_104cf2649487",
+        "am_f74e27068fd7"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_improvement.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-home_improvement.html"
     },
     {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "product_count": 31,
+      "product_count": 35,
       "top_products": [
         "am_fdbc8d37243f",
-        "am_b1e8aaae4c54",
-        "am_20275f31595b",
-        "am_07e6862a4b1a",
-        "am_00e04d26362b",
-        "am_c6e016059048",
         "am_f65aae4b71f3",
         "am_2913964f7fc9",
         "am_4267a75616f0",
-        "am_8c82c16eb273"
+        "am_07e6862a4b1a",
+        "am_442705dd1dbb",
+        "am_3e43a4c562de",
+        "am_95b1f90c32e5",
+        "am_b151ad196fdf",
+        "am_4d8f6879c7ea"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
-    },
-    {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 35,
-      "top_products": [
-        "am_afd11890e127",
-        "am_3d9773628943",
-        "am_54bc11548c56",
-        "am_f9cfc7929769",
-        "am_9f3a6251ac76",
-        "am_0a10cf89d6d1",
-        "am_341a93468c74",
-        "am_6852e8666849",
-        "am_8e2e1d6db456",
-        "am_d3d88d3a2e84"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 77,
+      "product_count": 63,
       "top_products": [
         "am_0deb6abfeb1d",
-        "am_cb13b1316979",
-        "am_1748a40f1790",
-        "am_1513470823d1",
-        "am_481f13c07af7",
-        "am_17fd24e0e6a5",
-        "am_9f1a5b3bbc7e",
-        "am_f28eede87ffc",
         "am_5187e1f088f6",
-        "am_fbb594b2ac33"
+        "am_1748a40f1790",
+        "am_481f13c07af7",
+        "am_cb13b1316979",
+        "am_17fd24e0e6a5",
+        "am_26bed57b8be4",
+        "am_bfd34d6f6ca1",
+        "am_db332d7f81dd",
+        "am_581b923c5079"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_decor.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-home_decor.html"
+    },
+    {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "product_count": 4,
+      "top_products": [
+        "blue_light_glasses",
+        "standing_desk_converter",
+        "am_78be647b0d2b",
+        "am_fdbad2e2d602"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_productivity.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 44,
+      "top_products": [
+        "am_05654e1801b4",
+        "am_9d29c2a05f3e",
+        "am_ac21e9d2fc42",
+        "am_529278248225",
+        "am_f8b89c457f07",
+        "am_50897e6805cd",
+        "am_46b01c3e9b77",
+        "am_044fb956b979",
+        "am_84f367d18429",
+        "am_e97d92c50a64"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "family_fashion",
       "slug": "family-fashion",
-      "product_count": 38,
+      "product_count": 30,
       "top_products": [
-        "am_d23ada6e12f1",
-        "am_aee719fe39cc",
-        "am_c67ea71bdeac",
-        "am_481103319249",
-        "am_307e70f5ecee",
-        "am_311556803272",
         "am_d298ced22421",
-        "am_2c459c417e12",
-        "am_43b5e4aa2e36",
-        "am_e8fb716e8292"
+        "am_43c12f05e2fd",
+        "am_d1355d1723d5",
+        "am_87a3486df14e",
+        "am_80359e3d9bad",
+        "am_e737a5193a17",
+        "am_a9c5267c668d",
+        "am_c67ea71bdeac",
+        "am_aee719fe39cc",
+        "am_481103319249"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-family_fashion.html"
+    },
+    {
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "product_count": 13,
+      "top_products": [
+        "am_927a522fef47",
+        "am_b2797be115d6",
+        "am_32ee2acf8a06",
+        "am_c751ef10c842",
+        "am_c7c3849d93a4",
+        "am_ee0e3bfbe296",
+        "am_4deedbe56ce4",
+        "am_08797ea3ecc1",
+        "am_08de7b3fe698",
+        "am_9a6749b94b49"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-fashion_shoes.html"
     },
     {
       "id": "anime_collectibles",
       "slug": "anime-collectibles",
-      "product_count": 15,
+      "product_count": 22,
       "top_products": [
         "am_5f5b42f35e9b",
-        "am_ea89f4677813",
         "am_21ad7d1d778b",
-        "am_d2a12464ddf0",
-        "am_4160e199ef9c",
-        "am_90ad905f3993",
         "am_26c3ffb6127b",
         "am_f21756501f6b",
-        "am_93fccad83984",
-        "am_b75bc8a9fbd8"
+        "am_21e535d35d3d",
+        "am_102102c90dc3",
+        "am_4160e199ef9c",
+        "am_d2a12464ddf0",
+        "am_e6d26f084692",
+        "am_ea89f4677813"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime_collectibles.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-anime_collectibles.html"
+    },
+    {
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "product_count": 30,
+      "top_products": [
+        "am_be4a23c28453",
+        "am_dff792140347",
+        "am_50acb1676368",
+        "al_6febe8b6bf09",
+        "am_2f645d5fb43a",
+        "am_53664cf1227c",
+        "am_4b3d4baf7f6c",
+        "am_d6396e21ac98",
+        "am_5efc9cb822ce",
+        "am_82249f6d2e9f"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_car.html"
     },
     {
       "id": "fitness_wellness",
@@ -163,78 +200,7 @@
         "am_518ac706d282",
         "am_f1908b700c26"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness_wellness.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "product_count": 13,
-      "top_products": [
-        "al_464ec6bdaff3",
-        "am_62f89976312c",
-        "dog_training_collar",
-        "auto_pet_feeder",
-        "am_7445062d94d1",
-        "am_a25df719e077",
-        "am_bed0d32fd735",
-        "am_25a0e69e7596",
-        "am_739f555b867d",
-        "al_d00806d5f592"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 48,
-      "top_products": [
-        "am_ac21e9d2fc42",
-        "am_529278248225",
-        "am_f8b89c457f07",
-        "am_05654e1801b4",
-        "am_50897e6805cd",
-        "am_9d29c2a05f3e",
-        "am_422a9b3068d9",
-        "am_fdde294b0fed",
-        "am_522fa27630f5",
-        "am_87c78a4e4c60"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
-    },
-    {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "product_count": 9,
-      "top_products": [
-        "am_927a522fef47",
-        "am_08de7b3fe698",
-        "am_ee0e3bfbe296",
-        "am_4deedbe56ce4",
-        "am_b2797be115d6",
-        "am_9a6749b94b49",
-        "am_32ee2acf8a06",
-        "am_8a55f30d6198",
-        "am_9cadb9604b41"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion_shoes.html"
-    },
-    {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "product_count": 26,
-      "top_products": [
-        "am_be4a23c28453",
-        "am_06ad5832c84e",
-        "am_f20b07be45c7",
-        "am_39024150fae4",
-        "am_3178672e65d8",
-        "am_82249f6d2e9f",
-        "am_dff792140347",
-        "am_208f17c2f5cf",
-        "am_50acb1676368",
-        "am_89e65fd472a1"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-fitness_wellness.html"
     },
     {
       "id": "amazon_beauty",
@@ -244,114 +210,244 @@
         "hair_curler_auto",
         "led_face_mask",
         "facial_cleansing_brush",
-        "am_355df8aa7f5a",
-        "am_18e863a15582"
+        "am_aec88a0403dd",
+        "am_820a2994d91c"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
-      "product_count": 13,
+      "product_count": 7,
       "top_products": [
-        "meal_prep_containers",
         "vegetable_chopper",
+        "meal_prep_containers",
         "air_fryer",
-        "am_fad187016b26",
         "am_2dc322190626",
-        "am_6c6c1a6eb70d",
-        "am_9232f74f0734",
-        "am_fc3872bcbfac",
-        "am_8c2afa23e4a8",
-        "am_d2245cc1f3e1"
+        "am_c284798af140",
+        "am_1ae158760e10",
+        "am_fad187016b26"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
       "product_count": 3,
       "top_products": [
-        "packing_cubes",
         "travel_backpack",
-        "am_d5b7ba29d825"
+        "packing_cubes",
+        "am_aeb9c20a0c75"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
-    },
-    {
-      "id": "home_wellness",
-      "slug": "home-wellness",
-      "product_count": 12,
-      "top_products": [
-        "am_b4a73231e33b",
-        "am_7fc84c7561d5",
-        "am_368c17834696",
-        "am_031694e4bd6e",
-        "am_2e512f2028a5",
-        "am_2c08f476c388",
-        "am_b976de00046c",
-        "am_375b1883a248",
-        "am_298f8d0e0859",
-        "am_59273470a1bb"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_wellness.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_travel.html"
     },
     {
       "id": "amazon_fitness",
       "slug": "amazon-fitness",
-      "product_count": 7,
+      "product_count": 6,
       "top_products": [
-        "adjustable_dumbbells",
         "jump_rope_pro",
         "resistance_bands",
+        "adjustable_dumbbells",
         "am_0b366ad08b87",
-        "am_d8bef40ce5d3",
-        "am_faadc51bef97",
-        "am_5e77230f0e6c"
+        "am_7683b05210d1",
+        "am_064d92a719a3"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_fitness.html"
+    },
+    {
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "product_count": 15,
+      "top_products": [
+        "auto_pet_feeder",
+        "dog_training_collar",
+        "al_d00806d5f592",
+        "al_2a23f231a537",
+        "am_a25df719e077",
+        "am_bc2655eab28b",
+        "al_464ec6bdaff3",
+        "am_62f89976312c",
+        "am_c75d1a7f3865",
+        "am_b5454c0a6eea"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_pets.html"
+    },
+    {
+      "id": "beauty_skincare",
+      "slug": "beauty-skincare",
+      "product_count": 1,
+      "top_products": [
+        "am_804875be92d0"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-beauty_skincare.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 24,
+      "top_products": [
+        "am_341a93468c74",
+        "am_4946a1ea4aed",
+        "am_18d6f79b5592",
+        "am_24ce776a7820",
+        "am_c8838af0fdbe",
+        "am_b8fe67c6e322",
+        "am_3a28c0793f86",
+        "am_f9cfc7929769",
+        "am_18c1ebcae647",
+        "am_9f3a6251ac76"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-electronics_audio.html"
+    },
+    {
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 1,
+      "top_products": [
+        "am_bd6485f4c2dc"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-beauty_grooming.html"
     },
     {
       "id": "jewelry",
       "slug": "jewelry",
       "product_count": 6,
       "top_products": [
-        "am_2e3690b01f4a",
-        "am_427c91185cc2",
-        "am_9731ac008b08",
         "am_b7fdd7148173",
-        "am_4d7517095660",
-        "am_6367fbf04ec5"
+        "am_6367fbf04ec5",
+        "am_2e3690b01f4a",
+        "am_9731ac008b08",
+        "am_8ff1fefe661b",
+        "am_8e0d9735512e"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
-    },
-    {
-      "id": "beauty_skincare",
-      "slug": "beauty-skincare",
-      "product_count": 2,
-      "top_products": [
-        "am_12351c9d5afd",
-        "am_804875be92d0"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_skincare.html"
-    },
-    {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "product_count": 1,
-      "top_products": [
-        "am_771c0a9bc7e2"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-jewelry.html"
     },
     {
       "id": "fragrance",
       "slug": "fragrance",
+      "product_count": 2,
+      "top_products": [
+        "am_0e13aafc126e",
+        "am_5697cc4b626e"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-fragrance.html"
+    },
+    {
+      "id": "amazon_creator",
+      "slug": "amazon-creator",
+      "product_count": 2,
+      "top_products": [
+        "phone_tripod",
+        "ring_light"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "product_count": 3,
+      "top_products": [
+        "soccer_rebounder",
+        "soccer_training_cones",
+        "agility_ladder"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_soccer.html"
+    },
+    {
+      "id": "home_wellness",
+      "slug": "home-wellness",
+      "product_count": 25,
+      "top_products": [
+        "am_d0961e5e6590",
+        "am_97ae5d9baadf",
+        "am_9332540cc98f",
+        "am_fc8bbaf917df",
+        "am_444e9cc263d5",
+        "am_b373daaa60d0",
+        "am_7f62bc2e1582",
+        "am_415d320ffbef",
+        "am_368c17834696",
+        "am_c3f18f7103bd"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-home_wellness.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "product_count": 3,
+      "top_products": [
+        "am_86187a72e946",
+        "am_27739ab63f42",
+        "am_780b74705342"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-garden_tools.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 6,
+      "top_products": [
+        "am_6535bcb96471",
+        "am_1fd9d625a09b",
+        "am_0d09bd56442a",
+        "am_8dfdf043506e",
+        "am_0ea0f8df692b",
+        "am_3b0938d060af"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-grooming_tools.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 5,
+      "top_products": [
+        "am_e0b279d1f47f",
+        "am_0e78b8c1c38f",
+        "am_20689fd4ca44",
+        "am_f84d6532b27d",
+        "am_1bdf169a5af2"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-aliexpress_deals.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "product_count": 2,
+      "top_products": [
+        "am_96cf22daeaea",
+        "am_62e4eadf6458"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-car_accessories.html"
+    },
+    {
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "product_count": 2,
+      "top_products": [
+        "am_eaa3e57f5b53",
+        "am_d609264eaf30"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-home_appliances.html"
+    },
+    {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 2,
+      "top_products": [
+        "am_8638d453625f",
+        "am_3817fa47700e"
+      ],
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-sports_shoes.html"
+    },
+    {
+      "id": "beauty_wigs",
+      "slug": "beauty-wigs",
       "product_count": 1,
       "top_products": [
-        "al_1024c10cd625"
+        "al_cc78ffb2259d"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-beauty_wigs.html"
     }
   ]
 }
