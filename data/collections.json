@@ -21,7 +21,7 @@
     {
       "id": "home_improvement",
       "slug": "home-improvement",
-      "product_count": 27,
+      "product_count": 26,
       "top_products": [
         "am_22416c582be5",
         "am_ebef849a4a3e",
@@ -39,13 +39,12 @@
     {
       "id": "fashion_shoes",
       "slug": "fashion-shoes",
-      "product_count": 5,
+      "product_count": 4,
       "top_products": [
         "am_ea1dd5b9b4df",
         "am_f85313c4de5f",
         "am_368c19f7a0ee",
-        "am_738214bf693d",
-        "am_927a522fef47"
+        "am_738214bf693d"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-fashion_shoes.html"
     },
@@ -77,8 +76,8 @@
         "am_d99fd566622a",
         "am_ee60a592831c",
         "car_phone_mount",
+        "am_8a288038c1b9",
         "am_abd254ee8532",
-        "am_2b722e496b13",
         "am_213d4b3149a7",
         "am_828a81d36a98",
         "am_ca35e163927e"
@@ -99,7 +98,7 @@
     {
       "id": "amazon_tech",
       "slug": "amazon-tech",
-      "product_count": 45,
+      "product_count": 44,
       "top_products": [
         "am_98b1da377cd6",
         "am_52ba82d5ddc3",
@@ -110,14 +109,14 @@
         "am_5bc72e98f7d6",
         "wireless_earbuds",
         "am_197fdc8eb406",
-        "am_14c6b4f2317e"
+        "am_2f50b315644c"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-amazon_tech.html"
     },
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 31,
+      "product_count": 32,
       "top_products": [
         "am_e3a17ccceed7",
         "am_5fcbe2caf46c",
@@ -135,7 +134,7 @@
     {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "product_count": 22,
+      "product_count": 20,
       "top_products": [
         "am_2b516ecb4c9f",
         "am_5f353ead614e",
@@ -153,7 +152,7 @@
     {
       "id": "amazon_kitchen",
       "slug": "amazon-kitchen",
-      "product_count": 12,
+      "product_count": 11,
       "top_products": [
         "am_d2245cc1f3e1",
         "am_67fb3af54baf",
@@ -174,11 +173,11 @@
       "product_count": 40,
       "top_products": [
         "am_594e3682ce39",
-        "am_5c82e92443d0",
         "am_0125b3507937",
         "am_5ec0eafb16b1",
         "am_216dd8172747",
         "am_33fbf7ee8b6b",
+        "am_5c82e92443d0",
         "am_ad0fcc4cd895",
         "am_35c6dd3ec220",
         "am_73be0b116b53",
@@ -243,7 +242,7 @@
     {
       "id": "amazon_pets",
       "slug": "amazon-pets",
-      "product_count": 17,
+      "product_count": 18,
       "top_products": [
         "dog_training_collar",
         "auto_pet_feeder",
@@ -261,7 +260,7 @@
     {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 71,
+      "product_count": 72,
       "top_products": [
         "am_a23da712efd1",
         "am_012503b3f2ea",
@@ -312,7 +311,7 @@
     {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 36,
+      "product_count": 38,
       "top_products": [
         "am_f50130a0133d",
         "am_584e25878f63",
@@ -330,9 +329,10 @@
     {
       "id": "grooming_tools",
       "slug": "grooming-tools",
-      "product_count": 1,
+      "product_count": 2,
       "top_products": [
-        "am_bcb38787a802"
+        "am_bcb38787a802",
+        "am_74a61200263b"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-grooming_tools.html"
     },
@@ -348,9 +348,10 @@
     {
       "id": "jewelry",
       "slug": "jewelry",
-      "product_count": 2,
+      "product_count": 3,
       "top_products": [
         "am_b267581097be",
+        "am_d1668f1f6cc8",
         "am_27915117d165"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-jewelry.html"
@@ -403,15 +404,6 @@
         "am_0e78b8c1c38f"
       ],
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-aliexpress_deals.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "product_count": 1,
-      "top_products": [
-        "am_2bbb546d3ac1"
-      ],
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/collection-sports_cycling.html"
     },
     {
       "id": "retro_gaming",
