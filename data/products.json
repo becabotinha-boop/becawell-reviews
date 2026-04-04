@@ -52,23 +52,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/led-face-mask-review.html"
     },
     {
-      "id": "hair_curler_auto",
-      "slug": "hair-curler-auto",
-      "name": "Automatic Hair Curler",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 82.5,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "35-65",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/hair-curler-auto-review.html"
-    },
-    {
       "id": "facial_cleansing_brush",
       "slug": "facial-cleansing-brush",
       "name": "Sonic Facial Cleansing Brush",
@@ -84,6 +67,23 @@
       "price": "25-50",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/facial-cleansing-brush-review.html"
+    },
+    {
+      "id": "hair_curler_auto",
+      "slug": "hair-curler-auto",
+      "name": "Automatic Hair Curler",
+      "network": "amazon",
+      "niche": "amazon_beauty",
+      "score": 82.5,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "35-65",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/hair-curler-auto-review.html"
     },
     {
       "id": "meal_prep_containers",
@@ -254,23 +254,6 @@
       "price": "25-50",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/dog-training-collar-review.html"
-    },
-    {
-      "id": "am_3c875165144f",
-      "slug": "am-3c875165144f",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3c875165144f-review.html"
     },
     {
       "id": "am_02f1a308dc98",
@@ -477,125 +460,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a3875336bbf0-review.html"
     },
     {
-      "id": "am_9191a35ff92f",
-      "slug": "am-9191a35ff92f",
-      "name": "DIYtoolifz Cordless Tire Inflator Air Compressor Compatible wi...",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "34.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-9191a35ff92f-review.html"
-    },
-    {
-      "id": "am_f4dca4af2ecc",
-      "slug": "am-f4dca4af2ecc",
-      "name": "Shorts",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f4dca4af2ecc-review.html"
-    },
-    {
-      "id": "am_35c6dd3ec220",
-      "slug": "am-35c6dd3ec220",
-      "name": "Rated  from 399 reviews",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-35c6dd3ec220-review.html"
-    },
-    {
-      "id": "am_39f6d39a7d0d",
-      "slug": "am-39f6d39a7d0d",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-39f6d39a7d0d-review.html"
-    },
-    {
-      "id": "am_311556803272",
-      "slug": "am-311556803272",
-      "name": "domirica",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "27.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-311556803272-review.html"
-    },
-    {
-      "id": "am_143c74797de1",
-      "slug": "am-143c74797de1",
-      "name": "BONE Magnetic Fitness Phone Mount, MagSafe Phone Holder for Wo...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-143c74797de1-review.html"
-    },
-    {
-      "id": "am_d92e24de5ba5",
-      "slug": "am-d92e24de5ba5",
-      "name": "Options:16 sizes",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "99.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-d92e24de5ba5-review.html"
-    },
-    {
       "id": "am_5d68e6bb6749",
       "slug": "am-5d68e6bb6749",
       "name": "Rated  from 819 reviews",
@@ -647,40 +511,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4c32ffa50bde-review.html"
     },
     {
-      "id": "am_96ba97ddea37",
-      "slug": "am-96ba97ddea37",
-      "name": "Interactive Dog Puzzle Toys for Boredom, Dogs Enrichment Toy t...",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "11.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-96ba97ddea37-review.html"
-    },
-    {
-      "id": "am_f3173624c712",
-      "slug": "am-f3173624c712",
-      "name": "36 Pcs DIY Modeling Hobby Tool Kit, Basic Modeler Craft Set, D...",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f3173624c712-review.html"
-    },
-    {
       "id": "am_26c3ffb6127b",
       "slug": "am-26c3ffb6127b",
       "name": ", rating details",
@@ -715,57 +545,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-237eb4de3bd2-review.html"
     },
     {
-      "id": "am_47798e6d90eb",
-      "slug": "am-47798e6d90eb",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-47798e6d90eb-review.html"
-    },
-    {
-      "id": "am_77980c3ed9bf",
-      "slug": "am-77980c3ed9bf",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-77980c3ed9bf-review.html"
-    },
-    {
-      "id": "am_4eeb19d7bc35",
-      "slug": "am-4eeb19d7bc35",
-      "name": "Best Seller",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4eeb19d7bc35-review.html"
-    },
-    {
       "id": "am_17fd24e0e6a5",
       "slug": "am-17fd24e0e6a5",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -781,91 +560,6 @@
       "price": "27.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-17fd24e0e6a5-review.html"
-    },
-    {
-      "id": "am_39dd2ac9689e",
-      "slug": "am-39dd2ac9689e",
-      "name": "TnXee Case Compatible with iPhone 17 Pro Max,Fall Prevention B...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-39dd2ac9689e-review.html"
-    },
-    {
-      "id": "am_983b75491ad2",
-      "slug": "am-983b75491ad2",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-983b75491ad2-review.html"
-    },
-    {
-      "id": "am_2686299ebfcb",
-      "slug": "am-2686299ebfcb",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2686299ebfcb-review.html"
-    },
-    {
-      "id": "am_498ff6f54f2b",
-      "slug": "am-498ff6f54f2b",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-498ff6f54f2b-review.html"
-    },
-    {
-      "id": "am_4640d74da337",
-      "slug": "am-4640d74da337",
-      "name": "7+ Ways to Cook a Steak: Beginners Guide to Cooking Perfect St...",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4640d74da337-review.html"
     },
     {
       "id": "am_68a2ccc73e17",
@@ -885,23 +579,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-68a2ccc73e17-review.html"
     },
     {
-      "id": "am_8a5291f2742d",
-      "slug": "am-8a5291f2742d",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "539.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-8a5291f2742d-review.html"
-    },
-    {
       "id": "am_5abc88c77367",
       "slug": "am-5abc88c77367",
       "name": "Feb 17, 2021",
@@ -919,23 +596,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-5abc88c77367-review.html"
     },
     {
-      "id": "am_ab2d7c5a9186",
-      "slug": "am-ab2d7c5a9186",
-      "name": "Golden Girls Wooden Cooking Spoons, TV Show Merchandise Keepsa...",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ab2d7c5a9186-review.html"
-    },
-    {
       "id": "am_fc5e45fe0e7b",
       "slug": "am-fc5e45fe0e7b",
       "name": "Bcov Case for Moto G Power 2026,Cute Puppy Dog Leather Flip Ph...",
@@ -951,23 +611,6 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-fc5e45fe0e7b-review.html"
-    },
-    {
-      "id": "am_2d0cf845ed62",
-      "slug": "am-2d0cf845ed62",
-      "name": "Save 5%",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 76.2,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2d0cf845ed62-review.html"
     },
     {
       "id": "am_6ab4a488c623",
@@ -1021,6 +664,278 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-92b3ecbf5a03-review.html"
     },
     {
+      "id": "am_06c5554ee7f4",
+      "slug": "am-06c5554ee7f4",
+      "name": "3K+ bought in past month",
+      "network": "amazon",
+      "niche": "anime_collectibles",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-06c5554ee7f4-review.html"
+    },
+    {
+      "id": "am_311556803272",
+      "slug": "am-311556803272",
+      "name": "domirica",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "27.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-311556803272-review.html"
+    },
+    {
+      "id": "am_35c6dd3ec220",
+      "slug": "am-35c6dd3ec220",
+      "name": "Rated  from 399 reviews",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-35c6dd3ec220-review.html"
+    },
+    {
+      "id": "am_983b75491ad2",
+      "slug": "am-983b75491ad2",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "5.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-983b75491ad2-review.html"
+    },
+    {
+      "id": "am_8a5291f2742d",
+      "slug": "am-8a5291f2742d",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "539.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-8a5291f2742d-review.html"
+    },
+    {
+      "id": "am_143c74797de1",
+      "slug": "am-143c74797de1",
+      "name": "BONE Magnetic Fitness Phone Mount, MagSafe Phone Holder for Wo...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-143c74797de1-review.html"
+    },
+    {
+      "id": "am_77980c3ed9bf",
+      "slug": "am-77980c3ed9bf",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "24.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-77980c3ed9bf-review.html"
+    },
+    {
+      "id": "am_47798e6d90eb",
+      "slug": "am-47798e6d90eb",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "37.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-47798e6d90eb-review.html"
+    },
+    {
+      "id": "am_4eeb19d7bc35",
+      "slug": "am-4eeb19d7bc35",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "37.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4eeb19d7bc35-review.html"
+    },
+    {
+      "id": "am_39dd2ac9689e",
+      "slug": "am-39dd2ac9689e",
+      "name": "TnXee Case Compatible with iPhone 17 Pro Max,Fall Prevention B...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-39dd2ac9689e-review.html"
+    },
+    {
+      "id": "am_498ff6f54f2b",
+      "slug": "am-498ff6f54f2b",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-498ff6f54f2b-review.html"
+    },
+    {
+      "id": "am_39f6d39a7d0d",
+      "slug": "am-39f6d39a7d0d",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-39f6d39a7d0d-review.html"
+    },
+    {
+      "id": "am_d92e24de5ba5",
+      "slug": "am-d92e24de5ba5",
+      "name": "Options:16 sizes",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "99.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-d92e24de5ba5-review.html"
+    },
+    {
+      "id": "am_2686299ebfcb",
+      "slug": "am-2686299ebfcb",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "5.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2686299ebfcb-review.html"
+    },
+    {
+      "id": "am_4640d74da337",
+      "slug": "am-4640d74da337",
+      "name": "7+ Ways to Cook a Steak: Beginners Guide to Cooking Perfect St...",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4640d74da337-review.html"
+    },
+    {
+      "id": "am_f4dca4af2ecc",
+      "slug": "am-f4dca4af2ecc",
+      "name": "Shorts",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f4dca4af2ecc-review.html"
+    },
+    {
       "id": "am_923fcec5475a",
       "slug": "am-923fcec5475a",
       "name": "All Skin Type",
@@ -1038,11 +953,11 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-923fcec5475a-review.html"
     },
     {
-      "id": "am_06c5554ee7f4",
-      "slug": "am-06c5554ee7f4",
-      "name": "3K+ bought in past month",
+      "id": "am_9191a35ff92f",
+      "slug": "am-9191a35ff92f",
+      "name": "DIYtoolifz Cordless Tire Inflator Air Compressor Compatible wi...",
       "network": "amazon",
-      "niche": "anime_collectibles",
+      "niche": "home_improvement",
       "score": 76.2,
       "tier": "B",
       "rating": {
@@ -1050,9 +965,94 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "4.0",
+      "price": "34.0",
       "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-06c5554ee7f4-review.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-9191a35ff92f-review.html"
+    },
+    {
+      "id": "am_ab2d7c5a9186",
+      "slug": "am-ab2d7c5a9186",
+      "name": "Golden Girls Wooden Cooking Spoons, TV Show Merchandise Keepsa...",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ab2d7c5a9186-review.html"
+    },
+    {
+      "id": "am_f3173624c712",
+      "slug": "am-f3173624c712",
+      "name": "36 Pcs DIY Modeling Hobby Tool Kit, Basic Modeler Craft Set, D...",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f3173624c712-review.html"
+    },
+    {
+      "id": "am_3c875165144f",
+      "slug": "am-3c875165144f",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3c875165144f-review.html"
+    },
+    {
+      "id": "am_96ba97ddea37",
+      "slug": "am-96ba97ddea37",
+      "name": "Interactive Dog Puzzle Toys for Boredom, Dogs Enrichment Toy t...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "11.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-96ba97ddea37-review.html"
+    },
+    {
+      "id": "am_2d0cf845ed62",
+      "slug": "am-2d0cf845ed62",
+      "name": "Save 5%",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 76.2,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2d0cf845ed62-review.html"
     },
     {
       "id": "ring_light",
@@ -1361,23 +1361,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-15b07326fb63-review.html"
     },
     {
-      "id": "am_e178d299a114",
-      "slug": "am-e178d299a114",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e178d299a114-review.html"
-    },
-    {
       "id": "am_761def392676",
       "slug": "am-761def392676",
       "name": "colors available",
@@ -1531,23 +1514,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e2206ca70af8-review.html"
     },
     {
-      "id": "am_fc2aef9786db",
-      "slug": "am-fc2aef9786db",
-      "name": "Jul 7, 2011",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": null,
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-fc2aef9786db-review.html"
-    },
-    {
       "id": "am_ba6a1d5cb6d2",
       "slug": "am-ba6a1d5cb6d2",
       "name": "Options:2 sizes",
@@ -1682,40 +1648,6 @@
       "price": "29.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ef3d56945964-review.html"
-    },
-    {
-      "id": "am_ee0643fbd5f4",
-      "slug": "am-ee0643fbd5f4",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "22.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ee0643fbd5f4-review.html"
-    },
-    {
-      "id": "am_62f89976312c",
-      "slug": "am-62f89976312c",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "10.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-62f89976312c-review.html"
     },
     {
       "id": "am_340d66a76a25",
@@ -1888,11 +1820,11 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-46b9ecaeae7b-review.html"
     },
     {
-      "id": "am_73be0b116b53",
-      "slug": "am-73be0b116b53",
-      "name": "PIXAR",
+      "id": "am_62f89976312c",
+      "slug": "am-62f89976312c",
+      "name": "colors available",
       "network": "amazon",
-      "niche": "family_fashion",
+      "niche": "amazon_pets",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -1900,26 +1832,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "16.0",
+      "price": "10.0",
       "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-73be0b116b53-review.html"
-    },
-    {
-      "id": "am_b07ece44cc76",
-      "slug": "am-b07ece44cc76",
-      "name": "APPS2Car Magnetic Phone Mount for Car, Dashboard & Windshield...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b07ece44cc76-review.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-62f89976312c-review.html"
     },
     {
       "id": "am_5d4c31e9851a",
@@ -1956,23 +1871,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-98b1da377cd6-review.html"
     },
     {
-      "id": "am_b460428e5d3a",
-      "slug": "am-b460428e5d3a",
-      "name": "MIXGOLD Wireless CarPlay Adapter for Apple iPhone & Android, 2...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b460428e5d3a-review.html"
-    },
-    {
       "id": "am_828a81d36a98",
       "slug": "am-828a81d36a98",
       "name": "Add to cart",
@@ -1988,23 +1886,6 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-828a81d36a98-review.html"
-    },
-    {
-      "id": "am_1df629e46b5d",
-      "slug": "am-1df629e46b5d",
-      "name": "hair brush/comb and hot comb",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-1df629e46b5d-review.html"
     },
     {
       "id": "am_f95b950cd1fb",
@@ -2039,23 +1920,6 @@
       "price": "55.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-93cbfd7bfab7-review.html"
-    },
-    {
-      "id": "am_266f93ce0a6f",
-      "slug": "am-266f93ce0a6f",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "731.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-266f93ce0a6f-review.html"
     },
     {
       "id": "am_9ff04d2c7194",
@@ -2160,6 +2024,23 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-c6e016059048-review.html"
     },
     {
+      "id": "am_83dce6ed1b0b",
+      "slug": "am-83dce6ed1b0b",
+      "name": "Disney",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-83dce6ed1b0b-review.html"
+    },
+    {
       "id": "am_577ffb387e52",
       "slug": "am-577ffb387e52",
       "name": "New on Amazon in past month",
@@ -2245,11 +2126,11 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-736df23274e9-review.html"
     },
     {
-      "id": "am_908613b6368d",
-      "slug": "am-908613b6368d",
+      "id": "am_927a522fef47",
+      "slug": "am-927a522fef47",
       "name": ", rating details",
       "network": "amazon",
-      "niche": "home_improvement",
+      "niche": "fashion_shoes",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -2257,26 +2138,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "24.0",
+      "price": "5.0",
       "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-908613b6368d-review.html"
-    },
-    {
-      "id": "am_9119ab1f15be",
-      "slug": "am-9119ab1f15be",
-      "name": "TPOB Play Barber Hair Clippers & Trimmer for Men 7500 RPM with...",
-      "network": "amazon",
-      "niche": "grooming_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "118.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-9119ab1f15be-review.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-927a522fef47-review.html"
     },
     {
       "id": "am_11712a56889d",
@@ -2328,23 +2192,6 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-985ee2d25e8f-review.html"
-    },
-    {
-      "id": "am_a26191f9b5f1",
-      "slug": "am-a26191f9b5f1",
-      "name": "Gin Amber Beauty Derma Roller for Face | 192 Stainless Steel N...",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a26191f9b5f1-review.html"
     },
     {
       "id": "am_286550bbf0fb",
@@ -2532,23 +2379,6 @@
       "price": "7.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-8cfe7a7695af-review.html"
-    },
-    {
-      "id": "am_b1ff92d457fb",
-      "slug": "am-b1ff92d457fb",
-      "name": "MEGABACK Vacuum Backpack Travel with Pump, 60L Expandable Airb...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "129.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b1ff92d457fb-review.html"
     },
     {
       "id": "am_11345e42ceb9",
@@ -2823,23 +2653,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-5ed42206ae8c-review.html"
     },
     {
-      "id": "am_3c216b001c30",
-      "slug": "am-3c216b001c30",
-      "name": "1 Count (Pack of 1)",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3c216b001c30-review.html"
-    },
-    {
       "id": "am_1748a40f1790",
       "slug": "am-1748a40f1790",
       "name": "PGAXM Dragonfly Clip,3D Dragonfly Garden Stakes Decor,Dragonfl...",
@@ -2942,40 +2755,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-64fb8a097cc7-review.html"
     },
     {
-      "id": "am_dd79311f0653",
-      "slug": "am-dd79311f0653",
-      "name": "Rated  from 217 reviews",
-      "network": "amazon",
-      "niche": "jewelry",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "174.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-dd79311f0653-review.html"
-    },
-    {
-      "id": "am_99f684173474",
-      "slug": "am-99f684173474",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "3.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-99f684173474-review.html"
-    },
-    {
       "id": "am_5af335766964",
       "slug": "am-5af335766964",
       "name": "Rated  from 1,079 reviews",
@@ -3059,23 +2838,6 @@
       "price": "13.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-76cc03f56cbe-review.html"
-    },
-    {
-      "id": "am_927a522fef47",
-      "slug": "am-927a522fef47",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "5.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-927a522fef47-review.html"
     },
     {
       "id": "am_60c401aa0918",
@@ -3246,23 +3008,6 @@
       "price": "7.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e737a5193a17-review.html"
-    },
-    {
-      "id": "am_f1b99218dc1e",
-      "slug": "am-f1b99218dc1e",
-      "name": "2 Piece Set",
-      "network": "amazon",
-      "niche": "beauty_wigs",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f1b99218dc1e-review.html"
     },
     {
       "id": "am_07d7bfad85f4",
@@ -3503,23 +3248,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-0e78b8c1c38f-review.html"
     },
     {
-      "id": "am_b84ca699de26",
-      "slug": "am-b84ca699de26",
-      "name": "InnoBeta",
-      "network": "amazon",
-      "niche": "sports_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b84ca699de26-review.html"
-    },
-    {
       "id": "am_2e512f2028a5",
       "slug": "am-2e512f2028a5",
       "name": "Softgel",
@@ -3552,23 +3280,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a4fa9c1f6c82-review.html"
-    },
-    {
-      "id": "am_716e41c827cd",
-      "slug": "am-716e41c827cd",
-      "name": "GE 25.6 Cu. Ft. Fingerprint Resistant French-Door Refrigerator",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "1.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-716e41c827cd-review.html"
     },
     {
       "id": "am_fdc0f14f6e8b",
@@ -3690,11 +3401,11 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f677042204f1-review.html"
     },
     {
-      "id": "am_a91ee6955a33",
-      "slug": "am-a91ee6955a33",
-      "name": ", rating details",
+      "id": "am_3c216b001c30",
+      "slug": "am-3c216b001c30",
+      "name": "1 Count (Pack of 1)",
       "network": "amazon",
-      "niche": "home_electronics",
+      "niche": "home_wellness",
       "score": 68.8,
       "tier": "B",
       "rating": {
@@ -3702,9 +3413,9 @@
         "value": 4.1,
         "stars": 4
       },
-      "price": "6.0",
+      "price": "15.0",
       "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a91ee6955a33-review.html"
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3c216b001c30-review.html"
     },
     {
       "id": "am_c8d712730ab9",
@@ -3994,23 +3705,6 @@
       "price": "169.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f4725640ce6a-review.html"
-    },
-    {
-      "id": "am_6c4a3926c7f1",
-      "slug": "am-6c4a3926c7f1",
-      "name": "poemlady Women\u2019s Ballet Flat Shoes Dress Shoes Knit Round Toe...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "31.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-6c4a3926c7f1-review.html"
     },
     {
       "id": "am_5c6137920924",
@@ -5050,23 +4744,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e39bec5e5fbc-review.html"
     },
     {
-      "id": "am_e8574c922880",
-      "slug": "am-e8574c922880",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "fitness_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e8574c922880-review.html"
-    },
-    {
       "id": "am_55631ca077eb",
       "slug": "am-55631ca077eb",
       "name": "colors available",
@@ -5456,23 +5133,6 @@
       "price": "19.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a2b4e641c31d-review.html"
-    },
-    {
-      "id": "am_dc65131c1194",
-      "slug": "am-dc65131c1194",
-      "name": "colors available",
-      "network": "amazon",
-      "niche": "retro_gaming",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "20.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-dc65131c1194-review.html"
     },
     {
       "id": "am_f8c43b49c61c",
@@ -6002,23 +5662,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f958357ca4c7-review.html"
     },
     {
-      "id": "am_a27e005426c4",
-      "slug": "am-a27e005426c4",
-      "name": "Rated  from 1,291 reviews",
-      "network": "amazon",
-      "niche": "car_accessories",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a27e005426c4-review.html"
-    },
-    {
       "id": "am_49982dac1fdf",
       "slug": "am-49982dac1fdf",
       "name": ", rating details",
@@ -6051,23 +5694,6 @@
       "price": "19.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-508cf6da80a7-review.html"
-    },
-    {
-      "id": "am_ba9f2cbd79ec",
-      "slug": "am-ba9f2cbd79ec",
-      "name": "WELLNESS: Simple Steps For Healthy Living",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ba9f2cbd79ec-review.html"
     },
     {
       "id": "am_c75d1a7f3865",
@@ -7124,23 +6750,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b2bb827b7f65-review.html"
     },
     {
-      "id": "am_89d859e65fdb",
-      "slug": "am-89d859e65fdb",
-      "name": "Rated  from 842 reviews",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-89d859e65fdb-review.html"
-    },
-    {
       "id": "am_63eecbd6c509",
       "slug": "am-63eecbd6c509",
       "name": "colors available",
@@ -7173,23 +6782,6 @@
       "price": "65.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b36d9481a91b-review.html"
-    },
-    {
-      "id": "am_89c618a35229",
-      "slug": "am-89c618a35229",
-      "name": "AeroGarden Harvest Lite in Cherry Red, Soil-Free Indoor Hydrop...",
-      "network": "amazon",
-      "niche": "garden_tools",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "90.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-89c618a35229-review.html"
     },
     {
       "id": "am_79108f74d382",
@@ -7258,23 +6850,6 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3503c446cb90-review.html"
-    },
-    {
-      "id": "am_7f964ecb2743",
-      "slug": "am-7f964ecb2743",
-      "name": "Rated  from 45,034 reviews",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-7f964ecb2743-review.html"
     },
     {
       "id": "al_c09646193f43",
@@ -7498,23 +7073,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3ca15191ac6d-review.html"
     },
     {
-      "id": "am_8b8b1e824ab9",
-      "slug": "am-8b8b1e824ab9",
-      "name": "Custom Car Posters",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "49.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-8b8b1e824ab9-review.html"
-    },
-    {
       "id": "am_9e220c834443",
       "slug": "am-9e220c834443",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -7547,6 +7105,23 @@
       "price": "11.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-a4e8b95a5c74-review.html"
+    },
+    {
+      "id": "am_80229de235ad",
+      "slug": "am-80229de235ad",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "11.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-80229de235ad-review.html"
     },
     {
       "id": "am_4d85c40bc68c",
@@ -7770,23 +7345,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-abd254ee8532-review.html"
     },
     {
-      "id": "am_c960dce5608a",
-      "slug": "am-c960dce5608a",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "11.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-c960dce5608a-review.html"
-    },
-    {
       "id": "am_d17c1b0971ed",
       "slug": "am-d17c1b0971ed",
       "name": "Amazon&#x27;s Choice: Overall Pick",
@@ -7802,23 +7360,6 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-d17c1b0971ed-review.html"
-    },
-    {
-      "id": "am_9003cc5fb45a",
-      "slug": "am-9003cc5fb45a",
-      "name": "King Sheets by Pure Bamboo, Genuine 100% Organic Viscose Deriv...",
-      "network": "amazon",
-      "niche": "home_textiles",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "109.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-9003cc5fb45a-review.html"
     },
     {
       "id": "am_777adce77f67",
@@ -8144,23 +7685,6 @@
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-0283b5d51a40-review.html"
     },
     {
-      "id": "am_2e3690b01f4a",
-      "slug": "am-2e3690b01f4a",
-      "name": "JewelryEveryday",
-      "network": "amazon",
-      "niche": "jewelry",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "10.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2e3690b01f4a-review.html"
-    },
-    {
       "id": "am_97ae5d9baadf",
       "slug": "am-97ae5d9baadf",
       "name": "Mar 25, 2026",
@@ -8295,23 +7819,6 @@
       "price": "249.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e3a17ccceed7-review.html"
-    },
-    {
-      "id": "am_0996e3644588",
-      "slug": "am-0996e3644588",
-      "name": "medicube Jelly Cream with Collagen, Niacinamide | Freeze-Dried...",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 68.8,
-      "tier": "B",
-      "rating": {
-        "display": "4.1/5",
-        "value": 4.1,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-0996e3644588-review.html"
     },
     {
       "id": "am_f18b2a13afda",
@@ -8499,8 +8006,501 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-2c2649ef1a92-review.html"
+    },
+    {
+      "id": "am_5ea4f730ee40",
+      "slug": "am-5ea4f730ee40",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "519.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-5ea4f730ee40-review.html"
+    },
+    {
+      "id": "am_b590e9347be2",
+      "slug": "am-b590e9347be2",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "20.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b590e9347be2-review.html"
+    },
+    {
+      "id": "am_6d31d039bda8",
+      "slug": "am-6d31d039bda8",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "5.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-6d31d039bda8-review.html"
+    },
+    {
+      "id": "am_99f8c163e04a",
+      "slug": "am-99f8c163e04a",
+      "name": "Rated  from 349 reviews",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "189.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-99f8c163e04a-review.html"
+    },
+    {
+      "id": "am_08d779533357",
+      "slug": "am-08d779533357",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-08d779533357-review.html"
+    },
+    {
+      "id": "am_e80932a95314",
+      "slug": "am-e80932a95314",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "22.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-e80932a95314-review.html"
+    },
+    {
+      "id": "am_9c2134197088",
+      "slug": "am-9c2134197088",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "11.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-9c2134197088-review.html"
+    },
+    {
+      "id": "am_8edfadd83f8c",
+      "slug": "am-8edfadd83f8c",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "22.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-8edfadd83f8c-review.html"
+    },
+    {
+      "id": "am_914c24876d06",
+      "slug": "am-914c24876d06",
+      "name": "Oriental",
+      "network": "amazon",
+      "niche": "fragrance",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "30.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-914c24876d06-review.html"
+    },
+    {
+      "id": "am_95d70a7f8c90",
+      "slug": "am-95d70a7f8c90",
+      "name": "All Skin Type",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-95d70a7f8c90-review.html"
+    },
+    {
+      "id": "am_b31b65da8826",
+      "slug": "am-b31b65da8826",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "31.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-b31b65da8826-review.html"
+    },
+    {
+      "id": "am_481f13c07af7",
+      "slug": "am-481f13c07af7",
+      "name": "colors available",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "55.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-481f13c07af7-review.html"
+    },
+    {
+      "id": "am_745f950d54a6",
+      "slug": "am-745f950d54a6",
+      "name": "Spa Gifts for Women Bath Gift Set, Vanilla Coconut Spa Gift Ba...",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "32.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-745f950d54a6-review.html"
+    },
+    {
+      "id": "am_52d7001e0f72",
+      "slug": "am-52d7001e0f72",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-52d7001e0f72-review.html"
+    },
+    {
+      "id": "am_5cdc7336e7e2",
+      "slug": "am-5cdc7336e7e2",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-5cdc7336e7e2-review.html"
+    },
+    {
+      "id": "am_5a69b2919324",
+      "slug": "am-5a69b2919324",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-5a69b2919324-review.html"
+    },
+    {
+      "id": "am_4028f725ed26",
+      "slug": "am-4028f725ed26",
+      "name": "Pamlulu Dog Chew Toys Dog Toothbrush Stick Teeth Cleaning Brus...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4028f725ed26-review.html"
+    },
+    {
+      "id": "am_df938cfd6165",
+      "slug": "am-df938cfd6165",
+      "name": "Options:4 sizes",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "32.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-df938cfd6165-review.html"
+    },
+    {
+      "id": "am_ea663a40dfa1",
+      "slug": "am-ea663a40dfa1",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-ea663a40dfa1-review.html"
+    },
+    {
+      "id": "am_07e6862a4b1a",
+      "slug": "am-07e6862a4b1a",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "28.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-07e6862a4b1a-review.html"
+    },
+    {
+      "id": "am_227dc16c3210",
+      "slug": "am-227dc16c3210",
+      "name": ", rating details",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "799.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-227dc16c3210-review.html"
+    },
+    {
+      "id": "am_befce562f15f",
+      "slug": "am-befce562f15f",
+      "name": "1 Count (Pack of 1)",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "34.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-befce562f15f-review.html"
+    },
+    {
+      "id": "am_f05b2f0a49d1",
+      "slug": "am-f05b2f0a49d1",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-f05b2f0a49d1-review.html"
+    },
+    {
+      "id": "am_37b9d493c589",
+      "slug": "am-37b9d493c589",
+      "name": "Multifunction Car Anti-Slip Mat, 360\u00b0 Rotatable Mobile Phone B...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "25.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-37b9d493c589-review.html"
+    },
+    {
+      "id": "am_bc3905f15970",
+      "slug": "am-bc3905f15970",
+      "name": "Options:2 orientations",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-bc3905f15970-review.html"
+    },
+    {
+      "id": "am_19e8c42674b1",
+      "slug": "am-19e8c42674b1",
+      "name": "Best Seller",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-19e8c42674b1-review.html"
+    },
+    {
+      "id": "am_d9d04e414bcf",
+      "slug": "am-d9d04e414bcf",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-d9d04e414bcf-review.html"
+    },
+    {
+      "id": "am_3efe99581121",
+      "slug": "am-3efe99581121",
+      "name": "Create Your Own Cozy: 100 Practical Ways to Love Your Home and...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-3efe99581121-review.html"
+    },
+    {
+      "id": "am_4db80908a2ce",
+      "slug": "am-4db80908a2ce",
+      "name": "Lavender",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 68.8,
+      "tier": "B",
+      "rating": {
+        "display": "4.1/5",
+        "value": 4.1,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://perth-hang-pair-acceptance.trycloudflare.com/am-4db80908a2ce-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-04T01:09:32.548524+00:00"
+  "generated_at": "2026-04-04T01:27:36.473963+00:00"
 }
