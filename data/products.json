@@ -1,1366 +1,6 @@
 {
   "products": [
     {
-      "id": "am_5bad5a517f33",
-      "slug": "am-5bad5a517f33",
-      "name": "Party-Decorations",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5bad5a517f33-review.html"
-    },
-    {
-      "id": "am_f64e32ffd933",
-      "slug": "am-f64e32ffd933",
-      "name": "Rolling Tool Box with Wheels Heavy Duty,Modular Stackable Tool...",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "159.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f64e32ffd933-review.html"
-    },
-    {
-      "id": "am_2b4bf379769c",
-      "slug": "am-2b4bf379769c",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-2b4bf379769c-review.html"
-    },
-    {
-      "id": "am_3e12274f86f4",
-      "slug": "am-3e12274f86f4",
-      "name": "Plastic",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3e12274f86f4-review.html"
-    },
-    {
-      "id": "am_30f47bee7291",
-      "slug": "am-30f47bee7291",
-      "name": "Motorsport Racing Car Lovers",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-30f47bee7291-review.html"
-    },
-    {
-      "id": "am_b0612c13b22e",
-      "slug": "am-b0612c13b22e",
-      "name": "OLUKAI Lae&#x27;ahi Li &#x27;Ili Men&#x27;s Waterproof Leather...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "149.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b0612c13b22e-review.html"
-    },
-    {
-      "id": "am_43c12f05e2fd",
-      "slug": "am-43c12f05e2fd",
-      "name": "NEWKA",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-43c12f05e2fd-review.html"
-    },
-    {
-      "id": "am_a2ebe0b6e025",
-      "slug": "am-a2ebe0b6e025",
-      "name": "Joomra Men&#x27;s Stylish Sneakers High Top Athletic-Inspired...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "43.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a2ebe0b6e025-review.html"
-    },
-    {
-      "id": "am_074f888cf7c1",
-      "slug": "am-074f888cf7c1",
-      "name": "Ca&#x27;Lefort 24 Inch Wine Fridge, 52 Bottles Dual Zone 40-65...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "899.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-074f888cf7c1-review.html"
-    },
-    {
-      "id": "am_9126fce102c9",
-      "slug": "am-9126fce102c9",
-      "name": "Top Tech 2026: The Definitive Guide to High-Quality, Industry-...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": null,
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9126fce102c9-review.html"
-    },
-    {
-      "id": "am_a4ffb6806125",
-      "slug": "am-a4ffb6806125",
-      "name": "poemlady Women\u2019s Ballet Flat Shoes Dress Shoes Knit Round Toe...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "31.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a4ffb6806125-review.html"
-    },
-    {
-      "id": "am_555bb99ce26d",
-      "slug": "am-555bb99ce26d",
-      "name": "Learning Resources Gears 100-Piece Deluxe Building Set -STEM A...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "27.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-555bb99ce26d-review.html"
-    },
-    {
-      "id": "am_528ea82bf1eb",
-      "slug": "am-528ea82bf1eb",
-      "name": "Ad - Amazon Echo Auto | Add Alexa+",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "54.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-528ea82bf1eb-review.html"
-    },
-    {
-      "id": "am_309a6c8e3291",
-      "slug": "am-309a6c8e3291",
-      "name": "1 count (Pack of 1)",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-309a6c8e3291-review.html"
-    },
-    {
-      "id": "am_c76a96119950",
-      "slug": "am-c76a96119950",
-      "name": "1 Count (Pack of 1)",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c76a96119950-review.html"
-    },
-    {
-      "id": "am_ddeeea9f3357",
-      "slug": "am-ddeeea9f3357",
-      "name": "Rated  from 1,306 reviews",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ddeeea9f3357-review.html"
-    },
-    {
-      "id": "am_ca7e353f9fb7",
-      "slug": "am-ca7e353f9fb7",
-      "name": "16 Piece Set",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "52.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ca7e353f9fb7-review.html"
-    },
-    {
-      "id": "am_47dc43fccc14",
-      "slug": "am-47dc43fccc14",
-      "name": "EUXTERPA",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-47dc43fccc14-review.html"
-    },
-    {
-      "id": "am_ca1686a37e7f",
-      "slug": "am-ca1686a37e7f",
-      "name": "Rated  from 453 reviews",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ca1686a37e7f-review.html"
-    },
-    {
-      "id": "am_d64334bd2919",
-      "slug": "am-d64334bd2919",
-      "name": "SPRFUFLY U-Shaped Car Headrest Pillow for Sleeping, 100% Memor...",
-      "network": "amazon",
-      "niche": "amazon_sleep",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d64334bd2919-review.html"
-    },
-    {
-      "id": "am_7ebf4b246cfc",
-      "slug": "am-7ebf4b246cfc",
-      "name": "BORLENI Leather Motorcycle Breathable Riding Shoes - Casual Ou...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "98.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7ebf4b246cfc-review.html"
-    },
-    {
-      "id": "am_f2f93752ece1",
-      "slug": "am-f2f93752ece1",
-      "name": "Socool Camping Fan with Light - 20000mAh Rechargeable Battery...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "49.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f2f93752ece1-review.html"
-    },
-    {
-      "id": "am_ac94e97a12ea",
-      "slug": "am-ac94e97a12ea",
-      "name": "1 Fl Oz (Pack of 3)",
-      "network": "amazon",
-      "niche": "anime_collectibles",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ac94e97a12ea-review.html"
-    },
-    {
-      "id": "am_31a56af3c3a7",
-      "slug": "am-31a56af3c3a7",
-      "name": "Outdoor Kitchen Ideas that Work",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-31a56af3c3a7-review.html"
-    },
-    {
-      "id": "am_ed94dd9523b4",
-      "slug": "am-ed94dd9523b4",
-      "name": "MLB 2026 TOPPS Series 1 Baseball MEGA Box",
-      "network": "amazon",
-      "niche": "amazon_soccer",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "74.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ed94dd9523b4-review.html"
-    },
-    {
-      "id": "am_b274f41bb49f",
-      "slug": "am-b274f41bb49f",
-      "name": "Altas Strength 3061B Smith Machine with Adjustable Lever Arms,...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b274f41bb49f-review.html"
-    },
-    {
-      "id": "am_bd6485f4c2dc",
-      "slug": "am-bd6485f4c2dc",
-      "name": "1.3 Ounce (Pack of 1)",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bd6485f4c2dc-review.html"
-    },
-    {
-      "id": "am_92b2b106025b",
-      "slug": "am-92b2b106025b",
-      "name": "AquaDoc Hot Tub pH Decreaser - 32oz - Spa pH Down for Water Ba...",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "23.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-92b2b106025b-review.html"
-    },
-    {
-      "id": "am_0e8dfc66110f",
-      "slug": "am-0e8dfc66110f",
-      "name": "EUXTERPA",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0e8dfc66110f-review.html"
-    },
-    {
-      "id": "am_d8c35e676d4b",
-      "slug": "am-d8c35e676d4b",
-      "name": "Sep 14, 2015",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": null,
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d8c35e676d4b-review.html"
-    },
-    {
-      "id": "am_64931cb8d15e",
-      "slug": "am-64931cb8d15e",
-      "name": "Red Metal Sneaker Wall Decor,Cute Room Decor for Teen Girls Bo...",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-64931cb8d15e-review.html"
-    },
-    {
-      "id": "am_7a598027f03c",
-      "slug": "am-7a598027f03c",
-      "name": "Rated  from 453 reviews",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7a598027f03c-review.html"
-    },
-    {
-      "id": "am_b2a1117e0ebc",
-      "slug": "am-b2a1117e0ebc",
-      "name": "Coiris",
-      "network": "amazon",
-      "niche": "fashion_shoes",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b2a1117e0ebc-review.html"
-    },
-    {
-      "id": "am_7e1a0da835de",
-      "slug": "am-7e1a0da835de",
-      "name": "Magair Air Purifier, 2026 New Plug-in Negative Ion Air Purifie...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7e1a0da835de-review.html"
-    },
-    {
-      "id": "am_20a1f9d19858",
-      "slug": "am-20a1f9d19858",
-      "name": "Only 4 left in stock - order soon.",
-      "network": "amazon",
-      "niche": "anime_collectibles",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-20a1f9d19858-review.html"
-    },
-    {
-      "id": "am_95e8c718232e",
-      "slug": "am-95e8c718232e",
-      "name": "No featured offers available",
-      "network": "amazon",
-      "niche": "amazon_sleep",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "22.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-95e8c718232e-review.html"
-    },
-    {
-      "id": "am_0e13aafc126e",
-      "slug": "am-0e13aafc126e",
-      "name": "Juicy Couture Viva La Juicy Eau De Parfum, Women&#x27;s Perfum...",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "129.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0e13aafc126e-review.html"
-    },
-    {
-      "id": "am_f100b1490a7b",
-      "slug": "am-f100b1490a7b",
-      "name": "Phoenix Fitness Exercise Dice - Workout Dice Game for Cardio,...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f100b1490a7b-review.html"
-    },
-    {
-      "id": "am_0dde1b13af02",
-      "slug": "am-0dde1b13af02",
-      "name": "Eslcorri",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0dde1b13af02-review.html"
-    },
-    {
-      "id": "am_13fb74979d00",
-      "slug": "am-13fb74979d00",
-      "name": "GOER 42 Inch 2026 Gold Foil Number Balloons for 2026 New Year...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-13fb74979d00-review.html"
-    },
-    {
-      "id": "am_70fb9927168f",
-      "slug": "am-70fb9927168f",
-      "name": "Ca&#x27;Lefort 24 Inch Wine Fridge Bundle, 122 Bottles Large C...",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "1.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-70fb9927168f-review.html"
-    },
-    {
-      "id": "am_ea2ba58bbe8f",
-      "slug": "am-ea2ba58bbe8f",
-      "name": "Nomadix Fitness",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "199.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ea2ba58bbe8f-review.html"
-    },
-    {
-      "id": "am_6e7709ebe29c",
-      "slug": "am-6e7709ebe29c",
-      "name": "Socool 20000mAh 8 Inch Portable Fan Battery Operated Fans, Osc...",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "49.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6e7709ebe29c-review.html"
-    },
-    {
-      "id": "am_e93b2336a0b2",
-      "slug": "am-e93b2336a0b2",
-      "name": "19 Piece Set",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "74.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e93b2336a0b2-review.html"
-    },
-    {
-      "id": "am_c9bee9473821",
-      "slug": "am-c9bee9473821",
-      "name": "Vintage Girl Gym Tin Sign I Workout to Burn off The Crazy Retr...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c9bee9473821-review.html"
-    },
-    {
-      "id": "am_bdcfe4182b4d",
-      "slug": "am-bdcfe4182b4d",
-      "name": "Car Seat Gap Filler 2 Pack, Universal Fit PU Leather Car Seat...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "10.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bdcfe4182b4d-review.html"
-    },
-    {
-      "id": "am_5023d626c34a",
-      "slug": "am-5023d626c34a",
-      "name": "CCCEI Standing Desk Clamp Power Strip with 15 Outlets, Widely...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5023d626c34a-review.html"
-    },
-    {
-      "id": "am_03f2dcd3d6a9",
-      "slug": "am-03f2dcd3d6a9",
-      "name": "FCSTYODO",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "12.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-03f2dcd3d6a9-review.html"
-    },
-    {
-      "id": "am_e00a3e9c8fc1",
-      "slug": "am-e00a3e9c8fc1",
-      "name": "| 4+ stars and rising in past 90 days",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "25.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e00a3e9c8fc1-review.html"
-    },
-    {
-      "id": "am_7a8972da9fc1",
-      "slug": "am-7a8972da9fc1",
-      "name": "20 Set 2026 Lab Week Gifts Bulk Lab Tech Retractable Bamboo Ba...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7a8972da9fc1-review.html"
-    },
-    {
-      "id": "am_73fd80627625",
-      "slug": "am-73fd80627625",
-      "name": "New on Amazon in past month",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-73fd80627625-review.html"
-    },
-    {
-      "id": "am_aa871ee94187",
-      "slug": "am-aa871ee94187",
-      "name": "Ad - DONOW Smith Machine with 220Lbs Weight Stacks, Multi Func...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "1.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-aa871ee94187-review.html"
-    },
-    {
-      "id": "am_0996e3644588",
-      "slug": "am-0996e3644588",
-      "name": "medicube Jelly Cream with Collagen, Niacinamide | Freeze-Dried...",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0996e3644588-review.html"
-    },
-    {
-      "id": "am_caae915bbe12",
-      "slug": "am-caae915bbe12",
-      "name": "Fresh, Citrus Aquatic",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "116.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-caae915bbe12-review.html"
-    },
-    {
-      "id": "am_16a1d0a0e63c",
-      "slug": "am-16a1d0a0e63c",
-      "name": "Smart Digital Calendar: 21.5-Inch Electronic Wall Calendars &...",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "258.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-16a1d0a0e63c-review.html"
-    },
-    {
-      "id": "am_23132b9e0736",
-      "slug": "am-23132b9e0736",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-23132b9e0736-review.html"
-    },
-    {
-      "id": "am_bc91aad6b6ee",
-      "slug": "am-bc91aad6b6ee",
-      "name": "18.21 Man Made Men\u2019s Spirits Spritzer, 3.4 oz. - Long-Lasting...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bc91aad6b6ee-review.html"
-    },
-    {
-      "id": "am_c5e75fd707f8",
-      "slug": "am-c5e75fd707f8",
-      "name": "Qimaoo",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c5e75fd707f8-review.html"
-    },
-    {
-      "id": "am_6a264159636f",
-      "slug": "am-6a264159636f",
-      "name": "CNFOOTJKY",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "34.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6a264159636f-review.html"
-    },
-    {
-      "id": "am_0d2596e21a45",
-      "slug": "am-0d2596e21a45",
-      "name": "Learning Resources Gears! Gears! Gears! Super Building Toy Set...",
-      "network": "amazon",
-      "niche": "toys_gadgets",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "45.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0d2596e21a45-review.html"
-    },
-    {
-      "id": "am_b7e2613e54be",
-      "slug": "am-b7e2613e54be",
-      "name": "Jotsome Magnetic Calendar for Refrigerator 2026-2027, Monthly...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "17.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b7e2613e54be-review.html"
-    },
-    {
-      "id": "am_985ee2d25e8f",
-      "slug": "am-985ee2d25e8f",
-      "name": "EasyGala Womens Fleece Sweatshirts Oversized Off The Shoulder...",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-985ee2d25e8f-review.html"
-    },
-    {
-      "id": "am_4c1519b2c272",
-      "slug": "am-4c1519b2c272",
-      "name": "Multifunction Car Anti-Slip Mat, 2026 Car Dashboard Mat with 3...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4c1519b2c272-review.html"
-    },
-    {
-      "id": "am_bbf37368f0e1",
-      "slug": "am-bbf37368f0e1",
-      "name": "Hoedia",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bbf37368f0e1-review.html"
-    },
-    {
-      "id": "am_348777b787bf",
-      "slug": "am-348777b787bf",
-      "name": "WIHOLL",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-348777b787bf-review.html"
-    },
-    {
-      "id": "am_e970dc5ef164",
-      "slug": "am-e970dc5ef164",
-      "name": "Ad - Cup Holder for 2025 2026 Toyota Camry Center Console Cup...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "34.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e970dc5ef164-review.html"
-    },
-    {
-      "id": "am_bd58307afd75",
-      "slug": "am-bd58307afd75",
-      "name": "Custom Car Posters",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "50.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bd58307afd75-review.html"
-    },
-    {
-      "id": "am_e370b8ac9bef",
-      "slug": "am-e370b8ac9bef",
-      "name": "Synthetic",
-      "network": "amazon",
-      "niche": "amazon_beauty",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "3.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e370b8ac9bef-review.html"
-    },
-    {
-      "id": "am_b75f65a7ba82",
-      "slug": "am-b75f65a7ba82",
-      "name": "Battery Powered",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b75f65a7ba82-review.html"
-    },
-    {
-      "id": "am_cd2d525343c1",
-      "slug": "am-cd2d525343c1",
-      "name": "capacity",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "159.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-cd2d525343c1-review.html"
-    },
-    {
-      "id": "am_77ef482982c3",
-      "slug": "am-77ef482982c3",
-      "name": "Kitchen Design Ideas: The Best Remodeling, Renovation and Deco...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": null,
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-77ef482982c3-review.html"
-    },
-    {
-      "id": "am_9efc56dc6e29",
-      "slug": "am-9efc56dc6e29",
-      "name": "FVCENT",
-      "network": "amazon",
-      "niche": "anime_collectibles",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "7.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9efc56dc6e29-review.html"
-    },
-    {
-      "id": "am_5bc72e98f7d6",
-      "slug": "am-5bc72e98f7d6",
-      "name": "XGSW XINGESIWR Multi-Purpose Squat Rack,Smith Machine Weight R...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "1.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5bc72e98f7d6-review.html"
-    },
-    {
-      "id": "am_3efe99581121",
-      "slug": "am-3efe99581121",
-      "name": "Create Your Own Cozy: 100 Practical Ways to Love Your Home and...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3efe99581121-review.html"
-    },
-    {
-      "id": "am_f0bcd9ea6615",
-      "slug": "am-f0bcd9ea6615",
-      "name": "Kapsen",
-      "network": "amazon",
-      "niche": "anime_collectibles",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f0bcd9ea6615-review.html"
-    },
-    {
-      "id": "am_b495dd5b9da4",
-      "slug": "am-b495dd5b9da4",
-      "name": "Extra Deep Cal King Fitted Sheet - Hotel Luxury Single Fitted...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b495dd5b9da4-review.html"
-    },
-    {
-      "id": "am_e79900230029",
-      "slug": "am-e79900230029",
-      "name": "17 Fl Oz (Pack of 2)",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e79900230029-review.html"
-    },
-    {
-      "id": "am_a4af8ccd7736",
-      "slug": "am-a4af8ccd7736",
-      "name": "35 Medicinal & Tea Herb Seeds Variety Pack for Indoor & Outdoo...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a4af8ccd7736-review.html"
-    },
-    {
-      "id": "am_ce7590461f64",
-      "slug": "am-ce7590461f64",
-      "name": "Sweet",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ce7590461f64-review.html"
-    },
-    {
-      "id": "am_4ddd5a2d5ca6",
-      "slug": "am-4ddd5a2d5ca6",
-      "name": "Tailored Canvases Personalized Gym Sign Wall Art Decor - Motiv...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "79.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4ddd5a2d5ca6-review.html"
-    },
-    {
       "id": "am_b9114551838f",
       "slug": "am-b9114551838f",
       "name": "18.21 Man Made Hair, Skin & Beard Oil for Men, 4 Scents - Non-...",
@@ -2585,6 +1225,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-73b615410253-review.html"
     },
     {
+      "id": "am_5bad5a517f33",
+      "slug": "am-5bad5a517f33",
+      "name": "Party-Decorations",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5bad5a517f33-review.html"
+    },
+    {
       "id": "am_2047581cfbd0",
       "slug": "am-2047581cfbd0",
       "name": "Best Seller",
@@ -2670,6 +1327,91 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-85caee7aade9-review.html"
     },
     {
+      "id": "am_3e12274f86f4",
+      "slug": "am-3e12274f86f4",
+      "name": "Plastic",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3e12274f86f4-review.html"
+    },
+    {
+      "id": "am_b0612c13b22e",
+      "slug": "am-b0612c13b22e",
+      "name": "OLUKAI Lae&#x27;ahi Li &#x27;Ili Men&#x27;s Waterproof Leather...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "149.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b0612c13b22e-review.html"
+    },
+    {
+      "id": "am_f64e32ffd933",
+      "slug": "am-f64e32ffd933",
+      "name": "Rolling Tool Box with Wheels Heavy Duty,Modular Stackable Tool...",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "159.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f64e32ffd933-review.html"
+    },
+    {
+      "id": "am_a2ebe0b6e025",
+      "slug": "am-a2ebe0b6e025",
+      "name": "Joomra Men&#x27;s Stylish Sneakers High Top Athletic-Inspired...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "43.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a2ebe0b6e025-review.html"
+    },
+    {
+      "id": "am_ac94e97a12ea",
+      "slug": "am-ac94e97a12ea",
+      "name": "1 Fl Oz (Pack of 3)",
+      "network": "amazon",
+      "niche": "anime_collectibles",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "24.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ac94e97a12ea-review.html"
+    },
+    {
       "id": "am_5b9c6706f33e",
       "slug": "am-5b9c6706f33e",
       "name": "View  information or leave ad feedback",
@@ -2685,6 +1427,40 @@
       "price": "35.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5b9c6706f33e-review.html"
+    },
+    {
+      "id": "am_2b4bf379769c",
+      "slug": "am-2b4bf379769c",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-2b4bf379769c-review.html"
+    },
+    {
+      "id": "am_30f47bee7291",
+      "slug": "am-30f47bee7291",
+      "name": "Motorsport Racing Car Lovers",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-30f47bee7291-review.html"
     },
     {
       "id": "am_b7fdd7148173",
@@ -2704,6 +1480,159 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b7fdd7148173-review.html"
     },
     {
+      "id": "am_43c12f05e2fd",
+      "slug": "am-43c12f05e2fd",
+      "name": "NEWKA",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-43c12f05e2fd-review.html"
+    },
+    {
+      "id": "am_a4ffb6806125",
+      "slug": "am-a4ffb6806125",
+      "name": "poemlady Women\u2019s Ballet Flat Shoes Dress Shoes Knit Round Toe...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "31.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a4ffb6806125-review.html"
+    },
+    {
+      "id": "am_074f888cf7c1",
+      "slug": "am-074f888cf7c1",
+      "name": "Ca&#x27;Lefort 24 Inch Wine Fridge, 52 Bottles Dual Zone 40-65...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "899.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-074f888cf7c1-review.html"
+    },
+    {
+      "id": "am_9126fce102c9",
+      "slug": "am-9126fce102c9",
+      "name": "Top Tech 2026: The Definitive Guide to High-Quality, Industry-...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9126fce102c9-review.html"
+    },
+    {
+      "id": "am_555bb99ce26d",
+      "slug": "am-555bb99ce26d",
+      "name": "Learning Resources Gears 100-Piece Deluxe Building Set -STEM A...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "27.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-555bb99ce26d-review.html"
+    },
+    {
+      "id": "am_528ea82bf1eb",
+      "slug": "am-528ea82bf1eb",
+      "name": "Ad - Amazon Echo Auto | Add Alexa+",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "54.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-528ea82bf1eb-review.html"
+    },
+    {
+      "id": "am_309a6c8e3291",
+      "slug": "am-309a6c8e3291",
+      "name": "1 count (Pack of 1)",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-309a6c8e3291-review.html"
+    },
+    {
+      "id": "am_1e6e5c3dc5f2",
+      "slug": "am-1e6e5c3dc5f2",
+      "name": "YGMONER Pink Fuzzy Dice for Car Rear View Mirror, Pair of 2.75...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-1e6e5c3dc5f2-review.html"
+    },
+    {
+      "id": "am_4db80908a2ce",
+      "slug": "am-4db80908a2ce",
+      "name": "Lavender",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4db80908a2ce-review.html"
+    },
+    {
       "id": "am_c994de45c618",
       "slug": "am-c994de45c618",
       "name": "Stainless Steel",
@@ -2719,6 +1648,23 @@
       "price": "19.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c994de45c618-review.html"
+    },
+    {
+      "id": "am_c9bee9473821",
+      "slug": "am-c9bee9473821",
+      "name": "Vintage Girl Gym Tin Sign I Workout to Burn off The Crazy Retr...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c9bee9473821-review.html"
     },
     {
       "id": "am_10ad7a0b9cfc",
@@ -2755,23 +1701,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-109ed01ff136-review.html"
     },
     {
-      "id": "am_d609264eaf30",
-      "slug": "am-d609264eaf30",
-      "name": "IRONZON Fingerprint Door Lock Smart Door Lock with Keypad Keyl...",
-      "network": "amazon",
-      "niche": "home_appliances",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "32.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d609264eaf30-review.html"
-    },
-    {
       "id": "am_dca728433a3f",
       "slug": "am-dca728433a3f",
       "name": "Feather & Stitch 500 TC King Size Damask Bed Sheet Set, 100% C...",
@@ -2789,6 +1718,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-dca728433a3f-review.html"
     },
     {
+      "id": "am_f95b950cd1fb",
+      "slug": "am-f95b950cd1fb",
+      "name": "SincMill Home Gym Multifunctional Full Body Workout Equipment...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "579.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f95b950cd1fb-review.html"
+    },
+    {
       "id": "am_0f6c5eb1c4fd",
       "slug": "am-0f6c5eb1c4fd",
       "name": "KIMMOO Portable Clip on Fan, 100-Speed Rechargeable USB Fan wi...",
@@ -2804,6 +1750,40 @@
       "price": "23.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0f6c5eb1c4fd-review.html"
+    },
+    {
+      "id": "am_47dc43fccc14",
+      "slug": "am-47dc43fccc14",
+      "name": "EUXTERPA",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-47dc43fccc14-review.html"
+    },
+    {
+      "id": "am_82fc31d1cbdd",
+      "slug": "am-82fc31d1cbdd",
+      "name": "Custom Graduation Banner Class of 2026 with Picture and Name,...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-82fc31d1cbdd-review.html"
     },
     {
       "id": "am_2a60f4212118",
@@ -2840,6 +1820,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7f52e450fa27-review.html"
     },
     {
+      "id": "am_0d2596e21a45",
+      "slug": "am-0d2596e21a45",
+      "name": "Learning Resources Gears! Gears! Gears! Super Building Toy Set...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "45.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0d2596e21a45-review.html"
+    },
+    {
       "id": "am_d5b7ba29d825",
       "slug": "am-d5b7ba29d825",
       "name": "KMYZQDV",
@@ -2855,23 +1852,6 @@
       "price": "6.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d5b7ba29d825-review.html"
-    },
-    {
-      "id": "am_9d96f9294f6d",
-      "slug": "am-9d96f9294f6d",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9d96f9294f6d-review.html"
     },
     {
       "id": "am_ec7774801d62",
@@ -2942,23 +1922,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-433fccf21f2a-review.html"
     },
     {
-      "id": "am_fc259e36e4d9",
-      "slug": "am-fc259e36e4d9",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "27.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-fc259e36e4d9-review.html"
-    },
-    {
       "id": "am_c29297cb00f1",
       "slug": "am-c29297cb00f1",
       "name": "Alternating Current",
@@ -2976,11 +1939,11 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c29297cb00f1-review.html"
     },
     {
-      "id": "am_c9222fbde46c",
-      "slug": "am-c9222fbde46c",
-      "name": "View  information or leave ad feedback",
+      "id": "am_f2f93752ece1",
+      "slug": "am-f2f93752ece1",
+      "name": "Socool Camping Fan with Light - 20000mAh Rechargeable Battery...",
       "network": "amazon",
-      "niche": "home_wellness",
+      "niche": "outdoor_gear",
       "score": 75.0,
       "tier": "B",
       "rating": {
@@ -2988,16 +1951,16 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "37.0",
+      "price": "49.0",
       "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c9222fbde46c-review.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f2f93752ece1-review.html"
     },
     {
-      "id": "am_b6b31d61b11f",
-      "slug": "am-b6b31d61b11f",
-      "name": "AIIONP Multifunction Car Anti-Slip Mat, 360\u00b0 Rotatable Mobile...",
+      "id": "am_52bfb373dfc3",
+      "slug": "am-52bfb373dfc3",
+      "name": "Nexjy",
       "network": "amazon",
-      "niche": "amazon_home",
+      "niche": "garden_tools",
       "score": 75.0,
       "tier": "B",
       "rating": {
@@ -3005,9 +1968,9 @@
         "value": 4.4,
         "stars": 4
       },
-      "price": "25.0",
+      "price": "24.0",
       "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b6b31d61b11f-review.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-52bfb373dfc3-review.html"
     },
     {
       "id": "am_721962917f2d",
@@ -3044,6 +2007,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-51f441125c9f-review.html"
     },
     {
+      "id": "am_a9c4cde031ad",
+      "slug": "am-a9c4cde031ad",
+      "name": "Italy Do\u2019s & Don\u2019ts Travel Guide: Practical Etiquette, Cultura...",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a9c4cde031ad-review.html"
+    },
+    {
       "id": "am_19b83ecabf5d",
       "slug": "am-19b83ecabf5d",
       "name": "ALEADER Women&#x27;s Energycloud Lightweight Slip On Walking R...",
@@ -3059,6 +2039,74 @@
       "price": "45.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-19b83ecabf5d-review.html"
+    },
+    {
+      "id": "am_57d5901cb172",
+      "slug": "am-57d5901cb172",
+      "name": "Disney",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-57d5901cb172-review.html"
+    },
+    {
+      "id": "am_c76a96119950",
+      "slug": "am-c76a96119950",
+      "name": "1 Count (Pack of 1)",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c76a96119950-review.html"
+    },
+    {
+      "id": "am_50c5d2ceeed7",
+      "slug": "am-50c5d2ceeed7",
+      "name": "Petlori Dog Toy, Four Styles Linen Companions with Squeaker, L...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-50c5d2ceeed7-review.html"
+    },
+    {
+      "id": "am_ddeeea9f3357",
+      "slug": "am-ddeeea9f3357",
+      "name": "Rated  from 1,306 reviews",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ddeeea9f3357-review.html"
     },
     {
       "id": "am_76f36ac5fa62",
@@ -3078,6 +2126,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-76f36ac5fa62-review.html"
     },
     {
+      "id": "am_d609264eaf30",
+      "slug": "am-d609264eaf30",
+      "name": "IRONZON Fingerprint Door Lock Smart Door Lock with Keypad Keyl...",
+      "network": "amazon",
+      "niche": "home_appliances",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "32.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d609264eaf30-review.html"
+    },
+    {
       "id": "am_f3173624c712",
       "slug": "am-f3173624c712",
       "name": "36 Pcs DIY Modeling Hobby Tool Kit, Basic Modeler Craft Set, D...",
@@ -3093,6 +2158,125 @@
       "price": "13.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f3173624c712-review.html"
+    },
+    {
+      "id": "am_914b13e738e7",
+      "slug": "am-914b13e738e7",
+      "name": "WNOEY Cable Machine Attachment, Cable Attachments for Gym, Gym...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "116.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-914b13e738e7-review.html"
+    },
+    {
+      "id": "am_ca7e353f9fb7",
+      "slug": "am-ca7e353f9fb7",
+      "name": "16 Piece Set",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "52.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ca7e353f9fb7-review.html"
+    },
+    {
+      "id": "am_964f49cc1523",
+      "slug": "am-964f49cc1523",
+      "name": "CT Tech Est 2026 Computed Tomography Technologist Graduation C...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-964f49cc1523-review.html"
+    },
+    {
+      "id": "am_ca1686a37e7f",
+      "slug": "am-ca1686a37e7f",
+      "name": "Rated  from 453 reviews",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ca1686a37e7f-review.html"
+    },
+    {
+      "id": "am_31a56af3c3a7",
+      "slug": "am-31a56af3c3a7",
+      "name": "Outdoor Kitchen Ideas that Work",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-31a56af3c3a7-review.html"
+    },
+    {
+      "id": "am_d64334bd2919",
+      "slug": "am-d64334bd2919",
+      "name": "SPRFUFLY U-Shaped Car Headrest Pillow for Sleeping, 100% Memor...",
+      "network": "amazon",
+      "niche": "amazon_sleep",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "24.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d64334bd2919-review.html"
+    },
+    {
+      "id": "am_ed94dd9523b4",
+      "slug": "am-ed94dd9523b4",
+      "name": "MLB 2026 TOPPS Series 1 Baseball MEGA Box",
+      "network": "amazon",
+      "niche": "amazon_soccer",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "74.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ed94dd9523b4-review.html"
     },
     {
       "id": "am_39dd2ac9689e",
@@ -3129,6 +2313,40 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-42b7286ebbe2-review.html"
     },
     {
+      "id": "am_7ebf4b246cfc",
+      "slug": "am-7ebf4b246cfc",
+      "name": "BORLENI Leather Motorcycle Breathable Riding Shoes - Casual Ou...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "98.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7ebf4b246cfc-review.html"
+    },
+    {
+      "id": "am_297c08333d3d",
+      "slug": "am-297c08333d3d",
+      "name": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial P...",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-297c08333d3d-review.html"
+    },
+    {
       "id": "am_8fbfc0287ed1",
       "slug": "am-8fbfc0287ed1",
       "name": "Best Seller",
@@ -3146,6 +2364,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-8fbfc0287ed1-review.html"
     },
     {
+      "id": "am_9d96f9294f6d",
+      "slug": "am-9d96f9294f6d",
+      "name": "Amazon&#x27;s Choice: Overall Pick",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9d96f9294f6d-review.html"
+    },
+    {
       "id": "am_b981d44be606",
       "slug": "am-b981d44be606",
       "name": "View  information or leave ad feedback",
@@ -3161,6 +2396,159 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b981d44be606-review.html"
+    },
+    {
+      "id": "am_6535bcb96471",
+      "slug": "am-6535bcb96471",
+      "name": "TPOB Play Barber Hair Clippers for Men 7500 RPM with Rubber Gr...",
+      "network": "amazon",
+      "niche": "grooming_tools",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "184.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6535bcb96471-review.html"
+    },
+    {
+      "id": "am_e236790353b0",
+      "slug": "am-e236790353b0",
+      "name": "Ufree Beard Trimmer for Men, Electric Razor Shaver, Cordless H...",
+      "network": "amazon",
+      "niche": "grooming_tools",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "33.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e236790353b0-review.html"
+    },
+    {
+      "id": "am_58bdc30ef489",
+      "slug": "am-58bdc30ef489",
+      "name": "O HUI Miracle Moisture 777 Ampoules | Improves Skin Texture |...",
+      "network": "amazon",
+      "niche": "beauty_skincare",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "135.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-58bdc30ef489-review.html"
+    },
+    {
+      "id": "am_b274f41bb49f",
+      "slug": "am-b274f41bb49f",
+      "name": "Altas Strength 3061B Smith Machine with Adjustable Lever Arms,...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b274f41bb49f-review.html"
+    },
+    {
+      "id": "am_fc259e36e4d9",
+      "slug": "am-fc259e36e4d9",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "27.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-fc259e36e4d9-review.html"
+    },
+    {
+      "id": "am_bd6485f4c2dc",
+      "slug": "am-bd6485f4c2dc",
+      "name": "1.3 Ounce (Pack of 1)",
+      "network": "amazon",
+      "niche": "beauty_grooming",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bd6485f4c2dc-review.html"
+    },
+    {
+      "id": "am_c9222fbde46c",
+      "slug": "am-c9222fbde46c",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_wellness",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "37.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c9222fbde46c-review.html"
+    },
+    {
+      "id": "am_b6b31d61b11f",
+      "slug": "am-b6b31d61b11f",
+      "name": "AIIONP Multifunction Car Anti-Slip Mat, 360\u00b0 Rotatable Mobile...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "25.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b6b31d61b11f-review.html"
+    },
+    {
+      "id": "am_92b2b106025b",
+      "slug": "am-92b2b106025b",
+      "name": "AquaDoc Hot Tub pH Decreaser - 32oz - Spa pH Down for Water Ba...",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "23.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-92b2b106025b-review.html"
     },
     {
       "id": "am_f0012623fd4f",
@@ -3452,40 +2840,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-407dde6a9ec0-review.html"
     },
     {
-      "id": "am_1e6e5c3dc5f2",
-      "slug": "am-1e6e5c3dc5f2",
-      "name": "YGMONER Pink Fuzzy Dice for Car Rear View Mirror, Pair of 2.75...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-1e6e5c3dc5f2-review.html"
-    },
-    {
-      "id": "am_a9c4cde031ad",
-      "slug": "am-a9c4cde031ad",
-      "name": "Italy Do\u2019s & Don\u2019ts Travel Guide: Practical Etiquette, Cultura...",
-      "network": "amazon",
-      "niche": "home_wellness",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "21.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a9c4cde031ad-review.html"
-    },
-    {
       "id": "am_53f40a9585b6",
       "slug": "am-53f40a9585b6",
       "name": "Jushope Interior Car LED Strip Lights, Acrylic LED Lights for...",
@@ -3503,23 +2857,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-53f40a9585b6-review.html"
     },
     {
-      "id": "am_57d5901cb172",
-      "slug": "am-57d5901cb172",
-      "name": "Disney",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-57d5901cb172-review.html"
-    },
-    {
       "id": "am_c050c6783187",
       "slug": "am-c050c6783187",
       "name": "View  information or leave ad feedback",
@@ -3535,23 +2872,6 @@
       "price": "109.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c050c6783187-review.html"
-    },
-    {
-      "id": "am_4db80908a2ce",
-      "slug": "am-4db80908a2ce",
-      "name": "Lavender",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4db80908a2ce-review.html"
     },
     {
       "id": "am_35ddaccba729",
@@ -3705,6 +3025,23 @@
       "price": "99.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-961017e3dac6-review.html"
+    },
+    {
+      "id": "am_0e8dfc66110f",
+      "slug": "am-0e8dfc66110f",
+      "name": "EUXTERPA",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0e8dfc66110f-review.html"
     },
     {
       "id": "am_a8bbd2b52c9d",
@@ -5628,91 +4965,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f9ed611940be-review.html"
     },
     {
-      "id": "am_50c5d2ceeed7",
-      "slug": "am-50c5d2ceeed7",
-      "name": "Petlori Dog Toy, Four Styles Linen Companions with Squeaker, L...",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-50c5d2ceeed7-review.html"
-    },
-    {
-      "id": "am_f95b950cd1fb",
-      "slug": "am-f95b950cd1fb",
-      "name": "SincMill Home Gym Multifunctional Full Body Workout Equipment...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "579.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f95b950cd1fb-review.html"
-    },
-    {
-      "id": "am_914b13e738e7",
-      "slug": "am-914b13e738e7",
-      "name": "WNOEY Cable Machine Attachment, Cable Attachments for Gym, Gym...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "116.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-914b13e738e7-review.html"
-    },
-    {
-      "id": "am_82fc31d1cbdd",
-      "slug": "am-82fc31d1cbdd",
-      "name": "Custom Graduation Banner Class of 2026 with Picture and Name,...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-82fc31d1cbdd-review.html"
-    },
-    {
-      "id": "am_964f49cc1523",
-      "slug": "am-964f49cc1523",
-      "name": "CT Tech Est 2026 Computed Tomography Technologist Graduation C...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "17.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-964f49cc1523-review.html"
-    },
-    {
       "id": "am_25e507c12290",
       "slug": "am-25e507c12290",
       "name": ", rating details",
@@ -5762,6 +5014,40 @@
       "price": "229.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-65b255d26eb3-review.html"
+    },
+    {
+      "id": "am_d8c35e676d4b",
+      "slug": "am-d8c35e676d4b",
+      "name": "Sep 14, 2015",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d8c35e676d4b-review.html"
+    },
+    {
+      "id": "am_64931cb8d15e",
+      "slug": "am-64931cb8d15e",
+      "name": "Red Metal Sneaker Wall Decor,Cute Room Decor for Teen Girls Bo...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-64931cb8d15e-review.html"
     },
     {
       "id": "am_52d7001e0f72",
@@ -5968,6 +5254,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3219183b74a6-review.html"
     },
     {
+      "id": "am_7a598027f03c",
+      "slug": "am-7a598027f03c",
+      "name": "Rated  from 453 reviews",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7a598027f03c-review.html"
+    },
+    {
       "id": "am_48f64cd95462",
       "slug": "am-48f64cd95462",
       "name": "Brooks",
@@ -5983,6 +5286,23 @@
       "price": "171.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-48f64cd95462-review.html"
+    },
+    {
+      "id": "am_b2a1117e0ebc",
+      "slug": "am-b2a1117e0ebc",
+      "name": "Coiris",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b2a1117e0ebc-review.html"
     },
     {
       "id": "am_1b1e3693c8cf",
@@ -6017,6 +5337,23 @@
       "price": "15.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-45213830d28e-review.html"
+    },
+    {
+      "id": "am_7e1a0da835de",
+      "slug": "am-7e1a0da835de",
+      "name": "Magair Air Purifier, 2026 New Plug-in Negative Ion Air Purifie...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7e1a0da835de-review.html"
     },
     {
       "id": "am_6435d2b2b730",
@@ -6172,6 +5509,23 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-68c5f08bee7d-review.html"
     },
     {
+      "id": "am_20a1f9d19858",
+      "slug": "am-20a1f9d19858",
+      "name": "Only 4 left in stock - order soon.",
+      "network": "amazon",
+      "niche": "anime_collectibles",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-20a1f9d19858-review.html"
+    },
+    {
       "id": "am_7c45115faef7",
       "slug": "am-7c45115faef7",
       "name": "BANGE Man Sling Bag,Mens Sling Bags Crossbody",
@@ -6223,23 +5577,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b88ecdb2c8b8-review.html"
     },
     {
-      "id": "am_297c08333d3d",
-      "slug": "am-297c08333d3d",
-      "name": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial P...",
-      "network": "amazon",
-      "niche": "beauty_skincare",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-297c08333d3d-review.html"
-    },
-    {
       "id": "am_3ba520b2a5a9",
       "slug": "am-3ba520b2a5a9",
       "name": "Smoothing, Moisturizing",
@@ -6255,23 +5592,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3ba520b2a5a9-review.html"
-    },
-    {
-      "id": "am_6535bcb96471",
-      "slug": "am-6535bcb96471",
-      "name": "TPOB Play Barber Hair Clippers for Men 7500 RPM with Rubber Gr...",
-      "network": "amazon",
-      "niche": "grooming_tools",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "184.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6535bcb96471-review.html"
     },
     {
       "id": "am_a1c3d9ec7500",
@@ -6410,6 +5730,57 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4d606e192532-review.html"
     },
     {
+      "id": "am_0e13aafc126e",
+      "slug": "am-0e13aafc126e",
+      "name": "Juicy Couture Viva La Juicy Eau De Parfum, Women&#x27;s Perfum...",
+      "network": "amazon",
+      "niche": "fragrance",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "129.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0e13aafc126e-review.html"
+    },
+    {
+      "id": "am_f100b1490a7b",
+      "slug": "am-f100b1490a7b",
+      "name": "Phoenix Fitness Exercise Dice - Workout Dice Game for Cardio,...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f100b1490a7b-review.html"
+    },
+    {
+      "id": "am_95e8c718232e",
+      "slug": "am-95e8c718232e",
+      "name": "No featured offers available",
+      "network": "amazon",
+      "niche": "amazon_sleep",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "22.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-95e8c718232e-review.html"
+    },
+    {
       "id": "am_e841e842bd20",
       "slug": "am-e841e842bd20",
       "name": "1 Count (Pack of 1)",
@@ -6495,23 +5866,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-c54beabc8e94-review.html"
     },
     {
-      "id": "am_e236790353b0",
-      "slug": "am-e236790353b0",
-      "name": "Ufree Beard Trimmer for Men, Electric Razor Shaver, Cordless H...",
-      "network": "amazon",
-      "niche": "grooming_tools",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "33.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e236790353b0-review.html"
-    },
-    {
       "id": "am_56a0e378932f",
       "slug": "am-56a0e378932f",
       "name": "Nov 21, 2025",
@@ -6544,23 +5898,6 @@
       "price": "15.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a5ba72c6665d-review.html"
-    },
-    {
-      "id": "am_58bdc30ef489",
-      "slug": "am-58bdc30ef489",
-      "name": "O HUI Miracle Moisture 777 Ampoules | Improves Skin Texture |...",
-      "network": "amazon",
-      "niche": "beauty_skincare",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "135.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-58bdc30ef489-review.html"
     },
     {
       "id": "am_0a96e32bd650",
@@ -7360,6 +6697,23 @@
       "price": "109.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7abfa9ab4626-review.html"
+    },
+    {
+      "id": "am_0dde1b13af02",
+      "slug": "am-0dde1b13af02",
+      "name": "Eslcorri",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0dde1b13af02-review.html"
     },
     {
       "id": "am_38783845d148",
@@ -8195,6 +7549,57 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bcf6f678d815-review.html"
     },
     {
+      "id": "am_13fb74979d00",
+      "slug": "am-13fb74979d00",
+      "name": "GOER 42 Inch 2026 Gold Foil Number Balloons for 2026 New Year...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-13fb74979d00-review.html"
+    },
+    {
+      "id": "am_70fb9927168f",
+      "slug": "am-70fb9927168f",
+      "name": "Ca&#x27;Lefort 24 Inch Wine Fridge Bundle, 122 Bottles Large C...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "1.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-70fb9927168f-review.html"
+    },
+    {
+      "id": "am_ea2ba58bbe8f",
+      "slug": "am-ea2ba58bbe8f",
+      "name": "Nomadix Fitness",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "199.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ea2ba58bbe8f-review.html"
+    },
+    {
       "id": "am_e46a7728c82d",
       "slug": "am-e46a7728c82d",
       "name": "GardenHOME 5-Piece Gardening Tool Kit with Gloves \u2013 Durable Fl...",
@@ -8210,6 +7615,74 @@
       "price": "23.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e46a7728c82d-review.html"
+    },
+    {
+      "id": "am_6e7709ebe29c",
+      "slug": "am-6e7709ebe29c",
+      "name": "Socool 20000mAh 8 Inch Portable Fan Battery Operated Fans, Osc...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6e7709ebe29c-review.html"
+    },
+    {
+      "id": "am_e93b2336a0b2",
+      "slug": "am-e93b2336a0b2",
+      "name": "19 Piece Set",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "74.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e93b2336a0b2-review.html"
+    },
+    {
+      "id": "am_bdcfe4182b4d",
+      "slug": "am-bdcfe4182b4d",
+      "name": "Car Seat Gap Filler 2 Pack, Universal Fit PU Leather Car Seat...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "10.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bdcfe4182b4d-review.html"
+    },
+    {
+      "id": "am_5023d626c34a",
+      "slug": "am-5023d626c34a",
+      "name": "CCCEI Standing Desk Clamp Power Strip with 15 Outlets, Widely...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5023d626c34a-review.html"
     },
     {
       "id": "am_c6e016059048",
@@ -8499,8 +7972,535 @@
       "price": "8.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-a088f2f6cbfb-review.html"
+    },
+    {
+      "id": "am_5ac75c41a4d8",
+      "slug": "am-5ac75c41a4d8",
+      "name": "Naggoo",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5ac75c41a4d8-review.html"
+    },
+    {
+      "id": "am_4fe8993078d6",
+      "slug": "am-4fe8993078d6",
+      "name": "New on Amazon in past month",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-4fe8993078d6-review.html"
+    },
+    {
+      "id": "am_8f66f51973e0",
+      "slug": "am-8f66f51973e0",
+      "name": "CLRZOL Automatic Needle Threader",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-8f66f51973e0-review.html"
+    },
+    {
+      "id": "am_e3bb4b4b8d61",
+      "slug": "am-e3bb4b4b8d61",
+      "name": "2026 New Dog Toys with Squeaker and Crinkle, Upgrade Indestruc...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e3bb4b4b8d61-review.html"
+    },
+    {
+      "id": "am_f5e688a78d35",
+      "slug": "am-f5e688a78d35",
+      "name": "Primitives by Kathy 22200 Classic Box Sign, 4 x 3.5-Inches, Co...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f5e688a78d35-review.html"
+    },
+    {
+      "id": "am_d7a24e7ea781",
+      "slug": "am-d7a24e7ea781",
+      "name": "Spray",
+      "network": "amazon",
+      "niche": "fragrance",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d7a24e7ea781-review.html"
+    },
+    {
+      "id": "am_efcdd667ab9f",
+      "slug": "am-efcdd667ab9f",
+      "name": "Chuckit! Interactive Dog Toy Ultra Fetch Stick - 12 Inch Outdo...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-efcdd667ab9f-review.html"
+    },
+    {
+      "id": "am_ed80c3012cbc",
+      "slug": "am-ed80c3012cbc",
+      "name": "Simple Shapes 2: Made into Cute Collectibles - Bold and Easy C...",
+      "network": "amazon",
+      "niche": "anime_collectibles",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ed80c3012cbc-review.html"
+    },
+    {
+      "id": "am_58da9ca89756",
+      "slug": "am-58da9ca89756",
+      "name": "COKAFIL",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-58da9ca89756-review.html"
+    },
+    {
+      "id": "am_7975fa6fd652",
+      "slug": "am-7975fa6fd652",
+      "name": "iFixit Prying and Opening Tool Assortment - Electronics, Phone...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7975fa6fd652-review.html"
+    },
+    {
+      "id": "am_7fb8e6e43535",
+      "slug": "am-7fb8e6e43535",
+      "name": "Ad - SPOTMINDERS Apple MFi Certified Wallet Tracker Works With...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-7fb8e6e43535-review.html"
+    },
+    {
+      "id": "am_8befb73a7ea5",
+      "slug": "am-8befb73a7ea5",
+      "name": "Travel Vacuum Bags for Clothing with Rechargeable Electric Pum...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "35.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-8befb73a7ea5-review.html"
+    },
+    {
+      "id": "am_6a8f8ea0a995",
+      "slug": "am-6a8f8ea0a995",
+      "name": "Disney Pixar Cars 1:55 Scale Jackson Storm Hauler Transporter...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "69.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6a8f8ea0a995-review.html"
+    },
+    {
+      "id": "am_f882c926d67a",
+      "slug": "am-f882c926d67a",
+      "name": "Sportybella",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f882c926d67a-review.html"
+    },
+    {
+      "id": "am_9ddd1cf4dae1",
+      "slug": "am-9ddd1cf4dae1",
+      "name": "5 Piece Set",
+      "network": "amazon",
+      "niche": "anime_collectibles",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "21.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-9ddd1cf4dae1-review.html"
+    },
+    {
+      "id": "am_0bc98892b058",
+      "slug": "am-0bc98892b058",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "99.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-0bc98892b058-review.html"
+    },
+    {
+      "id": "am_53aff7e40c45",
+      "slug": "am-53aff7e40c45",
+      "name": "LIWYLU",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-53aff7e40c45-review.html"
+    },
+    {
+      "id": "am_d140b83bcf2c",
+      "slug": "am-d140b83bcf2c",
+      "name": "Pamlulu Dog Chew Toys Dog Toothbrush Stick Teeth Cleaning Brus...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-d140b83bcf2c-review.html"
+    },
+    {
+      "id": "am_f7f6e2d62ab8",
+      "slug": "am-f7f6e2d62ab8",
+      "name": "YOYODANCE",
+      "network": "amazon",
+      "niche": "jewelry",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-f7f6e2d62ab8-review.html"
+    },
+    {
+      "id": "am_63ce97cd6d52",
+      "slug": "am-63ce97cd6d52",
+      "name": "BAGSMART Tennis Gym Bag for Women, Tennis Backpack Holds 2 Rac...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "27.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-63ce97cd6d52-review.html"
+    },
+    {
+      "id": "am_e4f49ec496c6",
+      "slug": "am-e4f49ec496c6",
+      "name": "Altas Strength Smith Machine Home Gym 1000 lbs Capacity 2000 l...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-e4f49ec496c6-review.html"
+    },
+    {
+      "id": "am_dac8275f98f6",
+      "slug": "am-dac8275f98f6",
+      "name": "New on Amazon in past month",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-dac8275f98f6-review.html"
+    },
+    {
+      "id": "am_35b86165526a",
+      "slug": "am-35b86165526a",
+      "name": "3.3 Fl Oz (Pack of 4)",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "45.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-35b86165526a-review.html"
+    },
+    {
+      "id": "am_016d03620789",
+      "slug": "am-016d03620789",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-016d03620789-review.html"
+    },
+    {
+      "id": "am_ccc5a1ae4e25",
+      "slug": "am-ccc5a1ae4e25",
+      "name": "365 Days of Shoes Picture-A-Day\u00ae Wall Calendar 2026: An Obsess...",
+      "network": "amazon",
+      "niche": "fashion_shoes",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-ccc5a1ae4e25-review.html"
+    },
+    {
+      "id": "am_6863660cb940",
+      "slug": "am-6863660cb940",
+      "name": "GOER 42 Inch 2026 Red Foil Number Balloons for 2026 New Year E...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-6863660cb940-review.html"
+    },
+    {
+      "id": "am_23e46ec4e0bf",
+      "slug": "am-23e46ec4e0bf",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "99.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-23e46ec4e0bf-review.html"
+    },
+    {
+      "id": "am_954fde2ce311",
+      "slug": "am-954fde2ce311",
+      "name": "New on Amazon in past month",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-954fde2ce311-review.html"
+    },
+    {
+      "id": "am_5a48eb610e2c",
+      "slug": "am-5a48eb610e2c",
+      "name": "24 Inch",
+      "network": "amazon",
+      "niche": "jewelry",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-5a48eb610e2c-review.html"
+    },
+    {
+      "id": "am_579581370f40",
+      "slug": "am-579581370f40",
+      "name": "EasyGala Womens Fleece Sweatshirts Oversized Henley Neck Long...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "24.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-579581370f40-review.html"
+    },
+    {
+      "id": "am_67f7558c7a63",
+      "slug": "am-67f7558c7a63",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-67f7558c7a63-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-04T23:17:27.758480+00:00"
+  "generated_at": "2026-04-04T23:33:54.844242+00:00"
 }
