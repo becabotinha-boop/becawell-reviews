@@ -3,52 +3,141 @@
     {
       "id": "amazon_home",
       "slug": "amazon-home",
-      "product_count": 22,
+      "product_count": 24,
       "top_products": [
         "am_b4877392055b",
         "am_ba8a458ecde3",
-        "am_4d8f6879c7ea",
         "am_35b86165526a",
-        "am_cf2f33f01383",
-        "am_aa871ee94187",
-        "am_bc91aad6b6ee",
-        "am_e4f49ec496c6",
-        "am_6fdd79c5db86",
-        "am_c9b651c07fe8"
+        "am_d34deea09ab9",
+        "am_a99f06e2c94c",
+        "am_fe8a6f95b90e",
+        "am_837a081e37b9",
+        "am_0d87d5cb8e05",
+        "am_51dd4ccf2e8d",
+        "am_b6b31d61b11f"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_home.html"
     },
     {
       "id": "family_fashion",
       "slug": "family-fashion",
-      "product_count": 29,
+      "product_count": 36,
       "top_products": [
         "am_a93b509348c6",
         "am_0873db1699c2",
-        "am_20f9c59ff054",
-        "am_cebffc191218",
-        "am_3d19fdc779bd",
-        "am_70fb9927168f",
         "am_579581370f40",
-        "am_893e743e7455",
-        "am_8befb73a7ea5",
-        "am_53aff7e40c45"
+        "am_5ac75c41a4d8",
+        "am_3531b100892e",
+        "am_c756d2c73b77",
+        "am_9e2c96a3e030",
+        "am_8098e0cf767c",
+        "am_54eb61f5a438",
+        "am_3ee6e3cd3bf5"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-family_fashion.html"
+    },
+    {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 22,
+      "top_products": [
+        "am_2cce8b32bd56",
+        "am_f9c20cb24ead",
+        "am_b17a24f049b4",
+        "am_7c44fed15c21",
+        "am_c8ff516cbea3",
+        "am_a088f2f6cbfb",
+        "am_d1ab72446012",
+        "am_cac32c301f05",
+        "am_73b615410253",
+        "am_befce562f15f"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-electronics_audio.html"
+    },
+    {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 41,
+      "top_products": [
+        "am_7b8bbc9b537a",
+        "am_c1d689112bde",
+        "am_f1734229d38f",
+        "am_201f12eec895",
+        "am_9291d83447e6",
+        "am_b5f871eb6cff",
+        "am_ef92206909ce",
+        "am_20a7751a6823",
+        "am_4fe8993078d6",
+        "am_1f7a5822d6e1"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_tech.html"
+    },
+    {
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "product_count": 23,
+      "top_products": [
+        "am_09d171643612",
+        "am_4a34ca3fba04",
+        "am_d54bb7cb6bd2",
+        "am_42f8e9c2128b",
+        "am_65034e712a06",
+        "am_0e8dfc66110f",
+        "am_a2ebe0b6e025",
+        "am_64931cb8d15e",
+        "am_7ebf4b246cfc",
+        "am_b2a1117e0ebc"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-fashion_shoes.html"
+    },
+    {
+      "id": "amazon_kitchen",
+      "slug": "amazon-kitchen",
+      "product_count": 14,
+      "top_products": [
+        "am_de21bb6b30f8",
+        "am_4c42f233ee3a",
+        "am_309e9194075f",
+        "am_228761d5d7d8",
+        "am_083298f95612",
+        "am_39f5884399f8",
+        "am_33b24bd59ea2",
+        "am_51f441125c9f",
+        "am_306e391c5b43",
+        "am_692fda42dfcb"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_kitchen.html"
+    },
+    {
+      "id": "anime_collectibles",
+      "slug": "anime-collectibles",
+      "product_count": 17,
+      "top_products": [
+        "am_ccea7355b8d1",
+        "am_1567ba282463",
+        "am_a3e11b814b70",
+        "am_b981d44be606",
+        "am_6a03199d6d01",
+        "am_d63c9b13b62e",
+        "am_fbf3299196b0",
+        "am_2d041c19d8db",
+        "am_79108f74d382",
+        "am_ac94e97a12ea"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-anime_collectibles.html"
     },
     {
       "id": "amazon_creator",
       "slug": "amazon-creator",
-      "product_count": 6,
+      "product_count": 5,
       "top_products": [
         "am_6ed825c742d6",
-        "am_bb11cb6a9be4",
-        "am_c60ba6ff80ab",
         "am_e307f5778955",
         "am_92b2b106025b",
-        "am_65b255d26eb3"
+        "am_65b255d26eb3",
+        "am_445898f51815"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_creator.html"
     },
     {
       "id": "beauty_skincare",
@@ -56,288 +145,119 @@
       "product_count": 7,
       "top_products": [
         "am_2b33ee1e665d",
-        "am_58bdc30ef489",
-        "am_46fedd835027",
-        "am_8aaabc3e044e",
+        "am_9e2fb2e0d248",
         "am_356a56c799df",
+        "am_38511282cfda",
         "am_297c08333d3d",
-        "am_38511282cfda"
+        "am_58bdc30ef489",
+        "am_5c46a4ea8dc5"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_skincare.html"
-    },
-    {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 47,
-      "top_products": [
-        "am_ddeeea9f3357",
-        "am_c29297cb00f1",
-        "am_dd586afab0be",
-        "am_0dde1b13af02",
-        "am_bfb38227d39a",
-        "am_af83fff25c7d",
-        "am_ea2ba58bbe8f",
-        "am_954fde2ce311",
-        "am_aca72716e69b",
-        "am_a9abf38b2cf0"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
-    },
-    {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "product_count": 30,
-      "top_products": [
-        "am_f100b1490a7b",
-        "am_6a57b93f7988",
-        "am_67f7558c7a63",
-        "am_0fc4a72843c8",
-        "am_729afaf314f5",
-        "am_b1550ef4af69",
-        "am_8a288038c1b9",
-        "am_8f66f51973e0",
-        "am_6a8f8ea0a995",
-        "am_016d03620789"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 42,
-      "top_products": [
-        "am_58d9276d2dfc",
-        "am_9126fce102c9",
-        "am_2b4bf379769c",
-        "am_39dd2ac9689e",
-        "am_626ab60aecbb",
-        "am_7b8bbc9b537a",
-        "am_03703bd731fc",
-        "am_0677ec3c3203",
-        "am_a3461d3ee116",
-        "am_7a8972da9fc1"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_skincare.html"
     },
     {
       "id": "jewelry",
       "slug": "jewelry",
-      "product_count": 9,
+      "product_count": 7,
       "top_products": [
         "am_b267581097be",
         "am_5a48eb610e2c",
         "am_e29c55bb8d19",
-        "am_1b0feab7b304",
-        "am_f7f6e2d62ab8",
-        "am_1416542f76b1",
-        "am_831d4e34d31d",
         "am_b7fdd7148173",
-        "am_eaea1f059792"
+        "am_1e8b96de1762",
+        "am_eaea1f059792",
+        "am_595403912937"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-jewelry.html"
     },
     {
-      "id": "amazon_fitness",
-      "slug": "amazon-fitness",
-      "product_count": 9,
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "product_count": 37,
       "top_products": [
-        "am_f9ed611940be",
-        "am_428460aea50e",
-        "am_4838df04dd12",
-        "am_edca2a64cf97",
-        "am_95f76886b6af",
-        "am_42b7286ebbe2",
-        "am_7a0a15cce931",
-        "am_19b83ecabf5d",
-        "am_07bd1248f8cd"
+        "am_e46a7728c82d",
+        "am_d62e21941c4c",
+        "am_0deb1e936507",
+        "am_5b9c6706f33e",
+        "am_ff539653f1cc",
+        "am_7f1bbbde5b2b",
+        "am_9bbb5721330a",
+        "am_748092bd067b",
+        "am_fc32d2b3c26b",
+        "am_3b0ced1ff619"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_improvement.html"
     },
     {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 39,
+      "product_count": 41,
       "top_products": [
-        "am_074f888cf7c1",
-        "am_fc5f2e3235f2",
-        "am_8730d527c043",
         "am_6863660cb940",
         "am_23e46ec4e0bf",
         "am_0c62466a472c",
-        "am_30e24220fb81",
         "am_1469ccde7407",
         "am_d83052291106",
-        "am_eff1d7dda256"
+        "am_eff1d7dda256",
+        "am_fb99ac9fd92a",
+        "am_01f386db5d48",
+        "am_3a3fd49c2af0",
+        "am_1a798c53c9dc"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_decor.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_decor.html"
     },
     {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 20,
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 48,
       "top_products": [
-        "am_5bad5a517f33",
-        "am_ca1686a37e7f",
-        "am_2cce8b32bd56",
-        "am_ca7e353f9fb7",
-        "am_2ad6534a36c7",
-        "am_eeed7ddb06b8",
-        "am_03f2dcd3d6a9",
-        "am_f9c20cb24ead",
-        "am_b17a24f049b4",
-        "am_7c44fed15c21"
+        "am_954fde2ce311",
+        "am_2297c005a4dd",
+        "am_2c10a6a10d87",
+        "am_9a15fcdb6e1c",
+        "am_d921197095b7",
+        "am_3b74f5c9b051",
+        "am_c8d5522e06a3",
+        "am_aa1b15156c55",
+        "am_0d84454fa910",
+        "am_a9bb42d57422"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_electronics.html"
     },
     {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "product_count": 23,
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "product_count": 24,
       "top_products": [
-        "am_a2ebe0b6e025",
-        "am_b2a1117e0ebc",
-        "am_64931cb8d15e",
-        "am_7ebf4b246cfc",
-        "am_09d171643612",
-        "am_eb3a6ecbad04",
-        "am_9cadb9604b41",
-        "am_8551aa1febd3",
-        "am_4a34ca3fba04",
-        "am_c1b85e396bb5"
+        "am_67f7558c7a63",
+        "am_729afaf314f5",
+        "am_b1550ef4af69",
+        "am_8a288038c1b9",
+        "am_50acb1676368",
+        "am_be4a23c28453",
+        "am_eb11068f7336",
+        "am_4736ff43ba8f",
+        "am_a23db534c148",
+        "am_a0e1581f444e"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion_shoes.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "product_count": 10,
-      "top_products": [
-        "am_9d96f9294f6d",
-        "am_433fccf21f2a",
-        "am_e3bb4b4b8d61",
-        "am_d140b83bcf2c",
-        "am_98f9ee870dfa",
-        "am_6cc1eb942cf2",
-        "am_85caee7aade9",
-        "am_407dde6a9ec0",
-        "am_1e68c0c04921",
-        "am_71f93b743d86"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
-    },
-    {
-      "id": "anime_collectibles",
-      "slug": "anime-collectibles",
-      "product_count": 15,
-      "top_products": [
-        "am_ccea7355b8d1",
-        "am_ac94e97a12ea",
-        "am_1567ba282463",
-        "am_ed80c3012cbc",
-        "am_9ddd1cf4dae1",
-        "am_fbf3299196b0",
-        "am_2d041c19d8db",
-        "am_a3e11b814b70",
-        "am_79108f74d382",
-        "am_85dfe12033c9"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime_collectibles.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_car.html"
     },
     {
       "id": "toys_gadgets",
       "slug": "toys-gadgets",
       "product_count": 19,
       "top_products": [
-        "am_47dc43fccc14",
-        "am_4ad6c24e6a8d",
-        "am_309a6c8e3291",
-        "am_2b1068013f3e",
-        "am_2c68d0389191",
         "am_370af6ffd7f7",
-        "am_efcdd667ab9f",
-        "am_da138358c7eb",
-        "am_064887f804fa",
-        "am_165d1a60b490"
+        "am_8fbfc0287ed1",
+        "am_db332d7f81dd",
+        "am_42e962744fca",
+        "am_c271d501fe5e",
+        "am_6340947f864e",
+        "am_22406b03c55a",
+        "am_bcb38787a802",
+        "am_309a6c8e3291",
+        "am_47dc43fccc14"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys_gadgets.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "product_count": 33,
-      "top_products": [
-        "am_c76a96119950",
-        "am_7abfa9ab4626",
-        "am_38783845d148",
-        "am_e46a7728c82d",
-        "am_2d1e5c93edbe",
-        "am_16a1d0a0e63c",
-        "am_d62e21941c4c",
-        "am_0deb1e936507",
-        "am_58da9ca89756",
-        "am_dbf8724431d7"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_improvement.html"
-    },
-    {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "product_count": 10,
-      "top_products": [
-        "am_6f8f879aeaf3",
-        "am_eac03a76aebb",
-        "am_9fbe4e054078",
-        "am_4daf529c50fa",
-        "am_caae915bbe12",
-        "am_acc8c67b42f7",
-        "am_d7a24e7ea781",
-        "am_bf78a7481355",
-        "am_4daffb714b23",
-        "am_0d0d443bcd51"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
-    },
-    {
-      "id": "amazon_sleep",
-      "slug": "amazon-sleep",
-      "product_count": 4,
-      "top_products": [
-        "am_0692cd5fe4d7",
-        "am_a49a6ed9f894",
-        "am_95e8c718232e",
-        "am_d64334bd2919"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_sleep.html"
-    },
-    {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "product_count": 4,
-      "top_products": [
-        "am_0996e3644588",
-        "am_1a7ec206cd98",
-        "am_0196832167d9",
-        "am_85b97dac8ef9"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
-    },
-    {
-      "id": "amazon_kitchen",
-      "slug": "amazon-kitchen",
-      "product_count": 14,
-      "top_products": [
-        "am_78a99f34e817",
-        "am_de21bb6b30f8",
-        "am_f882c926d67a",
-        "am_6fa88fa8bf00",
-        "am_3f2edf087a3e",
-        "am_133812756911",
-        "am_39f5884399f8",
-        "am_1989d7d9a473",
-        "am_4c42f233ee3a",
-        "am_33b24bd59ea2"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-toys_gadgets.html"
     },
     {
       "id": "outdoor_gear",
@@ -345,148 +265,238 @@
       "product_count": 9,
       "top_products": [
         "am_f7eb86fbba83",
-        "am_1bbff26522a6",
+        "am_f2f93752ece1",
         "am_8f4eecd10b35",
         "am_52205014e354",
-        "am_7716c3851354",
         "am_76875eeae1d3",
+        "am_1bbff26522a6",
+        "am_7716c3851354",
         "am_64c3e9e2c248",
-        "am_cf4f97758d6e",
-        "am_f2f93752ece1"
+        "am_cf4f97758d6e"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-outdoor_gear.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-outdoor_gear.html"
+    },
+    {
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "product_count": 9,
+      "top_products": [
+        "am_4838df04dd12",
+        "am_42b7286ebbe2",
+        "am_d8bef40ce5d3",
+        "am_f9ed611940be",
+        "am_428460aea50e",
+        "am_19b83ecabf5d",
+        "am_07bd1248f8cd",
+        "am_7a0a15cce931",
+        "am_237eb4de3bd2"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_fitness.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "product_count": 13,
+      "top_products": [
+        "am_f440c9b9e37f",
+        "am_109ed01ff136",
+        "am_299edab44067",
+        "am_f352e9edddc4",
+        "am_1605f5469ac3",
+        "am_4abdd95c9190",
+        "am_7b9884a6c93f",
+        "am_8760a76fdac2",
+        "am_1194f427a9d9",
+        "am_6d47150c0f4b"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-garden_tools.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 8,
+      "top_products": [
+        "am_4461329c960f",
+        "am_c2133d09f2ee",
+        "am_1fd88db2b331",
+        "am_26b1ef4a59a5",
+        "am_0d09bd56442a",
+        "am_e236790353b0",
+        "am_6535bcb96471",
+        "am_9ac185be108e"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-grooming_tools.html"
+    },
+    {
+      "id": "car_accessories",
+      "slug": "car-accessories",
+      "product_count": 2,
+      "top_products": [
+        "am_24c12a92e878",
+        "am_1da333a380d3"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-car_accessories.html"
     },
     {
       "id": "home_appliances",
       "slug": "home-appliances",
-      "product_count": 6,
+      "product_count": 7,
       "top_products": [
-        "am_d609264eaf30",
-        "am_d88b2d445ca0",
-        "am_f24000bc5b84",
-        "am_8c892c33ef14",
+        "am_489a33ab16b5",
         "am_c994de45c618",
-        "am_db3afdc65d3c"
+        "am_d609264eaf30",
+        "am_db3afdc65d3c",
+        "am_f24000bc5b84",
+        "am_d88b2d445ca0",
+        "am_6e63e6ce1685"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_appliances.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_appliances.html"
     },
     {
       "id": "home_wellness",
       "slug": "home-wellness",
-      "product_count": 21,
+      "product_count": 24,
       "top_products": [
-        "am_ac20fee2cb21",
+        "am_e3eb30730ee8",
+        "am_129873b2f15a",
         "am_10ad7a0b9cfc",
+        "am_4768848e1d94",
+        "am_ced472a26f8e",
+        "am_b976de00046c",
+        "am_de6d96a0c0a3",
+        "am_2a60f4212118",
         "am_c9222fbde46c",
-        "am_294a72ac657c",
-        "am_9a7f7d2450f1",
-        "am_a9c4cde031ad",
-        "am_f50130a0133d",
-        "am_514c08f45f89",
-        "am_bc985c575ed0",
-        "am_f6f91506a0ba"
+        "am_ac20fee2cb21"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_wellness.html"
-    },
-    {
-      "id": "sports_shoes",
-      "slug": "sports-shoes",
-      "product_count": 10,
-      "top_products": [
-        "am_48f64cd95462",
-        "am_43fed49cb8dd",
-        "am_98f84aab3b5d",
-        "am_4ce0628f3fcc",
-        "am_55a712fdb1eb",
-        "am_5c37c73d977d",
-        "am_5eacb50b96bf",
-        "am_51bc06475350",
-        "am_7cb25250e384",
-        "am_94d3122abfbf"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports_shoes.html"
-    },
-    {
-      "id": "home_textiles",
-      "slug": "home-textiles",
-      "product_count": 6,
-      "top_products": [
-        "am_ed547204d663",
-        "am_dca728433a3f",
-        "am_88f6c5445d7a",
-        "am_46624ed1d184",
-        "am_970492220d0f",
-        "am_6435d2b2b730"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_textiles.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_wellness.html"
     },
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
-      "product_count": 6,
+      "product_count": 5,
       "top_products": [
+        "am_70cda93695fe",
         "am_74dc05ae485d",
-        "am_bd0fd95bb448",
-        "am_4600587beefa",
-        "am_4498fa802845",
-        "am_ae1f2f82e0d9",
-        "am_d5b7ba29d825"
+        "am_834e45334bf2",
+        "am_d5b7ba29d825",
+        "am_018383dec6f7"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_travel.html"
     },
     {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "product_count": 4,
+      "id": "fragrance",
+      "slug": "fragrance",
+      "product_count": 8,
       "top_products": [
-        "am_78be647b0d2b",
-        "am_4bbb2ff2c9a6",
-        "am_57dffb65fe68",
-        "am_b49ffa846fb6"
+        "am_fbb86059b889",
+        "am_986b284c1248",
+        "am_0d0d443bcd51",
+        "am_6f8f879aeaf3",
+        "am_e1d2ab1fc24d",
+        "am_251aa5687316",
+        "am_eac03a76aebb",
+        "am_9fbe4e054078"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-fragrance.html"
     },
     {
-      "id": "amazon_soccer",
-      "slug": "amazon-soccer",
-      "product_count": 6,
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "product_count": 13,
       "top_products": [
-        "am_a46f0426acc9",
-        "am_0cc6aeb01f2e",
-        "am_f64084ec237c",
-        "am_ed94dd9523b4",
-        "am_771c0a9bc7e2",
-        "am_bd7d5024699f"
+        "am_04679be997ca",
+        "am_e380d53bab61",
+        "am_98f9ee870dfa",
+        "am_1a576c3eb5a5",
+        "am_9d96f9294f6d",
+        "am_433fccf21f2a",
+        "am_85caee7aade9",
+        "am_407dde6a9ec0",
+        "am_1e68c0c04921",
+        "am_71f93b743d86"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_pets.html"
     },
     {
       "id": "fitness_wellness",
       "slug": "fitness-wellness",
       "product_count": 2,
       "top_products": [
-        "am_9f993a6ae74c",
+        "am_085107583cae",
         "am_ec01b5288ec9"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness_wellness.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-fitness_wellness.html"
     },
     {
-      "id": "garden_tools",
-      "slug": "garden-tools",
-      "product_count": 18,
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 4,
       "top_products": [
-        "am_1194f427a9d9",
-        "am_109ed01ff136",
-        "am_1605f5469ac3",
-        "am_4abdd95c9190",
-        "am_7b9884a6c93f",
-        "am_8760a76fdac2",
-        "am_780b74705342",
-        "am_4a8037ea52e2",
-        "am_a4ff5c242f38",
-        "am_508a859d7401"
+        "am_8c68dbdece76",
+        "am_bd6485f4c2dc",
+        "am_6a106da7fb9b",
+        "am_4b12f39ed78c"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden_tools.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_grooming.html"
+    },
+    {
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
+      "product_count": 3,
+      "top_products": [
+        "am_a49a6ed9f894",
+        "am_d64334bd2919",
+        "am_95e8c718232e"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_sleep.html"
+    },
+    {
+      "id": "home_textiles",
+      "slug": "home-textiles",
+      "product_count": 5,
+      "top_products": [
+        "am_dca728433a3f",
+        "am_6435d2b2b730",
+        "am_88f6c5445d7a",
+        "am_ed547204d663",
+        "am_46624ed1d184"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_textiles.html"
+    },
+    {
+      "id": "sports_shoes",
+      "slug": "sports-shoes",
+      "product_count": 7,
+      "top_products": [
+        "am_51bc06475350",
+        "am_94d3122abfbf",
+        "am_48f64cd95462",
+        "am_43fed49cb8dd",
+        "am_e29dc460af8b",
+        "am_98f84aab3b5d",
+        "am_cef31920e792"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-sports_shoes.html"
+    },
+    {
+      "id": "aliexpress_deals",
+      "slug": "aliexpress-deals",
+      "product_count": 2,
+      "top_products": [
+        "am_8f3803c26931",
+        "am_f84d6532b27d"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-aliexpress_deals.html"
+    },
+    {
+      "id": "amazon_productivity",
+      "slug": "amazon-productivity",
+      "product_count": 2,
+      "top_products": [
+        "am_57dffb65fe68",
+        "am_b49ffa846fb6"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_productivity.html"
     },
     {
       "id": "beauty_wigs",
@@ -498,43 +508,30 @@
         "am_1b1e3693c8cf",
         "am_25e507c12290"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_wigs.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_wigs.html"
     },
     {
-      "id": "grooming_tools",
-      "slug": "grooming-tools",
-      "product_count": 8,
+      "id": "amazon_soccer",
+      "slug": "amazon-soccer",
+      "product_count": 4,
       "top_products": [
-        "am_e236790353b0",
-        "am_9ac185be108e",
-        "am_16ccb4012031",
-        "am_4d606e192532",
-        "am_4461329c960f",
-        "am_c2133d09f2ee",
-        "am_26b1ef4a59a5",
-        "am_6535bcb96471"
+        "am_ed94dd9523b4",
+        "am_bd7d5024699f",
+        "am_f64084ec237c",
+        "am_771c0a9bc7e2"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming_tools.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_soccer.html"
     },
     {
-      "id": "car_accessories",
-      "slug": "car-accessories",
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
       "product_count": 3,
       "top_products": [
-        "am_24c12a92e878",
-        "am_86c1b34a9f1a",
-        "am_1da333a380d3"
+        "am_85b97dac8ef9",
+        "am_34900d9659f2",
+        "am_290cf70ace6b"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-car_accessories.html"
-    },
-    {
-      "id": "aliexpress_deals",
-      "slug": "aliexpress-deals",
-      "product_count": 1,
-      "top_products": [
-        "am_f84d6532b27d"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-aliexpress_deals.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_beauty.html"
     },
     {
       "id": "sports_cycling",
@@ -543,18 +540,7 @@
       "top_products": [
         "am_e94343325d8d"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports_cycling.html"
-    },
-    {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
-      "product_count": 3,
-      "top_products": [
-        "am_6a106da7fb9b",
-        "am_bd6485f4c2dc",
-        "am_4b12f39ed78c"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_grooming.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-sports_cycling.html"
     }
   ]
 }
