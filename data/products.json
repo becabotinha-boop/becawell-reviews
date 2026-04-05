@@ -273,23 +273,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-38783845d148-review.html"
     },
     {
-      "id": "am_bfb38227d39a",
-      "slug": "am-bfb38227d39a",
-      "name": "21 Piece Set",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "49.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bfb38227d39a-review.html"
-    },
-    {
       "id": "am_af83fff25c7d",
       "slug": "am-af83fff25c7d",
       "name": "Harry Kewell",
@@ -662,6 +645,23 @@
       "price": "33.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-fbb86059b889-review.html"
+    },
+    {
+      "id": "am_bfb38227d39a",
+      "slug": "am-bfb38227d39a",
+      "name": "21 Piece Set",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-bfb38227d39a-review.html"
     },
     {
       "id": "am_f1734229d38f",
@@ -7532,23 +7532,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b31b890f8dfb-review.html"
     },
     {
-      "id": "am_b49ffa846fb6",
-      "slug": "am-b49ffa846fb6",
-      "name": "Desk Calendar 2026-18-Month (Jan 2026-Jun 2027) 17x12 Inches,...",
-      "network": "amazon",
-      "niche": "amazon_productivity",
-      "score": 75.0,
-      "tier": "B",
-      "rating": {
-        "display": "4.4/5",
-        "value": 4.4,
-        "stars": 4
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b49ffa846fb6-review.html"
-    },
-    {
       "id": "am_1da333a380d3",
       "slug": "am-1da333a380d3",
       "name": "1 Count (Pack of 3)",
@@ -7751,6 +7734,23 @@
       "price": "163.0",
       "image_url": "",
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-3b74f5c9b051-review.html"
+    },
+    {
+      "id": "am_b49ffa846fb6",
+      "slug": "am-b49ffa846fb6",
+      "name": "Desk Calendar 2026-18-Month (Jan 2026-Jun 2027) 17x12 Inches,...",
+      "network": "amazon",
+      "niche": "amazon_productivity",
+      "score": 75.0,
+      "tier": "B",
+      "rating": {
+        "display": "4.4/5",
+        "value": 4.4,
+        "stars": 4
+      },
+      "price": "6.0",
+      "image_url": "",
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/am-b49ffa846fb6-review.html"
     },
     {
       "id": "am_2b33ee1e665d",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-05T07:21:45.721836+00:00"
+  "generated_at": "2026-04-05T07:40:36.473286+00:00"
 }
