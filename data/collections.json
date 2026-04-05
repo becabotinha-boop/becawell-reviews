@@ -3,7 +3,7 @@
     {
       "id": "family_fashion",
       "slug": "family-fashion",
-      "product_count": 44,
+      "product_count": 45,
       "top_products": [
         "am_5dbbd1f18250",
         "am_151131e0c1c2",
@@ -63,9 +63,9 @@
         "am_19b83ecabf5d",
         "am_95f76886b6af",
         "am_1534d625e5c5",
-        "am_428460aea50e",
         "am_7a0a15cce931",
         "am_f9ed611940be",
+        "am_428460aea50e",
         "am_42b7286ebbe2",
         "am_07bd1248f8cd",
         "am_237eb4de3bd2"
@@ -93,7 +93,7 @@
     {
       "id": "toys_gadgets",
       "slug": "toys-gadgets",
-      "product_count": 19,
+      "product_count": 20,
       "top_products": [
         "am_42e962744fca",
         "am_efcdd667ab9f",
@@ -113,9 +113,9 @@
       "slug": "amazon-car",
       "product_count": 29,
       "top_products": [
-        "am_8039d7f6a958",
         "am_016d03620789",
         "am_d60138e5aa93",
+        "am_8039d7f6a958",
         "am_5ec0aeaead2b",
         "am_8f66f51973e0",
         "am_1e6e5c3dc5f2",
@@ -127,64 +127,13 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_car.html"
     },
     {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "product_count": 7,
-      "top_products": [
-        "am_a4af8ccd7736",
-        "am_8f4eecd10b35",
-        "am_7716c3851354",
-        "am_1bbff26522a6",
-        "am_76875eeae1d3",
-        "am_64c3e9e2c248",
-        "am_cf4f97758d6e"
-      ],
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-outdoor_gear.html"
-    },
-    {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "product_count": 24,
-      "top_products": [
-        "am_ccc5a1ae4e25",
-        "am_97c716e7880d",
-        "am_32ee2acf8a06",
-        "am_08797ea3ecc1",
-        "am_eb3a6ecbad04",
-        "am_a4ffb6806125",
-        "am_a2e8f688a1b0",
-        "am_b2a1117e0ebc",
-        "am_76f36ac5fa62",
-        "am_7ebf4b246cfc"
-      ],
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-fashion_shoes.html"
-    },
-    {
-      "id": "home_improvement",
-      "slug": "home-improvement",
-      "product_count": 32,
-      "top_products": [
-        "am_569b6cbf5870",
-        "am_3024be10a596",
-        "am_646781cb4b71",
-        "am_132f3069f3a4",
-        "am_513380e95fcc",
-        "am_0766a2159038",
-        "am_a2b4e641c31d",
-        "am_35ddaccba729",
-        "am_7f1bbbde5b2b",
-        "am_3b0ced1ff619"
-      ],
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_improvement.html"
-    },
-    {
       "id": "amazon_tech",
       "slug": "amazon-tech",
       "product_count": 40,
       "top_products": [
-        "am_d3ac5bb8ed7a",
         "am_ef92206909ce",
         "am_0f6c5eb1c4fd",
+        "am_d3ac5bb8ed7a",
         "am_659b4ed421b8",
         "am_ecd1b5c5848c",
         "am_ae3a0027916f",
@@ -216,7 +165,7 @@
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 22,
+      "product_count": 23,
       "top_products": [
         "am_e3f1d3c1cd9c",
         "am_ca1686a37e7f",
@@ -232,9 +181,60 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-electronics_audio.html"
     },
     {
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "product_count": 24,
+      "top_products": [
+        "am_ccc5a1ae4e25",
+        "am_97c716e7880d",
+        "am_32ee2acf8a06",
+        "am_08797ea3ecc1",
+        "am_eb3a6ecbad04",
+        "am_a4ffb6806125",
+        "am_a2e8f688a1b0",
+        "am_b2a1117e0ebc",
+        "am_76f36ac5fa62",
+        "am_7ebf4b246cfc"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-fashion_shoes.html"
+    },
+    {
+      "id": "home_improvement",
+      "slug": "home-improvement",
+      "product_count": 32,
+      "top_products": [
+        "am_3024be10a596",
+        "am_569b6cbf5870",
+        "am_646781cb4b71",
+        "am_132f3069f3a4",
+        "am_513380e95fcc",
+        "am_0766a2159038",
+        "am_a2b4e641c31d",
+        "am_35ddaccba729",
+        "am_7f1bbbde5b2b",
+        "am_3b0ced1ff619"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_improvement.html"
+    },
+    {
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "product_count": 7,
+      "top_products": [
+        "am_a4af8ccd7736",
+        "am_8f4eecd10b35",
+        "am_7716c3851354",
+        "am_1bbff26522a6",
+        "am_76875eeae1d3",
+        "am_64c3e9e2c248",
+        "am_cf4f97758d6e"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-outdoor_gear.html"
+    },
+    {
       "id": "home_decor",
       "slug": "home-decor",
-      "product_count": 33,
+      "product_count": 35,
       "top_products": [
         "am_6863660cb940",
         "am_23e46ec4e0bf",
@@ -252,12 +252,10 @@
     {
       "id": "jewelry",
       "slug": "jewelry",
-      "product_count": 8,
+      "product_count": 6,
       "top_products": [
         "am_5a48eb610e2c",
         "am_eaea1f059792",
-        "am_d41619f2954f",
-        "am_831d4e34d31d",
         "am_f7f6e2d62ab8",
         "am_b267581097be",
         "am_595403912937",
@@ -295,18 +293,19 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_wellness.html"
     },
     {
-      "id": "beauty_wigs",
-      "slug": "beauty-wigs",
-      "product_count": 6,
+      "id": "home_appliances",
+      "slug": "home-appliances",
+      "product_count": 7,
       "top_products": [
-        "am_1b1e3693c8cf",
-        "am_b3b0583aa702",
-        "am_195dbb8dcbc0",
-        "am_25e507c12290",
-        "am_413a54aad85b",
-        "am_2ad13a3a2311"
+        "am_f24000bc5b84",
+        "am_6e63e6ce1685",
+        "am_d609264eaf30",
+        "am_c994de45c618",
+        "am_d88b2d445ca0",
+        "am_db3afdc65d3c",
+        "am_8c892c33ef14"
       ],
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_wigs.html"
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_appliances.html"
     },
     {
       "id": "garden_tools",
@@ -327,20 +326,6 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-garden_tools.html"
     },
     {
-      "id": "home_appliances",
-      "slug": "home-appliances",
-      "product_count": 6,
-      "top_products": [
-        "am_f24000bc5b84",
-        "am_6e63e6ce1685",
-        "am_d609264eaf30",
-        "am_c994de45c618",
-        "am_d88b2d445ca0",
-        "am_db3afdc65d3c"
-      ],
-      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-home_appliances.html"
-    },
-    {
       "id": "car_accessories",
       "slug": "car-accessories",
       "product_count": 1,
@@ -350,6 +335,20 @@
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-car_accessories.html"
     },
     {
+      "id": "beauty_wigs",
+      "slug": "beauty-wigs",
+      "product_count": 6,
+      "top_products": [
+        "am_1b1e3693c8cf",
+        "am_b3b0583aa702",
+        "am_195dbb8dcbc0",
+        "am_25e507c12290",
+        "am_2ad13a3a2311",
+        "am_413a54aad85b"
+      ],
+      "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_wigs.html"
+    },
+    {
       "id": "beauty_skincare",
       "slug": "beauty-skincare",
       "product_count": 5,
@@ -357,8 +356,8 @@
         "am_46fedd835027",
         "am_38511282cfda",
         "am_5c46a4ea8dc5",
-        "am_297c08333d3d",
-        "am_58bdc30ef489"
+        "am_58bdc30ef489",
+        "am_297c08333d3d"
       ],
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-beauty_skincare.html"
     },
@@ -394,10 +393,10 @@
       "top_products": [
         "am_62bc2906e929",
         "am_ae1f2f82e0d9",
-        "am_70cda93695fe",
-        "am_d5b7ba29d825",
         "am_018383dec6f7",
-        "am_4600587beefa"
+        "am_d5b7ba29d825",
+        "am_4600587beefa",
+        "am_70cda93695fe"
       ],
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_travel.html"
     },
@@ -440,27 +439,23 @@
       "top_products": [
         "am_1989d7d9a473",
         "am_559c6e5fe049",
-        "am_692fda42dfcb",
         "am_abe0ed6ee6f6",
         "am_cd6642beacda",
         "am_083298f95612",
         "am_306e391c5b43",
         "am_51f441125c9f",
         "am_133812756911",
-        "am_228761d5d7d8"
+        "am_228761d5d7d8",
+        "am_692fda42dfcb"
       ],
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_kitchen.html"
     },
     {
       "id": "amazon_productivity",
       "slug": "amazon-productivity",
-      "product_count": 5,
+      "product_count": 1,
       "top_products": [
-        "am_e2c13cc7dad5",
-        "am_4bbb2ff2c9a6",
-        "am_57dffb65fe68",
-        "am_78be647b0d2b",
-        "am_b49ffa846fb6"
+        "am_e2c13cc7dad5"
       ],
       "url": "https://significant-stomach-mechanism-arbor.trycloudflare.com/collection-amazon_productivity.html"
     },
@@ -483,8 +478,8 @@
       "slug": "home-textiles",
       "product_count": 4,
       "top_products": [
-        "am_88f6c5445d7a",
         "am_46624ed1d184",
+        "am_88f6c5445d7a",
         "am_d4dd7d07e2d0",
         "am_ed547204d663"
       ],
