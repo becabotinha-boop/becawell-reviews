@@ -1,74 +1,6 @@
 {
   "products": [
     {
-      "id": "am_8f4eecd10b35",
-      "slug": "am-8f4eecd10b35",
-      "name": "WHITIN Men&#x27;s Minimalist Trail Runner | Wide Toe Box | Bar...",
-      "network": "amazon",
-      "niche": "outdoor_gear",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "41.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-8f4eecd10b35-review.html"
-    },
-    {
-      "id": "am_3d19fdc779bd",
-      "slug": "am-3d19fdc779bd",
-      "name": "Ekouaer Women&#x27;s House Dress with Pockets",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-3d19fdc779bd-review.html"
-    },
-    {
-      "id": "am_eac03a76aebb",
-      "slug": "am-eac03a76aebb",
-      "name": "Est\u00e9e Lauder Beautiful Magnolia Eau de Parfum Spray with Notes...",
-      "network": "amazon",
-      "niche": "fragrance",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "63.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-eac03a76aebb-review.html"
-    },
-    {
-      "id": "am_4838df04dd12",
-      "slug": "am-4838df04dd12",
-      "name": "CAP ADJUSTABELL Adjustable Dumbbell Weights - Singles & Pairs...",
-      "network": "amazon",
-      "niche": "amazon_fitness",
-      "score": 92.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "239.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4838df04dd12-review.html"
-    },
-    {
       "id": "am_b415603433c2",
       "slug": "am-b415603433c2",
       "name": "Angelus",
@@ -5271,6 +5203,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a2ebe0b6e025-review.html"
     },
     {
+      "id": "am_083298f95612",
+      "slug": "am-083298f95612",
+      "name": "Refrigerator Gifts Refrigerator Food Lover Co",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "13.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-083298f95612-review.html"
+    },
+    {
       "id": "am_98b1da377cd6",
       "slug": "am-98b1da377cd6",
       "name": "functionality",
@@ -5303,6 +5252,23 @@
       "price": "18.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-f0cc609fedd6-review.html"
+    },
+    {
+      "id": "am_73be0b116b53",
+      "slug": "am-73be0b116b53",
+      "name": "PIXAR",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-73be0b116b53-review.html"
     },
     {
       "id": "am_118664a219ea",
@@ -6391,40 +6357,6 @@
       "price": "439.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-36d81014bb94-review.html"
-    },
-    {
-      "id": "am_083298f95612",
-      "slug": "am-083298f95612",
-      "name": "Refrigerator Gifts Refrigerator Food Lover Co",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 83.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "13.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-083298f95612-review.html"
-    },
-    {
-      "id": "am_73be0b116b53",
-      "slug": "am-73be0b116b53",
-      "name": "PIXAR",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 83.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-73be0b116b53-review.html"
     },
     {
       "id": "am_d5b7ba29d825",
@@ -8499,8 +8431,76 @@
       "price": "599.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c6e016059048-review.html"
+    },
+    {
+      "id": "am_0cb2e853fcae",
+      "slug": "am-0cb2e853fcae",
+      "name": "MiiKARE Gym Phone Holder - Magnetic, 360 Rotating, Home & Gym...",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-0cb2e853fcae-review.html"
+    },
+    {
+      "id": "am_6e7709ebe29c",
+      "slug": "am-6e7709ebe29c",
+      "name": "Socool 20000mAh 8 Inch Portable Fan Battery Operated Fans, Osc...",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "49.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6e7709ebe29c-review.html"
+    },
+    {
+      "id": "am_12bbaf5fd883",
+      "slug": "am-12bbaf5fd883",
+      "name": "Jan 14, 2019",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-12bbaf5fd883-review.html"
+    },
+    {
+      "id": "am_bc1d5bd22ec9",
+      "slug": "am-bc1d5bd22ec9",
+      "name": "THTYBROS 27pcs Camping Cookware Mess Kit for 2-4 People, Porta...",
+      "network": "amazon",
+      "niche": "outdoor_gear",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "59.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-bc1d5bd22ec9-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-06T10:55:35.279641+00:00"
+  "generated_at": "2026-04-06T10:55:45.137894+00:00"
 }
