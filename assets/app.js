@@ -155,13 +155,22 @@
             el.textContent = renderStars(value);
         });
     }
+    function bffApiOrigin() {
+        const meta = document.querySelector('meta[name="bff-api-origin"]');
+        const raw = meta?.getAttribute("content")?.trim();
+        return raw ? raw.replace(/\/$/, "") : "";
+    }
     async function initProductHydration() {
         const slug = document.body.dataset.product;
         if (!slug)
             return;
-        const dataUrl = "https://becabotinha-boop.github.io/becawell-reviews/data/products.json";
+        const origin = bffApiOrigin();
+        if (!origin) {
+            return;
+        }
+        const dataUrl = `${origin}/api/products?limit=500`;
         try {
-            const response = await fetch(dataUrl, { cache: "no-cache" });
+            const response = await fetch(dataUrl, { cache: "no-cache", mode: "cors" });
             if (!response.ok)
                 return;
             const data = (await response.json());
