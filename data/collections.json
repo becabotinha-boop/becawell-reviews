@@ -1,345 +1,315 @@
 {
   "collections": [
     {
+      "id": "amazon_beauty",
+      "slug": "amazon-beauty",
+      "product_count": 4,
+      "top_products": [
+        "am_d52ee11dd50e",
+        "am_e370b8ac9bef",
+        "am_290cf70ace6b",
+        "am_0996e3644588"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
+    },
+    {
       "id": "home_improvement",
       "slug": "home-improvement",
       "product_count": 31,
       "top_products": [
-        "am_63663ada2b82",
-        "am_ff539653f1cc",
-        "am_57e5f3910a92",
-        "am_7f1bbbde5b2b",
+        "am_c969d83c7fd7",
+        "am_3024be10a596",
+        "am_8a762d5d3474",
+        "am_ec7774801d62",
+        "am_513380e95fcc",
+        "am_d1256542ed0d",
         "am_748092bd067b",
-        "am_c050c6783187",
-        "am_ececdc0d069f",
-        "am_9c45d253a7ad",
-        "am_871733435d1c",
-        "am_f64e32ffd933"
+        "am_569b6cbf5870",
+        "am_f1a8914234de",
+        "am_ac15c7a07e06"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_improvement.html"
     },
     {
-      "id": "garden_tools",
-      "slug": "garden-tools",
-      "product_count": 13,
+      "id": "amazon_travel",
+      "slug": "amazon-travel",
+      "product_count": 11,
       "top_products": [
-        "am_8760a76fdac2",
-        "am_780b74705342",
-        "am_162e6409cde7",
-        "am_7c209eae6631",
-        "am_25de523083cf",
-        "am_7b9884a6c93f",
-        "am_f41e095048dd",
-        "am_4a8037ea52e2",
-        "am_299edab44067",
-        "am_6e3f57ffb82f"
+        "am_16134cd751f4",
+        "am_4498fa802845",
+        "am_018383dec6f7",
+        "am_834e45334bf2",
+        "am_a06e92f45cdb",
+        "am_74dc05ae485d",
+        "am_4600587beefa",
+        "am_ae1f2f82e0d9",
+        "am_d5b7ba29d825",
+        "am_70cda93695fe"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden_tools.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
     },
     {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 55,
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 63,
       "top_products": [
-        "am_d36680c3a244",
-        "am_a8bbd2b52c9d",
-        "am_9528f4ebb08a",
-        "am_231b20fa54fa",
-        "am_1ff7500d9fa7",
-        "am_57202defe261",
-        "am_1ea7b0d5ba0e",
-        "am_bd01fcfbef78",
-        "am_0d719a7abd75",
-        "am_e4c520c24034"
+        "am_3e8fbba33749",
+        "am_b495dd5b9da4",
+        "am_d05f8f250ec2",
+        "am_db8bb50870c0",
+        "am_626ab60aecbb",
+        "am_b5f871eb6cff",
+        "am_eac356548353",
+        "am_6fdaf399b6ad",
+        "am_51100470c51e",
+        "am_201f12eec895"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
+    },
+    {
+      "id": "toys_gadgets",
+      "slug": "toys-gadgets",
+      "product_count": 10,
+      "top_products": [
+        "am_22406b03c55a",
+        "am_1c0799d928f6",
+        "am_4be9b657d0fb",
+        "am_2922b3de5967",
+        "am_c6568af31948",
+        "am_42e962744fca",
+        "am_07a5b57dac9b",
+        "am_efcdd667ab9f",
+        "am_fb8a3eb38669",
+        "am_370af6ffd7f7"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys_gadgets.html"
+    },
+    {
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 64,
+      "top_products": [
+        "am_fd8d8c725a27",
+        "am_951c667fcf81",
+        "am_b9e2f607d102",
+        "am_e5bcd7907089",
+        "am_6a721f029426",
+        "am_c7b14eb8aed8",
+        "am_c63140df8aca",
+        "am_f09d110300e1",
+        "am_a93b509348c6",
+        "am_d0595dce8438"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
     },
     {
       "id": "electronics_audio",
       "slug": "electronics-audio",
-      "product_count": 26,
+      "product_count": 27,
       "top_products": [
-        "am_a3b793fc8218",
-        "am_ca1686a37e7f",
-        "am_b0b1a72ff881",
+        "am_68f29c669845",
         "am_7a598027f03c",
-        "am_a088f2f6cbfb",
-        "am_53afae224b4c",
         "am_6cd262226f95",
-        "am_2d4f99c08ca1",
-        "am_7c44fed15c21",
-        "am_68f29c669845"
+        "am_c21ca90baf13",
+        "am_d1ab72446012",
+        "am_e3f1d3c1cd9c",
+        "am_2ad6534a36c7",
+        "am_5bad5a517f33",
+        "am_cac32c301f05",
+        "am_a3b793fc8218"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 30,
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 69,
       "top_products": [
-        "am_4feb6bfc8234",
-        "am_22cb5e1d6076",
-        "am_b4877392055b",
-        "am_2bc5aae062d9",
-        "am_e203b0630dcc",
-        "am_b31b890f8dfb",
-        "am_c6e016059048",
-        "am_266c9cf7863c",
-        "am_4267a75616f0",
-        "am_c9c1908a0ccc"
+        "am_33c70665ef35",
+        "am_2c10a6a10d87",
+        "am_f95b950cd1fb",
+        "am_5ab2da5e8917",
+        "am_d79ca9b29250",
+        "am_0c9775db9ada",
+        "am_c5e75fd707f8",
+        "am_d8d3f634fe33",
+        "am_dd586afab0be",
+        "am_f5e688a78d35"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
     },
     {
-      "id": "fashion_shoes",
-      "slug": "fashion-shoes",
-      "product_count": 26,
+      "id": "beauty_grooming",
+      "slug": "beauty-grooming",
+      "product_count": 5,
       "top_products": [
-        "am_65034e712a06",
-        "am_ea1dd5b9b4df",
-        "am_f991231e6a2b",
-        "am_8f113044ce31",
-        "am_09d171643612",
-        "am_03e106bb11eb",
-        "am_b2a1117e0ebc",
-        "am_cbf068848979",
-        "am_89fa3a51e76e",
-        "am_64931cb8d15e"
+        "am_c06d7a55140c",
+        "am_6a106da7fb9b",
+        "am_8c68dbdece76",
+        "am_bd6485f4c2dc",
+        "am_4b12f39ed78c"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion_shoes.html"
-    },
-    {
-      "id": "amazon_pets",
-      "slug": "amazon-pets",
-      "product_count": 11,
-      "top_products": [
-        "am_db643394ae1b",
-        "am_e380d53bab61",
-        "am_8625ce6dd554",
-        "am_71be5fec2744",
-        "am_fdc0f14f6e8b",
-        "am_1a576c3eb5a5",
-        "am_1e68c0c04921",
-        "am_433fccf21f2a",
-        "am_123d46bf300a",
-        "am_85caee7aade9"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_grooming.html"
     },
     {
       "id": "amazon_car",
       "slug": "amazon-car",
-      "product_count": 36,
+      "product_count": 33,
       "top_products": [
-        "am_dc1dcf3cbe8b",
-        "am_e5dcaf3b233d",
-        "am_67f7558c7a63",
-        "am_714b42847341",
-        "am_4ec5887700c4",
-        "am_ed6cad3add8a",
-        "am_8a288038c1b9",
-        "am_8c7274011933",
-        "am_48f94b18aeaa",
-        "am_30f47bee7291"
+        "am_4736ff43ba8f",
+        "am_0fc4a72843c8",
+        "am_8f66f51973e0",
+        "am_d20f1f804022",
+        "am_24d633732ddb",
+        "am_eb11068f7336",
+        "am_6a8f8ea0a995",
+        "am_ad0c83e5a037",
+        "am_729afaf314f5",
+        "am_e970dc5ef164"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
-    },
-    {
-      "id": "fragrance",
-      "slug": "fragrance",
-      "product_count": 12,
-      "top_products": [
-        "am_eac03a76aebb",
-        "am_7354e9d00c8d",
-        "am_e1d2ab1fc24d",
-        "am_986b284c1248",
-        "am_0d0d443bcd51",
-        "am_fbb86059b889",
-        "am_b9c6eddff64f",
-        "am_d7a24e7ea781",
-        "am_4daffb714b23",
-        "am_f4d9f4c23d52"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
     },
     {
       "id": "home_decor",
       "slug": "home-decor",
       "product_count": 42,
       "top_products": [
-        "am_fc5f2e3235f2",
-        "am_3157f33282f3",
-        "am_05e1105ca7e4",
-        "am_77ef482982c3",
-        "am_5e997b208ade",
         "am_e60ab5e9582d",
-        "am_7cc42035330a",
-        "am_97cc7fe472db",
-        "am_4ddd5a2d5ca6",
-        "am_d83052291106"
+        "am_fc5f2e3235f2",
+        "am_074f888cf7c1",
+        "am_b4485c2cd383",
+        "am_3157f33282f3",
+        "am_1469ccde7407",
+        "am_81d9f1e3fa58",
+        "am_8a848c9a9c67",
+        "am_bad6295b521a",
+        "am_72d204138355"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_decor.html"
     },
     {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 58,
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 38,
       "top_products": [
-        "am_660726d9baf3",
-        "am_216dd8172747",
-        "am_b8d49160e73a",
-        "am_b07caad06b43",
-        "am_cdab7fc070b1",
-        "am_a93b509348c6",
-        "am_d0595dce8438",
-        "am_1dd783a5fd4f",
-        "am_cd2fe92d49df",
-        "am_f09d110300e1"
+        "am_27070710729c",
+        "am_c6e016059048",
+        "am_b274f41bb49f",
+        "am_1ca68a6d7c80",
+        "am_2680d71519b7",
+        "am_35b86165526a",
+        "am_c9c1908a0ccc",
+        "am_cfedd4995628",
+        "am_0398b6b921d4",
+        "am_0a6548c03c36"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 46,
+      "id": "amazon_pets",
+      "slug": "amazon-pets",
+      "product_count": 12,
       "top_products": [
-        "am_143c74797de1",
-        "am_51100470c51e",
-        "am_659b4ed421b8",
-        "am_f958357ca4c7",
-        "am_2b4bf379769c",
-        "am_27e8e7c1245a",
-        "am_e404b68551cb",
-        "am_41cfdaa248ed",
-        "am_eac356548353",
-        "am_5f246418a126"
+        "am_7555cfe4e524",
+        "am_29b0f8bb8c25",
+        "am_f677042204f1",
+        "am_6cc1eb942cf2",
+        "am_04679be997ca",
+        "am_123d46bf300a",
+        "am_85caee7aade9",
+        "am_433fccf21f2a",
+        "am_b321d8dec501",
+        "am_71f93b743d86"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
-    },
-    {
-      "id": "amazon_kitchen",
-      "slug": "amazon-kitchen",
-      "product_count": 10,
-      "top_products": [
-        "am_f882c926d67a",
-        "am_1989d7d9a473",
-        "am_384941aec1e0",
-        "am_395a2566b0c2",
-        "am_228761d5d7d8",
-        "am_33b24bd59ea2",
-        "am_5fddc6b3843b",
-        "am_083298f95612",
-        "am_ce2ff1b2d2ac",
-        "am_133812756911"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
-    },
-    {
-      "id": "sports_cycling",
-      "slug": "sports-cycling",
-      "product_count": 2,
-      "top_products": [
-        "am_ea5e5b92b94a",
-        "am_e94343325d8d"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports_cycling.html"
-    },
-    {
-      "id": "outdoor_gear",
-      "slug": "outdoor-gear",
-      "product_count": 5,
-      "top_products": [
-        "am_f3620c4982f4",
-        "am_edc8cf0152a5",
-        "am_3d021a99cdba",
-        "am_f7eb86fbba83",
-        "am_cf4f97758d6e"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-outdoor_gear.html"
-    },
-    {
-      "id": "toys_gadgets",
-      "slug": "toys-gadgets",
-      "product_count": 18,
-      "top_products": [
-        "am_42e962744fca",
-        "am_2251d1e83bb0",
-        "am_309a6c8e3291",
-        "am_fb8a3eb38669",
-        "am_efcdd667ab9f",
-        "am_6340947f864e",
-        "am_4ad6c24e6a8d",
-        "am_07a5b57dac9b",
-        "am_a6f5deb02615",
-        "am_408aa0282dba"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys_gadgets.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
     },
     {
       "id": "amazon_creator",
       "slug": "amazon-creator",
-      "product_count": 3,
+      "product_count": 7,
       "top_products": [
-        "am_753e5ed77868",
-        "am_df6ec001c24d",
-        "am_445898f51815"
+        "am_e307f5778955",
+        "am_706cbb541b0d",
+        "am_445898f51815",
+        "am_65b255d26eb3",
+        "am_c60ba6ff80ab",
+        "am_04a43c870e1f",
+        "am_d89e6092caef"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
     },
     {
-      "id": "anime_collectibles",
-      "slug": "anime-collectibles",
-      "product_count": 15,
+      "id": "amazon_kitchen",
+      "slug": "amazon-kitchen",
+      "product_count": 17,
       "top_products": [
-        "am_7bfbb63d6c6d",
-        "am_d63c9b13b62e",
-        "am_9efc56dc6e29",
-        "am_85dfe12033c9",
-        "am_b981d44be606",
-        "am_62a130389eed",
-        "am_c05ea628d453",
-        "am_20a1f9d19858",
-        "am_5e4e3b38c16e",
-        "am_fbf3299196b0"
+        "am_cd6642beacda",
+        "am_559c6e5fe049",
+        "am_395a2566b0c2",
+        "am_692fda42dfcb",
+        "am_18e4770092a1",
+        "am_de21bb6b30f8",
+        "am_a1c3d9ec7500",
+        "am_33b24bd59ea2",
+        "am_5fddc6b3843b",
+        "am_ce2ff1b2d2ac"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime_collectibles.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_kitchen.html"
     },
     {
-      "id": "amazon_productivity",
-      "slug": "amazon-productivity",
-      "product_count": 4,
-      "top_products": [
-        "am_e2c13cc7dad5",
-        "am_4bbb2ff2c9a6",
-        "am_78be647b0d2b",
-        "am_57dffb65fe68"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_productivity.html"
-    },
-    {
-      "id": "amazon_travel",
-      "slug": "amazon-travel",
+      "id": "fragrance",
+      "slug": "fragrance",
       "product_count": 6,
       "top_products": [
-        "am_bd0fd95bb448",
-        "am_ae1f2f82e0d9",
-        "am_16134cd751f4",
-        "am_74dc05ae485d",
-        "am_a06e92f45cdb",
-        "am_834e45334bf2"
+        "am_acc8c67b42f7",
+        "am_b9c6eddff64f",
+        "am_e1d2ab1fc24d",
+        "am_fbb86059b889",
+        "am_986b284c1248",
+        "am_c24630719159"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fragrance.html"
     },
     {
-      "id": "amazon_beauty",
-      "slug": "amazon-beauty",
-      "product_count": 3,
+      "id": "home_wellness",
+      "slug": "home-wellness",
+      "product_count": 8,
       "top_products": [
-        "am_e370b8ac9bef",
-        "am_0196832167d9",
-        "am_290cf70ace6b"
+        "am_ac20fee2cb21",
+        "am_745f950d54a6",
+        "am_6e569d127caf",
+        "am_b47c6f75fe47",
+        "am_2a60f4212118",
+        "am_4768848e1d94",
+        "am_294a72ac657c",
+        "am_b976de00046c"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_wellness.html"
+    },
+    {
+      "id": "garden_tools",
+      "slug": "garden-tools",
+      "product_count": 4,
+      "top_products": [
+        "am_52bfb373dfc3",
+        "am_32934010d773",
+        "am_1a5da9a30e9a",
+        "am_1194f427a9d9"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-garden_tools.html"
+    },
+    {
+      "id": "grooming_tools",
+      "slug": "grooming-tools",
+      "product_count": 5,
+      "top_products": [
+        "am_6535bcb96471",
+        "am_efee991cfc3c",
+        "am_9ac185be108e",
+        "am_4461329c960f",
+        "am_8a8f15365425"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming_tools.html"
     },
     {
       "id": "amazon_soccer",
@@ -347,120 +317,131 @@
       "product_count": 4,
       "top_products": [
         "am_771c0a9bc7e2",
-        "am_a46f0426acc9",
-        "am_0cc6aeb01f2e",
-        "am_f64084ec237c"
+        "am_f64084ec237c",
+        "am_bd7d5024699f",
+        "am_ed94dd9523b4"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_soccer.html"
     },
     {
-      "id": "fitness_wellness",
-      "slug": "fitness-wellness",
-      "product_count": 1,
+      "id": "anime_collectibles",
+      "slug": "anime-collectibles",
+      "product_count": 7,
       "top_products": [
-        "am_085107583cae"
+        "am_6a03199d6d01",
+        "am_ac94e97a12ea",
+        "am_5e4e3b38c16e",
+        "am_9efc56dc6e29",
+        "am_5d50ed568933",
+        "am_7d995d294b1b",
+        "am_c05ea628d453"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness_wellness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-anime_collectibles.html"
     },
     {
-      "id": "jewelry",
-      "slug": "jewelry",
-      "product_count": 6,
+      "id": "fashion_shoes",
+      "slug": "fashion-shoes",
+      "product_count": 10,
       "top_products": [
-        "am_1e8b96de1762",
-        "am_b7fdd7148173",
-        "am_d41619f2954f",
-        "am_f7f6e2d62ab8",
-        "am_e79b340a3dd8",
-        "am_595403912937"
+        "am_3d585b323b06",
+        "am_08797ea3ecc1",
+        "am_5427b8ee4dfd",
+        "am_03e106bb11eb",
+        "am_ccc5a1ae4e25",
+        "am_7ebf4b246cfc",
+        "am_c1b85e396bb5",
+        "am_b2a1117e0ebc",
+        "am_da2b52e956ee",
+        "am_278f38f24c04"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
-    },
-    {
-      "id": "home_wellness",
-      "slug": "home-wellness",
-      "product_count": 17,
-      "top_products": [
-        "am_52caa7fb99de",
-        "am_9a7f7d2450f1",
-        "am_d422c31e0ada",
-        "am_6e569d127caf",
-        "am_26840e770d96",
-        "am_3d6e000f4d9a",
-        "am_97ae5d9baadf",
-        "am_514c08f45f89",
-        "am_368c17834696",
-        "am_c9222fbde46c"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_wellness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fashion_shoes.html"
     },
     {
       "id": "sports_shoes",
       "slug": "sports-shoes",
-      "product_count": 6,
+      "product_count": 2,
       "top_products": [
-        "am_55a712fdb1eb",
-        "am_51bc06475350",
-        "am_98f84aab3b5d",
-        "am_a2ac07bdedbb",
-        "am_93b7b5e9c11e",
-        "am_4ce0628f3fcc"
+        "am_4ce0628f3fcc",
+        "am_48f64cd95462"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-sports_shoes.html"
     },
     {
-      "id": "grooming_tools",
-      "slug": "grooming-tools",
-      "product_count": 8,
+      "id": "amazon_fitness",
+      "slug": "amazon-fitness",
+      "product_count": 5,
       "top_products": [
-        "am_e236790353b0",
-        "am_0d09bd56442a",
-        "am_9e6bdedf4294",
-        "am_26b1ef4a59a5",
-        "am_8286b3450cfc",
-        "am_9ac185be108e",
-        "am_803e0fd05433",
-        "am_16ccb4012031"
+        "am_e9a6c8977dcc",
+        "am_edca2a64cf97",
+        "am_42b7286ebbe2",
+        "am_f9ed611940be",
+        "am_19b83ecabf5d"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-grooming_tools.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
     },
     {
       "id": "beauty_wigs",
       "slug": "beauty-wigs",
       "product_count": 2,
       "top_products": [
-        "am_b3b0583aa702",
-        "am_45213830d28e"
+        "am_6b676e647ab6",
+        "am_1f7442f1772f"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_wigs.html"
     },
     {
-      "id": "home_appliances",
-      "slug": "home-appliances",
+      "id": "outdoor_gear",
+      "slug": "outdoor-gear",
+      "product_count": 7,
+      "top_products": [
+        "am_76875eeae1d3",
+        "am_3d021a99cdba",
+        "am_f7eb86fbba83",
+        "am_64c3e9e2c248",
+        "am_8f4eecd10b35",
+        "am_a4af8ccd7736",
+        "am_cf4f97758d6e"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-outdoor_gear.html"
+    },
+    {
+      "id": "beauty_skincare",
+      "slug": "beauty-skincare",
+      "product_count": 3,
+      "top_products": [
+        "am_356a56c799df",
+        "am_46fedd835027",
+        "am_297c08333d3d"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_skincare.html"
+    },
+    {
+      "id": "jewelry",
+      "slug": "jewelry",
+      "product_count": 1,
+      "top_products": [
+        "am_1416542f76b1"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-jewelry.html"
+    },
+    {
+      "id": "amazon_sleep",
+      "slug": "amazon-sleep",
       "product_count": 2,
       "top_products": [
-        "am_6e63e6ce1685",
-        "am_f24000bc5b84"
+        "am_5005bafc03f4",
+        "am_d64334bd2919"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_appliances.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_sleep.html"
     },
     {
-      "id": "beauty_grooming",
-      "slug": "beauty-grooming",
+      "id": "fitness_wellness",
+      "slug": "fitness-wellness",
       "product_count": 1,
       "top_products": [
-        "am_6a106da7fb9b"
+        "am_9f993a6ae74c"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-beauty_grooming.html"
-    },
-    {
-      "id": "amazon_fitness",
-      "slug": "amazon-fitness",
-      "product_count": 1,
-      "top_products": [
-        "am_edca2a64cf97"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_fitness.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-fitness_wellness.html"
     }
   ]
 }
