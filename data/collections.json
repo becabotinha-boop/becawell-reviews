@@ -93,12 +93,12 @@
         "am_951c667fcf81",
         "am_b9e2f607d102",
         "am_e5bcd7907089",
-        "am_c7b14eb8aed8",
         "am_c63140df8aca",
         "am_f09d110300e1",
         "am_a93b509348c6",
         "am_d0595dce8438",
-        "am_34ccfe8a9510"
+        "am_34ccfe8a9510",
+        "am_660726d9baf3"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
     },
@@ -187,24 +187,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
-      "id": "electronics_audio",
-      "slug": "electronics-audio",
-      "product_count": 27,
-      "top_products": [
-        "am_7a598027f03c",
-        "am_d1ab72446012",
-        "am_6cd262226f95",
-        "am_c21ca90baf13",
-        "am_e3f1d3c1cd9c",
-        "am_2ad6534a36c7",
-        "am_5bad5a517f33",
-        "am_cac32c301f05",
-        "am_a3b793fc8218",
-        "am_73b615410253"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
-    },
-    {
       "id": "amazon_pets",
       "slug": "amazon-pets",
       "product_count": 12,
@@ -223,6 +205,24 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_pets.html"
     },
     {
+      "id": "electronics_audio",
+      "slug": "electronics-audio",
+      "product_count": 27,
+      "top_products": [
+        "am_6cd262226f95",
+        "am_c21ca90baf13",
+        "am_2ad6534a36c7",
+        "am_5bad5a517f33",
+        "am_d1ab72446012",
+        "am_cac32c301f05",
+        "am_a3b793fc8218",
+        "am_73b615410253",
+        "am_14e3fc329067",
+        "am_68f29c669845"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-electronics_audio.html"
+    },
+    {
       "id": "amazon_creator",
       "slug": "amazon-creator",
       "product_count": 7,
@@ -230,8 +230,8 @@
         "am_e307f5778955",
         "am_706cbb541b0d",
         "am_445898f51815",
-        "am_65b255d26eb3",
         "am_c60ba6ff80ab",
+        "am_65b255d26eb3",
         "am_04a43c870e1f",
         "am_d89e6092caef"
       ],
@@ -245,10 +245,10 @@
         "am_cd6642beacda",
         "am_559c6e5fe049",
         "am_692fda42dfcb",
-        "am_18e4770092a1",
         "am_de21bb6b30f8",
         "am_a1c3d9ec7500",
         "am_395a2566b0c2",
+        "am_18e4770092a1",
         "am_33b24bd59ea2",
         "am_5fddc6b3843b",
         "am_ce2ff1b2d2ac"
