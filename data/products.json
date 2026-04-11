@@ -494,40 +494,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-8f66f51973e0-review.html"
     },
     {
-      "id": "am_c7b14eb8aed8",
-      "slug": "am-c7b14eb8aed8",
-      "name": "Taquco",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c7b14eb8aed8-review.html"
-    },
-    {
-      "id": "am_7a598027f03c",
-      "slug": "am-7a598027f03c",
-      "name": "Rated  from 453 reviews",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-7a598027f03c-review.html"
-    },
-    {
       "id": "am_c63140df8aca",
       "slug": "am-c63140df8aca",
       "name": "LCMTWX",
@@ -560,23 +526,6 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-f5e688a78d35-review.html"
-    },
-    {
-      "id": "am_d1ab72446012",
-      "slug": "am-d1ab72446012",
-      "name": "22 Piece Set",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d1ab72446012-review.html"
     },
     {
       "id": "am_24d633732ddb",
@@ -1274,23 +1223,6 @@
       "price": "34.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e970dc5ef164-review.html"
-    },
-    {
-      "id": "am_e3f1d3c1cd9c",
-      "slug": "am-e3f1d3c1cd9c",
-      "name": "23 Piece Set",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "52.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e3f1d3c1cd9c-review.html"
     },
     {
       "id": "am_48f756743573",
@@ -2160,6 +2092,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c756d2c73b77-review.html"
     },
     {
+      "id": "am_d1ab72446012",
+      "slug": "am-d1ab72446012",
+      "name": "22 Piece Set",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d1ab72446012-review.html"
+    },
+    {
       "id": "am_445898f51815",
       "slug": "am-445898f51815",
       "name": "Modern Threads Silky Soft Microfiber and Wrinkle Free Sheets -...",
@@ -2175,6 +2124,40 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-445898f51815-review.html"
+    },
+    {
+      "id": "am_c60ba6ff80ab",
+      "slug": "am-c60ba6ff80ab",
+      "name": "Synthetic",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c60ba6ff80ab-review.html"
+    },
+    {
+      "id": "am_04679be997ca",
+      "slug": "am-04679be997ca",
+      "name": "Fortnite BrickHeadz Adventure Peely & Cuddle Team Leader 40760",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "33.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-04679be997ca-review.html"
     },
     {
       "id": "am_1a5da9a30e9a",
@@ -2379,23 +2362,6 @@
       "price": "29.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-018383dec6f7-review.html"
-    },
-    {
-      "id": "am_04679be997ca",
-      "slug": "am-04679be997ca",
-      "name": "Fortnite BrickHeadz Adventure Peely & Cuddle Team Leader 40760",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "33.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-04679be997ca-review.html"
     },
     {
       "id": "am_c5faf89de7d7",
@@ -2719,23 +2685,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-cac32c301f05-review.html"
-    },
-    {
-      "id": "am_18e4770092a1",
-      "slug": "am-18e4770092a1",
-      "name": "ETIAL Dog Treat Pouch Bag - Adjustable Pet Training Waist or C...",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "31.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-18e4770092a1-review.html"
     },
     {
       "id": "am_c4b9238717c4",
@@ -3350,23 +3299,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d05f8f250ec2-review.html"
     },
     {
-      "id": "am_c60ba6ff80ab",
-      "slug": "am-c60ba6ff80ab",
-      "name": "Synthetic",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c60ba6ff80ab-review.html"
-    },
-    {
       "id": "am_395a2566b0c2",
       "slug": "am-395a2566b0c2",
       "name": "Personalized Kitchen Metal Sign, Chefs Hanging Sign Outdoor Po...",
@@ -3501,6 +3433,74 @@
       "price": "29.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-f64084ec237c-review.html"
+    },
+    {
+      "id": "am_7a598027f03c",
+      "slug": "am-7a598027f03c",
+      "name": "Rated  from 453 reviews",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-7a598027f03c-review.html"
+    },
+    {
+      "id": "am_e3f1d3c1cd9c",
+      "slug": "am-e3f1d3c1cd9c",
+      "name": "23 Piece Set",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "52.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e3f1d3c1cd9c-review.html"
+    },
+    {
+      "id": "am_18e4770092a1",
+      "slug": "am-18e4770092a1",
+      "name": "ETIAL Dog Treat Pouch Bag - Adjustable Pet Training Waist or C...",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "31.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-18e4770092a1-review.html"
+    },
+    {
+      "id": "am_c7b14eb8aed8",
+      "slug": "am-c7b14eb8aed8",
+      "name": "Taquco",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c7b14eb8aed8-review.html"
     },
     {
       "id": "am_5e4e3b38c16e",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-10T10:51:57.738030+00:00"
+  "generated_at": "2026-04-11T09:25:05.102184+00:00"
 }
