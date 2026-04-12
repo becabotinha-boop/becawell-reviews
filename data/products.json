@@ -222,23 +222,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4498fa802845-review.html"
     },
     {
-      "id": "am_27070710729c",
-      "slug": "am-27070710729c",
-      "name": "Mikolo Folding Squat Rack, Wall Mounted Power Rack with Cable...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "409.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-27070710729c-review.html"
-    },
-    {
       "id": "am_0fc4a72843c8",
       "slug": "am-0fc4a72843c8",
       "name": "Brightening",
@@ -2092,23 +2075,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c756d2c73b77-review.html"
     },
     {
-      "id": "am_d1ab72446012",
-      "slug": "am-d1ab72446012",
-      "name": "22 Piece Set",
-      "network": "amazon",
-      "niche": "electronics_audio",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d1ab72446012-review.html"
-    },
-    {
       "id": "am_445898f51815",
       "slug": "am-445898f51815",
       "name": "Modern Threads Silky Soft Microfiber and Wrinkle Free Sheets -...",
@@ -2124,40 +2090,6 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-445898f51815-review.html"
-    },
-    {
-      "id": "am_c60ba6ff80ab",
-      "slug": "am-c60ba6ff80ab",
-      "name": "Synthetic",
-      "network": "amazon",
-      "niche": "amazon_creator",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "4.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c60ba6ff80ab-review.html"
-    },
-    {
-      "id": "am_04679be997ca",
-      "slug": "am-04679be997ca",
-      "name": "Fortnite BrickHeadz Adventure Peely & Cuddle Team Leader 40760",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "33.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-04679be997ca-review.html"
     },
     {
       "id": "am_1a5da9a30e9a",
@@ -2260,6 +2192,23 @@
       "price": "5.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-513380e95fcc-review.html"
+    },
+    {
+      "id": "am_d1ab72446012",
+      "slug": "am-d1ab72446012",
+      "name": "22 Piece Set",
+      "network": "amazon",
+      "niche": "electronics_audio",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d1ab72446012-review.html"
     },
     {
       "id": "am_7fb8e6e43535",
@@ -2787,23 +2736,6 @@
       "price": "8.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d60138e5aa93-review.html"
-    },
-    {
-      "id": "am_6a106da7fb9b",
-      "slug": "am-6a106da7fb9b",
-      "name": "12 Inch",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "28.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6a106da7fb9b-review.html"
     },
     {
       "id": "am_356a56c799df",
@@ -3501,6 +3433,74 @@
       "price": "29.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c7b14eb8aed8-review.html"
+    },
+    {
+      "id": "am_6a106da7fb9b",
+      "slug": "am-6a106da7fb9b",
+      "name": "12 Inch",
+      "network": "amazon",
+      "niche": "beauty_grooming",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "28.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6a106da7fb9b-review.html"
+    },
+    {
+      "id": "am_04679be997ca",
+      "slug": "am-04679be997ca",
+      "name": "Fortnite BrickHeadz Adventure Peely & Cuddle Team Leader 40760",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "33.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-04679be997ca-review.html"
+    },
+    {
+      "id": "am_27070710729c",
+      "slug": "am-27070710729c",
+      "name": "Mikolo Folding Squat Rack, Wall Mounted Power Rack with Cable...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "409.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-27070710729c-review.html"
+    },
+    {
+      "id": "am_c60ba6ff80ab",
+      "slug": "am-c60ba6ff80ab",
+      "name": "Synthetic",
+      "network": "amazon",
+      "niche": "amazon_creator",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "4.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c60ba6ff80ab-review.html"
     },
     {
       "id": "am_5e4e3b38c16e",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-11T09:25:05.102184+00:00"
+  "generated_at": "2026-04-12T09:45:10.802004+00:00"
 }
