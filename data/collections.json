@@ -169,35 +169,17 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_decor.html"
     },
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 38,
-      "top_products": [
-        "am_27070710729c",
-        "am_b274f41bb49f",
-        "am_1ca68a6d7c80",
-        "am_35b86165526a",
-        "am_c9c1908a0ccc",
-        "am_cfedd4995628",
-        "am_0398b6b921d4",
-        "am_0a6548c03c36",
-        "am_c4b9238717c4",
-        "am_2680d71519b7"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
-    },
-    {
       "id": "amazon_pets",
       "slug": "amazon-pets",
       "product_count": 12,
       "top_products": [
         "am_7555cfe4e524",
         "am_6cc1eb942cf2",
-        "am_04679be997ca",
         "am_123d46bf300a",
         "am_85caee7aade9",
         "am_29b0f8bb8c25",
         "am_f677042204f1",
+        "am_04679be997ca",
         "am_433fccf21f2a",
         "am_b321d8dec501",
         "am_71f93b743d86"
@@ -230,12 +212,30 @@
         "am_e307f5778955",
         "am_706cbb541b0d",
         "am_445898f51815",
-        "am_c60ba6ff80ab",
         "am_65b255d26eb3",
+        "am_c60ba6ff80ab",
         "am_04a43c870e1f",
         "am_d89e6092caef"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 38,
+      "top_products": [
+        "am_b274f41bb49f",
+        "am_1ca68a6d7c80",
+        "am_35b86165526a",
+        "am_c9c1908a0ccc",
+        "am_cfedd4995628",
+        "am_0398b6b921d4",
+        "am_0a6548c03c36",
+        "am_c4b9238717c4",
+        "am_2680d71519b7",
+        "am_c6e016059048"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "amazon_kitchen",
