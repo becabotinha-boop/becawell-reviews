@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": "am_d8d3f634fe33",
+      "slug": "am-d8d3f634fe33",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "209.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d8d3f634fe33-review.html"
+    },
+    {
       "id": "am_d52ee11dd50e",
       "slug": "am-d52ee11dd50e",
       "name": "Synthetic",
@@ -137,142 +154,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-33c70665ef35-review.html"
     },
     {
-      "id": "am_c06d7a55140c",
-      "slug": "am-c06d7a55140c",
-      "name": "4 Count (Pack of 1)",
-      "network": "amazon",
-      "niche": "beauty_grooming",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "3.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c06d7a55140c-review.html"
-    },
-    {
-      "id": "am_4736ff43ba8f",
-      "slug": "am-4736ff43ba8f",
-      "name": "The 2026 Old Cars Price Guide Big Book: Pricing from 1901-2012",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "39.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4736ff43ba8f-review.html"
-    },
-    {
-      "id": "am_2c10a6a10d87",
-      "slug": "am-2c10a6a10d87",
-      "name": "GXZUORUI",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "21.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-2c10a6a10d87-review.html"
-    },
-    {
-      "id": "am_e60ab5e9582d",
-      "slug": "am-e60ab5e9582d",
-      "name": "1200PCS Pipe Cleaners Craft, Pipe Cleaners Bulk for Arts and C...",
-      "network": "amazon",
-      "niche": "home_decor",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "25.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e60ab5e9582d-review.html"
-    },
-    {
-      "id": "am_4498fa802845",
-      "slug": "am-4498fa802845",
-      "name": "LOVEVOOK 40L Travel Backpack for Women & Men,Airline Approved...",
-      "network": "amazon",
-      "niche": "amazon_travel",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4498fa802845-review.html"
-    },
-    {
-      "id": "am_0fc4a72843c8",
-      "slug": "am-0fc4a72843c8",
-      "name": "Brightening",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-0fc4a72843c8-review.html"
-    },
-    {
-      "id": "am_f95b950cd1fb",
-      "slug": "am-f95b950cd1fb",
-      "name": "SincMill Home Gym Multifunctional Full Body Workout Equipment...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "579.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-f95b950cd1fb-review.html"
-    },
-    {
-      "id": "am_b9e2f607d102",
-      "slug": "am-b9e2f607d102",
-      "name": "JMIERR Men&#x27;s 2 Piece Outfits Crew Neck Sweatshirt Tracksu...",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "37.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b9e2f607d102-review.html"
-    },
-    {
       "id": "am_db8bb50870c0",
       "slug": "am-db8bb50870c0",
       "name": "Dumwick 2025 New-Clip and Go Strap for Phone with Wallet Cross...",
@@ -358,23 +239,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d79ca9b29250-review.html"
     },
     {
-      "id": "am_0c9775db9ada",
-      "slug": "am-0c9775db9ada",
-      "name": "Hiaaop Adjustable Ropeless Battle Ropes, Portable Cordless Bat...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "18.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-0c9775db9ada-review.html"
-    },
-    {
       "id": "am_c5e75fd707f8",
       "slug": "am-c5e75fd707f8",
       "name": "Qimaoo",
@@ -390,23 +254,6 @@
       "price": "39.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c5e75fd707f8-review.html"
-    },
-    {
-      "id": "am_d8d3f634fe33",
-      "slug": "am-d8d3f634fe33",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "209.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d8d3f634fe33-review.html"
     },
     {
       "id": "am_fc5f2e3235f2",
@@ -645,193 +492,6 @@
       "price": "14.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d0595dce8438-review.html"
-    },
-    {
-      "id": "am_1ca68a6d7c80",
-      "slug": "am-1ca68a6d7c80",
-      "name": "New on Amazon in past month",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "499.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-1ca68a6d7c80-review.html"
-    },
-    {
-      "id": "am_cd6642beacda",
-      "slug": "am-cd6642beacda",
-      "name": "Ad - Inspire Nitrile-Vinyl Blend Exam Gloves - Disposable, Lat...",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "49.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-cd6642beacda-review.html"
-    },
-    {
-      "id": "am_6cc1eb942cf2",
-      "slug": "am-6cc1eb942cf2",
-      "name": "Petlori Dog Toy, Four Styles Linen Companions with Squeaker, L...",
-      "network": "amazon",
-      "niche": "amazon_pets",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6cc1eb942cf2-review.html"
-    },
-    {
-      "id": "am_eac356548353",
-      "slug": "am-eac356548353",
-      "name": "View  information or leave ad feedback",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "14.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-eac356548353-review.html"
-    },
-    {
-      "id": "am_a66c56dbc134",
-      "slug": "am-a66c56dbc134",
-      "name": "BAGSMART",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "27.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a66c56dbc134-review.html"
-    },
-    {
-      "id": "am_954fde2ce311",
-      "slug": "am-954fde2ce311",
-      "name": "New on Amazon in past month",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-954fde2ce311-review.html"
-    },
-    {
-      "id": "am_6fdaf399b6ad",
-      "slug": "am-6fdaf399b6ad",
-      "name": "Amazon&#x27;s Choice: Overall Pick",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6fdaf399b6ad-review.html"
-    },
-    {
-      "id": "am_34ccfe8a9510",
-      "slug": "am-34ccfe8a9510",
-      "name": "Funny Bearded Bald Men Graphic Novelty Tee Shirts",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-34ccfe8a9510-review.html"
-    },
-    {
-      "id": "am_51100470c51e",
-      "slug": "am-51100470c51e",
-      "name": "exercise",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "599.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-51100470c51e-review.html"
-    },
-    {
-      "id": "am_660726d9baf3",
-      "slug": "am-660726d9baf3",
-      "name": "ATHVOTAR",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "35.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-660726d9baf3-review.html"
-    },
-    {
-      "id": "am_35b86165526a",
-      "slug": "am-35b86165526a",
-      "name": "3.3 Fl Oz (Pack of 4)",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "45.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-35b86165526a-review.html"
     },
     {
       "id": "am_eb11068f7336",
@@ -1990,23 +1650,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-60d01706fea6-review.html"
     },
     {
-      "id": "am_3024be10a596",
-      "slug": "am-3024be10a596",
-      "name": ", rating details",
-      "network": "amazon",
-      "niche": "home_improvement",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-3024be10a596-review.html"
-    },
-    {
       "id": "am_151131e0c1c2",
       "slug": "am-151131e0c1c2",
       "name": "Zaswen",
@@ -3027,23 +2670,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-cd2fe92d49df-review.html"
     },
     {
-      "id": "am_cd4c794f1bf8",
-      "slug": "am-cd4c794f1bf8",
-      "name": "BTFBM",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "38.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-cd4c794f1bf8-review.html"
-    },
-    {
       "id": "am_23e46ec4e0bf",
       "slug": "am-23e46ec4e0bf",
       "name": "View  information or leave ad feedback",
@@ -3163,23 +2789,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-5ab2da5e8917-review.html"
     },
     {
-      "id": "am_b495dd5b9da4",
-      "slug": "am-b495dd5b9da4",
-      "name": "Extra Deep Cal King Fitted Sheet - Hotel Luxury Single Fitted...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b495dd5b9da4-review.html"
-    },
-    {
       "id": "am_d05f8f250ec2",
       "slug": "am-d05f8f250ec2",
       "name": "Air Tracker Tags for Android or iOS, Dual System Air Smart Tag...",
@@ -3263,23 +2872,6 @@
       "price": "32.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-745f950d54a6-review.html"
-    },
-    {
-      "id": "am_2680d71519b7",
-      "slug": "am-2680d71519b7",
-      "name": "1 Count (Pack of 1)",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "10.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-2680d71519b7-review.html"
     },
     {
       "id": "am_c6e016059048",
@@ -3435,23 +3027,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-04679be997ca-review.html"
     },
     {
-      "id": "am_27070710729c",
-      "slug": "am-27070710729c",
-      "name": "Mikolo Folding Squat Rack, Wall Mounted Power Rack with Cable...",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "409.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-27070710729c-review.html"
-    },
-    {
       "id": "am_c60ba6ff80ab",
       "slug": "am-c60ba6ff80ab",
       "name": "Synthetic",
@@ -3501,6 +3076,23 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a1c3d9ec7500-review.html"
+    },
+    {
+      "id": "am_0c9775db9ada",
+      "slug": "am-0c9775db9ada",
+      "name": "Hiaaop Adjustable Ropeless Battle Ropes, Portable Cordless Bat...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "18.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-0c9775db9ada-review.html"
     },
     {
       "id": "am_5e4e3b38c16e",
@@ -4761,6 +4353,108 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-81a9f3829a96-review.html"
     },
     {
+      "id": "am_43bfb0d45e2a",
+      "slug": "am-43bfb0d45e2a",
+      "name": "JMIERR Men&#x27;s 2 Piece Outfits Knit Jacquard Pullover Sweat...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "34.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-43bfb0d45e2a-review.html"
+    },
+    {
+      "id": "am_a67922a94bb3",
+      "slug": "am-a67922a94bb3",
+      "name": "CARTMAN 148Piece Tool Set General Household Hand Tool Kit with...",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "31.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a67922a94bb3-review.html"
+    },
+    {
+      "id": "am_b1550ef4af69",
+      "slug": "am-b1550ef4af69",
+      "name": "Rope Cat Chew Toys, 2026 Upgraded Natural Catnip Chewing Rope,...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b1550ef4af69-review.html"
+    },
+    {
+      "id": "am_3048a644480d",
+      "slug": "am-3048a644480d",
+      "name": "Vintage Shoes Off Please Street Sign Wall Decor Metal Tin Sign...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-3048a644480d-review.html"
+    },
+    {
+      "id": "am_f100b1490a7b",
+      "slug": "am-f100b1490a7b",
+      "name": "Phoenix Fitness Exercise Dice - Workout Dice Game for Cardio,...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-f100b1490a7b-review.html"
+    },
+    {
+      "id": "am_db643394ae1b",
+      "slug": "am-db643394ae1b",
+      "name": "Family Vacation 2026 Beach Matching Family 2026",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-db643394ae1b-review.html"
+    },
+    {
       "id": "am_8c68dbdece76",
       "slug": "am-8c68dbdece76",
       "name": "26 Inch",
@@ -4776,6 +4470,23 @@
       "price": "32.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-8c68dbdece76-review.html"
+    },
+    {
+      "id": "am_ca46625e84aa",
+      "slug": "am-ca46625e84aa",
+      "name": "SwiftJet Orange Foam Car Wash Soap \u2013 pH Balanced Super Soapy S...",
+      "network": "amazon",
+      "niche": "amazon_car",
+      "score": 92.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-ca46625e84aa-review.html"
     },
     {
       "id": "am_2a60f4212118",
@@ -4912,6 +4623,23 @@
       "price": "6.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4461329c960f-review.html"
+    },
+    {
+      "id": "am_165d1a60b490",
+      "slug": "am-165d1a60b490",
+      "name": "1 Count (Pack of 1)",
+      "network": "amazon",
+      "niche": "toys_gadgets",
+      "score": 84.2,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "26.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-165d1a60b490-review.html"
     },
     {
       "id": "am_e46a7728c82d",
@@ -5830,23 +5558,6 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-17e593a860f0-review.html"
-    },
-    {
-      "id": "am_ca46625e84aa",
-      "slug": "am-ca46625e84aa",
-      "name": "SwiftJet Orange Foam Car Wash Soap \u2013 pH Balanced Super Soapy S...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 83.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "29.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-ca46625e84aa-review.html"
     },
     {
       "id": "am_bbf37368f0e1",
@@ -8499,8 +8210,297 @@
       "price": "9.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-20f9c59ff054-review.html"
+    },
+    {
+      "id": "am_fe046e41558a",
+      "slug": "am-fe046e41558a",
+      "name": "100+ bought in past month",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-fe046e41558a-review.html"
+    },
+    {
+      "id": "am_36d81014bb94",
+      "slug": "am-36d81014bb94",
+      "name": "Fitvids Home Gym Equipment, Multifunctional Full Body Workout...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "439.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-36d81014bb94-review.html"
+    },
+    {
+      "id": "am_9126fce102c9",
+      "slug": "am-9126fce102c9",
+      "name": "Top Tech 2026: The Definitive Guide to High-Quality, Industry-...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-9126fce102c9-review.html"
+    },
+    {
+      "id": "am_61f701e80e97",
+      "slug": "am-61f701e80e97",
+      "name": "WORKPRO Pink Tool Kit - 236 Pieces Pink Tool Set with Easy Car...",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "39.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-61f701e80e97-review.html"
+    },
+    {
+      "id": "am_b96177540621",
+      "slug": "am-b96177540621",
+      "name": "Amorho 67&#x27;&#x27;x24&#x27;&#x27;(Each)-3PCS Gym Mirror, Te...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "239.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b96177540621-review.html"
+    },
+    {
+      "id": "am_a49a6ed9f894",
+      "slug": "am-a49a6ed9f894",
+      "name": "List:",
+      "network": "amazon",
+      "niche": "amazon_sleep",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a49a6ed9f894-review.html"
+    },
+    {
+      "id": "am_ba8e1154d8e0",
+      "slug": "am-ba8e1154d8e0",
+      "name": "EmbroGlow Senior 2026 Shirt, Graduation 2026 Tee, High School...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "14.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-ba8e1154d8e0-review.html"
+    },
+    {
+      "id": "am_2de6f1aa9929",
+      "slug": "am-2de6f1aa9929",
+      "name": "Ad - Vintage Gym Room Wall Decor Metal Sign Tin Signs Poster -...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-2de6f1aa9929-review.html"
+    },
+    {
+      "id": "am_58da9ca89756",
+      "slug": "am-58da9ca89756",
+      "name": "COKAFIL",
+      "network": "amazon",
+      "niche": "home_improvement",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "29.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-58da9ca89756-review.html"
+    },
+    {
+      "id": "am_66c6fe14d8b3",
+      "slug": "am-66c6fe14d8b3",
+      "name": "KEEN Utility Womens Overton Low Height Composite Toe Lightweig...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "139.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-66c6fe14d8b3-review.html"
+    },
+    {
+      "id": "am_7a0a15cce931",
+      "slug": "am-7a0a15cce931",
+      "name": "BAGSMART Gym Bag for Women, Lightweight Puffer Duffle Bag 2-PC...",
+      "network": "amazon",
+      "niche": "amazon_fitness",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "36.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-7a0a15cce931-review.html"
+    },
+    {
+      "id": "am_51dd4ccf2e8d",
+      "slug": "am-51dd4ccf2e8d",
+      "name": "Supplying Demand 12002497 12812705 Refrigerator Freezer Drawer...",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "32.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-51dd4ccf2e8d-review.html"
+    },
+    {
+      "id": "am_54b697145565",
+      "slug": "am-54b697145565",
+      "name": "Backpack",
+      "network": "amazon",
+      "niche": "amazon_travel",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-54b697145565-review.html"
+    },
+    {
+      "id": "am_4540b1361d0c",
+      "slug": "am-4540b1361d0c",
+      "name": "PGAXM Dragonfly Clip,3D Dragonfly Garden Stakes Decor,Dragonfl...",
+      "network": "amazon",
+      "niche": "home_decor",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "22.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4540b1361d0c-review.html"
+    },
+    {
+      "id": "am_893e743e7455",
+      "slug": "am-893e743e7455",
+      "name": "Trendy Queen Womens Long Sleeve T Shirts Fall Fashion 2026 Bas...",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "12.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-893e743e7455-review.html"
+    },
+    {
+      "id": "am_98f9ee870dfa",
+      "slug": "am-98f9ee870dfa",
+      "name": "AprYew Octopus Dog Toys, No Stuffing Crinkle Dog Toys for Aggr...",
+      "network": "amazon",
+      "niche": "amazon_pets",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "7.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-98f9ee870dfa-review.html"
+    },
+    {
+      "id": "am_77d16224168f",
+      "slug": "am-77d16224168f",
+      "name": "Feb 15, 2016",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": null,
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-77d16224168f-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-13T12:06:46.291458+00:00"
+  "generated_at": "2026-04-14T11:08:09.611735+00:00"
 }
