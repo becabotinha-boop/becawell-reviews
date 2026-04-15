@@ -1,11 +1,11 @@
 {
   "products": [
     {
-      "id": "am_d8d3f634fe33",
-      "slug": "am-d8d3f634fe33",
-      "name": "View  information or leave ad feedback",
+      "id": "am_c9c1908a0ccc",
+      "slug": "am-c9c1908a0ccc",
+      "name": "Beard Thickening",
       "network": "amazon",
-      "niche": "home_electronics",
+      "niche": "amazon_home",
       "score": 95.0,
       "tier": "A",
       "rating": {
@@ -13,9 +13,9 @@
         "value": 4.9,
         "stars": 5
       },
-      "price": "209.0",
+      "price": "24.0",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d8d3f634fe33-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c9c1908a0ccc-review.html"
     },
     {
       "id": "am_d52ee11dd50e",
@@ -409,23 +409,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b5f871eb6cff-review.html"
     },
     {
-      "id": "am_a93b509348c6",
-      "slug": "am-a93b509348c6",
-      "name": "2026 Family Reunion Summer Matching Apparel",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "15.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a93b509348c6-review.html"
-    },
-    {
       "id": "am_6cd262226f95",
       "slug": "am-6cd262226f95",
       "name": "20 Piece Set",
@@ -815,23 +798,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b4485c2cd383-review.html"
-    },
-    {
-      "id": "am_50897e6805cd",
-      "slug": "am-50897e6805cd",
-      "name": "Dumwick 2025 New-Clip and Go Strap for Phone with Wallet Cross...",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "8.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-50897e6805cd-review.html"
     },
     {
       "id": "am_e970dc5ef164",
@@ -1871,23 +1837,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c63140df8aca-review.html"
     },
     {
-      "id": "am_c9c1908a0ccc",
-      "slug": "am-c9c1908a0ccc",
-      "name": "Beard Thickening",
-      "network": "amazon",
-      "niche": "amazon_home",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "24.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c9c1908a0ccc-review.html"
-    },
-    {
       "id": "am_dac8275f98f6",
       "slug": "am-dac8275f98f6",
       "name": "New on Amazon in past month",
@@ -2806,23 +2755,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d05f8f250ec2-review.html"
     },
     {
-      "id": "am_395a2566b0c2",
-      "slug": "am-395a2566b0c2",
-      "name": "Personalized Kitchen Metal Sign, Chefs Hanging Sign Outdoor Po...",
-      "network": "amazon",
-      "niche": "amazon_kitchen",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "19.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-395a2566b0c2-review.html"
-    },
-    {
       "id": "am_68f29c669845",
       "slug": "am-68f29c669845",
       "name": "Sigma Entrepreneur",
@@ -3093,6 +3025,74 @@
       "price": "18.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-0c9775db9ada-review.html"
+    },
+    {
+      "id": "am_50897e6805cd",
+      "slug": "am-50897e6805cd",
+      "name": "Dumwick 2025 New-Clip and Go Strap for Phone with Wallet Cross...",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "8.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-50897e6805cd-review.html"
+    },
+    {
+      "id": "am_395a2566b0c2",
+      "slug": "am-395a2566b0c2",
+      "name": "Personalized Kitchen Metal Sign, Chefs Hanging Sign Outdoor Po...",
+      "network": "amazon",
+      "niche": "amazon_kitchen",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "19.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-395a2566b0c2-review.html"
+    },
+    {
+      "id": "am_d8d3f634fe33",
+      "slug": "am-d8d3f634fe33",
+      "name": "View  information or leave ad feedback",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "209.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d8d3f634fe33-review.html"
+    },
+    {
+      "id": "am_a93b509348c6",
+      "slug": "am-a93b509348c6",
+      "name": "2026 Family Reunion Summer Matching Apparel",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "15.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a93b509348c6-review.html"
     },
     {
       "id": "am_5e4e3b38c16e",
@@ -4929,23 +4929,6 @@
       "price": "26.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-a06e92f45cdb-review.html"
-    },
-    {
-      "id": "am_74dc05ae485d",
-      "slug": "am-74dc05ae485d",
-      "name": "Aphumedc",
-      "network": "amazon",
-      "niche": "amazon_travel",
-      "score": 83.1,
-      "tier": "A",
-      "rating": {
-        "display": "4.7/5",
-        "value": 4.7,
-        "stars": 5
-      },
-      "price": "6.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-74dc05ae485d-review.html"
     },
     {
       "id": "am_31466b798e12",
@@ -8499,8 +8482,25 @@
       "price": null,
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-77d16224168f-review.html"
+    },
+    {
+      "id": "am_4d8f6879c7ea",
+      "slug": "am-4d8f6879c7ea",
+      "name": "10 Piece Set",
+      "network": "amazon",
+      "niche": "amazon_home",
+      "score": 83.1,
+      "tier": "A",
+      "rating": {
+        "display": "4.7/5",
+        "value": 4.7,
+        "stars": 5
+      },
+      "price": "17.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-4d8f6879c7ea-review.html"
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-14T11:08:15.112429+00:00"
+  "generated_at": "2026-04-15T10:59:10.130388+00:00"
 }
