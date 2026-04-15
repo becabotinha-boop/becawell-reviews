@@ -1,22 +1,22 @@
 {
   "collections": [
     {
-      "id": "home_electronics",
-      "slug": "home-electronics",
-      "product_count": 66,
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 37,
       "top_products": [
-        "am_d8d3f634fe33",
-        "am_33c70665ef35",
-        "am_d79ca9b29250",
-        "am_c5e75fd707f8",
-        "am_dd586afab0be",
-        "am_f5e688a78d35",
-        "am_aa1b15156c55",
-        "am_d8c35e676d4b",
-        "am_0bc98892b058",
-        "am_d921197095b7"
+        "am_c9c1908a0ccc",
+        "am_b274f41bb49f",
+        "am_cfedd4995628",
+        "am_0398b6b921d4",
+        "am_0a6548c03c36",
+        "am_c4b9238717c4",
+        "am_c6e016059048",
+        "am_009b327376d0",
+        "am_5eb931a0d595",
+        "am_ba8a458ecde3"
       ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "amazon_beauty",
@@ -51,18 +51,18 @@
     {
       "id": "amazon_travel",
       "slug": "amazon-travel",
-      "product_count": 11,
+      "product_count": 10,
       "top_products": [
         "am_16134cd751f4",
         "am_018383dec6f7",
         "am_834e45334bf2",
         "am_a06e92f45cdb",
-        "am_74dc05ae485d",
         "am_4600587beefa",
         "am_ae1f2f82e0d9",
         "am_d5b7ba29d825",
         "am_70cda93695fe",
-        "am_bd0fd95bb448"
+        "am_bd0fd95bb448",
+        "am_54b697145565"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
     },
@@ -78,9 +78,9 @@
         "am_201f12eec895",
         "am_964f49cc1523",
         "am_6209e4d1853b",
-        "am_50897e6805cd",
         "am_43ceb1d76922",
-        "am_c1d689112bde"
+        "am_c1d689112bde",
+        "am_bb03992506ae"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
@@ -111,14 +111,32 @@
         "am_951c667fcf81",
         "am_e5bcd7907089",
         "am_f09d110300e1",
-        "am_a93b509348c6",
         "am_d0595dce8438",
         "am_72d936278fb9",
         "am_57d5901cb172",
         "am_48f756743573",
-        "am_54eb61f5a438"
+        "am_54eb61f5a438",
+        "am_6a721f029426"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
+    },
+    {
+      "id": "home_electronics",
+      "slug": "home-electronics",
+      "product_count": 66,
+      "top_products": [
+        "am_33c70665ef35",
+        "am_d79ca9b29250",
+        "am_c5e75fd707f8",
+        "am_dd586afab0be",
+        "am_f5e688a78d35",
+        "am_aa1b15156c55",
+        "am_d8c35e676d4b",
+        "am_0bc98892b058",
+        "am_d921197095b7",
+        "am_aca72716e69b"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
     },
     {
       "id": "home_decor",
@@ -206,24 +224,6 @@
         "am_d89e6092caef"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
-    },
-    {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 36,
-      "top_products": [
-        "am_b274f41bb49f",
-        "am_c9c1908a0ccc",
-        "am_cfedd4995628",
-        "am_0398b6b921d4",
-        "am_0a6548c03c36",
-        "am_c4b9238717c4",
-        "am_c6e016059048",
-        "am_009b327376d0",
-        "am_5eb931a0d595",
-        "am_ba8a458ecde3"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "fragrance",
@@ -358,9 +358,9 @@
         "am_559c6e5fe049",
         "am_692fda42dfcb",
         "am_de21bb6b30f8",
-        "am_395a2566b0c2",
         "am_18e4770092a1",
         "am_a1c3d9ec7500",
+        "am_395a2566b0c2",
         "am_33b24bd59ea2",
         "am_5fddc6b3843b",
         "am_ce2ff1b2d2ac",
