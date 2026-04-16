@@ -1,24 +1,6 @@
 {
   "collections": [
     {
-      "id": "amazon_home",
-      "slug": "amazon-home",
-      "product_count": 37,
-      "top_products": [
-        "am_c9c1908a0ccc",
-        "am_b274f41bb49f",
-        "am_cfedd4995628",
-        "am_0398b6b921d4",
-        "am_0a6548c03c36",
-        "am_c4b9238717c4",
-        "am_c6e016059048",
-        "am_009b327376d0",
-        "am_5eb931a0d595",
-        "am_ba8a458ecde3"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
-    },
-    {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
       "product_count": 4,
@@ -224,6 +206,24 @@
         "am_d89e6092caef"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_creator.html"
+    },
+    {
+      "id": "amazon_home",
+      "slug": "amazon-home",
+      "product_count": 37,
+      "top_products": [
+        "am_b274f41bb49f",
+        "am_cfedd4995628",
+        "am_0398b6b921d4",
+        "am_0a6548c03c36",
+        "am_c4b9238717c4",
+        "am_c6e016059048",
+        "am_c9c1908a0ccc",
+        "am_009b327376d0",
+        "am_5eb931a0d595",
+        "am_ba8a458ecde3"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_home.html"
     },
     {
       "id": "fragrance",
