@@ -1,6 +1,24 @@
 {
   "collections": [
     {
+      "id": "family_fashion",
+      "slug": "family-fashion",
+      "product_count": 64,
+      "top_products": [
+        "am_48f756743573",
+        "am_fd8d8c725a27",
+        "am_951c667fcf81",
+        "am_e5bcd7907089",
+        "am_f09d110300e1",
+        "am_d0595dce8438",
+        "am_72d936278fb9",
+        "am_57d5901cb172",
+        "am_54eb61f5a438",
+        "am_6a721f029426"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
+    },
+    {
       "id": "amazon_beauty",
       "slug": "amazon-beauty",
       "product_count": 4,
@@ -83,24 +101,6 @@
         "am_370af6ffd7f7"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-toys_gadgets.html"
-    },
-    {
-      "id": "family_fashion",
-      "slug": "family-fashion",
-      "product_count": 64,
-      "top_products": [
-        "am_fd8d8c725a27",
-        "am_951c667fcf81",
-        "am_e5bcd7907089",
-        "am_f09d110300e1",
-        "am_d0595dce8438",
-        "am_72d936278fb9",
-        "am_57d5901cb172",
-        "am_48f756743573",
-        "am_54eb61f5a438",
-        "am_6a721f029426"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-family_fashion.html"
     },
     {
       "id": "home_electronics",
