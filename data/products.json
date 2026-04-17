@@ -1,6 +1,23 @@
 {
   "products": [
     {
+      "id": "am_48f756743573",
+      "slug": "am-48f756743573",
+      "name": "Foxiny",
+      "network": "amazon",
+      "niche": "family_fashion",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "9.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-48f756743573-review.html"
+    },
+    {
       "id": "am_d52ee11dd50e",
       "slug": "am-d52ee11dd50e",
       "name": "Synthetic",
@@ -798,23 +815,6 @@
       "price": "34.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e970dc5ef164-review.html"
-    },
-    {
-      "id": "am_48f756743573",
-      "slug": "am-48f756743573",
-      "name": "Foxiny",
-      "network": "amazon",
-      "niche": "family_fashion",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "9.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-48f756743573-review.html"
     },
     {
       "id": "am_0d3b8c610503",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-16T11:03:33.336102+00:00"
+  "generated_at": "2026-04-17T10:52:24.356299+00:00"
 }
