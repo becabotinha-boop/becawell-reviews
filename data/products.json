@@ -35,6 +35,23 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d52ee11dd50e-review.html"
     },
     {
+      "id": "am_6209e4d1853b",
+      "slug": "am-6209e4d1853b",
+      "name": "| Based on positive mentions in reviews",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6209e4d1853b-review.html"
+    },
+    {
       "id": "am_c969d83c7fd7",
       "slug": "am-c969d83c7fd7",
       "name": "20 Piece Set",
@@ -662,23 +679,6 @@
       "price": "12.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-ad0c83e5a037-review.html"
-    },
-    {
-      "id": "am_6209e4d1853b",
-      "slug": "am-6209e4d1853b",
-      "name": "| Based on positive mentions in reviews",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6209e4d1853b-review.html"
     },
     {
       "id": "am_b9c6eddff64f",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-17T10:52:24.325483+00:00"
+  "generated_at": "2026-04-18T08:10:53.667449+00:00"
 }
