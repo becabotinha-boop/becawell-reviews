@@ -31,6 +31,24 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_beauty.html"
     },
     {
+      "id": "amazon_tech",
+      "slug": "amazon-tech",
+      "product_count": 61,
+      "top_products": [
+        "am_6209e4d1853b",
+        "am_3e8fbba33749",
+        "am_db8bb50870c0",
+        "am_626ab60aecbb",
+        "am_b5f871eb6cff",
+        "am_201f12eec895",
+        "am_964f49cc1523",
+        "am_43ceb1d76922",
+        "am_c1d689112bde",
+        "am_bb03992506ae"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
+    },
+    {
       "id": "home_improvement",
       "slug": "home-improvement",
       "product_count": 33,
@@ -65,24 +83,6 @@
         "am_54b697145565"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_travel.html"
-    },
-    {
-      "id": "amazon_tech",
-      "slug": "amazon-tech",
-      "product_count": 61,
-      "top_products": [
-        "am_3e8fbba33749",
-        "am_db8bb50870c0",
-        "am_626ab60aecbb",
-        "am_b5f871eb6cff",
-        "am_201f12eec895",
-        "am_964f49cc1523",
-        "am_6209e4d1853b",
-        "am_43ceb1d76922",
-        "am_c1d689112bde",
-        "am_bb03992506ae"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_tech.html"
     },
     {
       "id": "toys_gadgets",
