@@ -35,23 +35,6 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-d52ee11dd50e-review.html"
     },
     {
-      "id": "am_6209e4d1853b",
-      "slug": "am-6209e4d1853b",
-      "name": "| Based on positive mentions in reviews",
-      "network": "amazon",
-      "niche": "amazon_tech",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "16.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6209e4d1853b-review.html"
-    },
-    {
       "id": "am_c969d83c7fd7",
       "slug": "am-c969d83c7fd7",
       "name": "20 Piece Set",
@@ -169,6 +152,40 @@
       "price": null,
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-33c70665ef35-review.html"
+    },
+    {
+      "id": "am_6209e4d1853b",
+      "slug": "am-6209e4d1853b",
+      "name": "| Based on positive mentions in reviews",
+      "network": "amazon",
+      "niche": "amazon_tech",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "16.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6209e4d1853b-review.html"
+    },
+    {
+      "id": "am_aa1b15156c55",
+      "slug": "am-aa1b15156c55",
+      "name": "Coolake 82&quot; Width Commercial Freezer 3 Solid Doors, 72 Cu...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-aa1b15156c55-review.html"
     },
     {
       "id": "am_db8bb50870c0",
@@ -526,23 +543,6 @@
       "price": "22.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-72d936278fb9-review.html"
-    },
-    {
-      "id": "am_aa1b15156c55",
-      "slug": "am-aa1b15156c55",
-      "name": "Coolake 82&quot; Width Commercial Freezer 3 Solid Doors, 72 Cu...",
-      "network": "amazon",
-      "niche": "home_electronics",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "3.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-aa1b15156c55-review.html"
     },
     {
       "id": "am_d8c35e676d4b",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-20T09:22:11.057953+00:00"
+  "generated_at": "2026-04-21T09:04:31.187387+00:00"
 }
