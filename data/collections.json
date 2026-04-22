@@ -108,7 +108,6 @@
       "product_count": 66,
       "top_products": [
         "am_33c70665ef35",
-        "am_aa1b15156c55",
         "am_d79ca9b29250",
         "am_c5e75fd707f8",
         "am_dd586afab0be",
@@ -116,9 +115,28 @@
         "am_d8c35e676d4b",
         "am_0bc98892b058",
         "am_d921197095b7",
-        "am_aca72716e69b"
+        "am_aca72716e69b",
+        "am_5d59b155edc9"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_electronics.html"
+    },
+    {
+      "id": "amazon_car",
+      "slug": "amazon-car",
+      "product_count": 33,
+      "top_products": [
+        "am_e970dc5ef164",
+        "am_8f66f51973e0",
+        "am_24d633732ddb",
+        "am_eb11068f7336",
+        "am_6a8f8ea0a995",
+        "am_ad0c83e5a037",
+        "am_729afaf314f5",
+        "am_0d3b8c610503",
+        "am_48f94b18aeaa",
+        "am_4c1519b2c272"
+      ],
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
     },
     {
       "id": "home_decor",
@@ -137,24 +155,6 @@
         "am_4c09c5344c3c"
       ],
       "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-home_decor.html"
-    },
-    {
-      "id": "amazon_car",
-      "slug": "amazon-car",
-      "product_count": 33,
-      "top_products": [
-        "am_8f66f51973e0",
-        "am_24d633732ddb",
-        "am_eb11068f7336",
-        "am_6a8f8ea0a995",
-        "am_ad0c83e5a037",
-        "am_729afaf314f5",
-        "am_e970dc5ef164",
-        "am_0d3b8c610503",
-        "am_48f94b18aeaa",
-        "am_4c1519b2c272"
-      ],
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/collection-amazon_car.html"
     },
     {
       "id": "amazon_pets",
