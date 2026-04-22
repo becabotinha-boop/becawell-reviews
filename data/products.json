@@ -171,11 +171,11 @@
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-6209e4d1853b-review.html"
     },
     {
-      "id": "am_aa1b15156c55",
-      "slug": "am-aa1b15156c55",
-      "name": "Coolake 82&quot; Width Commercial Freezer 3 Solid Doors, 72 Cu...",
+      "id": "am_e970dc5ef164",
+      "slug": "am-e970dc5ef164",
+      "name": "Ad - Cup Holder for 2025 2026 Toyota Camry Center Console Cup...",
       "network": "amazon",
-      "niche": "home_electronics",
+      "niche": "amazon_car",
       "score": 95.0,
       "tier": "A",
       "rating": {
@@ -183,9 +183,9 @@
         "value": 4.9,
         "stars": 5
       },
-      "price": "3.0",
+      "price": "34.0",
       "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-aa1b15156c55-review.html"
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e970dc5ef164-review.html"
     },
     {
       "id": "am_db8bb50870c0",
@@ -798,23 +798,6 @@
       "price": "16.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-b4485c2cd383-review.html"
-    },
-    {
-      "id": "am_e970dc5ef164",
-      "slug": "am-e970dc5ef164",
-      "name": "Ad - Cup Holder for 2025 2026 Toyota Camry Center Console Cup...",
-      "network": "amazon",
-      "niche": "amazon_car",
-      "score": 95.0,
-      "tier": "A",
-      "rating": {
-        "display": "4.9/5",
-        "value": 4.9,
-        "stars": 5
-      },
-      "price": "34.0",
-      "image_url": "",
-      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-e970dc5ef164-review.html"
     },
     {
       "id": "am_0d3b8c610503",
@@ -3093,6 +3076,23 @@
       "price": "24.0",
       "image_url": "",
       "url": "https://becabotinha-boop.github.io/becawell-reviews/am-c9c1908a0ccc-review.html"
+    },
+    {
+      "id": "am_aa1b15156c55",
+      "slug": "am-aa1b15156c55",
+      "name": "Coolake 82&quot; Width Commercial Freezer 3 Solid Doors, 72 Cu...",
+      "network": "amazon",
+      "niche": "home_electronics",
+      "score": 95.0,
+      "tier": "A",
+      "rating": {
+        "display": "4.9/5",
+        "value": 4.9,
+        "stars": 5
+      },
+      "price": "3.0",
+      "image_url": "",
+      "url": "https://becabotinha-boop.github.io/becawell-reviews/am-aa1b15156c55-review.html"
     },
     {
       "id": "am_5e4e3b38c16e",
@@ -8502,5 +8502,5 @@
     }
   ],
   "total": 500,
-  "generated_at": "2026-04-21T09:04:32.581238+00:00"
+  "generated_at": "2026-04-22T08:51:30.096874+00:00"
 }
